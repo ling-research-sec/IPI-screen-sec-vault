@@ -1,9 +1,11 @@
 # 1. 确认设备连接
 adb devices -l
 
-adb shell settings get secure assistant(查当前助手名称)
+adb shell settings get secure assistant # 查询当前助手组件
 
-# 2. 打开目标测试页面，保持它在前台
+# 2. 打开目标测试页面，选择小助手应用
+
+"$ADB" -s "$SERIAL" shell am start -a android.settings.**VOICE_INPUT_SETTINGS**
 
 # 3. 触发系统助手
 adb shell am start -a android.intent.action.ASSIST

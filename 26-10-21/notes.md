@@ -15,3 +15,4 @@ adb shell am start -a android.intent.action.ASSIST
 
 LATEST=$(adb shell "content query --uri content://media/external/images/media --projection _data --sort 'date_added DESC'" | tr -d '\r' | sed -n '1s/^Row: 0 _data=//p')
 [ -n "$LATEST" ] && adb pull "$LATEST" "$HOME/Downloads/"
+

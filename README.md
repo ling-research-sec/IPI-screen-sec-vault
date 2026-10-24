@@ -1,1 +1,1 @@
-一个私有研究仓库，目标直指11月18日的安全顶会IEEE **Symposium on Security and Privacy** (S&P 2026)，目前主要是对屏幕截图安全的研究，主要关注屏幕内容的识别和屏幕内容的保护。
+一个私有研究仓库，目标直指11月18日的安全顶会**IEEE Symposium on Security and Privacy** (S&P 2026)，目前主要是对屏幕截图安全的研究，主要关注屏幕内容的识别和屏幕内容的保护。

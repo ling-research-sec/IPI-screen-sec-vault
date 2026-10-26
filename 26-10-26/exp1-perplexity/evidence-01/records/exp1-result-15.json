@@ -1,0 +1,15 @@
+{
+  "grey": 15,
+  "repeat": 1,
+  "started_utc": "2026-10-26T08:30:10.730874+00:00",
+  "completed_utc": "2026-10-26T08:30:54.123743+00:00",
+  "image": "grey-15-px48-en.png",
+  "source_sha256": "a68abc68711e9cb651667ced518f15982576984cecca0a7411cf57517cea7bff",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "prompt_transport": "Paragraph whitespace collapsed; wording verified via UI XML",
+  "response": "WEATFMVQYHCLIJIDIZCDZ\nPQLCFFGRQAXXLGTURTGK\nFTWUIWEJLQKUMAOUKARP\nHPAHTEXPURNKVQYHOSZH\nOWECDAHTWWPPSYPQNNAL",
+  "status": "completed",
+  "screenshot": "exp1-screenshot-15.png",
+  "answer_xml": "evidence/g15-answer.xml",
+  "fresh_session": "am force-stop + KEYCODE_ASSIST; blank input verified"
+}

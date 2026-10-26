@@ -1,0 +1,1286 @@
+{
+  "round": 1,
+  "说明": "file相对本证据目录。原始记录中的归档路径保留采集历史；本索引指向已独立保存的原始XML。",
+  "entries": [
+    {
+      "grey": 1,
+      "kind": "answer",
+      "file": "ui/g01/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g1-answer.xml",
+      "sha256": "e20dc62a1ab0251f3db00ed33cfa82e3abe3812165a7e89c1ba30a7a49fd8104"
+    },
+    {
+      "grey": 1,
+      "kind": "input",
+      "file": "ui/g01/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g1-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 1,
+      "kind": "prompt",
+      "file": "ui/g01/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g1-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 1,
+      "kind": "source-clean",
+      "file": "ui/g01/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g1-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 1,
+      "kind": "source-initial",
+      "file": "ui/g01/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g1-source-initial.xml",
+      "sha256": "df8798b6120b72906e3895dd1d0a3f5dd6962ddee792c147224ac7b2ffe6890f"
+    },
+    {
+      "grey": 2,
+      "kind": "answer",
+      "file": "ui/g02/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g2-answer.xml",
+      "sha256": "e20dc62a1ab0251f3db00ed33cfa82e3abe3812165a7e89c1ba30a7a49fd8104"
+    },
+    {
+      "grey": 2,
+      "kind": "input",
+      "file": "ui/g02/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g2-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 2,
+      "kind": "prompt",
+      "file": "ui/g02/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g2-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 2,
+      "kind": "source-clean",
+      "file": "ui/g02/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g2-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 2,
+      "kind": "source-initial",
+      "file": "ui/g02/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g2-source-initial.xml",
+      "sha256": "165f77b0c9d45f5f1e74f019a3caeb953bc8897bdfcb0e187f4d844c0a6e50f7"
+    },
+    {
+      "grey": 3,
+      "kind": "answer",
+      "file": "ui/g03/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g3-answer.xml",
+      "sha256": "e20dc62a1ab0251f3db00ed33cfa82e3abe3812165a7e89c1ba30a7a49fd8104"
+    },
+    {
+      "grey": 3,
+      "kind": "input",
+      "file": "ui/g03/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g3-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 3,
+      "kind": "prompt",
+      "file": "ui/g03/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g3-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 3,
+      "kind": "source-clean",
+      "file": "ui/g03/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g3-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 3,
+      "kind": "source-initial",
+      "file": "ui/g03/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g3-source-initial.xml",
+      "sha256": "b17ef50fce8203024d4eb9323246925d18da41fe6ed01008fde8bb3cd5cbbf52"
+    },
+    {
+      "grey": 4,
+      "kind": "answer",
+      "file": "ui/g04/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g4-answer.xml",
+      "sha256": "e20dc62a1ab0251f3db00ed33cfa82e3abe3812165a7e89c1ba30a7a49fd8104"
+    },
+    {
+      "grey": 4,
+      "kind": "input",
+      "file": "ui/g04/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g4-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 4,
+      "kind": "prompt",
+      "file": "ui/g04/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g4-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 4,
+      "kind": "source-clean",
+      "file": "ui/g04/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g4-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 4,
+      "kind": "source-initial",
+      "file": "ui/g04/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g4-source-initial.xml",
+      "sha256": "07d4348bcd9146bed1e530d8b74b293ab7c36120db00656abf93bba647c9a4fb"
+    },
+    {
+      "grey": 5,
+      "kind": "answer",
+      "file": "ui/g05/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g5-answer.xml",
+      "sha256": "e20dc62a1ab0251f3db00ed33cfa82e3abe3812165a7e89c1ba30a7a49fd8104"
+    },
+    {
+      "grey": 5,
+      "kind": "input",
+      "file": "ui/g05/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g5-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 5,
+      "kind": "prompt",
+      "file": "ui/g05/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g5-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 5,
+      "kind": "source-clean",
+      "file": "ui/g05/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g5-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 5,
+      "kind": "source-initial",
+      "file": "ui/g05/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g5-source-initial.xml",
+      "sha256": "07d4348bcd9146bed1e530d8b74b293ab7c36120db00656abf93bba647c9a4fb"
+    },
+    {
+      "grey": 6,
+      "kind": "answer",
+      "file": "ui/g06/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g6-answer.xml",
+      "sha256": "ba22690934613ecf8bf378b615701e80d2fb1c42c69b9a888e42961488041528"
+    },
+    {
+      "grey": 6,
+      "kind": "input",
+      "file": "ui/g06/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g6-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 6,
+      "kind": "prompt",
+      "file": "ui/g06/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g6-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 6,
+      "kind": "source-clean",
+      "file": "ui/g06/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g6-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 6,
+      "kind": "source-initial",
+      "file": "ui/g06/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g6-source-initial.xml",
+      "sha256": "07d4348bcd9146bed1e530d8b74b293ab7c36120db00656abf93bba647c9a4fb"
+    },
+    {
+      "grey": 7,
+      "kind": "answer",
+      "file": "ui/g07/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g7-answer.xml",
+      "sha256": "e20dc62a1ab0251f3db00ed33cfa82e3abe3812165a7e89c1ba30a7a49fd8104"
+    },
+    {
+      "grey": 7,
+      "kind": "input",
+      "file": "ui/g07/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g7-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 7,
+      "kind": "prompt",
+      "file": "ui/g07/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g7-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 7,
+      "kind": "source-clean",
+      "file": "ui/g07/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g7-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 7,
+      "kind": "source-initial",
+      "file": "ui/g07/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g7-source-initial.xml",
+      "sha256": "a784581a279313c2dbeaa644675657efe3ce3553e398ca11c712cc4d15f94b98"
+    },
+    {
+      "grey": 8,
+      "kind": "answer",
+      "file": "ui/g08/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g8-answer.xml",
+      "sha256": "49cd372c1d7e66d24849f16fdd73f7e1a91396476921ffd5c114677ea2ccfb8b"
+    },
+    {
+      "grey": 8,
+      "kind": "input",
+      "file": "ui/g08/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g8-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 8,
+      "kind": "prompt",
+      "file": "ui/g08/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g8-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 8,
+      "kind": "source-clean",
+      "file": "ui/g08/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g8-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 8,
+      "kind": "source-initial",
+      "file": "ui/g08/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g8-source-initial.xml",
+      "sha256": "a784581a279313c2dbeaa644675657efe3ce3553e398ca11c712cc4d15f94b98"
+    },
+    {
+      "grey": 9,
+      "kind": "answer",
+      "file": "ui/g09/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g9-answer.xml",
+      "sha256": "48d783167c808cff755483943db4155811410b30f7e8a065f38c46f0207b7a4f"
+    },
+    {
+      "grey": 9,
+      "kind": "input",
+      "file": "ui/g09/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g9-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 9,
+      "kind": "prompt",
+      "file": "ui/g09/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g9-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 9,
+      "kind": "source-clean",
+      "file": "ui/g09/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g9-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 9,
+      "kind": "source-initial",
+      "file": "ui/g09/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g9-source-initial.xml",
+      "sha256": "1670899c7b1284ef21952c51123c4a201a5b138c8d564d52d61e39323a984379"
+    },
+    {
+      "grey": 10,
+      "kind": "answer",
+      "file": "ui/g10/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g10-answer.xml",
+      "sha256": "a239a87e9c344140db7b3d5fa616281be63b4f39b7294efb75776f2c30b934bc"
+    },
+    {
+      "grey": 10,
+      "kind": "input",
+      "file": "ui/g10/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g10-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 10,
+      "kind": "prompt",
+      "file": "ui/g10/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g10-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 10,
+      "kind": "source-clean",
+      "file": "ui/g10/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g10-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 10,
+      "kind": "source-initial",
+      "file": "ui/g10/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g10-source-initial.xml",
+      "sha256": "1670899c7b1284ef21952c51123c4a201a5b138c8d564d52d61e39323a984379"
+    },
+    {
+      "grey": 11,
+      "kind": "answer",
+      "file": "ui/g11/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g11-answer.xml",
+      "sha256": "fe939afb6285885be4c9476202949c2d4534ad4149ed8fb04f73b05373c1e500"
+    },
+    {
+      "grey": 11,
+      "kind": "input",
+      "file": "ui/g11/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g11-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 11,
+      "kind": "prompt",
+      "file": "ui/g11/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g11-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 11,
+      "kind": "source-clean",
+      "file": "ui/g11/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g11-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 11,
+      "kind": "source-initial",
+      "file": "ui/g11/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g11-source-initial.xml",
+      "sha256": "1670899c7b1284ef21952c51123c4a201a5b138c8d564d52d61e39323a984379"
+    },
+    {
+      "grey": 12,
+      "kind": "answer",
+      "file": "ui/g12/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g12-answer.xml",
+      "sha256": "c08cc84eb09a7eabee47ccbbe6998203aa592d3d7f0879d02c975b0a5b09f37a"
+    },
+    {
+      "grey": 12,
+      "kind": "input",
+      "file": "ui/g12/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g12-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 12,
+      "kind": "prompt",
+      "file": "ui/g12/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g12-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 12,
+      "kind": "source-clean",
+      "file": "ui/g12/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g12-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 12,
+      "kind": "source-initial",
+      "file": "ui/g12/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g12-source-initial.xml",
+      "sha256": "2cff6f1c122eaa8d235642310bfaf10e87afe29b2051da8270953caeaf81493f"
+    },
+    {
+      "grey": 13,
+      "kind": "answer",
+      "file": "ui/g13/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g13-answer.xml",
+      "sha256": "0677090b6d894b26e7464874722e120bcdd05044cdf2862652f0b4f20c64c1b7"
+    },
+    {
+      "grey": 13,
+      "kind": "input",
+      "file": "ui/g13/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g13-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 13,
+      "kind": "prompt",
+      "file": "ui/g13/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g13-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 13,
+      "kind": "source-clean",
+      "file": "ui/g13/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g13-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 13,
+      "kind": "source-initial",
+      "file": "ui/g13/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g13-source-initial.xml",
+      "sha256": "ae490150a887a2bc4741f2aae8eff163a5337fdc259c01ec1e34756f766e94b7"
+    },
+    {
+      "grey": 14,
+      "kind": "answer",
+      "file": "ui/g14/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g14-answer.xml",
+      "sha256": "9cf1698eac43fd4e06fad892424ee45c245d4b151a53518c1189146833f0af37"
+    },
+    {
+      "grey": 14,
+      "kind": "input",
+      "file": "ui/g14/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g14-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 14,
+      "kind": "prompt",
+      "file": "ui/g14/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g14-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 14,
+      "kind": "source-clean",
+      "file": "ui/g14/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g14-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 14,
+      "kind": "source-initial",
+      "file": "ui/g14/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g14-source-initial.xml",
+      "sha256": "ae490150a887a2bc4741f2aae8eff163a5337fdc259c01ec1e34756f766e94b7"
+    },
+    {
+      "grey": 15,
+      "kind": "answer",
+      "file": "ui/g15/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g15-answer.xml",
+      "sha256": "3b259eb85b5f74709daab26f9694ea759adb66407592310a847faa561b51a805"
+    },
+    {
+      "grey": 15,
+      "kind": "input",
+      "file": "ui/g15/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g15-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 15,
+      "kind": "prompt",
+      "file": "ui/g15/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g15-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 15,
+      "kind": "source-clean",
+      "file": "ui/g15/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g15-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 15,
+      "kind": "source-initial",
+      "file": "ui/g15/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g15-source-initial.xml",
+      "sha256": "2d96b79d40c038e5827e254b0432d8438f7898ddc587548bcc4df6a8dfbe31df"
+    },
+    {
+      "grey": 16,
+      "kind": "answer",
+      "file": "ui/g16/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g16-answer.xml",
+      "sha256": "f3e8499bb20a1f3e987e8837b3d0e20873dd492355f06a2b8d5410b93b3bac28"
+    },
+    {
+      "grey": 16,
+      "kind": "input",
+      "file": "ui/g16/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g16-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 16,
+      "kind": "prompt",
+      "file": "ui/g16/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g16-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 16,
+      "kind": "source-clean",
+      "file": "ui/g16/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g16-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 16,
+      "kind": "source-initial",
+      "file": "ui/g16/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g16-source-initial.xml",
+      "sha256": "2d96b79d40c038e5827e254b0432d8438f7898ddc587548bcc4df6a8dfbe31df"
+    },
+    {
+      "grey": 17,
+      "kind": "answer",
+      "file": "ui/g17/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g17-answer.xml",
+      "sha256": "10fd97677162a67b247beb743e36b66fe872dcee2c7306e4c28a3dbbd367c04c"
+    },
+    {
+      "grey": 17,
+      "kind": "input",
+      "file": "ui/g17/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g17-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 17,
+      "kind": "prompt",
+      "file": "ui/g17/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g17-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 17,
+      "kind": "source-clean",
+      "file": "ui/g17/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g17-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 17,
+      "kind": "source-initial",
+      "file": "ui/g17/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g17-source-initial.xml",
+      "sha256": "2d96b79d40c038e5827e254b0432d8438f7898ddc587548bcc4df6a8dfbe31df"
+    },
+    {
+      "grey": 18,
+      "kind": "answer",
+      "file": "ui/g18/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g18-answer.xml",
+      "sha256": "38211a972757c4d4f14847642e2739fd53dd50547192aa00c81cf8c8b9c868dc"
+    },
+    {
+      "grey": 18,
+      "kind": "input",
+      "file": "ui/g18/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g18-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 18,
+      "kind": "prompt",
+      "file": "ui/g18/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g18-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 18,
+      "kind": "source-clean",
+      "file": "ui/g18/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g18-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 18,
+      "kind": "source-initial",
+      "file": "ui/g18/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g18-source-initial.xml",
+      "sha256": "2fefc517a6563125124de1f22d0cd3f6a10d2e1211769620062f2b25ed3b0c30"
+    },
+    {
+      "grey": 19,
+      "kind": "answer",
+      "file": "ui/g19/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g19-answer.xml",
+      "sha256": "1bedbceaedaa7633675b04beaf434466ff7dd9b4ffbe804a6f6092cb54be88c5"
+    },
+    {
+      "grey": 19,
+      "kind": "input",
+      "file": "ui/g19/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g19-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 19,
+      "kind": "prompt",
+      "file": "ui/g19/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g19-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 19,
+      "kind": "source-clean",
+      "file": "ui/g19/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g19-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 19,
+      "kind": "source-initial",
+      "file": "ui/g19/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g19-source-initial.xml",
+      "sha256": "2fefc517a6563125124de1f22d0cd3f6a10d2e1211769620062f2b25ed3b0c30"
+    },
+    {
+      "grey": 20,
+      "kind": "answer",
+      "file": "ui/g20/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g20-answer.xml",
+      "sha256": "cafe8c4ccede1e90d9db4ce8651c9aff461e272739332ee7c6f5dedff9862590"
+    },
+    {
+      "grey": 20,
+      "kind": "input",
+      "file": "ui/g20/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g20-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 20,
+      "kind": "prompt",
+      "file": "ui/g20/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g20-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 20,
+      "kind": "source-clean",
+      "file": "ui/g20/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g20-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 20,
+      "kind": "source-initial",
+      "file": "ui/g20/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g20-source-initial.xml",
+      "sha256": "ce4cb2e8aa8ec8b2430a849efe56db592cc882260da7d189863a39b1c045b531"
+    },
+    {
+      "grey": 21,
+      "kind": "answer",
+      "file": "ui/g21/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g21-answer.xml",
+      "sha256": "9875334937c7919e568344aa80185281b0070a498baf9e530b454bfc1c0b6039"
+    },
+    {
+      "grey": 21,
+      "kind": "input",
+      "file": "ui/g21/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g21-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 21,
+      "kind": "prompt",
+      "file": "ui/g21/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g21-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 21,
+      "kind": "source-clean",
+      "file": "ui/g21/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g21-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 21,
+      "kind": "source-initial",
+      "file": "ui/g21/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g21-source-initial.xml",
+      "sha256": "ce4cb2e8aa8ec8b2430a849efe56db592cc882260da7d189863a39b1c045b531"
+    },
+    {
+      "grey": 22,
+      "kind": "answer",
+      "file": "ui/g22/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g22-answer.xml",
+      "sha256": "a8bc720d96dbb8d2d17f26384123d3de04bf6dcc6c173e25eae23a02f7ba9e89"
+    },
+    {
+      "grey": 22,
+      "kind": "input",
+      "file": "ui/g22/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g22-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 22,
+      "kind": "prompt",
+      "file": "ui/g22/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g22-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 22,
+      "kind": "source-clean",
+      "file": "ui/g22/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g22-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 22,
+      "kind": "source-initial",
+      "file": "ui/g22/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g22-source-initial.xml",
+      "sha256": "ce4cb2e8aa8ec8b2430a849efe56db592cc882260da7d189863a39b1c045b531"
+    },
+    {
+      "grey": 23,
+      "kind": "answer",
+      "file": "ui/g23/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g23-answer.xml",
+      "sha256": "93e8b5bb0de464b2b1d19e84355de24f5feb780ffc2ee0484f8c29ff25b08233"
+    },
+    {
+      "grey": 23,
+      "kind": "input",
+      "file": "ui/g23/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g23-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 23,
+      "kind": "prompt",
+      "file": "ui/g23/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g23-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 23,
+      "kind": "source-clean",
+      "file": "ui/g23/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g23-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 23,
+      "kind": "source-initial",
+      "file": "ui/g23/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g23-source-initial.xml",
+      "sha256": "7aea7560639a225b7b708a7e424af644b675247d320face43bb9a8363444e4b2"
+    },
+    {
+      "grey": 24,
+      "kind": "answer",
+      "file": "ui/g24/answer.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g24-answer.xml",
+      "sha256": "edf053ecf8efa99d263988dd8265ff4828f702ce2b71b9c1e35f0a97cada16a2"
+    },
+    {
+      "grey": 24,
+      "kind": "input",
+      "file": "ui/g24/input.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g24-input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 24,
+      "kind": "prompt",
+      "file": "ui/g24/prompt.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g24-prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 24,
+      "kind": "source-clean",
+      "file": "ui/g24/source-clean.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g24-source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 24,
+      "kind": "source-initial",
+      "file": "ui/g24/source-initial.xml",
+      "source_archive": "exp1-perplexity-process-20261026.zip",
+      "source_member": "exp1-perplexity/evidence/g24-source-initial.xml",
+      "sha256": "7aea7560639a225b7b708a7e424af644b675247d320face43bb9a8363444e4b2"
+    },
+    {
+      "grey": 25,
+      "kind": "answer",
+      "file": "ui/g25/answer.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g25/answer.xml",
+      "sha256": "896ef023b0f89550d9e97cd4c833b3574265dd753d9ed3a73b00c88a741bcd31"
+    },
+    {
+      "grey": 25,
+      "kind": "input",
+      "file": "ui/g25/input.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g25/input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 25,
+      "kind": "prompt",
+      "file": "ui/g25/prompt.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g25/prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 25,
+      "kind": "source-clean",
+      "file": "ui/g25/source-clean.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g25/source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 25,
+      "kind": "source-initial",
+      "file": "ui/g25/source-initial.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g25/source-initial.xml",
+      "sha256": "7aea7560639a225b7b708a7e424af644b675247d320face43bb9a8363444e4b2"
+    },
+    {
+      "grey": 26,
+      "kind": "answer",
+      "file": "ui/g26/answer.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g26/answer.xml",
+      "sha256": "edf053ecf8efa99d263988dd8265ff4828f702ce2b71b9c1e35f0a97cada16a2"
+    },
+    {
+      "grey": 26,
+      "kind": "input",
+      "file": "ui/g26/input.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g26/input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 26,
+      "kind": "prompt",
+      "file": "ui/g26/prompt.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g26/prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 26,
+      "kind": "source-clean",
+      "file": "ui/g26/source-clean.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g26/source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 26,
+      "kind": "source-initial",
+      "file": "ui/g26/source-initial.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g26/source-initial.xml",
+      "sha256": "53ace20fc14ce875f2cd6b73de0469295035b8c761f7a7e27f4ea5b2bbea698c"
+    },
+    {
+      "grey": 27,
+      "kind": "answer",
+      "file": "ui/g27/answer.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g27/answer.xml",
+      "sha256": "b672c0ec550e67a295796691e068711061a0f44b71108d3093d087195d933564"
+    },
+    {
+      "grey": 27,
+      "kind": "input",
+      "file": "ui/g27/input.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g27/input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 27,
+      "kind": "prompt",
+      "file": "ui/g27/prompt.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g27/prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 27,
+      "kind": "source-clean",
+      "file": "ui/g27/source-clean.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g27/source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 27,
+      "kind": "source-initial",
+      "file": "ui/g27/source-initial.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g27/source-initial.xml",
+      "sha256": "53ace20fc14ce875f2cd6b73de0469295035b8c761f7a7e27f4ea5b2bbea698c"
+    },
+    {
+      "grey": 28,
+      "kind": "answer",
+      "file": "ui/g28/answer.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g28/answer.xml",
+      "sha256": "a61ac928f11a423659588c4536795108fda2ff575e576223e64b47e8c6192d2c"
+    },
+    {
+      "grey": 28,
+      "kind": "input",
+      "file": "ui/g28/input.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g28/input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 28,
+      "kind": "prompt",
+      "file": "ui/g28/prompt.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g28/prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 28,
+      "kind": "source-clean",
+      "file": "ui/g28/source-clean.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g28/source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 28,
+      "kind": "source-initial",
+      "file": "ui/g28/source-initial.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g28/source-initial.xml",
+      "sha256": "53ace20fc14ce875f2cd6b73de0469295035b8c761f7a7e27f4ea5b2bbea698c"
+    },
+    {
+      "grey": 29,
+      "kind": "answer",
+      "file": "ui/g29/answer.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g29/answer.xml",
+      "sha256": "2befeb14862962351ba0bbfaea18cdff9383981a200c9e24b646e15d087f9307"
+    },
+    {
+      "grey": 29,
+      "kind": "input",
+      "file": "ui/g29/input.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g29/input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 29,
+      "kind": "prompt",
+      "file": "ui/g29/prompt.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g29/prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 29,
+      "kind": "source-clean",
+      "file": "ui/g29/source-clean.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g29/source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 29,
+      "kind": "source-initial",
+      "file": "ui/g29/source-initial.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g29/source-initial.xml",
+      "sha256": "cb3b1076b4d57a788f58197e7b021867daec3ca726801880191c33ecbe5ee654"
+    },
+    {
+      "grey": 30,
+      "kind": "answer",
+      "file": "ui/g30/answer.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g30/answer.xml",
+      "sha256": "69532c5153fafac27f8885d2a0714a19e0a09419b7646b957c020628c13d232f"
+    },
+    {
+      "grey": 30,
+      "kind": "input",
+      "file": "ui/g30/input.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g30/input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 30,
+      "kind": "prompt",
+      "file": "ui/g30/prompt.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g30/prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 30,
+      "kind": "source-clean",
+      "file": "ui/g30/source-clean.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g30/source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 30,
+      "kind": "source-initial",
+      "file": "ui/g30/source-initial.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g30/source-initial.xml",
+      "sha256": "cb3b1076b4d57a788f58197e7b021867daec3ca726801880191c33ecbe5ee654"
+    },
+    {
+      "grey": 31,
+      "kind": "answer",
+      "file": "ui/g31/answer.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g31/answer.xml",
+      "sha256": "7bd30feb175d10bcaa4b68e43278e006224f3f19ac906175e4b321a4228f8c1c"
+    },
+    {
+      "grey": 31,
+      "kind": "input",
+      "file": "ui/g31/input.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g31/input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 31,
+      "kind": "prompt",
+      "file": "ui/g31/prompt.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g31/prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 31,
+      "kind": "source-clean",
+      "file": "ui/g31/source-clean.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g31/source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 31,
+      "kind": "source-initial",
+      "file": "ui/g31/source-initial.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g31/source-initial.xml",
+      "sha256": "cb3b1076b4d57a788f58197e7b021867daec3ca726801880191c33ecbe5ee654"
+    },
+    {
+      "grey": 32,
+      "kind": "answer",
+      "file": "ui/g32/answer.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g32/answer.xml",
+      "sha256": "3f7e98cb6dae80d6630f9649c7d1ba317b89cb87ac0fb2a68c549a32d7d50bb3"
+    },
+    {
+      "grey": 32,
+      "kind": "input",
+      "file": "ui/g32/input.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g32/input.xml",
+      "sha256": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94"
+    },
+    {
+      "grey": 32,
+      "kind": "prompt",
+      "file": "ui/g32/prompt.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g32/prompt.xml",
+      "sha256": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005"
+    },
+    {
+      "grey": 32,
+      "kind": "source-clean",
+      "file": "ui/g32/source-clean.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g32/source-clean.xml",
+      "sha256": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3"
+    },
+    {
+      "grey": 32,
+      "kind": "source-initial",
+      "file": "ui/g32/source-initial.xml",
+      "source_archive": "exp1-perplexity-g25-g32-process-20261026.zip",
+      "source_member": "round01/g32/source-initial.xml",
+      "sha256": "f67629dfcf48bc787c99b46c5412dfe2f3379294513afe78ef2b0a9b2129cc21"
+    }
+  ]
+}

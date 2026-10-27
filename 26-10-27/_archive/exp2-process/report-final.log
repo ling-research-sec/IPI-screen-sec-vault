@@ -1,0 +1,8 @@
+{"kind":"notice","message":"Cell search matched 0 entries."}
+Inspect result written to file: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/实验结果-01.xlsx.inspect.ndjson
+REPORT PASS: round01, 160 rows, 5730/16000
+{
+  "status": "PASS",
+  "rounds": 1,
+  "rows": 160
+}

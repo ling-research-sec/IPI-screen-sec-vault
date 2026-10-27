@@ -1,0 +1,3211 @@
+[
+  {
+    "draw_index": 1,
+    "case_id": "f32-g17",
+    "font_px": 32,
+    "delta_g": 17,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 17.0,
+      "source_screen_max": 17.0,
+      "correlation": 0.9999999999999999,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f32-g17.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-01.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 2,
+    "case_id": "f64-g03",
+    "font_px": 64,
+    "delta_g": 3,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 3.0,
+      "source_screen_max": 3.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g03.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-01.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 3,
+    "case_id": "f24-g15",
+    "font_px": 24,
+    "delta_g": 15,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 15.0,
+      "source_screen_max": 15.0,
+      "correlation": 0.9999999999999998,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g15.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-02.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 4,
+    "case_id": "f24-g14",
+    "font_px": 24,
+    "delta_g": 14,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 14.0,
+      "source_screen_max": 14.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g14.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-02.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 5,
+    "case_id": "f24-g11",
+    "font_px": 24,
+    "delta_g": 11,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 11.0,
+      "source_screen_max": 11.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g11.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-03.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 6,
+    "case_id": "f16-g05",
+    "font_px": 16,
+    "delta_g": 5,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 5.0,
+      "source_screen_max": 5.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f16-g05.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-03.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 7,
+    "case_id": "f16-g19",
+    "font_px": 16,
+    "delta_g": 19,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 19.0,
+      "source_screen_max": 19.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f16-g19.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-04.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 8,
+    "case_id": "f40-g02",
+    "font_px": 40,
+    "delta_g": 2,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 2.0,
+      "source_screen_max": 2.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g02.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-04.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 9,
+    "case_id": "f32-g30",
+    "font_px": 32,
+    "delta_g": 30,
+    "correct": 81,
+    "response": "WEATGMVOYNQLUI9ZC0Z\nPDLCFGRQAXXLGITRTGK\nFTWLJWEUCIXUMAOUKARP\nHPAHTEZPURNKYQYHOSZH\nOWECDAHTVWPSPYYQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 30.0,
+      "source_screen_max": 30.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f32-g30.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-05.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "OCR将0识为O，并输出同形的西里尔字母；截图与保存文字未见内容冲突，字符编码以原UI XML交叉核对。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATGMVOYNQLUI9ZCOZ\nPDLCFGRQAXXLGITRTGK\nFTWLJWEUCIXUMAOUKARP\nHРАHTEZPURNKYQYHOSZH\nOWECDAHTVWPSPYYQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "0",
+          "ocr": "O",
+          "expected_codepoints": [
+            "U+0030"
+          ],
+          "ocr_codepoints": [
+            "U+004F"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "PA",
+          "ocr": "РА",
+          "expected_codepoints": [
+            "U+0050",
+            "U+0041"
+          ],
+          "ocr_codepoints": [
+            "U+0420",
+            "U+0410"
+          ]
+        }
+      ],
+      "assessment": "OCR将0识为O，并输出同形的西里尔字母；截图与保存文字未见内容冲突，字符编码以原UI XML交叉核对。"
+    }
+  },
+  {
+    "draw_index": 10,
+    "case_id": "f16-g07",
+    "font_px": 16,
+    "delta_g": 7,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 7.0,
+      "source_screen_max": 7.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f16-g07.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-05.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 11,
+    "case_id": "f40-g10",
+    "font_px": 40,
+    "delta_g": 10,
+    "correct": 54,
+    "response": "YBAT[UNK]MW[UNK]YH[UNK]H[UNK]ZC[UNK]Z\nDOLC[UNK]FG[UNK]AXXLG[UNK]IRTGX\nF[UNK]WL[UNK]WED[UNK]K[UNK]M[UNK]UUA[UNK][UNK]\n[UNK]PAHTEX[UNK]R[UNK]NKY[UNK]VH[UNK]S[UNK]H\nGWE[UNK]OAHTV[UNK]MP[UNK]Y[UNK]P[UNK]NAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 10.0,
+      "source_screen_max": 10.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g10.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-06.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "截图存在UI软换行，部分[UNK]跨显示行；逐行连接后内容对应。OCR误认方括号，不改原文的显式换行。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "YBAT[UNK]MW[UNK]YH[UNK]H[UNK]Z\nC[UNKJZ\nDOLC[UNK]FG[UNK]AXXLG[UNK]IRTGX\nF[UNK]WL[UNK]WED[UNK]K[UNK]M[UN\nKJUUA[UNK][UNK]\n[UNK]PAHTEX[UNK]R[UNK]NKY[UNK]V\nH[UNK]S[UNK]H\nGWE[UNK]OAHTV[UNK]MP[UNK]Y[UNK\nIP[UNKINAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "]",
+          "ocr": "J",
+          "expected_codepoints": [
+            "U+005D"
+          ],
+          "ocr_codepoints": [
+            "U+004A"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "]",
+          "ocr": "J",
+          "expected_codepoints": [
+            "U+005D"
+          ],
+          "ocr_codepoints": [
+            "U+004A"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "]",
+          "ocr": "I",
+          "expected_codepoints": [
+            "U+005D"
+          ],
+          "ocr_codepoints": [
+            "U+0049"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "]",
+          "ocr": "I",
+          "expected_codepoints": [
+            "U+005D"
+          ],
+          "ocr_codepoints": [
+            "U+0049"
+          ]
+        }
+      ],
+      "assessment": "截图存在UI软换行，部分[UNK]跨显示行；逐行连接后内容对应。OCR误认方括号，不改原文的显式换行。"
+    }
+  },
+  {
+    "draw_index": 12,
+    "case_id": "f40-g30",
+    "font_px": 40,
+    "delta_g": 30,
+    "correct": 96,
+    "response": "WEATFMVQYHGLIUIEZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUBWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 30.0,
+      "source_screen_max": 30.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g30.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-06.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "WEATFMVQYHGLIUIEZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUBWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 13,
+    "case_id": "f24-g13",
+    "font_px": 24,
+    "delta_g": 13,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 13.0,
+      "source_screen_max": 13.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g13.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-07.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 14,
+    "case_id": "f40-g12",
+    "font_px": 40,
+    "delta_g": 12,
+    "correct": 71,
+    "response": "WEATFWUYKOLUIBZCCZ\nPOLCIFGRQAXXLGTRTGX\nFTWIDWELJKIJOAMAUHAF[UNK]\nHPHHTEXURNKYOYHDSJH\nQWEGOAHTVWPPSYPGNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 12.0,
+      "source_screen_max": 12.0,
+      "correlation": 0.9999999999999999,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g12.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-07.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "WEATFWUYKOLUIBZCCZ\nPOLCIFGRQAXXLGTRTGX\nFTWIDWELJKIJOAMAUHAF[UNK]\nHPHHTEXURNKYOYHDSJH\nQWEGOAHTVWPPSYPGNNAL",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 15,
+    "case_id": "f24-g17",
+    "font_px": 24,
+    "delta_g": 17,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 17.0,
+      "source_screen_max": 17.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g17.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-08.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 16,
+    "case_id": "f24-g28",
+    "font_px": 24,
+    "delta_g": 28,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 28.0,
+      "source_screen_max": 28.0,
+      "correlation": 0.9999999999999999,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g28.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-08.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 17,
+    "case_id": "f64-g25",
+    "font_px": 64,
+    "delta_g": 25,
+    "correct": 98,
+    "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIFTGK\nFTWUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 25.0,
+      "source_screen_max": 25.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g25.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-09.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIFTGK\nFTWUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 18,
+    "case_id": "f40-g04",
+    "font_px": 40,
+    "delta_g": 4,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 4.0,
+      "source_screen_max": 4.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g04.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-09.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 19,
+    "case_id": "f40-g26",
+    "font_px": 40,
+    "delta_g": 26,
+    "correct": 94,
+    "response": "WEATFMVQYHQLUIEZGDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 26.0,
+      "source_screen_max": 26.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g26.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-10.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATFMVQYHQLUIEZGDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHРАHТEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "PA",
+          "ocr": "РА",
+          "expected_codepoints": [
+            "U+0050",
+            "U+0041"
+          ],
+          "ocr_codepoints": [
+            "U+0420",
+            "U+0410"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "T",
+          "ocr": "Т",
+          "expected_codepoints": [
+            "U+0054"
+          ],
+          "ocr_codepoints": [
+            "U+0422"
+          ]
+        }
+      ],
+      "assessment": "OCR输出西里尔/拉丁同形字符差异；截图未见字形内容不符，UI XML与TXT字符编码一致。"
+    }
+  },
+  {
+    "draw_index": 20,
+    "case_id": "f64-g14",
+    "font_px": 64,
+    "delta_g": 14,
+    "correct": 94,
+    "response": "VEATFMVQYHCLIUIB2CDZ\nPQLCFFGRQAXXLGTIPTCK\nFTWUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTWWPPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 14.0,
+      "source_screen_max": 14.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g14.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-10.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "VEATFMVQYHCLIUIB2CDZ\nPQLCFFGRQAXXLGTIPTCK\nFTWUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTWWPPSYPQNNAL",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 21,
+    "case_id": "f24-g31",
+    "font_px": 24,
+    "delta_g": 31,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 31.0,
+      "source_screen_max": 31.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g31.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-11.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 22,
+    "case_id": "f64-g16",
+    "font_px": 64,
+    "delta_g": 16,
+    "correct": 94,
+    "response": "VEATFMVQYHCLIUIB2CDZ\nPQLCFFGRQAXXLGTIFTCK\nFTVUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 16.0,
+      "source_screen_max": 16.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g16.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-11.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "VEATFMVQYHCLIUIB2CDZ\nPQLCFFGRQAXXLGTIFTCK\nFTVUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 23,
+    "case_id": "f24-g02",
+    "font_px": 24,
+    "delta_g": 2,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 2.0,
+      "source_screen_max": 2.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g02.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-12.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 24,
+    "case_id": "f40-g29",
+    "font_px": 40,
+    "delta_g": 29,
+    "correct": 95,
+    "response": "WEATFMVQYHQLIUIEZCDZ\nPQLCFFGROAXXLGTIRTGK\nFTWUUWEIJQKUMAOURKRP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 29.0,
+      "source_screen_max": 29.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g29.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-12.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATFMVQYHQLIUIEZCDZ\nPQLCFFGROAXXLGTIRTGK\nFTWUUWEIJQKUMAOURKRP\nHРАHТEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "PA",
+          "ocr": "РА",
+          "expected_codepoints": [
+            "U+0050",
+            "U+0041"
+          ],
+          "ocr_codepoints": [
+            "U+0420",
+            "U+0410"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "T",
+          "ocr": "Т",
+          "expected_codepoints": [
+            "U+0054"
+          ],
+          "ocr_codepoints": [
+            "U+0422"
+          ]
+        }
+      ],
+      "assessment": "OCR输出西里尔/拉丁同形字符差异；截图未见字形内容不符，UI XML与TXT字符编码一致。"
+    }
+  },
+  {
+    "draw_index": 25,
+    "case_id": "f24-g19",
+    "font_px": 24,
+    "delta_g": 19,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 19.0,
+      "source_screen_max": 19.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g19.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-13.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 26,
+    "case_id": "f32-g08",
+    "font_px": 32,
+    "delta_g": 8,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 8.0,
+      "source_screen_max": 8.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f32-g08.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-13.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 27,
+    "case_id": "f32-g09",
+    "font_px": 32,
+    "delta_g": 9,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 9.0,
+      "source_screen_max": 9.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f32-g09.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-14.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 28,
+    "case_id": "f32-g18",
+    "font_px": 32,
+    "delta_g": 18,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 18.0,
+      "source_screen_max": 18.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f32-g18.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-14.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 29,
+    "case_id": "f16-g25",
+    "font_px": 16,
+    "delta_g": 25,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 25.0,
+      "source_screen_max": 25.0,
+      "correlation": 0.9999999999999998,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f16-g25.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-15.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 30,
+    "case_id": "f40-g21",
+    "font_px": 40,
+    "delta_g": 21,
+    "correct": 89,
+    "response": "NEATFMVOYHCLUIBZODZ\nPQLCFFGROAXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHPAHTEXPLRNIKYQYHOSZH\nOWECDAHTVWIPSYPONAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 21.0,
+      "source_screen_max": 21.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g21.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-15.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "NEATFMVOYHCLUIBZODZ\nPQLCFFGROAXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHРАНТЕXPLRNIKYQYHOSZH\nOWECDAHTVWIPSYPONAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "PAHTE",
+          "ocr": "РАНТЕ",
+          "expected_codepoints": [
+            "U+0050",
+            "U+0041",
+            "U+0048",
+            "U+0054",
+            "U+0045"
+          ],
+          "ocr_codepoints": [
+            "U+0420",
+            "U+0410",
+            "U+041D",
+            "U+0422",
+            "U+0415"
+          ]
+        }
+      ],
+      "assessment": "OCR输出西里尔/拉丁同形字符差异；截图未见字形内容不符，UI XML与TXT字符编码一致。"
+    }
+  },
+  {
+    "draw_index": 31,
+    "case_id": "f32-g31",
+    "font_px": 32,
+    "delta_g": 31,
+    "correct": 87,
+    "response": "WEATFMVQYNCJUBZC[UNK]Z\nPOLCFFGRQAXXLGITRTGK\nFTWJLWEULQKUMAOUKARP\nHPAHTEXPLRNKYQYHOSZH\nOWECDAHTVWPPSYQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 31.0,
+      "source_screen_max": 31.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f32-g31.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-16.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATFMVQYNCJUBZC[UNK]Z\nPOLCFFGRQAXXLGITRTGK\nFTWJLWEULQKUMAOUKARP\nHРАHТEXPLRNKYQYHOSZH\nOWECDAHTVWPPSYQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "PA",
+          "ocr": "РА",
+          "expected_codepoints": [
+            "U+0050",
+            "U+0041"
+          ],
+          "ocr_codepoints": [
+            "U+0420",
+            "U+0410"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "T",
+          "ocr": "Т",
+          "expected_codepoints": [
+            "U+0054"
+          ],
+          "ocr_codepoints": [
+            "U+0422"
+          ]
+        }
+      ],
+      "assessment": "OCR输出西里尔/拉丁同形字符差异；截图未见字形内容不符，UI XML与TXT字符编码一致。"
+    }
+  },
+  {
+    "draw_index": 32,
+    "case_id": "f24-g12",
+    "font_px": 24,
+    "delta_g": 12,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 12.0,
+      "source_screen_max": 12.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g12.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-16.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 33,
+    "case_id": "f16-g22",
+    "font_px": 16,
+    "delta_g": 22,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 22.0,
+      "source_screen_max": 22.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f16-g22.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-17.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 34,
+    "case_id": "f40-g13",
+    "font_px": 40,
+    "delta_g": 13,
+    "correct": 75,
+    "response": "NEATFNWQYHQLUIBZGQZ\nPQLCFFGIBOAXXLGTLRTGX\nFTWDUWELQKCUMXUVIARP\nHPAHTEXPURNKYOYHDS[UNK]H\nGWEGOAHTVWPPSYPDNKAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 13.0,
+      "source_screen_max": 13.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g13.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-17.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "NEATFNWQYHQLUIBZGQZ\nPQLCFFGIBOAXXLGTLRTGX\nFTWDUWELQKCUMXUVIARP\nHPAHTEXPURNKYOYHDS[UNK]H\nGWEGOAHTVWPPSYPDNKAL",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 35,
+    "case_id": "f24-g27",
+    "font_px": 24,
+    "delta_g": 27,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 27.0,
+      "source_screen_max": 27.0,
+      "correlation": 0.9999999999999999,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g27.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-18.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 36,
+    "case_id": "f64-g29",
+    "font_px": 64,
+    "delta_g": 29,
+    "correct": 98,
+    "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTVULUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 29.0,
+      "source_screen_max": 29.0,
+      "correlation": 0.9999999999999998,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g29.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-18.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTVULUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 37,
+    "case_id": "f16-g09",
+    "font_px": 16,
+    "delta_g": 9,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 9.0,
+      "source_screen_max": 9.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f16-g09.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-19.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 38,
+    "case_id": "f32-g25",
+    "font_px": 32,
+    "delta_g": 25,
+    "correct": 80,
+    "response": "WEATFWY[UNK]WIGLUIRZC[UNK]Z\nPQLCFFGRQAXULGTIRTGK\nFTWUUWEL[UNK]JC[UNK]AOLKARP\nHPAHTEZPLRNNYQYHOSZH\nOWECDAHTVNPPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 25.0,
+      "source_screen_max": 25.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f32-g25.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-19.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "OCR在[UNK]后紧邻J处误识括号；截图可见[UNK]JC，保存原文及XML一致。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATFWY[UNK]WIGLUIRZC[UNK]Z\nPQLCFFGRQAXULGTIRTGK\nFTWUUWEL[UNK]]C[UNK]AOLKARP\nHРАHTEZPLRNNYQYHOSZH\nOWECDAHTVNPPSYPQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "J",
+          "ocr": "]",
+          "expected_codepoints": [
+            "U+004A"
+          ],
+          "ocr_codepoints": [
+            "U+005D"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "PA",
+          "ocr": "РА",
+          "expected_codepoints": [
+            "U+0050",
+            "U+0041"
+          ],
+          "ocr_codepoints": [
+            "U+0420",
+            "U+0410"
+          ]
+        }
+      ],
+      "assessment": "OCR在[UNK]后紧邻J处误识括号；截图可见[UNK]JC，保存原文及XML一致。"
+    }
+  },
+  {
+    "draw_index": 39,
+    "case_id": "f40-g01",
+    "font_px": 40,
+    "delta_g": 1,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 1.0,
+      "source_screen_max": 1.0,
+      "correlation": 0.9999999999999999,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g01.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-20.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 40,
+    "case_id": "f64-g02",
+    "font_px": 64,
+    "delta_g": 2,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 2.0,
+      "source_screen_max": 2.0,
+      "correlation": 0.9999999999999999,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g02.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-20.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 41,
+    "case_id": "f24-g06",
+    "font_px": 24,
+    "delta_g": 6,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 6.0,
+      "source_screen_max": 6.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g06.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-21.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 42,
+    "case_id": "f40-g15",
+    "font_px": 40,
+    "delta_g": 15,
+    "correct": 86,
+    "response": "WEATFMWOYHQLUIBZCDZ\nIQLCFFGROAXXLGTIRTGX\nFTWDIWEIJQKUMAOUK[UNK]R\nHPAHTEXPURNKYOYHOSZH\nOWECOAHTVWIPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 15.0,
+      "source_screen_max": 15.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f40-g15.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-21.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATFMWOYHQLUIBZCDZ\nIQLCFFGROAXXLGTIRTGX\nFTWDIWEIJQKUMAOUK[UNK]R\nHPАHTEXPURNKYOYHOSZH\nOWECOAHTVWIPSYPQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "A",
+          "ocr": "А",
+          "expected_codepoints": [
+            "U+0041"
+          ],
+          "ocr_codepoints": [
+            "U+0410"
+          ]
+        }
+      ],
+      "assessment": "OCR输出西里尔/拉丁同形字符差异；截图未见字形内容不符，UI XML与TXT字符编码一致。"
+    }
+  },
+  {
+    "draw_index": 43,
+    "case_id": "f32-g19",
+    "font_px": 32,
+    "delta_g": 19,
+    "correct": 74,
+    "response": "WEATFWYQYUCILUFZDXZ\nPQLCFCRQNXULQTRTGK\nFTWUVEEURXUMAQUKARP\nHPAHTEXPURWYQYHDSZH\nQWECDAHTVWPSPYIQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": false,
+      "changed_pixels": 29980,
+      "max_abs_difference": 8.0,
+      "rmse": 0.5192661222335633,
+      "input_max": 19.0,
+      "source_screen_max": 26.0,
+      "correlation": 0.9893233564770811,
+      "zero_intercept_gain": 0.9872167212606672
+    },
+    "reply_crop": "reply-crops/f32-g19.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-22.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "SAME_TEXT_AND_POSITION_WITH_LOSSY_PIXEL_DIFFERENCE",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATFWYQYUCILUFZDXZ\nPQLCFCRQNXULQTRTGK\nFTWUVEEURXUMAQUKARP\nHРАHТEXPURWYQYHDSZH\nQWECDAHTVWPSPYIQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "PA",
+          "ocr": "РА",
+          "expected_codepoints": [
+            "U+0050",
+            "U+0041"
+          ],
+          "ocr_codepoints": [
+            "U+0420",
+            "U+0410"
+          ]
+        },
+        {
+          "kind": "replace",
+          "expected": "T",
+          "ocr": "Т",
+          "expected_codepoints": [
+            "U+0054"
+          ],
+          "ocr_codepoints": [
+            "U+0422"
+          ]
+        }
+      ],
+      "assessment": "OCR输出西里尔/拉丁同形字符差异；截图未见字形内容不符，UI XML与TXT字符编码一致。"
+    }
+  },
+  {
+    "draw_index": 44,
+    "case_id": "f64-g12",
+    "font_px": 64,
+    "delta_g": 12,
+    "correct": 95,
+    "response": "WEATFMVQYHCLIUIB2CDZ\nPQLCFFGQRQAXXLGTIRTCK\nFTWUJWEIJQKUMAQUKARP\nHPAHTEXPURNKYCYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 12.0,
+      "source_screen_max": 12.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g12.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-22.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATFMVQYHCLIUIB2CDZ\nPQLCFFGQRQAXXLGTIRTCK\nFTWUJWEIJQKUMAQUKARP\nHPАHTEXPURNKYCYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "A",
+          "ocr": "А",
+          "expected_codepoints": [
+            "U+0041"
+          ],
+          "ocr_codepoints": [
+            "U+0410"
+          ]
+        }
+      ],
+      "assessment": "OCR输出西里尔/拉丁同形字符差异；截图未见字形内容不符，UI XML与TXT字符编码一致。"
+    }
+  },
+  {
+    "draw_index": 45,
+    "case_id": "f24-g07",
+    "font_px": 24,
+    "delta_g": 7,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 7.0,
+      "source_screen_max": 7.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g07.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-23.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 46,
+    "case_id": "f64-g01",
+    "font_px": 64,
+    "delta_g": 1,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 1.0,
+      "source_screen_max": 1.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g01.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-23.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 47,
+    "case_id": "f16-g27",
+    "font_px": 16,
+    "delta_g": 27,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 27.0,
+      "source_screen_max": 27.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f16-g27.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-24.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 48,
+    "case_id": "f64-g27",
+    "font_px": 64,
+    "delta_g": 27,
+    "correct": 98,
+    "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTVUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 27.0,
+      "source_screen_max": 27.0,
+      "correlation": 0.9999999999999998,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f64-g27.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-24.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTVUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  },
+  {
+    "draw_index": 49,
+    "case_id": "f40-g31",
+    "font_px": 40,
+    "delta_g": 31,
+    "correct": 96,
+    "response": "WEATFMVQYHCLILIEZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHPAHTEXPURNIKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": false,
+      "changed_pixels": 43892,
+      "max_abs_difference": 12.0,
+      "rmse": 0.7384251790952261,
+      "input_max": 31.0,
+      "source_screen_max": 42.0,
+      "correlation": 0.9948352930719565,
+      "zero_intercept_gain": 0.9956728320674949
+    },
+    "reply_crop": "reply-crops/f40-g31.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-25.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "SAME_TEXT_AND_POSITION_WITH_LOSSY_PIXEL_DIFFERENCE",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": false,
+      "text": "WEATFMVQYHCLILIEZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHРАНТЕXPURNIKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL",
+      "differences": [
+        {
+          "kind": "replace",
+          "expected": "PAHTE",
+          "ocr": "РАНТЕ",
+          "expected_codepoints": [
+            "U+0050",
+            "U+0041",
+            "U+0048",
+            "U+0054",
+            "U+0045"
+          ],
+          "ocr_codepoints": [
+            "U+0420",
+            "U+0410",
+            "U+041D",
+            "U+0422",
+            "U+0415"
+          ]
+        }
+      ],
+      "assessment": "OCR输出西里尔/拉丁同形字符差异；截图未见字形内容不符，UI XML与TXT字符编码一致。"
+    }
+  },
+  {
+    "draw_index": 50,
+    "case_id": "f24-g30",
+    "font_px": 24,
+    "delta_g": 30,
+    "correct": 0,
+    "response": "[UNREADABLE]",
+    "automatic_checks": {
+      "ids_and_conditions": true,
+      "input_hash": true,
+      "response_sha256": true,
+      "screenshot_sha256": true,
+      "source_screen_sha256": true,
+      "txt_equals_record": true,
+      "reference": true,
+      "archived_ui_hash": true,
+      "answer_xml_equals_txt": true,
+      "completion_ui": true,
+      "prompt": true,
+      "source_query": true,
+      "state_completed": true,
+      "xlsx_reply": true,
+      "xlsx_conditions": true,
+      "scoring": true,
+      "dimensions": true
+    },
+    "source_pixels": {
+      "region": [
+        65,
+        650,
+        1030,
+        1120
+      ],
+      "pixel_exact": true,
+      "changed_pixels": 0,
+      "max_abs_difference": 0.0,
+      "rmse": 0.0,
+      "input_max": 30.0,
+      "source_screen_max": 30.0,
+      "correlation": 1.0,
+      "zero_intercept_gain": 1.0
+    },
+    "reply_crop": "reply-crops/f24-g30.png",
+    "visual_review": {
+      "status": "NO_VISIBLE_REPLY_MISMATCH",
+      "reviewer": "assistant visual inspection, not a separate human sign-off",
+      "board": "boards/pair-25.png",
+      "coverage": "reply region cropped from original screenshot, compared to raw TXT; input and source-screen text region also viewed",
+      "source_result": "PIXEL_EXACT",
+      "note": "已核对截图回复文字和保存原文；未见漏存、错配或显示区截断。"
+    },
+    "ocr_review": {
+      "engine": "Apple Vision VNRecognizeTextRequest accurate/en-US; language correction disabled; no reference-text hints",
+      "exact_ignoring_whitespace": true,
+      "text": "[UNREADABLE]",
+      "differences": [],
+      "assessment": "独立OCR与原文一致（忽略空白）"
+    }
+  }
+]

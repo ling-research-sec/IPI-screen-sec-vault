@@ -1,0 +1,97 @@
+--- /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/config-full.json
++++ /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-02.json
+@@ -6,7 +6,7 @@
+   "reference_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/reference.txt",
+   "prompt_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/prompt.txt",
+   "image_pattern": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/evidence-01/source-images/{value}.png",
+-  "phone_image_pattern": "/sdcard/Pictures/26-10-27-exp2/{value}.png",
++  "phone_image_pattern": "/sdcard/Pictures/26-10-27-exp2-round02-live/{value}.png",
+   "artifact_stem": "exp2",
+   "parameter_key": "font_px_delta_g",
+   "parameter_label": "条件ID",
+@@ -173,7 +173,7 @@
+     "f64-g32"
+   ],
+   "rounds": [
+-    1
++    2
+   ],
+   "serial": "75ea8363",
+   "adapter": "perplexity-default-assistant-v1",
+@@ -191,8 +191,8 @@
+   "whitespace": "ignore",
+   "response_timeout_s": 180,
+   "poll_s": 4,
+-  "report_context": "黑底，100字符，5字号×32灰度，各1次",
+-  "condition_note": "新字号单轮；48px仅引用历史三轮均值。跨条件SD不是重复误差。",
++  "report_context": "黑底，100字符，5字号×32灰度；本轮160个条件",
++  "condition_note": "黑底；固定手动最大亮度255；每个字号×灰度条件保留1条正式结果。48px为实验一历史3轮均值。",
+   "ui": {
+     "screen_size": [
+       1080,
+@@ -856,5 +856,16 @@
+       "font_px": 64,
+       "delta_g": 32
+     }
++  },
++  "source_fidelity_gate": {
++    "roi": [
++      65,
++      650,
++      1030,
++      1120
++    ],
++    "max_checks": 16,
++    "poll_s": 2,
++    "required_consecutive": 2
+   }
+ }
+
+--- /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/config-full.json
++++ /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-03.json
+@@ -6,7 +6,7 @@
+   "reference_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/reference.txt",
+   "prompt_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/prompt.txt",
+   "image_pattern": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/evidence-01/source-images/{value}.png",
+-  "phone_image_pattern": "/sdcard/Pictures/26-10-27-exp2/{value}.png",
++  "phone_image_pattern": "/sdcard/Pictures/26-10-27-exp2-round03/{value}.png",
+   "artifact_stem": "exp2",
+   "parameter_key": "font_px_delta_g",
+   "parameter_label": "条件ID",
+@@ -173,7 +173,7 @@
+     "f64-g32"
+   ],
+   "rounds": [
+-    1
++    3
+   ],
+   "serial": "75ea8363",
+   "adapter": "perplexity-default-assistant-v1",
+@@ -191,8 +191,8 @@
+   "whitespace": "ignore",
+   "response_timeout_s": 180,
+   "poll_s": 4,
+-  "report_context": "黑底，100字符，5字号×32灰度，各1次",
+-  "condition_note": "新字号单轮；48px仅引用历史三轮均值。跨条件SD不是重复误差。",
++  "report_context": "黑底，100字符，5字号×32灰度；本轮160个条件",
++  "condition_note": "黑底；固定手动最大亮度255；每个字号×灰度条件保留1条正式结果。48px为实验一历史3轮均值。",
+   "ui": {
+     "screen_size": [
+       1080,
+@@ -856,5 +856,16 @@
+       "font_px": 64,
+       "delta_g": 32
+     }
++  },
++  "source_fidelity_gate": {
++    "roi": [
++      65,
++      650,
++      1030,
++      1120
++    ],
++    "max_checks": 16,
++    "poll_s": 2,
++    "required_consecutive": 2
+   }
+ }

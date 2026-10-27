@@ -1,0 +1,28 @@
+{
+  "case_id": "f16-g01",
+  "font_px": 16,
+  "delta_g": 1,
+  "round": 1,
+  "status": "interrupted-uncertain-submission",
+  "submitted": true,
+  "valid_result": false,
+  "correct": null,
+  "cer": null,
+  "runner_exit": 130,
+  "runner_alive": false,
+  "reason": "Post-send UI left assistant; observed login student-wifi, then launcher; no stable complete reply. User subsequently reported login completed. Await explicit disposition before retry.",
+  "observed_network_login_text": "登录student-wifi",
+  "observation_note": "Text observed in a live XML read before subsequent polling overwrote answer.xml; not a recovered immutable XML snapshot.",
+  "state_path": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/.exp2-perplexity-screen-readability-work/round01/gf16-g01/state.json",
+  "files": {
+    "prompt.png": "dd47ba52eb238ff47f7fb013f587acbb3a748f043c7aaa78cd5971a2d433d0aa",
+    "state.json": "6bbbaaa4370242530cbfb826badc3221ae0c6f9f32bc9707282c84a4cbbef80c",
+    "prompt.xml": "8baa9b471c7aa24e83654b728eebcbe4d54edf5601d567f02828260be25fb005",
+    "source-initial.xml": "7daf3273238f7f234870a0ca06d1883f92840dea7f18bd28343538533788f344",
+    "source-clean.xml": "3c7bf47377a8d84a437f688a09d0fb7df0910803613223a6877035a1456216a3",
+    "source-query.txt": "c02fbacc7098a47b052a377a054b48f26be31c3bb93e5a2973db289131511f28",
+    "input.xml": "a04c73cad0da0146261ef52fcb796fe785e37cc57da1a8304987b27577669d94",
+    "failure-current.png": "91668d8184200f37b7c7f1a08d9fe2f51985db3c188d0400de0c2ddc0f4dde6e",
+    "answer.xml": "e75dab774545258f80f6792942b9341710ec9249a98f3edf774ce5d5f3452a23"
+  }
+}

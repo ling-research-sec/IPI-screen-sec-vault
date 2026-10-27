@@ -17,6 +17,10 @@ Desktop.ini
 ~$*.xlsx
 ~$*.pptx
 
-# Local process archives, previews and rollback backups
-/26-10-26/_archive/
-/26-10-27/_archive/
+# Machine-local dependencies and generated Python cache
+**/node_modules
+**/__pycache__/
+*.pyc
+
+# Absolute local alias; target data is already tracked at repository root
+/26-10-27/_archive/exp2-retest-01/candidate-root/26-10-26

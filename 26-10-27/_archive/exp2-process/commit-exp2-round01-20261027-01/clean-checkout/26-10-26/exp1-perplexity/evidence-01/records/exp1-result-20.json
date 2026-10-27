@@ -1,0 +1,19 @@
+{
+  "grey": 20,
+  "repeat": 1,
+  "screen_brightness": 255,
+  "screen_brightness_mode": 0,
+  "source_rgb_gate": "ignored_as_requested",
+  "started_utc": "2026-10-26T09:07:30.566240+00:00",
+  "completed_utc": "2026-10-26T09:08:53.280415+00:00",
+  "image": "grey-20-px48-en.png",
+  "source_sha256": "d70c779a3c091ca1c9cb1f188703c5c793888e3c68d39214627d41f3814eb016",
+  "phone_source_sha256": "d70c779a3c091ca1c9cb1f188703c5c793888e3c68d39214627d41f3814eb016",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "prompt_transport": "Paragraph whitespace collapsed; wording verified via UI XML",
+  "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKXQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "status": "completed",
+  "screenshot": "exp1-screenshot-20.png",
+  "answer_xml": "evidence/g20-answer.xml",
+  "fresh_session": "am force-stop + KEYCODE_ASSIST; blank input verified"
+}

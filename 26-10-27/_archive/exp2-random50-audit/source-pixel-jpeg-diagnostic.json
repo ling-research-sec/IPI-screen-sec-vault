@@ -1,0 +1,202 @@
+[
+  {
+    "case_id": "f16-g01",
+    "jpeg_roundtrip_tests": [
+      {
+        "quality": 70,
+        "rmse": 0.9963410073526142,
+        "exact": false
+      },
+      {
+        "quality": 75,
+        "rmse": 0.08725407192801354,
+        "exact": false
+      },
+      {
+        "quality": 80,
+        "rmse": 0.15460448433665708,
+        "exact": false
+      },
+      {
+        "quality": 85,
+        "rmse": 0.1257936988872998,
+        "exact": false
+      },
+      {
+        "quality": 90,
+        "rmse": 0.0,
+        "exact": true
+      },
+      {
+        "quality": 92,
+        "rmse": 0.05902227670832222,
+        "exact": false
+      },
+      {
+        "quality": 95,
+        "rmse": 0.09008870064010703,
+        "exact": false
+      },
+      {
+        "quality": 98,
+        "rmse": 0.09336965344201886,
+        "exact": false
+      },
+      {
+        "quality": 100,
+        "rmse": 0.09521688452509922,
+        "exact": false
+      }
+    ]
+  },
+  {
+    "case_id": "f24-g16",
+    "jpeg_roundtrip_tests": [
+      {
+        "quality": 70,
+        "rmse": 1.0945863516533927,
+        "exact": false
+      },
+      {
+        "quality": 75,
+        "rmse": 0.49894387412520086,
+        "exact": false
+      },
+      {
+        "quality": 80,
+        "rmse": 0.46748305154692954,
+        "exact": false
+      },
+      {
+        "quality": 85,
+        "rmse": 0.39339435999798894,
+        "exact": false
+      },
+      {
+        "quality": 90,
+        "rmse": 0.0,
+        "exact": true
+      },
+      {
+        "quality": 92,
+        "rmse": 0.2715925992410653,
+        "exact": false
+      },
+      {
+        "quality": 95,
+        "rmse": 0.3622952590109301,
+        "exact": false
+      },
+      {
+        "quality": 98,
+        "rmse": 0.38163091636075025,
+        "exact": false
+      },
+      {
+        "quality": 100,
+        "rmse": 0.3805055558159893,
+        "exact": false
+      }
+    ]
+  },
+  {
+    "case_id": "f32-g19",
+    "jpeg_roundtrip_tests": [
+      {
+        "quality": 70,
+        "rmse": 1.159972553360969,
+        "exact": false
+      },
+      {
+        "quality": 75,
+        "rmse": 0.664248360696107,
+        "exact": false
+      },
+      {
+        "quality": 80,
+        "rmse": 0.6235785290549679,
+        "exact": false
+      },
+      {
+        "quality": 85,
+        "rmse": 0.5186309496700742,
+        "exact": false
+      },
+      {
+        "quality": 90,
+        "rmse": 0.0,
+        "exact": true
+      },
+      {
+        "quality": 92,
+        "rmse": 0.38639353893093425,
+        "exact": false
+      },
+      {
+        "quality": 95,
+        "rmse": 0.5300016744190555,
+        "exact": false
+      },
+      {
+        "quality": 98,
+        "rmse": 0.5328395446820982,
+        "exact": false
+      },
+      {
+        "quality": 100,
+        "rmse": 0.5280887636141671,
+        "exact": false
+      }
+    ]
+  },
+  {
+    "case_id": "f40-g31",
+    "jpeg_roundtrip_tests": [
+      {
+        "quality": 70,
+        "rmse": 1.490563415846399,
+        "exact": false
+      },
+      {
+        "quality": 75,
+        "rmse": 1.1432016150936495,
+        "exact": false
+      },
+      {
+        "quality": 80,
+        "rmse": 1.0691379201975606,
+        "exact": false
+      },
+      {
+        "quality": 85,
+        "rmse": 0.8811416112524629,
+        "exact": false
+      },
+      {
+        "quality": 90,
+        "rmse": 0.0,
+        "exact": true
+      },
+      {
+        "quality": 92,
+        "rmse": 0.619326414586923,
+        "exact": false
+      },
+      {
+        "quality": 95,
+        "rmse": 0.7867312704738204,
+        "exact": false
+      },
+      {
+        "quality": 98,
+        "rmse": 0.7550776194823022,
+        "exact": false
+      },
+      {
+        "quality": 100,
+        "rmse": 0.7481664648991208,
+        "exact": false
+      }
+    ]
+  }
+]

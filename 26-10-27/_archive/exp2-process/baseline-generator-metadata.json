@@ -1,0 +1,41 @@
+{
+  "tool": "screen-readability-local",
+  "version": "0.1",
+  "fixture_id": "SCR-20261026T125353Z-GQ43",
+  "created_at": "2026-10-26T12:53:53.454Z",
+  "filename": "SCR-20261026T125353Z-GQ43-g32-f48.png",
+  "width": 1080,
+  "height": 2400,
+  "gray": 32,
+  "foreground_rgb": [
+    32,
+    32,
+    32
+  ],
+  "background_color": "#000000",
+  "opacity": 1,
+  "font_css": "400 48px Arial, sans-serif",
+  "font_size_px": 48,
+  "line_height_px": 62.400000000000006,
+  "text_x_px": 86,
+  "text_y_px": 672,
+  "text_bbox_layout_px": [
+    86,
+    672,
+    682.7578125,
+    312
+  ],
+  "background_image_filename": null,
+  "background_image_sha256": null,
+  "solid_patch": false,
+  "patch_bbox_px": null,
+  "nominal_contrast_ratio": 1.2888768719218509,
+  "nominal_contrast_note": "W3C sRGB relative luminance; nominal foreground/background only, not measured glyph-edge contrast or visibility.",
+  "blank_control": false,
+  "expected_text": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "layout_reference_text": null,
+  "browser_user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0",
+  "model_results": null,
+  "notes": "No AI or human test was executed. PNG must be displayed on the phone through the chosen screen-reading pathway; retain original file and actual device screenshot.",
+  "png_sha256": "243b5ed55bc9b9409be03fd208b868753047ebc03fa4d7bceeb4b5cb623ab797"
+}

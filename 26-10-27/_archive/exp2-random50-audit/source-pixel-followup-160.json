@@ -1,0 +1,2732 @@
+{
+  "scope": "Targeted supplemental pixel comparison only; not an additional random visual answer audit",
+  "region": [
+    65,
+    650,
+    1030,
+    1120
+  ],
+  "cases": [
+    {
+      "case_id": "f16-g01",
+      "font_px": 16,
+      "delta_g": 1,
+      "pixel_exact": false,
+      "max_abs_difference": 2,
+      "input_max": 1,
+      "source_screen_max": 2,
+      "rmse": 0.08975769388475399,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "b84cdf323a8361a313e7811c1f1a48a04b49c445b652d288f58a39bdb8eb20b5",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g02",
+      "font_px": 16,
+      "delta_g": 2,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 2,
+      "source_screen_max": 2,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "92e61e6cc505369aa956c302dca4d8edb0dbf39aae30e72404a3f35788bef729",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g03",
+      "font_px": 16,
+      "delta_g": 3,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 3,
+      "source_screen_max": 3,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "3e10520ff0defacc103edbd0631df5a2030e74552de6609c96886925d984f31a",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g04",
+      "font_px": 16,
+      "delta_g": 4,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 4,
+      "source_screen_max": 4,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "ac0b57bf48c113fc2502ca0bb80374c67e0bd029c3752cc1390acb0d9e0a4680",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g05",
+      "font_px": 16,
+      "delta_g": 5,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 5,
+      "source_screen_max": 5,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "0ec1ac34b066e6e491b738ce29f31a10420422f4ffbfb6a532b92a047f3f5300",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g06",
+      "font_px": 16,
+      "delta_g": 6,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 6,
+      "source_screen_max": 6,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "603f68af583702b58bcf226898324587944784090041bda9518f6e041057042f",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g07",
+      "font_px": 16,
+      "delta_g": 7,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 7,
+      "source_screen_max": 7,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "cfbb769fb42bd8e1ac0e39cdf0b82ffd6829dcb83d36a1595a2f42d711865fbd",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g08",
+      "font_px": 16,
+      "delta_g": 8,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 8,
+      "source_screen_max": 8,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "d973e348f704af145e8fa7e2cbde08bd2cc2d2cad5e7507b81f0d950c201ff5e",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g09",
+      "font_px": 16,
+      "delta_g": 9,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 9,
+      "source_screen_max": 9,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "2db49cf42ec3027f57c3f7e18dd7870b55fc090fc5239afa05c76baf7403d255",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g10",
+      "font_px": 16,
+      "delta_g": 10,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 10,
+      "source_screen_max": 10,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "787e23e8805ded4f5c059aff9648499b18437b6a3aafae493dfe3e87691038ad",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g11",
+      "font_px": 16,
+      "delta_g": 11,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 11,
+      "source_screen_max": 11,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5baa5eb91971396be47da9f7a641e409783bd82fded4c10524c0e59f25c1d6af",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g12",
+      "font_px": 16,
+      "delta_g": 12,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 12,
+      "source_screen_max": 12,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "4e5071c856ccd08539dfd4ad0efae056c58c5e6089607c0dc8f5824a012cd980",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g13",
+      "font_px": 16,
+      "delta_g": 13,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 13,
+      "source_screen_max": 13,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "65650afc3468fc50a619e4d7474aa135d85d4c3c362362e6b89ebee56ce01461",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g14",
+      "font_px": 16,
+      "delta_g": 14,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 14,
+      "source_screen_max": 14,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "44f1665ac6cf4938c60410dc5602d01c63396201303634181323c1d13b7467ac",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g15",
+      "font_px": 16,
+      "delta_g": 15,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 15,
+      "source_screen_max": 15,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "f0ea4c67e4bf73e82a3605df0d3e3e893598c8e041420bfdcd63ff2d5f5b0636",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g16",
+      "font_px": 16,
+      "delta_g": 16,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 16,
+      "source_screen_max": 16,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "f5ccf425491850ae2d1f88214c8c91bae8c78e77767402286ea46d3420aeec6f",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g17",
+      "font_px": 16,
+      "delta_g": 17,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 17,
+      "source_screen_max": 17,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "823203e7c6acd36853485656c8da68db262fe343745758cb55bf1080a70cec55",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g18",
+      "font_px": 16,
+      "delta_g": 18,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 18,
+      "source_screen_max": 18,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "2dcfa43a083076135766fbd4b11fea016843c518b3fc597b58f212d7e1035dc5",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g19",
+      "font_px": 16,
+      "delta_g": 19,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 19,
+      "source_screen_max": 19,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "ba177ce9b417bec5a104de2db0dd5906e6598b087fc3ca74f3483e674762efb4",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g20",
+      "font_px": 16,
+      "delta_g": 20,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 20,
+      "source_screen_max": 20,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "f51160d38c2319ab36dfb910903b6dc2d5711d13b2f57881973b2ba5cfa90bec",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g21",
+      "font_px": 16,
+      "delta_g": 21,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 21,
+      "source_screen_max": 21,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "754ef1c0c8a57654d161f57dd1c84f818b5c53e7b8e832ef8350f3feb176d7e8",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g22",
+      "font_px": 16,
+      "delta_g": 22,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 22,
+      "source_screen_max": 22,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "2a8b3e90f759160c704a53f260075511c6edb71c50e5b986b76464b9a0be73e5",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g23",
+      "font_px": 16,
+      "delta_g": 23,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 23,
+      "source_screen_max": 23,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "62e5dba439810d784b72338db1f207f3d4aaaaf70ac8f8443abf24563aa79637",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g24",
+      "font_px": 16,
+      "delta_g": 24,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 24,
+      "source_screen_max": 24,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "42b674b26a13676aba567548d571ded5b4b2f983e5c4dfdcf513ec677ca9a0f1",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g25",
+      "font_px": 16,
+      "delta_g": 25,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 25,
+      "source_screen_max": 25,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "845227ae614aa4cbff7873b938c7612568d4b7c618a97c49dfa9cd147b548480",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g26",
+      "font_px": 16,
+      "delta_g": 26,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 26,
+      "source_screen_max": 26,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "2c424398a0c3e661af7f0a013e0bca4faf2ae6b4db0458e9cdc2d04568dff1f3",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g27",
+      "font_px": 16,
+      "delta_g": 27,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 27,
+      "source_screen_max": 27,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "207da90e5166d28d1d56d6b1e16191f8f5607357d50197f4e0de0c8a6ccd34e1",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g28",
+      "font_px": 16,
+      "delta_g": 28,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 28,
+      "source_screen_max": 28,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6879b295417a32af49f57e5bd7581a4d0b151ba0fb9d44c5ac94ff4d04f76ae2",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g29",
+      "font_px": 16,
+      "delta_g": 29,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 29,
+      "source_screen_max": 29,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "7029e3577318dd8ba757c4fee84fbe0ad416c797159589a2f3dc03f1dc9c5ac7",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g30",
+      "font_px": 16,
+      "delta_g": 30,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 30,
+      "source_screen_max": 30,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "602afc9df387d6f1cffd822b79f8f5cb4fa7d44edfe62ae2ceefdc5bfce3877b",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g31",
+      "font_px": 16,
+      "delta_g": 31,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 31,
+      "source_screen_max": 31,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e2ef19dfe735d1607c1aff3af7dab83f107640ac4dfe5e53955a815e1a8125d9",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f16-g32",
+      "font_px": 16,
+      "delta_g": 32,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 32,
+      "source_screen_max": 32,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "791ce7470fc1ab5a610272ff02fd091a1ff58c1b15b71fd573b6c40a040624d7",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g01",
+      "font_px": 24,
+      "delta_g": 1,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 1,
+      "source_screen_max": 1,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "fc5b394a78cc8feedfa86246f385fa0879d0f138f0288bb8b519af08d3edab37",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g02",
+      "font_px": 24,
+      "delta_g": 2,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 2,
+      "source_screen_max": 2,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e7e703156025eae63c8387744f64430d778cbf61f74d01cd88c08d3984d0f500",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g03",
+      "font_px": 24,
+      "delta_g": 3,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 3,
+      "source_screen_max": 3,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "49ce60488be3bb1159b6ce63a244740aff9d451a8b1f5d892e1cbce423a8f28c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g04",
+      "font_px": 24,
+      "delta_g": 4,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 4,
+      "source_screen_max": 4,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6858c54cb2173fb3d20fd5018d40b557dfdfd689841f8d6840cd201e51f1dc0f",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g05",
+      "font_px": 24,
+      "delta_g": 5,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 5,
+      "source_screen_max": 5,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1c0f584c856ccb09989681b80d787e949f90400af868b2df144b8bed42aa96e6",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g06",
+      "font_px": 24,
+      "delta_g": 6,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 6,
+      "source_screen_max": 6,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "cd4536dbe09a3734eab4326f2fe6c5b1c6c8a7f106908dfb2f22e0e752fc17f0",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g07",
+      "font_px": 24,
+      "delta_g": 7,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 7,
+      "source_screen_max": 7,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "26225ec9e889c5f335322a1eb267d4ad1e438924352732ed549c26a7b1765754",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g08",
+      "font_px": 24,
+      "delta_g": 8,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 8,
+      "source_screen_max": 8,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "0b8a0e76b44614ab12be76c1c47a17b77410be33245dd91279280d823c9b3068",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g09",
+      "font_px": 24,
+      "delta_g": 9,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 9,
+      "source_screen_max": 9,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5797578bd6120d15fff4b985391a34b1abc8c52859942b44946bd5d1f9e5382e",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g10",
+      "font_px": 24,
+      "delta_g": 10,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 10,
+      "source_screen_max": 10,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "fa746caa9406bb32c8cafa0fb93b67c33eba4c2b929a52cc33d43dddb15b7486",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g11",
+      "font_px": 24,
+      "delta_g": 11,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 11,
+      "source_screen_max": 11,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "f83cd59b4dbd79838e926e8c37128f5e895135b283bdc38eaa57e36afc389cc3",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g12",
+      "font_px": 24,
+      "delta_g": 12,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 12,
+      "source_screen_max": 12,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "35da30cddbd874fb22850a16f6791769c431988695880aea06df43a1c3e112a5",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g13",
+      "font_px": 24,
+      "delta_g": 13,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 13,
+      "source_screen_max": 13,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "8e38875573d4dce7624dc575c6a7e208ef5c20f4a4c96179aa580f802465343c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g14",
+      "font_px": 24,
+      "delta_g": 14,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 14,
+      "source_screen_max": 14,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "cc63d64b87aeee9c778ab2d59ea3192f8e08126bbbd9f0f0f3b72639690bc724",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g15",
+      "font_px": 24,
+      "delta_g": 15,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 15,
+      "source_screen_max": 15,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "a79cfc38cfe4a7acf87154cf631fc7e1f142ab7ca4650dca4c1124f8171c664d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g16",
+      "font_px": 24,
+      "delta_g": 16,
+      "pixel_exact": false,
+      "max_abs_difference": 7,
+      "input_max": 16,
+      "source_screen_max": 22,
+      "rmse": 0.372716285088111,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6526c71d5034538f75d661a75e4355e017a7e71be7b96f35f7789510c4a03695",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g17",
+      "font_px": 24,
+      "delta_g": 17,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 17,
+      "source_screen_max": 17,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "2eba26509dfed51db17bb487af12dd26b4922f2d39e89af37b5d7a0ec988f02a",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g18",
+      "font_px": 24,
+      "delta_g": 18,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 18,
+      "source_screen_max": 18,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e05e20a3abe0941b6c984bd8333c639ec8517b2987a9d8bb21903d48ff90f69d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g19",
+      "font_px": 24,
+      "delta_g": 19,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 19,
+      "source_screen_max": 19,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e463ff7f66e6624f8de943ab6ff3f59ed4c5c627effb8e7ff14d581fa2a05dfc",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g20",
+      "font_px": 24,
+      "delta_g": 20,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 20,
+      "source_screen_max": 20,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "82358a79d40bb97d66f942b1765c390f485b03103f5c08494a76414e7e6c181d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g21",
+      "font_px": 24,
+      "delta_g": 21,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 21,
+      "source_screen_max": 21,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "d4b823bfaa74f379ec1680dcd2da9add14dd7dc6cfab66d4a78ed98c2aacc166",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g22",
+      "font_px": 24,
+      "delta_g": 22,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 22,
+      "source_screen_max": 22,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "459e5bc0cd9cbc8503f47c05eb9a0ba6506b171bd7d645a9636bc0f160e4f990",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g23",
+      "font_px": 24,
+      "delta_g": 23,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 23,
+      "source_screen_max": 23,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "06afab0660ead0337113a21b752222344d56c46478799ae088bdf559278b594c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g24",
+      "font_px": 24,
+      "delta_g": 24,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 24,
+      "source_screen_max": 24,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "f554ddd0b4afce114d396e72e714e785630d34e9ef7be9b9dcce0c3f43e64d14",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g25",
+      "font_px": 24,
+      "delta_g": 25,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 25,
+      "source_screen_max": 25,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "ac3c8a3f4e68c09d40930089dc3e757c724ff514fd3f910bfe922899ec0a6106",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g26",
+      "font_px": 24,
+      "delta_g": 26,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 26,
+      "source_screen_max": 26,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1061c9015cb036f28478549c8ef84b398faf54798a3d613dc6ab7036ea588448",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g27",
+      "font_px": 24,
+      "delta_g": 27,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 27,
+      "source_screen_max": 27,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "9c631657c69b201a9178e64694f7cc292f09cbc35399a0a566fe0c3ec70c3032",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g28",
+      "font_px": 24,
+      "delta_g": 28,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 28,
+      "source_screen_max": 28,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "b34bb5e8c57899975af9a80811b39e1ede042e72a2b0502a7c1b5eeda57df430",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g29",
+      "font_px": 24,
+      "delta_g": 29,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 29,
+      "source_screen_max": 29,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1b247cb2e27b0c09ea617758ee8a0332975b5643d6a212aec3a9258ecff96ecd",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g30",
+      "font_px": 24,
+      "delta_g": 30,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 30,
+      "source_screen_max": 30,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "c06bade25a75200dce6724f3b999ba0b30cd966e7d41828dcb87f22072c95496",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g31",
+      "font_px": 24,
+      "delta_g": 31,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 31,
+      "source_screen_max": 31,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e82d8688589eadb2705eb480cc9fd15e3f3e379c198e2076b8f02647d6d4b47b",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f24-g32",
+      "font_px": 24,
+      "delta_g": 32,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 32,
+      "source_screen_max": 32,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "07007383ca59bc0353645d8a43813b9d17436133242a52ff7a39c2cc6c588ac1",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g01",
+      "font_px": 32,
+      "delta_g": 1,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 1,
+      "source_screen_max": 1,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "ec31fcffa6301fcf54363e95f648d22afebd68a34890fd579f694ecde33cbcf1",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g02",
+      "font_px": 32,
+      "delta_g": 2,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 2,
+      "source_screen_max": 2,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "a173c318648e7552d30311b3d53115be9fd7f89f9c8a40e621caa6bc283a3131",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g03",
+      "font_px": 32,
+      "delta_g": 3,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 3,
+      "source_screen_max": 3,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5064fac3e1398c3938f91630aaab0c0b05e4ae6e31f3a7934f5cf67b58f30543",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g04",
+      "font_px": 32,
+      "delta_g": 4,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 4,
+      "source_screen_max": 4,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5b7eb5e8fce03d3b299dc8868be155d11343dcea807bb9cd457463e19e804cd7",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g05",
+      "font_px": 32,
+      "delta_g": 5,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 5,
+      "source_screen_max": 5,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "b36ace977f3b8826c7aad309b6ddc14e03f69ee290c16d00970074ed9bb6027c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g06",
+      "font_px": 32,
+      "delta_g": 6,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 6,
+      "source_screen_max": 6,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "0a0833bfb7f4bf0f630c3473e403855039614c289f48d6aeb516c7068819467d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g07",
+      "font_px": 32,
+      "delta_g": 7,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 7,
+      "source_screen_max": 7,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "7bc46c53e2c0d2d9ac855ba3474247a1f69db86fe307cb171cb3b10c24e23eb2",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g08",
+      "font_px": 32,
+      "delta_g": 8,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 8,
+      "source_screen_max": 8,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "47967cd7dd63123408d5d7062dbce956da18959c5b108e02fdc12d2591a9b78a",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g09",
+      "font_px": 32,
+      "delta_g": 9,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 9,
+      "source_screen_max": 9,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "cb7b4dd80d02c4540570b1d46b687b5c875251f8ad57382ce021f4281a2e37e7",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g10",
+      "font_px": 32,
+      "delta_g": 10,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 10,
+      "source_screen_max": 10,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "0a2a8620a2db741c6b9a4357c8503a27cf056bd1002ca353c9534663d7317d62",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g11",
+      "font_px": 32,
+      "delta_g": 11,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 11,
+      "source_screen_max": 11,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6b46fd6ea4fc45fbe42f50764cfdfb402f61f5d68a2d7a15930329b42a440b96",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g12",
+      "font_px": 32,
+      "delta_g": 12,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 12,
+      "source_screen_max": 12,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "64a4698de6070ee0fb2d7c5938387b3fe92fb42d823dfe47e9a30eb85e439abe",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g13",
+      "font_px": 32,
+      "delta_g": 13,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 13,
+      "source_screen_max": 13,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "385948a87ab8ef7cc48e9b5b266524e7896d176adcafaabfdb9c46d6caa3819e",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g14",
+      "font_px": 32,
+      "delta_g": 14,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 14,
+      "source_screen_max": 14,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "cc770b2d450759d1704155eb11f1c454210acf98900cd91103334b7780ac84f5",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g15",
+      "font_px": 32,
+      "delta_g": 15,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 15,
+      "source_screen_max": 15,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "4ae1c785dfe6cbcd779a91140fd057db5fc1fa02742ebe72653a9fe7d70937cb",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g16",
+      "font_px": 32,
+      "delta_g": 16,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 16,
+      "source_screen_max": 16,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1ffc583ff7ccfb4ad3a844d677ed55a4fd867ccf1017b34e9b180a9253ee4abd",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g17",
+      "font_px": 32,
+      "delta_g": 17,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 17,
+      "source_screen_max": 17,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "cb94a78b10460eb9bf41f4487f3a5e52e9837f6b33a1bc2890a0c3dcd030ffc4",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g18",
+      "font_px": 32,
+      "delta_g": 18,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 18,
+      "source_screen_max": 18,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1cbcbb6fb2d57427aa39151ad357d8720456bfbebf4a85b94e0fb2d024c939fb",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g19",
+      "font_px": 32,
+      "delta_g": 19,
+      "pixel_exact": false,
+      "max_abs_difference": 8,
+      "input_max": 19,
+      "source_screen_max": 26,
+      "rmse": 0.5192661222335633,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e38575b08b6ca13b261cd8804dc726378d7f236b783ecfffb7e3bdd7f4363161",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g20",
+      "font_px": 32,
+      "delta_g": 20,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 20,
+      "source_screen_max": 20,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "3120d4f2b6e702b7dd776ec2e35de64a7e5b8cb8987e71b9aa4eae0fa11f6f75",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g21",
+      "font_px": 32,
+      "delta_g": 21,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 21,
+      "source_screen_max": 21,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6eb30727153b7481b3ff8fa10b5ce36d8793a2e675ad8af2a2843c81eaaf9d75",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g22",
+      "font_px": 32,
+      "delta_g": 22,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 22,
+      "source_screen_max": 22,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6c632c256412179de89cccef89f12bb4d0ea16dfa0600e914464bdcb3bf4af5d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g23",
+      "font_px": 32,
+      "delta_g": 23,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 23,
+      "source_screen_max": 23,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1d24584dc053c9fe7442cd97aad026e150e8e4ca9b8eb8854f85722c2884bff7",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g24",
+      "font_px": 32,
+      "delta_g": 24,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 24,
+      "source_screen_max": 24,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "44b364690102c3af737a97b28daec5a2c448a7f1b83513259a47a9ac316888ab",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g25",
+      "font_px": 32,
+      "delta_g": 25,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 25,
+      "source_screen_max": 25,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "97f7f9aad20b00405afbe841e132da95f56d57a27bece2c80bbc4d6de81ffa98",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g26",
+      "font_px": 32,
+      "delta_g": 26,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 26,
+      "source_screen_max": 26,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "316baf2f761481110de8a57188660ca40b751ee4bfc9841f72cbc52036fe68d8",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g27",
+      "font_px": 32,
+      "delta_g": 27,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 27,
+      "source_screen_max": 27,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "da306f7b0a64b5da0df5ab26178277ec9df3159ce1119fe3fa4a672e76de7bf2",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g28",
+      "font_px": 32,
+      "delta_g": 28,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 28,
+      "source_screen_max": 28,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "f7cfaa77daa7db60acf5325678466414481028b5f79890c3af4f003e0edf1852",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g29",
+      "font_px": 32,
+      "delta_g": 29,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 29,
+      "source_screen_max": 29,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "3c244d1c5ba835a60f71b6a253ce002de8a5385b520a0feb15d34b286f933c2a",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g30",
+      "font_px": 32,
+      "delta_g": 30,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 30,
+      "source_screen_max": 30,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "3af5082edc0fead9b156ca61504e73f52b8e167ce122fd716fe65dbdb743b4c3",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g31",
+      "font_px": 32,
+      "delta_g": 31,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 31,
+      "source_screen_max": 31,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "b7b582f179dd2d98a61a14ddebe1772e963ee815889cb04252b2c907c3a2a89d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f32-g32",
+      "font_px": 32,
+      "delta_g": 32,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 32,
+      "source_screen_max": 32,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "ddecd3f6217dd7dbb32fbdb62d38ccf7140e9f9b17a63ead3f6dc797bfa3d26e",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g01",
+      "font_px": 40,
+      "delta_g": 1,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 1,
+      "source_screen_max": 1,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "fa4778e16ec49f8c6271d29dd4632aca9183d2a9e611c86652ded56d08dc0833",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g02",
+      "font_px": 40,
+      "delta_g": 2,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 2,
+      "source_screen_max": 2,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "aa0d1df7a6d888af800925f8f3bbf7b82cc08e5d9a2da5d7ce779dc6ea30aa73",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g03",
+      "font_px": 40,
+      "delta_g": 3,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 3,
+      "source_screen_max": 3,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "ee6f47d8cd4f14f59ec21d9a301364355741ad4053a6d015e843fd6d2bfa17fd",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g04",
+      "font_px": 40,
+      "delta_g": 4,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 4,
+      "source_screen_max": 4,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "044046c9ca79e1bb4f987c0366821b4e347c1f2a5e3e76d9e5822d9a9a368156",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g05",
+      "font_px": 40,
+      "delta_g": 5,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 5,
+      "source_screen_max": 5,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "a74b0c8371769effa52468d5e0e944536f2c93dff42d3bf7e3632ec9d509ee59",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g06",
+      "font_px": 40,
+      "delta_g": 6,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 6,
+      "source_screen_max": 6,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "b3a92e6c1a1251a06361313d4495ae3f650681612ed0742081d799ed08608100",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g07",
+      "font_px": 40,
+      "delta_g": 7,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 7,
+      "source_screen_max": 7,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "869cf0ad8a27e20597e8b2c82f014f47ddbee5ba3bee28332c340d6acc842622",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g08",
+      "font_px": 40,
+      "delta_g": 8,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 8,
+      "source_screen_max": 8,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e8c10ac510a85f1a28912c56efd9623ade755eb288fec209151172b235d303ef",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g09",
+      "font_px": 40,
+      "delta_g": 9,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 9,
+      "source_screen_max": 9,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "84a3adcdf942a86d7ffec3e1fa262b2295338d784a61bd5b11d3d69ab52b42a5",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g10",
+      "font_px": 40,
+      "delta_g": 10,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 10,
+      "source_screen_max": 10,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "b04524ba13ecb13c3b68b6548052525bcb4e1ccf2728b614cec0b93344d8fb37",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g11",
+      "font_px": 40,
+      "delta_g": 11,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 11,
+      "source_screen_max": 11,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "2ecc28e98f7c5b8d123e45c347dd262229b2850705a66616a7245b55ce8df266",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g12",
+      "font_px": 40,
+      "delta_g": 12,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 12,
+      "source_screen_max": 12,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "99430ffe1555848e301331e8675d501b8c971ae5dd6e88e98d1a3d34389bbd0b",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g13",
+      "font_px": 40,
+      "delta_g": 13,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 13,
+      "source_screen_max": 13,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "611b70f7af9be03d4981c3dd9eb07d88fbbca83daa8a9384f34e9bdaa91c2402",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g14",
+      "font_px": 40,
+      "delta_g": 14,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 14,
+      "source_screen_max": 14,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5d343fc54fc56994c6946fefde53196affa9f9c0746fdee9c9de659cd25a9635",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g15",
+      "font_px": 40,
+      "delta_g": 15,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 15,
+      "source_screen_max": 15,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e8f6d0f38cddb730f8a733dfcb19530d17568d7a1b7e2174391fb50cac012e9a",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g16",
+      "font_px": 40,
+      "delta_g": 16,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 16,
+      "source_screen_max": 16,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6e519deff054a822856e9f1460a8de2205d1efb8cf94f185436663984d5aebc0",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g17",
+      "font_px": 40,
+      "delta_g": 17,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 17,
+      "source_screen_max": 17,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "f97d0b3d4cff8f5781f3f77b8fb0715dfb79b3b1045f3817fa96f6f23ef93b77",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g18",
+      "font_px": 40,
+      "delta_g": 18,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 18,
+      "source_screen_max": 18,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1bc943375e51f09bfd41c80bff54d80911539cf0232e08f2eba75ef999ecd1de",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g19",
+      "font_px": 40,
+      "delta_g": 19,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 19,
+      "source_screen_max": 19,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "3d09c1a7760f67fab346376b28922d4b597cccf8b8a9e981808da2b90bb2d267",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g20",
+      "font_px": 40,
+      "delta_g": 20,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 20,
+      "source_screen_max": 20,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6d08a28b74e05c4cd913a76294614f44217c8b44df9c2f34a8951fff4db9429c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g21",
+      "font_px": 40,
+      "delta_g": 21,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 21,
+      "source_screen_max": 21,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6103967fd23f221669867df904c8141f651b41d341aec28e7cc1f297a39a254b",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g22",
+      "font_px": 40,
+      "delta_g": 22,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 22,
+      "source_screen_max": 22,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "4659b55e98e7927e6f0336fbb12ee93c78c1666cc4e7de806852088ed1270d05",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g23",
+      "font_px": 40,
+      "delta_g": 23,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 23,
+      "source_screen_max": 23,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "04eb803abb98aa9d5fbcc4e271d8b8d8ada870a333dba1d9318731e2e0fe9c53",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g24",
+      "font_px": 40,
+      "delta_g": 24,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 24,
+      "source_screen_max": 24,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "56095174ef63495c5f248cbfd39afa11e47b7bae0a661d778d96c43220ac9409",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g25",
+      "font_px": 40,
+      "delta_g": 25,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 25,
+      "source_screen_max": 25,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1bcd97adda15fda691fb503effa55f0408ad0d5562594b20ae143ad50bc84b31",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g26",
+      "font_px": 40,
+      "delta_g": 26,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 26,
+      "source_screen_max": 26,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "74f508604f34ec974a26a678852e981acc3b3d41a04a5ae3b3716cda6fab42c1",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g27",
+      "font_px": 40,
+      "delta_g": 27,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 27,
+      "source_screen_max": 27,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "18dcd09bd45ed25fbc1d9ffa0cbee526ceca2f3beb7af6cfa3ef94b50a7d5c6d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g28",
+      "font_px": 40,
+      "delta_g": 28,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 28,
+      "source_screen_max": 28,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "80548bfbc9700109026c39e53cca9fec21d84c36d8fdb5fd1ea81e6380fd30a0",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g29",
+      "font_px": 40,
+      "delta_g": 29,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 29,
+      "source_screen_max": 29,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "465fe200c5c6e4f2d2116c6c64a4604429f55d75a22465cc61db061411468a80",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g30",
+      "font_px": 40,
+      "delta_g": 30,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 30,
+      "source_screen_max": 30,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "80cfb3623d12406337af8aec4c3423f78377d066ea76ac166fabd4e9f319ebf5",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g31",
+      "font_px": 40,
+      "delta_g": 31,
+      "pixel_exact": false,
+      "max_abs_difference": 12,
+      "input_max": 31,
+      "source_screen_max": 42,
+      "rmse": 0.7384251790952261,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "45ae9744a86e8bc9474149d1ee2f44a4f101c9b562f4b027f8ba8a14d1775f08",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f40-g32",
+      "font_px": 40,
+      "delta_g": 32,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 32,
+      "source_screen_max": 32,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "c04d6281d433da34725e37f2419bbb82ce544eba680671b5f6366bae03fd3f4d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g01",
+      "font_px": 64,
+      "delta_g": 1,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 1,
+      "source_screen_max": 1,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "f6f8d600858e73d3ff8a0f633b4380594c50ce48f8b7bd2c20e2cbd7053a2166",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g02",
+      "font_px": 64,
+      "delta_g": 2,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 2,
+      "source_screen_max": 2,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "2b34064db5711a2d509832ac862161ecc9d718cd8870a3db7491afb1e4738437",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g03",
+      "font_px": 64,
+      "delta_g": 3,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 3,
+      "source_screen_max": 3,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "d4e81d8d6788da7076d9b3f011b983ee74d944949e09f03353b42a9195b92758",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g04",
+      "font_px": 64,
+      "delta_g": 4,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 4,
+      "source_screen_max": 4,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "be645ef10f43e0f79686ee847dc1d151e56471f150e35fb90dec284e0cc99f50",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g05",
+      "font_px": 64,
+      "delta_g": 5,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 5,
+      "source_screen_max": 5,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "29506bb00f209cc56406dbb4fca0975fabe400bd572795dfbbaa8ecbe7c44a8d",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g06",
+      "font_px": 64,
+      "delta_g": 6,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 6,
+      "source_screen_max": 6,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5c3c4187b22326aa07cbf2ab7ee92eda67d1b9dfe632cfc183a5d667058eb2d7",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g07",
+      "font_px": 64,
+      "delta_g": 7,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 7,
+      "source_screen_max": 7,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "bbd0ab7ec1c77752b56bc08bfc0931d968311dd2fce2a724f6d930eec65f70ff",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g08",
+      "font_px": 64,
+      "delta_g": 8,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 8,
+      "source_screen_max": 8,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "cc9f6baf03e93a19c3952367d439aa827c1bd81ccd561d11b845a95934cf3af1",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g09",
+      "font_px": 64,
+      "delta_g": 9,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 9,
+      "source_screen_max": 9,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "c199fbd335e2be1073fb36e5bfa98cb087d02aa21b5b7d597171321402989862",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g10",
+      "font_px": 64,
+      "delta_g": 10,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 10,
+      "source_screen_max": 10,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "125acb44db92ad357477716fdc9afb3c62e7ffcc45d7596e7aa30e552c928883",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g11",
+      "font_px": 64,
+      "delta_g": 11,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 11,
+      "source_screen_max": 11,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "0b93e29868924f90f46a154c36dced0625f1c58eec906eec4c3b7d98d494a8f4",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g12",
+      "font_px": 64,
+      "delta_g": 12,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 12,
+      "source_screen_max": 12,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "3fb5bb249264c08f53ab7966f5d38c6eae30a8e20112753fc2700d93e66e117c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g13",
+      "font_px": 64,
+      "delta_g": 13,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 13,
+      "source_screen_max": 13,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "21b21b14c5b8ffcbcf4db83decd2867a5d00c5de090e64f90e7f72f372f79938",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g14",
+      "font_px": 64,
+      "delta_g": 14,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 14,
+      "source_screen_max": 14,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "2f48cde18d9d0a523730e07232ee22200f2eb0691f51dda30c025c3f4bf37bb0",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g15",
+      "font_px": 64,
+      "delta_g": 15,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 15,
+      "source_screen_max": 15,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "c6c466fd731657430084a5f20c516b903199d5cfa376bd3a5f53d837b6bb89ac",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g16",
+      "font_px": 64,
+      "delta_g": 16,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 16,
+      "source_screen_max": 16,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "4059b3d485f09c6d27bf81a4fa0ccb9e013caaa481f0a8ef158571780504ca5e",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g17",
+      "font_px": 64,
+      "delta_g": 17,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 17,
+      "source_screen_max": 17,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "338d5248e41b71bef590ceead2ae6eba0728c062248f12a95e5fbc2872765cfa",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g18",
+      "font_px": 64,
+      "delta_g": 18,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 18,
+      "source_screen_max": 18,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "7ae20187087265bc4f0ccb282640829582787bce3fac7b475741262ad96b131c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g19",
+      "font_px": 64,
+      "delta_g": 19,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 19,
+      "source_screen_max": 19,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "16e6ec37059e83aaf934836b86587fc585a812551e25748d67244c8f8186973c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g20",
+      "font_px": 64,
+      "delta_g": 20,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 20,
+      "source_screen_max": 20,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "1ea478bd9b2c993a4bfe8c78d2694ec5080e7def5b1c43f19644dcc44706f941",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g21",
+      "font_px": 64,
+      "delta_g": 21,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 21,
+      "source_screen_max": 21,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "e6ac329b510373e9553cd1a1594475a9d6f9d36338189fe5af7e63afc68be672",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g22",
+      "font_px": 64,
+      "delta_g": 22,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 22,
+      "source_screen_max": 22,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "36d05851586142561990f9d93eac916fd047cc0c8acf6f945bbac121476a38c4",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g23",
+      "font_px": 64,
+      "delta_g": 23,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 23,
+      "source_screen_max": 23,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5aa838128349d0622a3306de5f7ec29f68c239022ff87783b4c2636550c6d3a0",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g24",
+      "font_px": 64,
+      "delta_g": 24,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 24,
+      "source_screen_max": 24,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5eb7ce94c19403d6c66cf98cf5930e5bededcd081995c1089208e3fbc1947105",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g25",
+      "font_px": 64,
+      "delta_g": 25,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 25,
+      "source_screen_max": 25,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "a81b3bfba027100dfb6494345ba64cb5bdad7240f213d95eb092fc09b713caa2",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g26",
+      "font_px": 64,
+      "delta_g": 26,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 26,
+      "source_screen_max": 26,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "cc423037ece7f0c2d3cd4294bcbb57beafce43664f91e0ae48af3e04dad9b1c1",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g27",
+      "font_px": 64,
+      "delta_g": 27,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 27,
+      "source_screen_max": 27,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "5e42252d9b94a6bfd13618ddc96361fbc8fc415cba412744279aee51e4bead4c",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g28",
+      "font_px": 64,
+      "delta_g": 28,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 28,
+      "source_screen_max": 28,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "6e7752dccfe27bab455194b1efcc471bf3f84ec7e64b08effaf30dbb6637fee0",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g29",
+      "font_px": 64,
+      "delta_g": 29,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 29,
+      "source_screen_max": 29,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "fdb852d2e95dcb58a96a8aa128ff704efe4deed77ce61313a9c66734945cb7fd",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g30",
+      "font_px": 64,
+      "delta_g": 30,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 30,
+      "source_screen_max": 30,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "0636344d9199d9f7190024f803897efbc1d38389896705c9e568eacf112f2b9b",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g31",
+      "font_px": 64,
+      "delta_g": 31,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 31,
+      "source_screen_max": 31,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "71f495fca5267743be9143c614e592cc06047274d735060f985dd3b29e005cee",
+      "alpha_range": [
+        255,
+        255
+      ]
+    },
+    {
+      "case_id": "f64-g32",
+      "font_px": 64,
+      "delta_g": 32,
+      "pixel_exact": true,
+      "max_abs_difference": 0,
+      "input_max": 32,
+      "source_screen_max": 32,
+      "rmse": 0.0,
+      "source_png_mode": "RGB",
+      "screen_png_mode": "RGBA",
+      "source_screen_sha256": "b570940b7569b5ed1b2890e223d7be867ab9c8618dc0c8057ff089f2dffe4112",
+      "alpha_range": [
+        255,
+        255
+      ]
+    }
+  ],
+  "source_screen_alpha": "All160 opaque (255,255)"
+}

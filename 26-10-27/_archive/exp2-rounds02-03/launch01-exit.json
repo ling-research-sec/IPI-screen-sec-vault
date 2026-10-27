@@ -1,0 +1,5 @@
+{
+  "exit_status": 1,
+  "error": "Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '-u', '/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py', 'run', '/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-02.json', '--execute']' returned non-zero exit status 1.",
+  "finished_utc": "2026-10-27T06:08:50.835317+00:00"
+}

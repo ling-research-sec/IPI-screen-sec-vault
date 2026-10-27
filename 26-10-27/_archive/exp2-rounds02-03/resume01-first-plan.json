@@ -1,0 +1,12 @@
+{
+  "jobs": [
+    {
+      "round": 3,
+      "value": "f24-g10",
+      "status": "pending"
+    }
+  ],
+  "total": 1,
+  "pending": 1,
+  "side_effects": false
+}

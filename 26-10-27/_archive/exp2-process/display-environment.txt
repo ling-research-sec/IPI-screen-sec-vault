@@ -1,0 +1,8 @@
+android=16
+Physical density: 440
+screen_off_timeout=60000
+screen_brightness=255
+screen_brightness_mode=0
+font_scale=1.0
+peak_refresh_rate=null
+min_refresh_rate=null

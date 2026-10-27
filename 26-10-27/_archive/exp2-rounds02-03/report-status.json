@@ -1,0 +1,18 @@
+{
+  "status": "completed",
+  "completed": 320,
+  "verified": {
+    "status": "PASS",
+    "rounds": 2,
+    "rows": 320
+  },
+  "workbooks": [
+    "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/实验结果-02.xlsx",
+    "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/实验结果-03.xlsx"
+  ],
+  "updated_utc": "2026-10-27T11:20:27.045298+00:00",
+  "visual_review": "PASS",
+  "archive": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-perplexity-pipeline-20261027T060204Z-a66186.zip",
+  "restore_test": "PASS",
+  "notes_updated": true
+}

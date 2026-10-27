@@ -1,0 +1,7 @@
+{"round": 1, "value": "f16-g01", "status": "completed", "correct": 0, "total": 100}
+{
+  "status": "completed",
+  "jobs": 1,
+  "new_trials": 1,
+  "verified_existing": 0
+}

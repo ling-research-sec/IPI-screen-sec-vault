@@ -1,0 +1,11 @@
+COMMAND ["/opt/homebrew/opt/python@3.14/bin/python3.14", "-u", "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", "run", "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-02.json", "--execute"]
+{
+  "status": "completed",
+  "jobs": 160,
+  "new_trials": 0,
+  "verified_existing": 160
+}
+COMMAND ["/opt/homebrew/opt/python@3.14/bin/python3.14", "-u", "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", "run", "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-03.json", "--execute"]
+PROGRESS {"status": "running", "completed": 288, "target": 320, "round_counts": {"02": 160, "03": 128}, "round": 3, "case": "f40-g32", "workflow_interruptions": 7, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T10:39:44.743783+00:00"}
+ERROR: Response timeout; preserve as uncertain, not [UNREADABLE]
+STOPPED CalledProcessError(1, ['/opt/homebrew/opt/python@3.14/bin/python3.14', '-u', '/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py', 'run', '/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-03.json', '--execute'])

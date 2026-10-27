@@ -1,0 +1,16 @@
+{
+  "status": "PASS_FOR_AUDIT_COMPLETENESS_NOT_UNCONDITIONAL_DATA_QUALITY",
+  "fixed_random_sample_reproduced": true,
+  "samples": 50,
+  "visual_reply_regions_reviewed": 50,
+  "no_visible_reply_mismatches_observed": 50,
+  "source_pixel_exact_in_sample": 48,
+  "source_fidelity_exceptions_in_sample": 2,
+  "targeted_followup_source_pixels": 160,
+  "targeted_followup_exceptions": 4,
+  "formal_files_unchanged": 841,
+  "report_and_gallery_links_checked": 312,
+  "original_data_writes": 0,
+  "device_requests": 0,
+  "completed_at": "2026-10-27T12:51:40.921950+08:00"
+}

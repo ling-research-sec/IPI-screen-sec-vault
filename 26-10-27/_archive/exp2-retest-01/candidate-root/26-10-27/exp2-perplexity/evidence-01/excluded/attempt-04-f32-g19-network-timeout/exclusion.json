@@ -1,0 +1,10 @@
+{
+  "case_id": "f32-g19",
+  "submitted": true,
+  "reason": "PipelineError: Response timeout; preserve as uncertain, not [UNREADABLE]",
+  "score": null,
+  "valid_result": false,
+  "disposition": "User reported network recovered and explicitly requested continuation; prior process ended; fresh retry approved",
+  "previous_runner_pid": 30976,
+  "excluded_utc": "2026-10-27T02:57:53.339660+00:00"
+}

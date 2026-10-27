@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "original_capture_archive": {
+    "status": "PASS",
+    "archive": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-perplexity-pipeline-20261027T060204Z-a66186.zip",
+    "archive_sha256": "1f213aadc52e267fb4bff482c6a9301d61a163937f9e7c2d9271fdb0a4037d83",
+    "restored_files": 3562,
+    "restored_symlinks": 1,
+    "crc": "PASS",
+    "independent_restore": "PASS",
+    "all_restored_sha256": "PASS"
+  },
+  "random100_audit_archive": {
+    "status": "PASS",
+    "archive": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-random100-audit-02-03.zip",
+    "archive_sha256": "55626a04565ec58a9f308ea5f33628aed4aba32f0afb4c5ca14e506844597bed",
+    "restored_files": 252,
+    "restored_symlinks": 0,
+    "crc": "PASS",
+    "independent_restore": "PASS",
+    "all_restored_sha256": "PASS"
+  },
+  "completed_utc": "2026-10-27T11:40:10.620133+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "supervisor_pid": 54184,
+  "runner_pid": 54261,
+  "command": [
+    "/opt/homebrew/opt/python@3.14/bin/python3.14",
+    "-u",
+    "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py",
+    "run",
+    "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-03.json",
+    "--execute"
+  ],
+  "started_utc": "2026-10-27T10:26:43.571558+00:00",
+  "log": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/run-resume03-03.log",
+  "status_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/status.json"
+}

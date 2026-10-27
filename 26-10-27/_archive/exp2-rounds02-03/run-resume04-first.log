@@ -1,0 +1,7 @@
+{"round": 3, "value": "f64-g05", "status": "completed", "correct": 73, "total": 100}
+{
+  "status": "completed",
+  "jobs": 1,
+  "new_trials": 1,
+  "verified_existing": 0
+}

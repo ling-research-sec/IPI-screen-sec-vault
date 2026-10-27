@@ -1,0 +1,45 @@
+Changed fields: Config.conditions; recorded font_px/delta_g; scored round/font/gray; filtered XLSX A9:M with J字号/KΔg/L轮次/M CER; historical 48px 3-round mean comparison; merged titles. Acquisition, scoring and unfinished-state guards reused.
+MODIFIED_FILE=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/runner/pipeline.py
+DIFF_FILE=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/changes.diff
+VERIFICATION=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/VERIFICATION.txt
+ROLLBACK=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/ROLLBACK.sh
+
+BASELINE
+{
+  "command": "set -o pipefail; python3 \"$W/baseline/test_pipeline.py\" 2>&1 | tail -1",
+  "environment": {
+    "W": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process"
+  },
+  "input": "No stdin; isolated offline FakeDevice fixtures; no Android requests",
+  "literal_stdout": "OK\n",
+  "literal_stderr": "",
+  "exit_status": 0
+}
+
+MODIFIED
+{
+  "command": "set -o pipefail; python3 \"$W/runner/test_pipeline.py\" 2>&1 | tail -1 && python3 \"$W/runner/test_conditions.py\" 2>&1 | tail -1",
+  "environment": {
+    "W": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process"
+  },
+  "input": "No stdin; isolated offline FakeDevice fixtures; no Android requests",
+  "literal_stdout": "OK\nOK\n",
+  "literal_stderr": "",
+  "exit_status": 0
+}
+
+ROLLBACK
+{
+  "command": "set -o pipefail; \"$W/ROLLBACK.sh\" \"$W/rollback-verification\" && python3 \"$W/rollback-verification/test_pipeline.py\" 2>&1 | tail -1",
+  "environment": {
+    "W": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process"
+  },
+  "input": "No stdin; isolated offline FakeDevice fixtures; no Android requests",
+  "literal_stdout": "ROLLBACK PASS: original pipeline.py and report.mjs restored\nOK\n",
+  "literal_stderr": "",
+  "exit_status": 0
+}
+
+Restored behavior/status: disposable rollback copy matches original pipeline.py and report.mjs byte-for-byte; original offline tests return OK, exit0. Modified runner remains changed.
+Experiment1 read-only: 944 historical files unchanged. Original Skill files unchanged.
+Observed valid real records at this check: 160/160; this is not a completion assertion.

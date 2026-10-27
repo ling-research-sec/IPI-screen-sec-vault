@@ -1,0 +1,13 @@
+{"round": 2, "value": "f16-g01", "status": "verified-existing"}
+Traceback (most recent call last):
+  File "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", line 569, in <module>
+    try:main()
+  File "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", line 557, in main
+    jobs=run(c);result=dict(status='completed',jobs=len(jobs),new_trials=sum(x['status']=='completed' for x in jobs),verified_existing=sum(x['status']=='verified-existing' for x in jobs))
+  File "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", line 385, in run
+    result=run_trial(c,device,n,v);results.append(result);print(json.dumps(result,ensure_ascii=False),flush=True)
+  File "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", line 324, in run_trial
+    source_fidelity=source_fidelity_gate(c,device,v,source_screen,d)
+  File "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", line 279, in source_fidelity_gate
+    from PIL import Image,ImageChops
+ModuleNotFoundError: No module named 'PIL'

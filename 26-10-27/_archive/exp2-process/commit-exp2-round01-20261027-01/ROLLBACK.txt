@@ -1,0 +1,2 @@
+ROLLBACK: removed=1204 restored_notes=YES baseline_files=866
+ROLLBACK: PASS

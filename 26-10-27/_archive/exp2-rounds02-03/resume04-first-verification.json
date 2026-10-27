@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "case": "f64-g05",
+  "round": 3,
+  "reply": "VJEATTWOYHQLUIEZCDZ\nPQLOFEFQAXKGFTIETK\nETWUIWEIKOKIIMOJKARE\nHPAHTEXPURNKYOYHOSZH\nOWEGDAHTYWPPSYPGNNAL",
+  "correct": 73,
+  "source_fidelity": "PASS two exact RGB frames",
+  "evidence_hashes": "PASS",
+  "xml_reply": "PASS",
+  "deterministic_score": "PASS",
+  "existing292": "UNCHANGED",
+  "protected_exp1_and_01": "UNCHANGED",
+  "verified_utc": "2026-10-27T10:48:54.628984+00:00"
+}

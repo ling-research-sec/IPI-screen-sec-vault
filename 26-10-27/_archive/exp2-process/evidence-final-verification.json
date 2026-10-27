@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "valid_rows": 160,
+  "per_font": {
+    "16": 32,
+    "24": 32,
+    "32": 32,
+    "40": 32,
+    "64": 32
+  },
+  "source_images": 160,
+  "raw_replies": 160,
+  "assistant_screenshots": 160,
+  "source_screens": 160,
+  "scored_records": 160,
+  "total_correct": 5730,
+  "target_characters": 16000,
+  "hashes_and_scores": "PASS",
+  "prompt_and_completion_ui": "PASS",
+  "visual_qa": "PASS: two sheets, first/final rows, full comparison and baseline",
+  "workflow_exceptions": 5,
+  "formal_excluded_directories": 4,
+  "initial_interruption_process_directory": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/interrupted-attempt-01",
+  "xlsx_sha256": "6f8e2eb65e2f230d8fac98450f9abfd5053694c29dab72cc96e3df7172715024"
+}

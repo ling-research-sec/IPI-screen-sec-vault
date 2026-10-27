@@ -1,0 +1,15 @@
+{
+  "checkpoint": 96,
+  "completed": 96,
+  "valid_evidence": 96,
+  "font_px": 32,
+  "delta_g": 32,
+  "scan_failures": 0,
+  "per_font": {
+    "16": 32,
+    "24": 32,
+    "32": 32,
+    "40": 0,
+    "64": 0
+  }
+}

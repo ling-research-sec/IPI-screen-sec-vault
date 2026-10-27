@@ -1,0 +1,42 @@
+{
+  "reviewer": "assistant visual inspection, not independent human sign-off",
+  "boards_reviewed": [
+    "boards/board-01.png",
+    "boards/board-02.png",
+    "boards/board-03.png",
+    "boards/board-04.png",
+    "boards/board-05.png",
+    "boards/board-06.png",
+    "boards/board-07.png",
+    "boards/board-08.png",
+    "boards/board-09.png",
+    "boards/board-10.png",
+    "boards/board-11.png",
+    "boards/board-12.png",
+    "boards/board-13.png",
+    "boards/board-14.png",
+    "boards/board-15.png",
+    "boards/board-16.png",
+    "boards/board-17.png",
+    "boards/board-18.png",
+    "boards/board-19.png",
+    "boards/board-20.png",
+    "boards/board-21.png"
+  ],
+  "random_cases_reviewed": 100,
+  "targeted_extra_reviewed": 2,
+  "visible_reply_mismatch_observed": 0,
+  "large_crops_reviewed": [
+    "r02-f40-g12",
+    "r03-f32-g22",
+    "r03-f32-g28",
+    "r03-f32-g21"
+  ],
+  "notes": {
+    "r02-f40-g12": "[UNK]后为QZ，Q尾部可见；OCR将Q误识为O。",
+    "r03-f32-g22": "第三行[UNK]右括号闭合，之后为I；OCR将]误识为J。",
+    "r03-f32-g28": "第三行FTWLWEL中L有下横，OCR误识为I。",
+    "r03-f32-g21": "第二行[UNK]右括号闭合，OCR误识为竖线。"
+  },
+  "other_ocr_differences": "Latin/Cyrillic homoglyph code-point differences; screenshot glyphs agree; original XML and TXT codepoints match."
+}

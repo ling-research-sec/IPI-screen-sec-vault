@@ -1,0 +1,16 @@
+{
+  "pid": 18630,
+  "supervisor_pid": 18629,
+  "log": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/run-resume-08.log",
+  "exit_status_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/run-resume-08-exit.json",
+  "config": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/config-full.json",
+  "command": [
+    "/opt/homebrew/opt/python@3.14/bin/python3.14",
+    "-u",
+    "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/runner/pipeline.py",
+    "run",
+    "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/config-full.json",
+    "--execute"
+  ],
+  "started_unix": 1793072240.071556
+}

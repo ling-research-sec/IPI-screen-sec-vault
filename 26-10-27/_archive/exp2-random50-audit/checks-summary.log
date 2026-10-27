@@ -1,0 +1,8 @@
+{
+  "sample": 50,
+  "all_file_xml_sheet_checks_pass": 50,
+  "source_pixel_exact": 48,
+  "source_pixel_different": 2,
+  "reply_transcription_cases": 19,
+  "visual_boards": 25
+}

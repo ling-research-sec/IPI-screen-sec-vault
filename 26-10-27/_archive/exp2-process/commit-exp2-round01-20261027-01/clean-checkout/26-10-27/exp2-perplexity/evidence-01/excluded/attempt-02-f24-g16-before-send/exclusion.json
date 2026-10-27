@@ -1,0 +1,9 @@
+{
+  "case_id": "f24-g16",
+  "submitted": false,
+  "reason": "CalledProcessError: Command '['adb', '-s', '75ea8363', 'shell', 'uiautomator dump /sdcard/android-screen-readability-ui.xml']' returned non-zero exit status 255.",
+  "disposition": "excluded workflow attempt; no score; user requested continuation and retry",
+  "previous_runner_pid": 65186,
+  "previous_runner_ended": true,
+  "excluded_utc": "2026-10-27T02:23:30.569450+00:00"
+}

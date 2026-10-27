@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "round": 2,
+  "case": "f16-g01",
+  "complete_reply": "[UNREADABLE]",
+  "correct": 0,
+  "source_fidelity": "PASS two exact frames",
+  "evidence_hashes": "PASS",
+  "xml_reply": "PASS",
+  "score": "PASS",
+  "protected_01_and_exp1": "UNCHANGED"
+}

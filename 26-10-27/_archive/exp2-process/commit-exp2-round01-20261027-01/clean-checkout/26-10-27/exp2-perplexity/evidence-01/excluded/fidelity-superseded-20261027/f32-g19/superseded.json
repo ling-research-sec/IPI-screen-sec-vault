@@ -1,0 +1,7 @@
+{
+  "reason": "input display fidelity exception; replaced by user-authorized exact-source retest",
+  "old_correct": 74,
+  "new_correct": 69,
+  "not_best_score_selection": true,
+  "old_record_sha256": "0a735b277b5f1e057c28826f1bae4210c6f76caa3d948bdab246098384a7de51"
+}

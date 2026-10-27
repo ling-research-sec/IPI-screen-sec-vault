@@ -1,0 +1,47 @@
+{
+  "status": "NO_MISMATCH_OBSERVED_IN_RANDOM100",
+  "population": 320,
+  "rounds": [
+    2,
+    3
+  ],
+  "sample_size": 100,
+  "without_replacement": true,
+  "seed_hex": "fe3998b6404dc75c5f0ee8c738cb91908b9fe69519e8f6e42259aa052fc0916f",
+  "sample_manifest_sha256": "c053ecbd6afdeb7dece85152047e4de1bb6eb260a7b19d266084fc0936dad466",
+  "sample_round_counts": {
+    "2": 43,
+    "3": 57
+  },
+  "sample_font_counts": {
+    "16": 20,
+    "24": 19,
+    "32": 19,
+    "40": 21,
+    "64": 21
+  },
+  "distinct_source_conditions": 85,
+  "file_xml_score_xlsx_checks_pass": 100,
+  "source_pixel_exact": 100,
+  "visible_reply_mismatches": 0,
+  "independent_ocr_exact": 83,
+  "ocr_differences_visually_reviewed": 17,
+  "unreadable_replies": 64,
+  "transcription_replies": 36,
+  "targeted_retry_conditions": 4,
+  "targeted_already_in_random_sample": 2,
+  "targeted_extra": 2,
+  "targeted_retry_mismatches": 0,
+  "all320_automated_reverify": "PASS",
+  "both_workbook_tabs_per_round": "PASS",
+  "formal_files_unchanged": 3797,
+  "new_device_requests": 0,
+  "data_or_score_changes": false,
+  "metadata_note": "image-manifest.json retained source round=1 from reused original PNGs; actual trial rounds2/3 independently checked in records/state/XLSX",
+  "limits": [
+    "Sampled screenshot content inspection is not a visual census of all320 trials.",
+    "Identical [UNREADABLE] text does not uniquely identify cases; assignment is supported by source image, source-query, fresh input, archived protocol/state and record chain.",
+    "Source-screen captures are not direct interception of the model internal image input.",
+    "OCR code-point substitutions in visually identical glyphs are not changes to source XML or saved responses."
+  ]
+}

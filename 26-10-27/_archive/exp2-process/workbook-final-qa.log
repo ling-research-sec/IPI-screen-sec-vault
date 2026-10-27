@@ -1,0 +1,3 @@
+{"kind":"table","sheet":"实验结果","address":"A164:M169","rows":6,"cols":13,"values":[["f64-g27",98,0.98,2,0,0,0,"最大亮度","部分转写",64,27,1,0.02],["f64-g28",95,0.95,5,0,1,0,"最大亮度","部分转写",64,28,1,0.06],["f64-g29",98,0.98,2,0,1,0,"最大亮度","部分转写",64,29,1,0.03],["f64-g30",98,0.98,2,0,0,0,"最大亮度","部分转写",64,30,1,0.02],["f64-g31",97,0.97,3,0,0,0,"最大亮度","部分转写",64,31,1,0.03],["f64-g32",98,0.98,2,0,1,0,"最大亮度","部分转写",64,32,1,0.03]]}
+{"kind":"notice","message":"Cell search matched 0 entries."}
+SAVED WORKBOOK READ-ONLY QA PASS: both sheets, final rows, no formula errors; comparison input-change/restore verified in memory; workbook not re-exported

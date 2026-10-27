@@ -1,0 +1,65 @@
+Experiment 2 round 01 commit verification
+
+Branch: main
+Commit: f1443143c643335e21ec60d6f0a8bbfb2a8608b0
+Commit subject: feat(perplexity): add exp2 round 01 results
+Changed field: documentation explains workbook px-to-f case ID mapping and Git-local UI evidence paths; added 1,203 indexed evidence files plus the index. Original 160 records, responses, images, screenshots, scores, and workbook were not modified.
+MODIFIED_FILE: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/实验说明.md
+DIFF_FILE: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/实验说明.diff
+VERIFICATION.txt: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/VERIFICATION.txt
+ROLLBACK.sh: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/ROLLBACK.sh
+Original notes SHA-256: cd2b529ce2cebc95bcb71c8f8e445cd8e9f11e5d2a925692accdf7512c9de8a2
+Modified notes SHA-256: b86725a6b95d8e8bced8a354a25c16856dc43c9adc052adf13297b284989bab4
+Preserved workbook SHA-256: 8fc8ac4134e899160eb096f6da50336b32ce6383eb3ca4e45aa24520952cb32f
+
+BASELINE
+Command: PYTHONDONTWRITEBYTECODE=1 /Users/y4n9/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/verify_round01.py baseline --repo /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault --base /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity --archives /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive
+Input: original formal files before note/index extraction, including the user-updated workbook.
+Literal output:
+BASELINE: cases=160 asset_hashes=640 source_pixels=160/160
+BASELINE: scores=5724/16000 answer_xml=160 prompt_xml=160 historical=96 retests=4
+BASELINE: workbook_rows=160 excel_ids=px-to-f indexed_files=0
+BASELINE: PASS
+Exit status: 0
+
+MODIFIED
+Command: PYTHONDONTWRITEBYTECODE=1 /Users/y4n9/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/verify_round01.py modified --repo /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault --base /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity
+Input: committed formal experiment directory.
+Literal output:
+MODIFIED: cases=160 asset_hashes=640 source_pixels=160/160
+MODIFIED: scores=5724/16000 answer_xml=160 prompt_xml=160 historical=96 retests=4
+MODIFIED: workbook_rows=160 excel_ids=px-to-f indexed_files=1203
+MODIFIED: PASS
+Exit status: 0
+
+ROLLBACK
+Command: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/ROLLBACK.sh /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/rollback-copy
+Input: independent modified test copy, not the committed directory.
+Literal output:
+ROLLBACK: removed=1204 restored_notes=YES baseline_files=866
+ROLLBACK: PASS
+Exit status: 0
+
+ROLLBACK_BEHAVIOR
+Command: PYTHONDONTWRITEBYTECODE=1 /Users/y4n9/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/verify_round01.py rollback --repo /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault --base /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/rollback-copy --archives /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive
+Input: restored independent test copy.
+Literal output:
+ROLLBACK: cases=160 asset_hashes=640 source_pixels=160/160
+ROLLBACK: scores=5724/16000 answer_xml=160 prompt_xml=160 historical=96 retests=4
+ROLLBACK: workbook_rows=160 excel_ids=px-to-f indexed_files=0
+ROLLBACK: PASS
+Exit status: 0
+
+CHECKOUT
+Command: PYTHONDONTWRITEBYTECODE=1 /Users/y4n9/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/verify_round01.py checkout --repo /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/clean-checkout --base /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/commit-exp2-round01-20261027-01/clean-checkout/26-10-27/exp2-perplexity
+Input: independent archive of the exact committed tree; no process archives present.
+Literal output:
+CHECKOUT: cases=160 asset_hashes=640 source_pixels=160/160
+CHECKOUT: scores=5724/16000 answer_xml=160 prompt_xml=160 historical=96 retests=4
+CHECKOUT: workbook_rows=160 excel_ids=px-to-f indexed_files=1203
+CHECKOUT: PASS
+Exit status: 0
+
+Restored behavior/status: all 866 original files matched baseline hashes; 1,204 added files were removed from the independent test copy; the original notes were restored there. The formal directory remains modified and committed. ROLLBACK.sh affects files only and does not undo the Git commit.
+Git: staged exact 2,070 formal files; git diff --cached --check passed; staged tree equals committed tree f5633816e4e14bf2760680279381ba422d49b994; no process ZIPs or unrelated files were committed. No push was performed.
+Initial detached-copy verification reported a relative-link failure due to the copy depth; the test harness was corrected to resolve the existing experiment-one reference through the supplied repository. The rerun and the independent Git-tree checkout passed.

@@ -1,0 +1,9 @@
+{
+  "status": "collection_stopped_no_reports_generated",
+  "capture_exit": {
+    "exit_status": 1,
+    "error": "Command '['/opt/homebrew/opt/python@3.14/bin/python3.14', '-u', '/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py', 'run', '/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-03.json', '--execute']' returned non-zero exit status 1.",
+    "finished_utc": "2026-10-27T10:46:05.963467+00:00"
+  },
+  "updated_utc": "2026-10-27T10:46:13.924425+00:00"
+}

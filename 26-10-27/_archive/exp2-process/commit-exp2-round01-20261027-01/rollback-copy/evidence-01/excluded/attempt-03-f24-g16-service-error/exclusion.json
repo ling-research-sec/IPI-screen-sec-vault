@@ -1,0 +1,9 @@
+{
+  "case_id": "f24-g16",
+  "submitted": true,
+  "reason": "Perplexity displayed 出现错误，请重试; no copy control or stable full answer",
+  "score": null,
+  "disposition": "User confirmed normal connectivity and explicitly approved exclusion and a fresh trial",
+  "excluded_utc": "2026-10-27T02:25:59.080822+00:00",
+  "previous_runner_exit": 130
+}

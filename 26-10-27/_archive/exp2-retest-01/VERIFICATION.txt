@@ -1,0 +1,12 @@
+Changed branch: optional source_fidelity_gate before assistant invocation;2 exact RGB ROI frames required.
+MODIFIED_FILE=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/runner/pipeline.py
+DIFF_FILE=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/changes.diff
+VERIFICATION=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/VERIFICATION.txt
+ROLLBACK=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/ROLLBACK.sh
+BASELINE: python3 /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/baseline/test_pipeline.py; input offline fixtures; output Ran35tests / OK; exit0.
+MODIFIED: python3 /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/runner/test_pipeline.py; input offline fixtures; output Ran35tests / OK; exit0.
+GATE: python3 /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/runner/test_fidelity.py; input offline fixtures; output Ran32tests / OK; exit0.
+ROLLBACK: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/ROLLBACK.sh /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/rollback-test && python3 /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-retest-01/rollback-test/test_pipeline.py; input disposable copy; output ROLLBACK PASS: source-fidelity guard reverted in test copy / Ran35tests / OK; exit0.
+Restored baseline behavior in disposable copy; modified production runner remains changed. Formal originals backed up; not yet replaced.
+
+FINAL INTEGRATION PASS:4 retests installed;156 cases unchanged;160 source RGB regions exact;current total5724/16000. Skill archive independent restore PASS.

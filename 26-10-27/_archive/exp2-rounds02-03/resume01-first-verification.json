@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "case": "f24-g10",
+  "round": 3,
+  "reply": "[UNREADABLE]",
+  "score": 0,
+  "source_fidelity": "PASS two exact RGB frames",
+  "hashes": "PASS",
+  "xml_reply": "PASS",
+  "deterministic_score": "PASS",
+  "existing201_and_other_files": "UNCHANGED except excluded source path moved without byte changes",
+  "protected_exp1_and_01": "UNCHANGED",
+  "verified_utc": "2026-10-27T09:14:47.789709+00:00"
+}

@@ -1,0 +1,1 @@
+Row: 0 _id=640, _display_name=f16-g01.png, mime_type=image/png, width=1080, height=2400, _data=/storage/emulated/0/Pictures/26-10-27-exp2/f16-g01.png

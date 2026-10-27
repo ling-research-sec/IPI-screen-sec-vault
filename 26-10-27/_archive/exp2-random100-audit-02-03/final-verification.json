@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "completed_trials": 320,
+  "random_sample": 100,
+  "round_sample": {
+    "02": 43,
+    "03": 57
+  },
+  "random_visible_mismatches": 0,
+  "random_source_rgb_exact": 100,
+  "targeted_retry_checks": 4,
+  "targeted_extra": 2,
+  "new_trial_requests": 0,
+  "workbooks_unchanged": {
+    "实验结果-01.xlsx": "8fc8ac4134e899160eb096f6da50336b32ce6383eb3ca4e45aa24520952cb32f",
+    "实验结果-02.xlsx": "fa3daa47354d932d9d86f321d0e1a52b0a844978b495a3bc0bad4c7484641640",
+    "实验结果-03.xlsx": "bc8932fafc1781bb749439adbfc4dc302f21c6ab8bc4c254ca1d1a4614c24da1"
+  },
+  "only_formal_change": "实验说明.md",
+  "notes_sha256": "fbd474cdaf57dd1accfcf98c3cd7b9806429f4cf113c3a148ff220cf5ad245a9",
+  "restore_summary": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-random100-audit-02-03/restore-summary.json",
+  "audit_index": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-random100-audit-02-03/index.html",
+  "completed_utc": "2026-10-27T11:40:11.508913+00:00"
+}

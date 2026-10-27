@@ -1,0 +1,90 @@
+{
+  "status": "PASS",
+  "skill_verify": {
+    "status": "PASS",
+    "rounds": 2,
+    "rows": 320
+  },
+  "rounds": [
+    {
+      "round": 2,
+      "valid": 160,
+      "per_font": {
+        "16": 32,
+        "24": 32,
+        "32": 32,
+        "40": 32,
+        "64": 32
+      },
+      "source_rgb_exact": 160,
+      "total_correct": 5652,
+      "total_characters": 16000,
+      "mean_accuracy": 0.35325,
+      "substitutions": 584,
+      "deletions": 9764,
+      "insertions": 74,
+      "per_font_mean": {
+        "16": 0.0,
+        "24": 0.0,
+        "32": 0.3409375,
+        "40": 0.5984375,
+        "64": 0.826875
+      },
+      "started_utc": "2026-10-27T06:05:36.595573+00:00",
+      "completed_utc": "2026-10-27T08:07:43.869666+00:00"
+    },
+    {
+      "round": 3,
+      "valid": 160,
+      "per_font": {
+        "16": 32,
+        "24": 32,
+        "32": 32,
+        "40": 32,
+        "64": 32
+      },
+      "source_rgb_exact": 160,
+      "total_correct": 5749,
+      "total_characters": 16000,
+      "mean_accuracy": 0.3593125,
+      "substitutions": 695,
+      "deletions": 9556,
+      "insertions": 96,
+      "per_font_mean": {
+        "16": 0.0,
+        "24": 0.0,
+        "32": 0.3459375,
+        "40": 0.624375,
+        "64": 0.82625
+      },
+      "started_utc": "2026-10-27T08:07:54.292976+00:00",
+      "completed_utc": "2026-10-27T11:12:49.183151+00:00"
+    }
+  ],
+  "checks": [
+    "original/source-copy/phone hashes",
+    "raw reply, XML and PNG hashes",
+    "exact RGB source ROI",
+    "two consecutive exact frames",
+    "brightness255 manual before/after",
+    "deterministic score",
+    "reference/Prompt",
+    "two workbook tabs, 160 unique px aliases, conditions and formula totals",
+    "historical48px rows and protected01/exp1 hashes"
+  ],
+  "workflow_exclusions": {
+    "2": [
+      "evidence-02/excluded/attempt-01-f16-g01-locked-before-send",
+      "evidence-02/excluded/attempt-02-f16-g01-source-before-send",
+      "evidence-02/excluded/attempt-03-f16-g01-cached-uri-before-send",
+      "evidence-02/excluded/attempt-04-f16-g02-runtime-before-send"
+    ],
+    "3": [
+      "evidence-03/excluded/attempt-01-f24-g10-network-timeout",
+      "evidence-03/excluded/attempt-02-f24-g29-network-timeout",
+      "evidence-03/excluded/attempt-03-f40-g17-response-timeout",
+      "evidence-03/excluded/attempt-04-f64-g05-response-timeout"
+    ]
+  },
+  "ui_storage": "owned live work"
+}

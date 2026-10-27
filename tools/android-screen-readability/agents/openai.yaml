@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android 屏幕识读实验"
+  short_description: "复用手机屏幕识读实验流程，分轮采集证据、评分并维护简洁结果表"
+  default_prompt: "使用 $android-screen-readability 配置并预检屏幕识读实验，确认范围与条件后再开始采集。"

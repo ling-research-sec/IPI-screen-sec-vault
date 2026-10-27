@@ -1,0 +1,10 @@
+MODIFIED_FILE=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-commit-rounds02-03/notes-final.md
+DIFF_FILE=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-commit-rounds02-03/commits.diff
+VERIFICATION=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-commit-rounds02-03/VERIFICATION.txt
+ROLLBACK=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-commit-rounds02-03/ROLLBACK.sh
+Changed fields: two successive Git commits, round02 and round03; each160 completed cases and corresponding UI/evidence; shared notes split by round.
+BASELINE: git rev-parse HEAD at start; literal output=f1443143c643335e21ec60d6f0a8bbfb2a8608b0; input=original repository; exit_status=0.
+MODIFIED: git commit -m "feat(perplexity): add exp2 round 02 results"; literal result=51dba8f,2630 files; exit_status=0.
+MODIFIED: git commit -m "feat(perplexity): add exp2 round 03 results"; literal result=371831f,2635 files; exit_status=0.
+VALIDATION: original Skill verify PASS rounds2/rows320; original data/workbooks SHA256 unchanged; both UI indexes verified; committed blobs match prepared files; whitespace check0; no_archive or experiment1 changes.
+ROLLBACK: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-commit-rounds02-03/ROLLBACK.sh; input=isolated Git index previously set to final tree; literal output=ROLLBACK PASS: isolated index restored to original tree f5633816e4e14bf2760680279381ba422d49b994; exit_status=0. Original snapshot restored only in disposable index; real HEAD remains371831f6d46b7fbee5b4f039ab8916befa85ad90.

@@ -1,0 +1,40 @@
+test_append_does_not_mix_parameter_types (__main__.Fixture.test_append_does_not_mix_parameter_types) ... ok
+test_append_does_not_silently_change_prompt (__main__.Fixture.test_append_does_not_silently_change_prompt) ... ok
+test_append_only_runs_new_parameter_level (__main__.Fixture.test_append_only_runs_new_parameter_level) ... ok
+test_archive_blocks_unfinished_attempt (__main__.Fixture.test_archive_blocks_unfinished_attempt) ... ok
+test_archive_restores_and_keeps_external_dependency (__main__.Fixture.test_archive_restores_and_keeps_external_dependency) ... ok
+test_changed_reference_is_not_silently_rescored (__main__.Fixture.test_changed_reference_is_not_silently_rescored) ... ok
+test_changed_source_does_not_overwrite_old_trial (__main__.Fixture.test_changed_source_does_not_overwrite_old_trial) ... ok
+test_cli_run_requires_execute (__main__.Fixture.test_cli_run_requires_execute) ... ok
+test_copy_action_while_thinking_is_not_completion (__main__.Fixture.test_copy_action_while_thinking_is_not_completion) ... ok
+test_device_preflight_mismatch_is_read_only (__main__.Fixture.test_device_preflight_mismatch_is_read_only) ... ok
+test_foreground_parser_and_canonical_activity_match (__main__.Fixture.test_foreground_parser_and_canonical_activity_match) ... ok
+test_foreign_work_folder_is_not_reused_or_deleted (__main__.Fixture.test_foreign_work_folder_is_not_reused_or_deleted) ... ok
+test_ime_mismatch_is_not_submitted (__main__.Fixture.test_ime_mismatch_is_not_submitted) ... ok
+test_model_output_is_data_not_a_shell_instruction (__main__.Fixture.test_model_output_is_data_not_a_shell_instruction) ... ok
+test_non_ascii_prompt_stops_before_device_io (__main__.Fixture.test_non_ascii_prompt_stops_before_device_io) ... ok
+test_numeric_duplicate_levels_rejected (__main__.Fixture.test_numeric_duplicate_levels_rejected) ... ok
+test_plan_is_read_only_and_does_not_touch_device (__main__.Fixture.test_plan_is_read_only_and_does_not_touch_device) ... ok
+test_raw_trailing_newline_is_preserved (__main__.Fixture.test_raw_trailing_newline_is_preserved) ... ok
+test_readonly_preflight_checks_phone_hash_and_reports_brightness_change (__main__.Fixture.test_readonly_preflight_checks_phone_hash_and_reports_brightness_change) ... ok
+test_real_exclusive_lock (__main__.Fixture.test_real_exclusive_lock) ... ok
+test_repeated_rounds_keep_independent_results (__main__.Fixture.test_repeated_rounds_keep_independent_results) ... ok
+test_shell_quotes_text_as_one_argument (__main__.Fixture.test_shell_quotes_text_as_one_argument) ... ok
+test_submitted_pending_attempt_never_blindly_retries (__main__.Fixture.test_submitted_pending_attempt_never_blindly_retries) ... ok
+test_successful_capture_and_resume_without_resubmission (__main__.Fixture.test_successful_capture_and_resume_without_resubmission) ... ok
+test_timeout_is_not_unreadable_or_success (__main__.Fixture.test_timeout_is_not_unreadable_or_success) ... ok
+test_unexpected_foreground_activity_is_not_tapped (__main__.Fixture.test_unexpected_foreground_activity_is_not_tapped) ... ok
+test_unfinished_setup_is_not_erased_on_resume (__main__.Fixture.test_unfinished_setup_is_not_erased_on_resume) ... ok
+test_unknown_app_is_not_replaced_with_perplexity (__main__.Fixture.test_unknown_app_is_not_replaced_with_perplexity) ... ok
+test_unsafe_case_id_rejected (__main__.Fixture.test_unsafe_case_id_rejected) ... ok
+test_alignment_operations (__main__.Scores.test_alignment_operations) ... ok
+test_empty_reference_rejected (__main__.Scores.test_empty_reference_rejected) ... ok
+test_markers (__main__.Scores.test_markers) ... ok
+test_png_crc_and_dimensions (__main__.Scores.test_png_crc_and_dimensions) ... ok
+test_tie_maximizes_matches (__main__.Scores.test_tie_maximizes_matches) ... ok
+test_unicode_and_whitespace (__main__.Scores.test_unicode_and_whitespace) ... ok
+
+----------------------------------------------------------------------
+Ran 35 tests in 0.206s
+
+OK

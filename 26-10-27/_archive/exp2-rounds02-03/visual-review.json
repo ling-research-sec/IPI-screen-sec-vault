@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "rounds": [
+    2,
+    3
+  ],
+  "tabs": [
+    "实验结果",
+    "完整回复"
+  ],
+  "views": [
+    "headers and first rows",
+    "last rows and totals",
+    "complete five-line replies"
+  ],
+  "filters": "PASS",
+  "formula_error_scan": "0 matches",
+  "data_vs_records": "PASS320",
+  "summary_note": "New B4 references C171 to avoid binary-average rounding discrepancy; trial rows/replies unchanged",
+  "reviewed_utc": "2026-10-27T11:17:46.516720+00:00"
+}

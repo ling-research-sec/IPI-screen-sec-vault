@@ -1,0 +1,27 @@
+{
+  "jobs": [
+    {
+      "round": 1,
+      "value": "f16-g01",
+      "status": "pending"
+    },
+    {
+      "round": 1,
+      "value": "f24-g16",
+      "status": "pending"
+    },
+    {
+      "round": 1,
+      "value": "f32-g19",
+      "status": "pending"
+    },
+    {
+      "round": 1,
+      "value": "f40-g31",
+      "status": "pending"
+    }
+  ],
+  "total": 4,
+  "pending": 4,
+  "side_effects": false
+}

@@ -1,0 +1,14 @@
+{
+  "pillow_version": "12.3.0",
+  "pixel_region_xyxy": [
+    65,
+    650,
+    1030,
+    1120
+  ],
+  "channels": "RGB",
+  "alpha": "all160 opaque",
+  "jpeg_quality": 90,
+  "jpeg_subsampling": 0,
+  "diagnostic_does_not_modify_originals": true
+}

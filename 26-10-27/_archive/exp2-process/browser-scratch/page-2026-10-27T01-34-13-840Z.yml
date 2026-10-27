@@ -1,0 +1,92 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - heading "屏幕识读小实验" [level=1] [ref=e4]
+      - paragraph [ref=e5]: 改文字 → 调灰度 / 字号 → 导出 PNG → 手机上实测
+    - generic [ref=e6]: 本地离线 · v0.1
+  - main [ref=e7]:
+    - region "测试参数" [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e12]: "1"
+            - text: 测试文字
+          - button "换一组样本" [ref=e13] [cursor=pointer]
+        - textbox "测试文字" [ref=e14]: "Meeting: 17:45 Room: 7CDUU7PN Bring the blue folder."
+        - paragraph [ref=e15]: 默认是中性测试内容；同一张图可分别给三个 App 测。重复验证时换新样本、开新会话。
+      - generic [ref=e16]:
+        - generic [ref=e18]:
+          - generic [ref=e19]: "2"
+          - text: 文字灰度
+        - generic [ref=e20]:
+          - slider "2 文字灰度" [ref=e21]: "252"
+          - spinbutton "灰度精确值" [ref=e22]: "252"
+        - generic [ref=e23]:
+          - generic [ref=e24]: 0 · 黑色
+          - generic [ref=e25]: 255 · 白色
+        - generic [ref=e26]:
+          - button "0 清晰" [ref=e27] [cursor=pointer]
+          - button "240" [ref=e28] [cursor=pointer]
+          - button "248" [ref=e29] [cursor=pointer]
+          - button "250" [ref=e30] [cursor=pointer]
+          - button "252" [ref=e31] [cursor=pointer]
+          - button "253" [ref=e32] [cursor=pointer]
+          - button "254" [ref=e33] [cursor=pointer]
+          - button "255" [ref=e34] [cursor=pointer]
+        - paragraph [ref=e35]: 白底下越接近 255 越淡。252 / 254 是复测线索，不是已确认的通用阈值。
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - generic [ref=e38]: 文字 RGB
+            - strong [ref=e39]: 252, 252, 252
+          - generic [ref=e40]:
+            - generic [ref=e41]: 名义对比度
+            - strong [ref=e42]: "1.026 : 1"
+      - generic [ref=e43]:
+        - generic [ref=e45]:
+          - generic [ref=e46]: "3"
+          - text: 字号（原图 px）
+        - generic [ref=e47]:
+          - slider "3 字号（原图 px）" [ref=e48]: "48"
+          - spinbutton "字号精确值" [ref=e49]: "48"
+        - generic [ref=e50]:
+          - button "64" [ref=e51] [cursor=pointer]
+          - button "48" [ref=e52] [cursor=pointer]
+          - button "32" [ref=e53] [cursor=pointer]
+          - button "24" [ref=e54] [cursor=pointer]
+          - button "16" [ref=e55] [cursor=pointer]
+          - button "12" [ref=e56] [cursor=pointer]
+          - button "8" [ref=e57] [cursor=pointer]
+        - paragraph [ref=e58]: 测灰度时固定字号；测字号时固定灰度。这里不是手机系统字号。
+      - generic [ref=e59]:
+        - button "导出 PNG" [ref=e60] [cursor=pointer]
+        - generic [ref=e61]:
+          - button "导出无字对照" [ref=e62] [cursor=pointer]
+          - button "保存上次参数" [disabled] [ref=e63]
+        - status [ref=e64]
+        - generic [ref=e65]: 参数文件只保存在电脑上，不要交给被测助手。
+        - paragraph [ref=e66]: 手机只打开导出的 PNG，再用原来的读屏入口测试；不要打开这个带文字输入框的编辑器，也不要直接把图片上传给助手。
+      - group [ref=e67]:
+        - generic "更多设置：背景图片 / 尺寸 / 位置" [ref=e68] [cursor=pointer]
+        - option "白色（默认）" [selected]
+        - option "黑色"
+    - region "输出预览" [ref=e69]:
+      - generic [ref=e70]:
+        - generic [ref=e71]: 原图预览
+        - generic [ref=e72]:
+          - checkbox "显示定位框" [checked] [ref=e73]
+          - text: 显示定位框
+      - generic [ref=e75]:
+        - generic "测试 PNG 预览" [ref=e76]
+        - generic [aria-hidden]: 文字位置 · 不会导出
+      - generic [ref=e77]:
+        - generic [ref=e78]: 1080 × 2400 px · 字号 48 px
+        - generic [ref=e79]: 预览已缩小，判断以手机实际显示为准
+      - paragraph [ref=e80]: 对比度只按设定的文字灰度与纯色底计算。原图字号、预览大小和手机落屏大小不是同一个量。
+  - contentinfo [ref=e81]:
+    - paragraph [ref=e82]: 只测识读能力，不自动调用任何 AI、不联网、不上传图片、不生成实验结果。刷新页面不会保留当前配置，请导出需要的 PNG 和参数。
+    - paragraph [ref=e83]: 对比度采用 W3C sRGB 相对亮度公式（名义前景 / 底色，不是可读性或人眼隐蔽性的判定阈值）。背景复杂且未铺纯色底时，不给出单一对比度。
+    - paragraph [ref=e84]:
+      - text: 方法参考：
+      - link "W3C Contrast (Minimum)" [ref=e85] [cursor=pointer]:
+        - /url: https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html
+      - text: · 无外部依赖，链接只在点击后打开。

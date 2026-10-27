@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "rounds": [
+    {
+      "round": 2,
+      "formal_cases": 160,
+      "ui_archive_members": 1765,
+      "indexed_files": 1825,
+      "protocols": 5
+    },
+    {
+      "round": 3,
+      "formal_cases": 160,
+      "ui_archive_members": 1765,
+      "indexed_files": 1830,
+      "protocols": 5
+    }
+  ],
+  "raw_data_workbooks_modified": false,
+  "audit_rows": 102,
+  "random_sample_size": 100
+}

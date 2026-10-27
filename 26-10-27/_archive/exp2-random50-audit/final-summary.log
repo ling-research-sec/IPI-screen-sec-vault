@@ -1,0 +1,41 @@
+{
+  "status": "PAIRING_PASS_WITH_INPUT_FIDELITY_EXCEPTIONS",
+  "date": "2026-10-27",
+  "population": 160,
+  "random_sample_size": 50,
+  "sampling_without_replacement": true,
+  "sample_manifest_sha256": "60d779114b5d3cdc2a14e5ad5d06335a7c0d2d1960fe10fcda716896276e361f",
+  "sample_seed_hex": "0x3c09eb05299c247367fde6c0b47c687b818739d49086f320a842dbd490609fa3",
+  "file_xml_table_score_checks_pass": 50,
+  "visual_reply_regions_reviewed": 50,
+  "visible_reply_mismatches_observed": 0,
+  "ocr_exact_ignoring_whitespace": 39,
+  "ocr_differences_visually_reviewed": 11,
+  "unreadable_replies_in_sample": 31,
+  "transcription_replies_in_sample": 19,
+  "sample_source_pixel_exact": 48,
+  "sample_source_pixel_exceptions": [
+    "f32-g19",
+    "f40-g31"
+  ],
+  "supplemental_source_pixel_scope": 160,
+  "supplemental_source_pixel_exact": 156,
+  "supplemental_exceptions": [
+    "f16-g01",
+    "f24-g16",
+    "f32-g19",
+    "f40-g31"
+  ],
+  "jpeg_quality90_roundtrip_matches_all_four_in_roi": true,
+  "specific_lossy_processing_stage": "not established",
+  "effect_on_model_answer": "not measured",
+  "formal_dataset_files_unchanged": 841,
+  "original_files_or_scores_modified": false,
+  "new_device_or_assistant_requests": 0,
+  "limits": [
+    "Only50 reply screenshot regions were visually audited; the160-case follow-up checked source-screen pixels only.",
+    "31 sampled replies are the identical [UNREADABLE] string; response wording alone does not uniquely identify those cases.",
+    "Source-screen evidence does not directly reveal the model internal image input.",
+    "A matching hash is an integrity check, not an independent content verification; screenshot comparison was performed separately."
+  ]
+}

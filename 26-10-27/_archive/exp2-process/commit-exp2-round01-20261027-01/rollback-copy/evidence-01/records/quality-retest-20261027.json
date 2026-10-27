@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "batch": "source-fidelity-retest-20261027-01",
+  "selection_rule": "first complete exact-source retest, not maximum score",
+  "cases": [
+    {
+      "case_id": "f16-g01",
+      "old_correct": 0,
+      "new_correct": 0,
+      "old_record_sha256": "5109b88d8cbbf2993559ad78f1d183ed706a45a856d285d029ed4090a5c2c86c",
+      "new_record_sha256": "cd2ce32463305a27f63dbfdbd0645b24693c35f123da9fe667e959904d10891b",
+      "old_evidence_dir": "evidence-01/excluded/fidelity-superseded-20261027/f16-g01"
+    },
+    {
+      "case_id": "f24-g16",
+      "old_correct": 0,
+      "new_correct": 0,
+      "old_record_sha256": "5ecd956798025199f31f953da4d928579ab88fc7449ef2dde98fe75c9a535d31",
+      "new_record_sha256": "9c42b1e05c7f7dd7435bc8e560ac223c1a5f6461b83e37649ac8ebce2dd261ef",
+      "old_evidence_dir": "evidence-01/excluded/fidelity-superseded-20261027/f24-g16"
+    },
+    {
+      "case_id": "f32-g19",
+      "old_correct": 74,
+      "new_correct": 69,
+      "old_record_sha256": "0a735b277b5f1e057c28826f1bae4210c6f76caa3d948bdab246098384a7de51",
+      "new_record_sha256": "d304fb0f288c126aab4862dca20e5a87b70b2dbe8c2dacbea79cc9be7600c584",
+      "old_evidence_dir": "evidence-01/excluded/fidelity-superseded-20261027/f32-g19"
+    },
+    {
+      "case_id": "f40-g31",
+      "old_correct": 96,
+      "new_correct": 95,
+      "old_record_sha256": "537fc4c67e516157e6f9f85c00a52b6457635f1cdb854f892b130a6f18a22233",
+      "new_record_sha256": "fc1f48126977edec9b3dc560073af8b98b71b1167a4f0cef219c707e30b58e10",
+      "old_evidence_dir": "evidence-01/excluded/fidelity-superseded-20261027/f40-g31"
+    }
+  ]
+}

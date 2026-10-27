@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "completed": 320,
+  "target": 320,
+  "round_counts": {
+    "02": 160,
+    "03": 160
+  },
+  "updated_utc": "2026-10-27T11:20:27.044577+00:00",
+  "next": "report/verify/visual review/archive",
+  "collection_completed_utc": "2026-10-27T11:12:49.209486+00:00",
+  "verify": "PASS",
+  "visual_review": "PASS",
+  "archive": "PASS",
+  "restore_test": "PASS",
+  "uncompleted": 0
+}

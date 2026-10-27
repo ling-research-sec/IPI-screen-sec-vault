@@ -1,0 +1,1602 @@
+[
+  {
+    "case_id" : "f32-g17",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f64-g03",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f24-g15",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f24-g14",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f24-g11",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f16-g05",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f16-g19",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f40-g02",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f32-g30",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014192676806941768,
+          0.81791860066661981,
+          0.64514273651375253,
+          0.1293156064789871
+        ],
+        "confidence" : 1,
+        "text" : "WEATGMVOYNQLUI9ZCOZ"
+      },
+      {
+        "bounds" : [
+          0.010330578413836371,
+          0.63054187194207034,
+          0.63223140495867769,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "PDLCFGRQAXXLGITRTGK"
+      },
+      {
+        "bounds" : [
+          0.010330578409485208,
+          0.44827586209058767,
+          0.70041322314049581,
+          0.11330049261083752
+        ],
+        "confidence" : 1,
+        "text" : "FTWLJWEUCIXUMAOUKARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409405874,
+          0.25123152711161856,
+          0.69628099173553715,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "HРАHTEZPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010232254398445427,
+          0.059739281045246173,
+          0.71922314856663216,
+          0.12297993927753625
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWPSPYYQNNAL"
+      }
+    ],
+    "text" : "WEATGMVOYNQLUI9ZCOZ\nPDLCFGRQAXXLGITRTGK\nFTWLJWEUCIXUMAOUKARP\nHРАHTEZPURNKYQYHOSZH\nOWECDAHTVWPSPYYQNNAL"
+  },
+  {
+    "case_id" : "f16-g07",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f40-g10",
+    "lines" : [
+      {
+        "bounds" : [
+          0.010330578411421055,
+          0.90196078432179894,
+          0.95454545454545459,
+          0.064425770308123242
+        ],
+        "confidence" : 1,
+        "text" : "YBAT[UNK]MW[UNK]YH[UNK]H[UNK]Z"
+      },
+      {
+        "bounds" : [
+          0.0076686148341304937,
+          0.79105900538577734,
+          0.21813099443419903,
+          0.070797645077318117
+        ],
+        "confidence" : 1,
+        "text" : "C[UNKJZ"
+      },
+      {
+        "bounds" : [
+          0.0082644627108186056,
+          0.68627450981120952,
+          0.97107438016528924,
+          0.064425770308123242
+        ],
+        "confidence" : 1,
+        "text" : "DOLC[UNK]FG[UNK]AXXLG[UNK]IRTGX"
+      },
+      {
+        "bounds" : [
+          0.0082644626982804632,
+          0.57422969188481843,
+          0.98140495867768585,
+          0.070028011204481877
+        ],
+        "confidence" : 1,
+        "text" : "F[UNK]WL[UNK]WED[UNK]K[UNK]M[UN"
+      },
+      {
+        "bounds" : [
+          0.0082644627091560535,
+          0.46778711486249669,
+          0.45041322314049587,
+          0.067226890756302504
+        ],
+        "confidence" : 1,
+        "text" : "KJUUA[UNK][UNK]"
+      },
+      {
+        "bounds" : [
+          0.0082644627128434182,
+          0.35854341737474582,
+          0.96487603305785119,
+          0.067226890756302504
+        ],
+        "confidence" : 1,
+        "text" : "[UNK]PAHTEX[UNK]R[UNK]NKY[UNK]V"
+      },
+      {
+        "bounds" : [
+          0.0082644627698418641,
+          0.25210084036511149,
+          0.40289256198347106,
+          0.067226890756302615
+        ],
+        "confidence" : 1,
+        "text" : "H[UNK]S[UNK]H"
+      },
+      {
+        "bounds" : [
+          0.0082644627066115472,
+          0.14285714286443429,
+          0.97314049586776852,
+          0.067226890756302504
+        ],
+        "confidence" : 1,
+        "text" : "GWE[UNK]OAHTV[UNK]MP[UNK]Y[UNK"
+      },
+      {
+        "bounds" : [
+          0.0058066104921756199,
+          0.036511093483123536,
+          0.30451265445425496,
+          0.068607650885061044
+        ],
+        "confidence" : 1,
+        "text" : "IP[UNKINAL"
+      }
+    ],
+    "text" : "YBAT[UNK]MW[UNK]YH[UNK]H[UNK]Z\nC[UNKJZ\nDOLC[UNK]FG[UNK]AXXLG[UNK]IRTGX\nF[UNK]WL[UNK]WED[UNK]K[UNK]M[UN\nKJUUA[UNK][UNK]\n[UNK]PAHTEX[UNK]R[UNK]NKY[UNK]V\nH[UNK]S[UNK]H\nGWE[UNK]OAHTV[UNK]MP[UNK]Y[UNK\nIP[UNKINAL"
+  },
+  {
+    "case_id" : "f40-g30",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014462809816157879,
+          0.81773399017291648,
+          0.66942148760330578,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYHGLIUIEZCDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409090945,
+          0.63054187194018974,
+          0.66322314049586784,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXXLGTIRTGK"
+      },
+      {
+        "bounds" : [
+          0.010330578438114912,
+          0.44334975372273044,
+          0.70867768595041325,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWUBWEIJQKUMAOUKARP"
+      },
+      {
+        "bounds" : [
+          0.0079809022019870588,
+          0.25251924155067562,
+          0.70900051652892548,
+          0.13777781707312664
+        ],
+        "confidence" : 1,
+        "text" : "HPAHTEXPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.064039408883956206,
+          0.70661157024793375,
+          0.11330049261083752
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWIPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYHGLIUIEZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUBWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL"
+  },
+  {
+    "case_id" : "f24-g13",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f40-g12",
+    "lines" : [
+      {
+        "bounds" : [
+          0.012499999824735496,
+          0.82178217645485652,
+          0.625,
+          0.12871287491521233
+        ],
+        "confidence" : 1,
+        "text" : "WEATFWUYKOLUIBZCCZ"
+      },
+      {
+        "bounds" : [
+          0.010330578414585906,
+          0.63546798031565532,
+          0.63016528925619819,
+          0.11330049261083741
+        ],
+        "confidence" : 1,
+        "text" : "POLCIFGRQAXXLGTRTGX"
+      },
+      {
+        "bounds" : [
+          0.010330578412005461,
+          0.44334975371311214,
+          0.80991735537190079,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWIDWELJKIJOAMAUHAF[UNK]"
+      },
+      {
+        "bounds" : [
+          0.0098603085478839031,
+          0.24882637028603571,
+          0.66629766038626681,
+          0.14312821186234792
+        ],
+        "confidence" : 1,
+        "text" : "HPHHTEXURNKYOYHDSJH"
+      },
+      {
+        "bounds" : [
+          0.01003725048365561,
+          0.06323789730684326,
+          0.72164198189727535,
+          0.12949192817575239
+        ],
+        "confidence" : 1,
+        "text" : "QWEGOAHTVWPPSYPGNNAL"
+      }
+    ],
+    "text" : "WEATFWUYKOLUIBZCCZ\nPOLCIFGRQAXXLGTRTGX\nFTWIDWELJKIJOAMAUHAF[UNK]\nHPHHTEXURNKYOYHDSJH\nQWEGOAHTVWPPSYPGNNAL"
+  },
+  {
+    "case_id" : "f24-g17",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f24-g28",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f64-g25",
+    "lines" : [
+      {
+        "bounds" : [
+          0.01446280981574318,
+          0.8177339901730194,
+          0.66942148760330578,
+          0.12315270935960598
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYHCLIUIBZCDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409424078,
+          0.63054187194025113,
+          0.65909090909090917,
+          0.11822660098522153
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXXLGTIFTGK"
+      },
+      {
+        "bounds" : [
+          0.010330578410247308,
+          0.44334975371663854,
+          0.71280991735537191,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWUUWEIJQKUMAQUKARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.2512315271115092,
+          0.70247933884297509,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "HPAHTEXPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.0041666811590183577,
+          0.069306928919000477,
+          0.73333330390867135,
+          0.12871287491521233
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWPPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIFTGK\nFTWUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL"
+  },
+  {
+    "case_id" : "f40-g04",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f40-g26",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014275587120374068,
+          0.81343046476158376,
+          0.65529058787448347,
+          0.12975756640504732
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYHQLUIEZGDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409090945,
+          0.63054187194018974,
+          0.66322314049586784,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXXLGTIRTGK"
+      },
+      {
+        "bounds" : [
+          0.010330578410247308,
+          0.44334975371663854,
+          0.71280991735537191,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWUUWEIJQKUMAUUKARP"
+      },
+      {
+        "bounds" : [
+          0.0082644627066116062,
+          0.24630541873781497,
+          0.70454545454545447,
+          0.12315270935960598
+        ],
+        "confidence" : 1,
+        "text" : "HРАHТEXPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.064039408883956206,
+          0.70661157024793375,
+          0.11330049261083752
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWIPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYHQLUIEZGDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHРАHТEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL"
+  },
+  {
+    "case_id" : "f64-g14",
+    "lines" : [
+      {
+        "bounds" : [
+          0.012396694123344036,
+          0.82266009854390032,
+          0.65082644628099173,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "VEATFMVQYHCLIUIB2CDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578414712983,
+          0.63054187194128875,
+          0.65702479338842967,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXXLGTIPTCK"
+      },
+      {
+        "bounds" : [
+          0.010330578410247308,
+          0.44334975371663854,
+          0.71280991735537191,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWUUWEIJQKUMAQUKARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.2512315271115092,
+          0.70247933884297509,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "HPAHTEXPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.059113300509695543,
+          0.73140495867768585,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTWWPPSYPQNNAL"
+      }
+    ],
+    "text" : "VEATFMVQYHCLIUIB2CDZ\nPQLCFFGRQAXXLGTIPTCK\nFTWUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTWWPPSYPQNNAL"
+  },
+  {
+    "case_id" : "f24-g31",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f64-g16",
+    "lines" : [
+      {
+        "bounds" : [
+          0.012396694111139847,
+          0.822660098546798,
+          0.65082644628099173,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "VEATFMVQYHCLIUIB2CDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578414712983,
+          0.63054187194128875,
+          0.65702479338842967,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXXLGTIFTCK"
+      },
+      {
+        "bounds" : [
+          0.010330578436508498,
+          0.43842364534938016,
+          0.70041322314049581,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "FTVUUWEIJQKUMAQUKARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.2512315271115092,
+          0.70247933884297509,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "HPAHTEXPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010238829509337993,
+          0.054844540925555241,
+          0.71717008480355759,
+          0.12785914378800423
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWPPSYPQNNAL"
+      }
+    ],
+    "text" : "VEATFMVQYHCLIUIB2CDZ\nPQLCFFGRQAXXLGTIFTCK\nFTVUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL"
+  },
+  {
+    "case_id" : "f24-g02",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f40-g29",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014462809827798918,
+          0.81773399016993298,
+          0.67148760330578516,
+          0.12315270935960598
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYHQLIUIEZCDZ"
+      },
+      {
+        "bounds" : [
+          0.0034745866495896277,
+          0.61118037508494849,
+          0.67223786913658956,
+          0.17028492894665948
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGROAXXLGTIRTGK"
+      },
+      {
+        "bounds" : [
+          0.010330578394332914,
+          0.44334975372017149,
+          0.71074380165289253,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWUUWEIJQKUMAOURKRP"
+      },
+      {
+        "bounds" : [
+          0.0082644627066116062,
+          0.24630541873781497,
+          0.70454545454545447,
+          0.12315270935960598
+        ],
+        "confidence" : 1,
+        "text" : "HРАHТEXPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.064039408883956206,
+          0.70661157024793375,
+          0.11330049261083752
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWIPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYHQLIUIEZCDZ\nPQLCFFGROAXXLGTIRTGK\nFTWUUWEIJQKUMAOURKRP\nHРАHТEXPURNKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL"
+  },
+  {
+    "case_id" : "f24-g19",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f32-g08",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f32-g09",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f32-g18",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f16-g25",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f40-g21",
+    "lines" : [
+      {
+        "bounds" : [
+          0.0083333313392106451,
+          0.82178217651104069,
+          0.65416667087018987,
+          0.12871287491521233
+        ],
+        "confidence" : 1,
+        "text" : "NEATFMVOYHCLUIBZODZ"
+      },
+      {
+        "bounds" : [
+          0.010330578414664946,
+          0.63054187194244604,
+          0.62603305785123975,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGROAXLGTIRTGK"
+      },
+      {
+        "bounds" : [
+          0.01033057843909875,
+          0.44334975372273044,
+          0.71280991735537191,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWUUWEIJQKUMAUUKARP"
+      },
+      {
+        "bounds" : [
+          0.0082644627059947837,
+          0.24630541873759282,
+          0.71694214876033058,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "HРАНТЕXPLRNIKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.0083333205131035891,
+          0.069306928920018884,
+          0.675000025221139,
+          0.12871287491521233
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWIPSYPONAL"
+      }
+    ],
+    "text" : "NEATFMVOYHCLUIBZODZ\nPQLCFFGROAXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHРАНТЕXPLRNIKYQYHOSZH\nOWECDAHTVWIPSYPONAL"
+  },
+  {
+    "case_id" : "f32-g31",
+    "lines" : [
+      {
+        "bounds" : [
+          0.01446280982122352,
+          0.81773399016916393,
+          0.72727272727272729,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYNCJUBZC[UNK]Z"
+      },
+      {
+        "bounds" : [
+          0.010330578414308325,
+          0.6305418719410858,
+          0.66115702479338845,
+          0.11822660098522153
+        ],
+        "confidence" : 1,
+        "text" : "POLCFFGRQAXXLGITRTGK"
+      },
+      {
+        "bounds" : [
+          0.010330578409858977,
+          0.44334975371655649,
+          0.71280991735537191,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWJLWEULQKUMAOUKARP"
+      },
+      {
+        "bounds" : [
+          0.0082644627066116062,
+          0.24630541873804257,
+          0.69628099173553715,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "HРАHТEXPLRNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010227024307682688,
+          0.059772802346727993,
+          0.68618351959985147,
+          0.12297071259597248
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWPPSYQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYNCJUBZC[UNK]Z\nPOLCFFGRQAXXLGITRTGK\nFTWJLWEULQKUMAOUKARP\nHРАHТEXPLRNKYQYHOSZH\nOWECDAHTVWPPSYQNNAL"
+  },
+  {
+    "case_id" : "f24-g12",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f16-g22",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f40-g13",
+    "lines" : [
+      {
+        "bounds" : [
+          0.010194521027252705,
+          0.81912340933141203,
+          0.65935888369221329,
+          0.12268881962217137
+        ],
+        "confidence" : 1,
+        "text" : "NEATFNWQYHQLUIBZGQZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409408752,
+          0.63054187193937095,
+          0.69008264462809921,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGIBOAXXLGTLRTGX"
+      },
+      {
+        "bounds" : [
+          0.010330578409847703,
+          0.44334975371623442,
+          0.72107438016528913,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWDUWELQKCUMXUVIARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.25615763548277148,
+          0.81198347107438007,
+          0.11330049261083741
+        ],
+        "confidence" : 1,
+        "text" : "HPAHTEXPURNKYOYHDS[UNK]H"
+      },
+      {
+        "bounds" : [
+          0.0083333502171410619,
+          0.069306934864059255,
+          0.72916664564905076,
+          0.12871286551940608
+        ],
+        "confidence" : 1,
+        "text" : "GWEGOAHTVWPPSYPDNKAL"
+      }
+    ],
+    "text" : "NEATFNWQYHQLUIBZGQZ\nPQLCFFGIBOAXXLGTLRTGX\nFTWDUWELQKCUMXUVIARP\nHPAHTEXPURNKYOYHDS[UNK]H\nGWEGOAHTVWPPSYPDNKAL"
+  },
+  {
+    "case_id" : "f24-g27",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f64-g29",
+    "lines" : [
+      {
+        "bounds" : [
+          0.01446280981574318,
+          0.8177339901730194,
+          0.66942148760330578,
+          0.12315270935960598
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYHCLIUIBZCDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409090945,
+          0.63054187194018974,
+          0.66322314049586784,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXXLGTIRTGK"
+      },
+      {
+        "bounds" : [
+          0.0082644627403940379,
+          0.43842364534938016,
+          0.73140495867768596,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "FTVULUWEIJQKUMAQUKARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.2512315271115092,
+          0.70247933884297509,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "HPAHTEXPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.01023196746051005,
+          0.05483090394981005,
+          0.71717739893385202,
+          0.12788985867805669
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWPPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTVULUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL"
+  },
+  {
+    "case_id" : "f16-g09",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f32-g25",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014462809819578584,
+          0.82266009853881905,
+          0.86776859504132231,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "WEATFWY[UNK]WIGLUIRZC[UNK]Z"
+      },
+      {
+        "bounds" : [
+          0.010330578414308325,
+          0.6305418719410858,
+          0.66528925619834711,
+          0.11822660098522153
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXULGTIRTGK"
+      },
+      {
+        "bounds" : [
+          0.0082644627077989759,
+          0.44334975371156782,
+          0.88429752066115697,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "FTWUUWEL[UNK]]C[UNK]AOLKARP"
+      },
+      {
+        "bounds" : [
+          0.0082644627126099365,
+          0.24630541873907508,
+          0.69421487603305776,
+          0.12315270935960598
+        ],
+        "confidence" : 1,
+        "text" : "HРАHTEZPLRNNYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.059113300510309497,
+          0.70661157024793375,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVNPPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFWY[UNK]WIGLUIRZC[UNK]Z\nPQLCFFGRQAXULGTIRTGK\nFTWUUWEL[UNK]]C[UNK]AOLKARP\nHРАHTEZPLRNNYQYHOSZH\nOWECDAHTVNPPSYPQNNAL"
+  },
+  {
+    "case_id" : "f40-g01",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f64-g02",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f24-g06",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f40-g15",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014320689016684153,
+          0.82014202763003941,
+          0.66555546531992504,
+          0.12172582466614068
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMWOYHQLUIBZCDZ"
+      },
+      {
+        "bounds" : [
+          0.0078143773384197722,
+          0.62882750416370692,
+          0.65173718160834193,
+          0.13956879864772553
+        ],
+        "confidence" : 1,
+        "text" : "IQLCFFGROAXXLGTIRTGX"
+      },
+      {
+        "bounds" : [
+          0.010330578413479691,
+          0.4433497537138994,
+          0.76652892561983477,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWDIWEIJQKUMAOUK[UNK]R"
+      },
+      {
+        "bounds" : [
+          0.010330578409403936,
+          0.26600985223242268,
+          0.70041322314049581,
+          0.10344827586206895
+        ],
+        "confidence" : 1,
+        "text" : "HPАHTEXPURNKYOYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010330578408781536,
+          0.064039408883956206,
+          0.70867768595041325,
+          0.11330049261083752
+        ],
+        "confidence" : 1,
+        "text" : "OWECOAHTVWIPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMWOYHQLUIBZCDZ\nIQLCFFGROAXXLGTIRTGX\nFTWDIWEIJQKUMAOUK[UNK]R\nHPАHTEXPURNKYOYHOSZH\nOWECOAHTVWIPSYPQNNAL"
+  },
+  {
+    "case_id" : "f32-g19",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014462809755320917,
+          0.81773399018995885,
+          0.64669421487603307,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "WEATFWYQYUCILUFZDXZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409447155,
+          0.63054187194156608,
+          0.61776859504132231,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFCRQNXULQTRTGK"
+      },
+      {
+        "bounds" : [
+          0.010330578463146218,
+          0.44334975372894947,
+          0.69421487603305787,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWUVEEURXUMAQUKARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.25123152711236219,
+          0.67148760330578505,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "HРАHТEXPURWYQYHDSZH"
+      },
+      {
+        "bounds" : [
+          0.010330578409715048,
+          0.059113300510469702,
+          0.70454545454545447,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "QWECDAHTVWPSPYIQNNAL"
+      }
+    ],
+    "text" : "WEATFWYQYUCILUFZDXZ\nPQLCFCRQNXULQTRTGK\nFTWUVEEURXUMAQUKARP\nHРАHТEXPURWYQYHDSZH\nQWECDAHTVWPSPYIQNNAL"
+  },
+  {
+    "case_id" : "f64-g12",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014462809808999132,
+          0.82266009854844002,
+          0.66115702479338845,
+          0.11822660098522175
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYHCLIUIB2CDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409403936,
+          0.63054187193909539,
+          0.70041322314049581,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGQRQAXXLGTIRTCK"
+      },
+      {
+        "bounds" : [
+          0.010330578435288068,
+          0.43842364534965939,
+          0.69421487603305787,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "FTWUJWEIJQKUMAQUKARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409404875,
+          0.26600985223247031,
+          0.69834710743801653,
+          0.10344827586206895
+        ],
+        "confidence" : 1,
+        "text" : "HPАHTEXPURNKYCYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010238829509337993,
+          0.054844540925555241,
+          0.71717008480355759,
+          0.12785914378800423
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWPPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYHCLIUIB2CDZ\nPQLCFFGQRQAXXLGTIRTCK\nFTWUJWEIJQKUMAQUKARP\nHPАHTEXPURNKYCYHOSZH\nOWECDAHTVWPPSYPQNNAL"
+  },
+  {
+    "case_id" : "f24-g07",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f64-g01",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f16-g27",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  },
+  {
+    "case_id" : "f64-g27",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014462809747537655,
+          0.81773399018995885,
+          0.66942148760330578,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYHCLIUIBZCDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409090945,
+          0.63054187194018974,
+          0.66322314049586784,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXXLGTIRTGK"
+      },
+      {
+        "bounds" : [
+          0.01033057843677093,
+          0.43842364534965939,
+          0.70041322314049603,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "FTVUUWEIJQKUMAQUKARP"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.2512315271115092,
+          0.70247933884297509,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "HPAHTEXPURNKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010232271044534922,
+          0.054844492611848983,
+          0.71717664229968359,
+          0.12785919076703456
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWPPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTVUUWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL"
+  },
+  {
+    "case_id" : "f40-g31",
+    "lines" : [
+      {
+        "bounds" : [
+          0.014462809750367905,
+          0.81773399018995885,
+          0.66115702479338845,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "WEATFMVQYHCLILIEZCDZ"
+      },
+      {
+        "bounds" : [
+          0.010330578409090945,
+          0.63054187194018974,
+          0.66322314049586784,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "PQLCFFGRQAXXLGTIRTGK"
+      },
+      {
+        "bounds" : [
+          0.010330578410247308,
+          0.44334975371663854,
+          0.71280991735537191,
+          0.11822660098522164
+        ],
+        "confidence" : 1,
+        "text" : "FTWUUWEIJQKUMAUUKARP"
+      },
+      {
+        "bounds" : [
+          0.0082644627069153771,
+          0.24630541873732248,
+          0.72107438016528935,
+          0.12315270935960587
+        ],
+        "confidence" : 1,
+        "text" : "HРАНТЕXPURNIKYQYHOSZH"
+      },
+      {
+        "bounds" : [
+          0.010330578409090886,
+          0.064039408883956206,
+          0.70661157024793375,
+          0.11330049261083752
+        ],
+        "confidence" : 1,
+        "text" : "OWECDAHTVWIPSYPQNNAL"
+      }
+    ],
+    "text" : "WEATFMVQYHCLILIEZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAUUKARP\nHРАНТЕXPURNIKYQYHOSZH\nOWECDAHTVWIPSYPQNNAL"
+  },
+  {
+    "case_id" : "f24-g30",
+    "lines" : [
+      {
+        "bounds" : [
+          -0.00017028859025846157,
+          0.28421152541221162,
+          0.3929552440800943,
+          0.46242406416912474
+        ],
+        "confidence" : 1,
+        "text" : "[UNREADABLE]"
+      }
+    ],
+    "text" : "[UNREADABLE]"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "live": {
+    "status": "running",
+    "completed": 222,
+    "target": 320,
+    "round_counts": {
+      "02": 160,
+      "03": 62
+    },
+    "round": 3,
+    "case": "f24-g30",
+    "workflow_interruptions": 6,
+    "recognition_failures_not_invented": true,
+    "updated_utc": "2026-10-27T09:40:06.588854+00:00"
+  },
+  "handle": {
+    "supervisor_pid": 88731,
+    "runner_pid": 88751,
+    "command": [
+      "/opt/homebrew/opt/python@3.14/bin/python3.14",
+      "-u",
+      "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py",
+      "run",
+      "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-03.json",
+      "--execute"
+    ],
+    "started_utc": "2026-10-27T09:39:12.800743+00:00",
+    "log": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/run-resume02-03.log",
+    "status_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/status.json"
+  },
+  "retry_case": "f24-g29",
+  "subsequent_case": "f24-g30",
+  "evidence_and_score": "PASS",
+  "protected_exp1_and_01": "UNCHANGED",
+  "verified_utc": "2026-10-27T09:40:42.562152+00:00"
+}

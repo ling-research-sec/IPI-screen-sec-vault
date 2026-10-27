@@ -1,0 +1,50 @@
+--- baseline/pipeline.py
++++ runner/pipeline.py
+@@ -272,6 +272,31 @@
+     return str(target.relative_to(c.work))
+ 
+ 
++def source_fidelity_gate(c, device, v, source_screen, work):
++    """Optional exact-RGB source gate, before assistant invocation; never a brightness heuristic."""
++    options=c.raw.get('source_fidelity_gate')
++    if not options:return None
++    from PIL import Image,ImageChops
++    roi=tuple(options['roi']);required=int(options.get('required_consecutive',2));maximum=int(options.get('max_checks',16))
++    require(len(roi)==4 and 0<=roi[0]<roi[2]<=c.image_size[0] and 0<=roi[1]<roi[3]<=c.image_size[1], 'Invalid source fidelity ROI')
++    require(required>=2 and maximum>=required,'Source fidelity needs at least two matching observations')
++    expected=Image.open(c.image(v)).convert('RGB').crop(roi);require(expected.getbbox() is not None,'Source ROI contains no target pixels')
++    folder=work/'source-fidelity';folder.mkdir();history=[];consecutive=0
++    for index in range(maximum):
++        device.check_component(c.raw['gallery_component'])
++        if index:
++            time.sleep(float(options.get('poll_s',2)));device.shot(source_screen)
++        actual=Image.open(source_screen).convert('RGB').crop(roi);difference=ImageChops.difference(expected,actual);exact=difference.getbbox() is None
++        snapshot=folder/f'{index+1:02d}.png';shutil.copy2(source_screen,snapshot)
++        history.append(dict(index=index+1,exact=exact,source_screen_sha256=file_hash(snapshot),max_abs_difference=max(x[1] for x in difference.getextrema())))
++        consecutive=consecutive+1 if exact else 0
++        result=dict(status='PASS' if consecutive>=required else 'WAITING',roi=list(roi),expected_roi_sha256=digest(expected.tobytes()),observed_roi_sha256=digest(actual.tobytes()),consecutive_exact=consecutive,observations=history)
++        save_json(work/'source-fidelity.json',result)
++        if consecutive>=required:return result
++    result['status']='FAIL';save_json(work/'source-fidelity.json',result)
++    raise PipelineError('Source-screen RGB differs from original PNG; stopped before assistant invocation/submission')
++
++
+ def run_trial(c, device, n, v):
+     if validate_existing(c,n,v): return {'round':n,'value':v,'status':'verified-existing'}
+     d = c.work/f'round{n:02d}'/f'g{v}'; state_path = d/'state.json'
+@@ -296,6 +321,7 @@
+         if any(x.get('text') or x.get('content-desc')=='分享' for x in nodes): device.tap(c.ui['gallery_tap']);time.sleep(1)
+         nodes=device.dump(d/'source-clean.xml');require(not any(x.get('text') for x in nodes),'Gallery controls remain visible')
+         source_screen=c.evidence(n)/'source-screens'/f'g{v}-source-clean.png';time.sleep(1);device.shot(source_screen)
++        source_fidelity=source_fidelity_gate(c,device,v,source_screen,d)
+         phase('source-ready');device.shell('input','keyevent','219');time.sleep(float(c.ui.get('assistant_settle_s',3)))
+         device.check_component(c.ui['assistant_activity']);device.tap(c.ui['keyboard_tap'])
+         nodes=device.dump(d/'input.xml');edits=[x for x in nodes if x.get('class')=='android.widget.EditText']
+@@ -328,6 +354,7 @@
+             screen_brightness_mode=brightness['mode'],screen_brightness=brightness['value'],brightness_after=after,brightness_label=label,
+             response=text,response_file=str(response_file.relative_to(c.evidence(n))),screenshot=str(shot.relative_to(c.evidence(n))),
+             source_screen=str(source_screen.relative_to(c.evidence(n))),source_rgb_gate='not_used',
++            source_fidelity=source_fidelity,
+             ui_archive=os.path.relpath(c.archive_root/owner['archive_name'],c.root),
+             protocol_archive_member=state['protocol_archive_member'],
+             answer_xml_archive_member=str((d/'answer.xml').relative_to(c.work)),prompt_xml_archive_member=str((d/'prompt.xml').relative_to(c.work)),

@@ -1,0 +1,871 @@
+{
+  "version": 1,
+  "title": "实验二：不同字号与灰度差屏幕转写",
+  "date": "2026-10-27",
+  "experiment_dir": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity",
+  "reference_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/reference.txt",
+  "prompt_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-process/prompt.txt",
+  "image_pattern": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/evidence-01/source-images/{value}.png",
+  "phone_image_pattern": "/sdcard/Pictures/26-10-27-exp2-round03/{value}.png",
+  "artifact_stem": "exp2",
+  "parameter_key": "font_px_delta_g",
+  "parameter_label": "条件ID",
+  "values": [
+    "f16-g01",
+    "f16-g02",
+    "f16-g03",
+    "f16-g04",
+    "f16-g05",
+    "f16-g06",
+    "f16-g07",
+    "f16-g08",
+    "f16-g09",
+    "f16-g10",
+    "f16-g11",
+    "f16-g12",
+    "f16-g13",
+    "f16-g14",
+    "f16-g15",
+    "f16-g16",
+    "f16-g17",
+    "f16-g18",
+    "f16-g19",
+    "f16-g20",
+    "f16-g21",
+    "f16-g22",
+    "f16-g23",
+    "f16-g24",
+    "f16-g25",
+    "f16-g26",
+    "f16-g27",
+    "f16-g28",
+    "f16-g29",
+    "f16-g30",
+    "f16-g31",
+    "f16-g32",
+    "f24-g01",
+    "f24-g02",
+    "f24-g03",
+    "f24-g04",
+    "f24-g05",
+    "f24-g06",
+    "f24-g07",
+    "f24-g08",
+    "f24-g09",
+    "f24-g10",
+    "f24-g11",
+    "f24-g12",
+    "f24-g13",
+    "f24-g14",
+    "f24-g15",
+    "f24-g16",
+    "f24-g17",
+    "f24-g18",
+    "f24-g19",
+    "f24-g20",
+    "f24-g21",
+    "f24-g22",
+    "f24-g23",
+    "f24-g24",
+    "f24-g25",
+    "f24-g26",
+    "f24-g27",
+    "f24-g28",
+    "f24-g29",
+    "f24-g30",
+    "f24-g31",
+    "f24-g32",
+    "f32-g01",
+    "f32-g02",
+    "f32-g03",
+    "f32-g04",
+    "f32-g05",
+    "f32-g06",
+    "f32-g07",
+    "f32-g08",
+    "f32-g09",
+    "f32-g10",
+    "f32-g11",
+    "f32-g12",
+    "f32-g13",
+    "f32-g14",
+    "f32-g15",
+    "f32-g16",
+    "f32-g17",
+    "f32-g18",
+    "f32-g19",
+    "f32-g20",
+    "f32-g21",
+    "f32-g22",
+    "f32-g23",
+    "f32-g24",
+    "f32-g25",
+    "f32-g26",
+    "f32-g27",
+    "f32-g28",
+    "f32-g29",
+    "f32-g30",
+    "f32-g31",
+    "f32-g32",
+    "f40-g01",
+    "f40-g02",
+    "f40-g03",
+    "f40-g04",
+    "f40-g05",
+    "f40-g06",
+    "f40-g07",
+    "f40-g08",
+    "f40-g09",
+    "f40-g10",
+    "f40-g11",
+    "f40-g12",
+    "f40-g13",
+    "f40-g14",
+    "f40-g15",
+    "f40-g16",
+    "f40-g17",
+    "f40-g18",
+    "f40-g19",
+    "f40-g20",
+    "f40-g21",
+    "f40-g22",
+    "f40-g23",
+    "f40-g24",
+    "f40-g25",
+    "f40-g26",
+    "f40-g27",
+    "f40-g28",
+    "f40-g29",
+    "f40-g30",
+    "f40-g31",
+    "f40-g32",
+    "f64-g01",
+    "f64-g02",
+    "f64-g03",
+    "f64-g04",
+    "f64-g05",
+    "f64-g06",
+    "f64-g07",
+    "f64-g08",
+    "f64-g09",
+    "f64-g10",
+    "f64-g11",
+    "f64-g12",
+    "f64-g13",
+    "f64-g14",
+    "f64-g15",
+    "f64-g16",
+    "f64-g17",
+    "f64-g18",
+    "f64-g19",
+    "f64-g20",
+    "f64-g21",
+    "f64-g22",
+    "f64-g23",
+    "f64-g24",
+    "f64-g25",
+    "f64-g26",
+    "f64-g27",
+    "f64-g28",
+    "f64-g29",
+    "f64-g30",
+    "f64-g31",
+    "f64-g32"
+  ],
+  "rounds": [
+    3
+  ],
+  "serial": "75ea8363",
+  "adapter": "perplexity-default-assistant-v1",
+  "assistant_package": "ai.perplexity.app.android",
+  "gallery_component": "org.lineageos.glimpse/.ViewActivity",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": null,
+  "brightness": {
+    "action": "manual",
+    "value": 255
+  },
+  "whitespace": "ignore",
+  "response_timeout_s": 180,
+  "poll_s": 4,
+  "report_context": "黑底，100字符，5字号×32灰度；本轮160个条件",
+  "condition_note": "黑底；固定手动最大亮度255；每个字号×灰度条件保留1条正式结果。48px为实验一历史3轮均值。",
+  "ui": {
+    "screen_size": [
+      1080,
+      2400
+    ],
+    "validated_version_code": 260665,
+    "assistant_activity": "ai.perplexity.app.android/.assistant.AssistantActivity",
+    "gallery_tap": [
+      540,
+      1200
+    ],
+    "keyboard_tap": [
+      99,
+      2280
+    ],
+    "assistant_settle_s": 3,
+    "send_desc": "发送",
+    "copy_desc": "复制",
+    "thinking_contains": [
+      "正在思考"
+    ]
+  },
+  "conditions": {
+    "f16-g01": {
+      "font_px": 16,
+      "delta_g": 1
+    },
+    "f16-g02": {
+      "font_px": 16,
+      "delta_g": 2
+    },
+    "f16-g03": {
+      "font_px": 16,
+      "delta_g": 3
+    },
+    "f16-g04": {
+      "font_px": 16,
+      "delta_g": 4
+    },
+    "f16-g05": {
+      "font_px": 16,
+      "delta_g": 5
+    },
+    "f16-g06": {
+      "font_px": 16,
+      "delta_g": 6
+    },
+    "f16-g07": {
+      "font_px": 16,
+      "delta_g": 7
+    },
+    "f16-g08": {
+      "font_px": 16,
+      "delta_g": 8
+    },
+    "f16-g09": {
+      "font_px": 16,
+      "delta_g": 9
+    },
+    "f16-g10": {
+      "font_px": 16,
+      "delta_g": 10
+    },
+    "f16-g11": {
+      "font_px": 16,
+      "delta_g": 11
+    },
+    "f16-g12": {
+      "font_px": 16,
+      "delta_g": 12
+    },
+    "f16-g13": {
+      "font_px": 16,
+      "delta_g": 13
+    },
+    "f16-g14": {
+      "font_px": 16,
+      "delta_g": 14
+    },
+    "f16-g15": {
+      "font_px": 16,
+      "delta_g": 15
+    },
+    "f16-g16": {
+      "font_px": 16,
+      "delta_g": 16
+    },
+    "f16-g17": {
+      "font_px": 16,
+      "delta_g": 17
+    },
+    "f16-g18": {
+      "font_px": 16,
+      "delta_g": 18
+    },
+    "f16-g19": {
+      "font_px": 16,
+      "delta_g": 19
+    },
+    "f16-g20": {
+      "font_px": 16,
+      "delta_g": 20
+    },
+    "f16-g21": {
+      "font_px": 16,
+      "delta_g": 21
+    },
+    "f16-g22": {
+      "font_px": 16,
+      "delta_g": 22
+    },
+    "f16-g23": {
+      "font_px": 16,
+      "delta_g": 23
+    },
+    "f16-g24": {
+      "font_px": 16,
+      "delta_g": 24
+    },
+    "f16-g25": {
+      "font_px": 16,
+      "delta_g": 25
+    },
+    "f16-g26": {
+      "font_px": 16,
+      "delta_g": 26
+    },
+    "f16-g27": {
+      "font_px": 16,
+      "delta_g": 27
+    },
+    "f16-g28": {
+      "font_px": 16,
+      "delta_g": 28
+    },
+    "f16-g29": {
+      "font_px": 16,
+      "delta_g": 29
+    },
+    "f16-g30": {
+      "font_px": 16,
+      "delta_g": 30
+    },
+    "f16-g31": {
+      "font_px": 16,
+      "delta_g": 31
+    },
+    "f16-g32": {
+      "font_px": 16,
+      "delta_g": 32
+    },
+    "f24-g01": {
+      "font_px": 24,
+      "delta_g": 1
+    },
+    "f24-g02": {
+      "font_px": 24,
+      "delta_g": 2
+    },
+    "f24-g03": {
+      "font_px": 24,
+      "delta_g": 3
+    },
+    "f24-g04": {
+      "font_px": 24,
+      "delta_g": 4
+    },
+    "f24-g05": {
+      "font_px": 24,
+      "delta_g": 5
+    },
+    "f24-g06": {
+      "font_px": 24,
+      "delta_g": 6
+    },
+    "f24-g07": {
+      "font_px": 24,
+      "delta_g": 7
+    },
+    "f24-g08": {
+      "font_px": 24,
+      "delta_g": 8
+    },
+    "f24-g09": {
+      "font_px": 24,
+      "delta_g": 9
+    },
+    "f24-g10": {
+      "font_px": 24,
+      "delta_g": 10
+    },
+    "f24-g11": {
+      "font_px": 24,
+      "delta_g": 11
+    },
+    "f24-g12": {
+      "font_px": 24,
+      "delta_g": 12
+    },
+    "f24-g13": {
+      "font_px": 24,
+      "delta_g": 13
+    },
+    "f24-g14": {
+      "font_px": 24,
+      "delta_g": 14
+    },
+    "f24-g15": {
+      "font_px": 24,
+      "delta_g": 15
+    },
+    "f24-g16": {
+      "font_px": 24,
+      "delta_g": 16
+    },
+    "f24-g17": {
+      "font_px": 24,
+      "delta_g": 17
+    },
+    "f24-g18": {
+      "font_px": 24,
+      "delta_g": 18
+    },
+    "f24-g19": {
+      "font_px": 24,
+      "delta_g": 19
+    },
+    "f24-g20": {
+      "font_px": 24,
+      "delta_g": 20
+    },
+    "f24-g21": {
+      "font_px": 24,
+      "delta_g": 21
+    },
+    "f24-g22": {
+      "font_px": 24,
+      "delta_g": 22
+    },
+    "f24-g23": {
+      "font_px": 24,
+      "delta_g": 23
+    },
+    "f24-g24": {
+      "font_px": 24,
+      "delta_g": 24
+    },
+    "f24-g25": {
+      "font_px": 24,
+      "delta_g": 25
+    },
+    "f24-g26": {
+      "font_px": 24,
+      "delta_g": 26
+    },
+    "f24-g27": {
+      "font_px": 24,
+      "delta_g": 27
+    },
+    "f24-g28": {
+      "font_px": 24,
+      "delta_g": 28
+    },
+    "f24-g29": {
+      "font_px": 24,
+      "delta_g": 29
+    },
+    "f24-g30": {
+      "font_px": 24,
+      "delta_g": 30
+    },
+    "f24-g31": {
+      "font_px": 24,
+      "delta_g": 31
+    },
+    "f24-g32": {
+      "font_px": 24,
+      "delta_g": 32
+    },
+    "f32-g01": {
+      "font_px": 32,
+      "delta_g": 1
+    },
+    "f32-g02": {
+      "font_px": 32,
+      "delta_g": 2
+    },
+    "f32-g03": {
+      "font_px": 32,
+      "delta_g": 3
+    },
+    "f32-g04": {
+      "font_px": 32,
+      "delta_g": 4
+    },
+    "f32-g05": {
+      "font_px": 32,
+      "delta_g": 5
+    },
+    "f32-g06": {
+      "font_px": 32,
+      "delta_g": 6
+    },
+    "f32-g07": {
+      "font_px": 32,
+      "delta_g": 7
+    },
+    "f32-g08": {
+      "font_px": 32,
+      "delta_g": 8
+    },
+    "f32-g09": {
+      "font_px": 32,
+      "delta_g": 9
+    },
+    "f32-g10": {
+      "font_px": 32,
+      "delta_g": 10
+    },
+    "f32-g11": {
+      "font_px": 32,
+      "delta_g": 11
+    },
+    "f32-g12": {
+      "font_px": 32,
+      "delta_g": 12
+    },
+    "f32-g13": {
+      "font_px": 32,
+      "delta_g": 13
+    },
+    "f32-g14": {
+      "font_px": 32,
+      "delta_g": 14
+    },
+    "f32-g15": {
+      "font_px": 32,
+      "delta_g": 15
+    },
+    "f32-g16": {
+      "font_px": 32,
+      "delta_g": 16
+    },
+    "f32-g17": {
+      "font_px": 32,
+      "delta_g": 17
+    },
+    "f32-g18": {
+      "font_px": 32,
+      "delta_g": 18
+    },
+    "f32-g19": {
+      "font_px": 32,
+      "delta_g": 19
+    },
+    "f32-g20": {
+      "font_px": 32,
+      "delta_g": 20
+    },
+    "f32-g21": {
+      "font_px": 32,
+      "delta_g": 21
+    },
+    "f32-g22": {
+      "font_px": 32,
+      "delta_g": 22
+    },
+    "f32-g23": {
+      "font_px": 32,
+      "delta_g": 23
+    },
+    "f32-g24": {
+      "font_px": 32,
+      "delta_g": 24
+    },
+    "f32-g25": {
+      "font_px": 32,
+      "delta_g": 25
+    },
+    "f32-g26": {
+      "font_px": 32,
+      "delta_g": 26
+    },
+    "f32-g27": {
+      "font_px": 32,
+      "delta_g": 27
+    },
+    "f32-g28": {
+      "font_px": 32,
+      "delta_g": 28
+    },
+    "f32-g29": {
+      "font_px": 32,
+      "delta_g": 29
+    },
+    "f32-g30": {
+      "font_px": 32,
+      "delta_g": 30
+    },
+    "f32-g31": {
+      "font_px": 32,
+      "delta_g": 31
+    },
+    "f32-g32": {
+      "font_px": 32,
+      "delta_g": 32
+    },
+    "f40-g01": {
+      "font_px": 40,
+      "delta_g": 1
+    },
+    "f40-g02": {
+      "font_px": 40,
+      "delta_g": 2
+    },
+    "f40-g03": {
+      "font_px": 40,
+      "delta_g": 3
+    },
+    "f40-g04": {
+      "font_px": 40,
+      "delta_g": 4
+    },
+    "f40-g05": {
+      "font_px": 40,
+      "delta_g": 5
+    },
+    "f40-g06": {
+      "font_px": 40,
+      "delta_g": 6
+    },
+    "f40-g07": {
+      "font_px": 40,
+      "delta_g": 7
+    },
+    "f40-g08": {
+      "font_px": 40,
+      "delta_g": 8
+    },
+    "f40-g09": {
+      "font_px": 40,
+      "delta_g": 9
+    },
+    "f40-g10": {
+      "font_px": 40,
+      "delta_g": 10
+    },
+    "f40-g11": {
+      "font_px": 40,
+      "delta_g": 11
+    },
+    "f40-g12": {
+      "font_px": 40,
+      "delta_g": 12
+    },
+    "f40-g13": {
+      "font_px": 40,
+      "delta_g": 13
+    },
+    "f40-g14": {
+      "font_px": 40,
+      "delta_g": 14
+    },
+    "f40-g15": {
+      "font_px": 40,
+      "delta_g": 15
+    },
+    "f40-g16": {
+      "font_px": 40,
+      "delta_g": 16
+    },
+    "f40-g17": {
+      "font_px": 40,
+      "delta_g": 17
+    },
+    "f40-g18": {
+      "font_px": 40,
+      "delta_g": 18
+    },
+    "f40-g19": {
+      "font_px": 40,
+      "delta_g": 19
+    },
+    "f40-g20": {
+      "font_px": 40,
+      "delta_g": 20
+    },
+    "f40-g21": {
+      "font_px": 40,
+      "delta_g": 21
+    },
+    "f40-g22": {
+      "font_px": 40,
+      "delta_g": 22
+    },
+    "f40-g23": {
+      "font_px": 40,
+      "delta_g": 23
+    },
+    "f40-g24": {
+      "font_px": 40,
+      "delta_g": 24
+    },
+    "f40-g25": {
+      "font_px": 40,
+      "delta_g": 25
+    },
+    "f40-g26": {
+      "font_px": 40,
+      "delta_g": 26
+    },
+    "f40-g27": {
+      "font_px": 40,
+      "delta_g": 27
+    },
+    "f40-g28": {
+      "font_px": 40,
+      "delta_g": 28
+    },
+    "f40-g29": {
+      "font_px": 40,
+      "delta_g": 29
+    },
+    "f40-g30": {
+      "font_px": 40,
+      "delta_g": 30
+    },
+    "f40-g31": {
+      "font_px": 40,
+      "delta_g": 31
+    },
+    "f40-g32": {
+      "font_px": 40,
+      "delta_g": 32
+    },
+    "f64-g01": {
+      "font_px": 64,
+      "delta_g": 1
+    },
+    "f64-g02": {
+      "font_px": 64,
+      "delta_g": 2
+    },
+    "f64-g03": {
+      "font_px": 64,
+      "delta_g": 3
+    },
+    "f64-g04": {
+      "font_px": 64,
+      "delta_g": 4
+    },
+    "f64-g05": {
+      "font_px": 64,
+      "delta_g": 5
+    },
+    "f64-g06": {
+      "font_px": 64,
+      "delta_g": 6
+    },
+    "f64-g07": {
+      "font_px": 64,
+      "delta_g": 7
+    },
+    "f64-g08": {
+      "font_px": 64,
+      "delta_g": 8
+    },
+    "f64-g09": {
+      "font_px": 64,
+      "delta_g": 9
+    },
+    "f64-g10": {
+      "font_px": 64,
+      "delta_g": 10
+    },
+    "f64-g11": {
+      "font_px": 64,
+      "delta_g": 11
+    },
+    "f64-g12": {
+      "font_px": 64,
+      "delta_g": 12
+    },
+    "f64-g13": {
+      "font_px": 64,
+      "delta_g": 13
+    },
+    "f64-g14": {
+      "font_px": 64,
+      "delta_g": 14
+    },
+    "f64-g15": {
+      "font_px": 64,
+      "delta_g": 15
+    },
+    "f64-g16": {
+      "font_px": 64,
+      "delta_g": 16
+    },
+    "f64-g17": {
+      "font_px": 64,
+      "delta_g": 17
+    },
+    "f64-g18": {
+      "font_px": 64,
+      "delta_g": 18
+    },
+    "f64-g19": {
+      "font_px": 64,
+      "delta_g": 19
+    },
+    "f64-g20": {
+      "font_px": 64,
+      "delta_g": 20
+    },
+    "f64-g21": {
+      "font_px": 64,
+      "delta_g": 21
+    },
+    "f64-g22": {
+      "font_px": 64,
+      "delta_g": 22
+    },
+    "f64-g23": {
+      "font_px": 64,
+      "delta_g": 23
+    },
+    "f64-g24": {
+      "font_px": 64,
+      "delta_g": 24
+    },
+    "f64-g25": {
+      "font_px": 64,
+      "delta_g": 25
+    },
+    "f64-g26": {
+      "font_px": 64,
+      "delta_g": 26
+    },
+    "f64-g27": {
+      "font_px": 64,
+      "delta_g": 27
+    },
+    "f64-g28": {
+      "font_px": 64,
+      "delta_g": 28
+    },
+    "f64-g29": {
+      "font_px": 64,
+      "delta_g": 29
+    },
+    "f64-g30": {
+      "font_px": 64,
+      "delta_g": 30
+    },
+    "f64-g31": {
+      "font_px": 64,
+      "delta_g": 31
+    },
+    "f64-g32": {
+      "font_px": 64,
+      "delta_g": 32
+    }
+  },
+  "source_fidelity_gate": {
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "max_checks": 16,
+    "poll_s": 2,
+    "required_consecutive": 2
+  }
+}

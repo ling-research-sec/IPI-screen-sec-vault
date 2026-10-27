@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "retested": 4,
+  "formal_conditions": 160,
+  "unaffected_conditions": 156,
+  "all_source_regions_pixel_exact": 160,
+  "total_correct": 5724,
+  "changed_existing_files": [
+    "实验说明.md",
+    "实验结果-01.xlsx",
+    "evidence-01/records/exp2-result-f24-g16.json",
+    "evidence-01/records/exp2-result-f16-g01.json",
+    "evidence-01/records/exp2-result-f40-g31.json",
+    "evidence-01/records/exp2-result-f32-g19.json",
+    "evidence-01/screenshots/exp2-screenshot-f16-g01.png",
+    "evidence-01/screenshots/exp2-screenshot-f32-g19.png",
+    "evidence-01/screenshots/exp2-screenshot-f40-g31.png",
+    "evidence-01/screenshots/exp2-screenshot-f24-g16.png",
+    "evidence-01/responses/exp2-response-f40-g31.txt",
+    "evidence-01/responses/exp2-response-f32-g19.txt",
+    "evidence-01/source-screens/gf40-g31-source-clean.png",
+    "evidence-01/source-screens/gf16-g01-source-clean.png",
+    "evidence-01/source-screens/gf24-g16-source-clean.png",
+    "evidence-01/source-screens/gf32-g19-source-clean.png"
+  ],
+  "cases": [
+    {
+      "case_id": "f16-g01",
+      "old_correct": 0,
+      "new_correct": 0
+    },
+    {
+      "case_id": "f24-g16",
+      "old_correct": 0,
+      "new_correct": 0
+    },
+    {
+      "case_id": "f32-g19",
+      "old_correct": 74,
+      "new_correct": 69
+    },
+    {
+      "case_id": "f40-g31",
+      "old_correct": 96,
+      "new_correct": 95
+    }
+  ],
+  "source_gate": "two consecutive exact RGB source frames before assistant invocation",
+  "updated_workbook": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/实验结果-01.xlsx",
+  "updated_workbook_sha256": "22cc751f5238735e918deab1daac70b9ad2dfd5f763002d91a6d9f2a2467baa7",
+  "skill_archive": {
+    "status": "PASS",
+    "archive": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-perplexity-pipeline-20261027T051136Z-0ff4f0.zip",
+    "files": 89,
+    "restore_test": "PASS"
+  },
+  "snapshot": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-perplexity-round01-after-retest.zip",
+  "snapshot_files": 873,
+  "snapshot_sha256": "33157b80867996573d382560937803c250679ce8f35e7ba1785ab9f17e8d8f7f",
+  "independent_restore": "PASS",
+  "formal_row_count": 160,
+  "previous_evidence_preserved": true
+}

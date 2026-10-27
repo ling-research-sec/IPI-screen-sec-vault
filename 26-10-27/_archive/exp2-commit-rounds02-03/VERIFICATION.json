@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "base": "f1443143c643335e21ec60d6f0a8bbfb2a8608b0",
+  "commits": [
+    {
+      "round": 2,
+      "commit": "51dba8f26a5d0f57c95caa9205cfc76acb12a700",
+      "files": 2630,
+      "committed_blob_matches_prepared_files": "PASS"
+    },
+    {
+      "round": 3,
+      "commit": "371831f6d46b7fbee5b4f039ab8916befa85ad90",
+      "files": 2635,
+      "committed_blob_matches_prepared_files": "PASS"
+    }
+  ],
+  "existing_data_and_workbooks": "UNCHANGED",
+  "experiment1": "UNCHANGED",
+  "local_archives_committed": false,
+  "remaining_worktree": "?? \"26-10-27/\\345\\256\\236\\351\\252\\214\\350\\257\\264\\346\\230\\216.md\"\n",
+  "rollback": "ROLLBACK PASS: isolated index restored to original tree f5633816e4e14bf2760680279381ba422d49b994",
+  "push_executed": false
+}

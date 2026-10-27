@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "completed": 320,
+  "per_round": {
+    "02": 160,
+    "03": 160
+  },
+  "per_font_each_round": {
+    "16": 32,
+    "24": 32,
+    "32": 32,
+    "40": 32,
+    "64": 32
+  },
+  "uncompleted": 0,
+  "workflow_exclusions": {
+    "pre_send": 4,
+    "response_timeout": 4
+  },
+  "protected_exp1_and_01": "UNCHANGED",
+  "workbooks": {
+    "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/实验结果-02.xlsx": "fa3daa47354d932d9d86f321d0e1a52b0a844978b495a3bc0bad4c7484641640",
+    "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/实验结果-03.xlsx": "bc8932fafc1781bb749439adbfc4dc302f21c6ab8bc4c254ca1d1a4614c24da1"
+  },
+  "notes_path": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/exp2-perplexity/实验说明.md",
+  "notes_sha256": "8b7cab4dd5270842dacea3a1332090cf8f95b7c0b0ea5137b2e8cdd0d958dbd6",
+  "archive": {
+    "status": "PASS",
+    "archive": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-perplexity-pipeline-20261027T060204Z-a66186.zip",
+    "files": 3562,
+    "restore_test": "PASS"
+  },
+  "archive_sha256": "1f213aadc52e267fb4bff482c6a9301d61a163937f9e7c2d9271fdb0a4037d83",
+  "post_archive_ui_verify": "PASS320",
+  "owned_work_removed": true,
+  "phone_cleanup": "removed fixed-name temporary UI XML after byte-identical archived copy verified",
+  "completed_utc": "2026-10-27T11:20:27.096301+00:00"
+}

@@ -1,0 +1,22 @@
+COMMAND ["/opt/homebrew/opt/python@3.14/bin/python3.14", "-u", "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", "run", "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-02.json", "--execute"]
+PROGRESS {"status": "running", "completed": 16, "target": 320, "round_counts": {"02": 16, "03": 0}, "round": 2, "case": "f16-g16", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T06:20:03.428021+00:00"}
+PROGRESS {"status": "running", "completed": 32, "target": 320, "round_counts": {"02": 32, "03": 0}, "round": 2, "case": "f16-g32", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T06:31:05.701795+00:00"}
+PROGRESS {"status": "running", "completed": 48, "target": 320, "round_counts": {"02": 48, "03": 0}, "round": 2, "case": "f24-g16", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T06:42:09.447041+00:00"}
+PROGRESS {"status": "running", "completed": 64, "target": 320, "round_counts": {"02": 64, "03": 0}, "round": 2, "case": "f24-g32", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T06:53:38.311413+00:00"}
+PROGRESS {"status": "running", "completed": 80, "target": 320, "round_counts": {"02": 80, "03": 0}, "round": 2, "case": "f32-g16", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T07:05:03.298859+00:00"}
+PROGRESS {"status": "running", "completed": 96, "target": 320, "round_counts": {"02": 96, "03": 0}, "round": 2, "case": "f32-g32", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T07:17:47.237810+00:00"}
+PROGRESS {"status": "running", "completed": 112, "target": 320, "round_counts": {"02": 112, "03": 0}, "round": 2, "case": "f40-g16", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T07:29:52.169439+00:00"}
+PROGRESS {"status": "running", "completed": 128, "target": 320, "round_counts": {"02": 128, "03": 0}, "round": 2, "case": "f40-g32", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T07:42:56.218694+00:00"}
+PROGRESS {"status": "running", "completed": 144, "target": 320, "round_counts": {"02": 144, "03": 0}, "round": 2, "case": "f64-g16", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T07:55:23.631184+00:00"}
+PROGRESS {"status": "running", "completed": 160, "target": 320, "round_counts": {"02": 160, "03": 0}, "round": 2, "case": "f64-g32", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T08:07:43.877680+00:00"}
+{
+  "status": "completed",
+  "jobs": 160,
+  "new_trials": 159,
+  "verified_existing": 1
+}
+COMMAND ["/opt/homebrew/opt/python@3.14/bin/python3.14", "-u", "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py", "run", "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-03.json", "--execute"]
+PROGRESS {"status": "running", "completed": 176, "target": 320, "round_counts": {"02": 160, "03": 16}, "round": 3, "case": "f16-g16", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T08:19:26.115191+00:00"}
+PROGRESS {"status": "running", "completed": 192, "target": 320, "round_counts": {"02": 160, "03": 32}, "round": 3, "case": "f16-g32", "workflow_interruptions": 4, "recognition_failures_not_invented": true, "updated_utc": "2026-10-27T08:30:45.031127+00:00"}
+ERROR: Response timeout; preserve as uncertain, not [UNREADABLE]
+STOPPED CalledProcessError(1, ['/opt/homebrew/opt/python@3.14/bin/python3.14', '-u', '/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/runner/pipeline.py', 'run', '/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-rounds02-03/config-03.json', '--execute'])

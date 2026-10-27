@@ -1,0 +1,24 @@
+{
+  "random_sample": 100,
+  "random_checks_pass": 100,
+  "random_source_pixel_exact": 100,
+  "targeted_conditions": [
+    "03/f24-g10",
+    "03/f24-g29",
+    "03/f40-g17",
+    "03/f64-g05"
+  ],
+  "targeted_already_in_sample": [
+    "03/f40-g17",
+    "03/f64-g05"
+  ],
+  "targeted_extra": [
+    "03/f24-g10",
+    "03/f24-g29"
+  ],
+  "total_rows": 102,
+  "unreadable": 64,
+  "transcription": 36,
+  "failed": [],
+  "boards": 21
+}

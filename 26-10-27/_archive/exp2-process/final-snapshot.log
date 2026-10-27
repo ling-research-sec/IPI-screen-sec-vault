@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "formal_results": 160,
+  "workflow_exceptions": 5,
+  "xlsx_sheets": [
+    "实验结果",
+    "完整回复"
+  ],
+  "native_filter_range": "A9:M169",
+  "visual_qa": "PASS: both sheets and final rows",
+  "final_evidence_archive": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-27/_archive/exp2-perplexity-round01-final-evidence.zip",
+  "archive_sha256": "794484a28cc0ea7735402307315163858b98481850c3590758a6b8e0a53d2307",
+  "snapshot_files": 946,
+  "snapshot_crc": "PASS",
+  "independent_restore": "PASS",
+  "restored_records_and_replies": 160,
+  "restored_baseline_references": 96,
+  "restored_xlsx_sha256": "6f8e2eb65e2f230d8fac98450f9abfd5053694c29dab72cc96e3df7172715024",
+  "executable_rollback_restored": true,
+  "temporary_restore_directory_removed": true,
+  "original_experiment1_files_unchanged": 944,
+  "original_skill_scripts_unchanged": true,
+  "working_directory_cleaned_after_skill_restore": true
+}

@@ -1,0 +1,22 @@
+{
+  "submitted": false,
+  "reason": "New bulk-import URI produced non-identical source ROI; no assistant invocation or submission; use round01 verified input URI.",
+  "original_state": {
+    "round": 2,
+    "value": "f16-g01",
+    "identity": {
+      "source_sha256": "8473f10207394b3658c62c11b78af3bbe211253ff88bd057ac22cc2c59a8264f",
+      "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+      "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+      "parameter_key": "font_px_delta_g",
+      "assistant_package": "ai.perplexity.app.android",
+      "device": "75ea8363"
+    },
+    "started_utc": "2026-10-27T06:02:36.553130+00:00",
+    "submitted": false,
+    "phase": "setup",
+    "protocol_archive_member": "protocols/7de72a1226fc636e10c7ae6ef42ce8c0e5da801fee25b89eb7e8fa6d43895e14.json",
+    "updated_utc": "2026-10-27T06:03:23.624541+00:00",
+    "error": "PipelineError: Source-screen RGB differs from original PNG; stopped before assistant invocation/submission"
+  }
+}

@@ -16,3 +16,6 @@ Desktop.ini
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
+
+# Local process archives, previews and rollback backups
+/26-10-26/_archive/

@@ -1,0 +1,81 @@
+{
+  "round": 3,
+  "repeat": 3,
+  "case_id": "f64-g31",
+  "parameter_value": "f64-g31",
+  "status": "completed",
+  "started_utc": "2026-10-27T11:10:55.142211+00:00",
+  "completed_utc": "2026-10-27T11:12:01.757110+00:00",
+  "source_sha256": "86b53b31be9a1e9e509872b1fa831415f57105ad238849c686b956b4e20b7799",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "ai.perplexity.app.android",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "86b53b31be9a1e9e509872b1fa831415f57105ad238849c686b956b4e20b7799",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f64-g31.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 64,
+  "delta_g": 31,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWULWEIJQKUMAQUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "response_file": "responses/exp2-response-f64-g31.txt",
+  "screenshot": "screenshots/exp2-screenshot-f64-g31.png",
+  "source_screen": "source-screens/gf64-g31-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "f915b0f241fc3307a30468c70827baf48bc760fde06f1b3a8183b35f9d96a1a7",
+    "observed_roi_sha256": "f915b0f241fc3307a30468c70827baf48bc760fde06f1b3a8183b35f9d96a1a7",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "71f495fca5267743be9143c614e592cc06047274d735060f985dd3b29e005cee",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "71f495fca5267743be9143c614e592cc06047274d735060f985dd3b29e005cee",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "../_archive/exp2-perplexity-pipeline-20261027T060204Z-a66186.zip",
+  "protocol_archive_member": "protocols/206095300689155acb0d631872ccde913e5fb49174e130121e1ff812aff61ba4.json",
+  "answer_xml_archive_member": "round03/gf64-g31/answer.xml",
+  "prompt_xml_archive_member": "round03/gf64-g31/prompt.xml",
+  "response_sha256": "4b3722d49cb1e420af54db2c68d592eae590964eba5cc9c445323198222bc981",
+  "screenshot_sha256": "71c6ec407b4388a2ba44ffb99e482eb46ce47a3b8f434f9e2542c15a55a7d877",
+  "source_screen_sha256": "71f495fca5267743be9143c614e592cc06047274d735060f985dd3b29e005cee",
+  "correct": 98,
+  "substitutions": 2,
+  "deletions": 0,
+  "insertions": 0,
+  "edit_distance": 2,
+  "total": 100,
+  "accuracy": 0.98,
+  "cer": 0.02,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": false
+}

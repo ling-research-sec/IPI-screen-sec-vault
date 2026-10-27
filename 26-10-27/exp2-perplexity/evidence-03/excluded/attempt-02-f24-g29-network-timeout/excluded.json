@@ -1,0 +1,28 @@
+{
+  "reason": "Response timeout during user-reported network fluctuation; no completed stored reply. Current UI is desktop without a copy control. User requests continuation.",
+  "submitted_marker": true,
+  "server_acceptance": "UNKNOWN",
+  "score": null,
+  "excluded_utc": "2026-10-27T09:37:40.918950+00:00",
+  "original_state": {
+    "round": 3,
+    "value": "f24-g29",
+    "identity": {
+      "source_sha256": "b2b3c82741ee7b17206d3bbb229d4e5f339bb7eab0cad743fcd4bdbdb3d70966",
+      "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+      "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+      "parameter_key": "font_px_delta_g",
+      "assistant_package": "ai.perplexity.app.android",
+      "device": "75ea8363"
+    },
+    "started_utc": "2026-10-27T09:29:28.006832+00:00",
+    "submitted": true,
+    "phase": "timeout",
+    "protocol_archive_member": "protocols/206095300689155acb0d631872ccde913e5fb49174e130121e1ff812aff61ba4.json",
+    "updated_utc": "2026-10-27T09:32:53.277030+00:00",
+    "error": "PipelineError: Response timeout; preserve as uncertain, not [UNREADABLE]"
+  },
+  "moved_paths": {
+    "evidence-03/source-screens/gf24-g29-source-clean.png": "evidence-03/excluded/attempt-02-f24-g29-network-timeout/source-screens/gf24-g29-source-clean.png"
+  }
+}

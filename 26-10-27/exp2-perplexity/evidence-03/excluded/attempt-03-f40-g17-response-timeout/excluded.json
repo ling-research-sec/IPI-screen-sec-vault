@@ -1,0 +1,28 @@
+{
+  "reason": "Response timeout; user reports stuck and requests continuation. Current UI is desktop with no complete reply or copy control; preserve uncertain attempt without score.",
+  "submitted_marker": true,
+  "server_acceptance": "UNKNOWN",
+  "score": null,
+  "excluded_utc": "2026-10-27T10:25:34.061868+00:00",
+  "original_state": {
+    "round": 3,
+    "value": "f40-g17",
+    "identity": {
+      "source_sha256": "e370a26d5cf22077f80733ac32695b95d88118b938435bc36539d49ba6378a60",
+      "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+      "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+      "parameter_key": "font_px_delta_g",
+      "assistant_package": "ai.perplexity.app.android",
+      "device": "75ea8363"
+    },
+    "started_utc": "2026-10-27T10:19:31.514958+00:00",
+    "submitted": true,
+    "phase": "timeout",
+    "protocol_archive_member": "protocols/206095300689155acb0d631872ccde913e5fb49174e130121e1ff812aff61ba4.json",
+    "updated_utc": "2026-10-27T10:22:55.394894+00:00",
+    "error": "PipelineError: Response timeout; preserve as uncertain, not [UNREADABLE]"
+  },
+  "moved_paths": {
+    "evidence-03/source-screens/gf40-g17-source-clean.png": "evidence-03/excluded/attempt-03-f40-g17-response-timeout/source-screens/gf40-g17-source-clean.png"
+  }
+}

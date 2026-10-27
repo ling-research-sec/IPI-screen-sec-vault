@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "roi": [
+    65,
+    650,
+    1030,
+    1120
+  ],
+  "expected_roi_sha256": "f03d577593be8ec4b064d853d8350c0ed0578f18024861ba9be3da5eac38dcf8",
+  "observed_roi_sha256": "f03d577593be8ec4b064d853d8350c0ed0578f18024861ba9be3da5eac38dcf8",
+  "consecutive_exact": 2,
+  "observations": [
+    {
+      "index": 1,
+      "exact": true,
+      "source_screen_sha256": "4659b55e98e7927e6f0336fbb12ee93c78c1666cc4e7de806852088ed1270d05",
+      "max_abs_difference": 0
+    },
+    {
+      "index": 2,
+      "exact": true,
+      "source_screen_sha256": "4659b55e98e7927e6f0336fbb12ee93c78c1666cc4e7de806852088ed1270d05",
+      "max_abs_difference": 0
+    }
+  ]
+}

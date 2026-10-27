@@ -1,0 +1,17 @@
+{
+  "round": 3,
+  "value": "f24-g22",
+  "identity": {
+    "source_sha256": "f7a174fa08f119e6e2888dcbb9c7454d43386dca02aba550c8b0be893d1fd4ae",
+    "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+    "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+    "parameter_key": "font_px_delta_g",
+    "assistant_package": "ai.perplexity.app.android",
+    "device": "75ea8363"
+  },
+  "started_utc": "2026-10-27T09:23:50.736366+00:00",
+  "submitted": true,
+  "phase": "completed",
+  "protocol_archive_member": "protocols/206095300689155acb0d631872ccde913e5fb49174e130121e1ff812aff61ba4.json",
+  "updated_utc": "2026-10-27T09:24:33.161503+00:00"
+}

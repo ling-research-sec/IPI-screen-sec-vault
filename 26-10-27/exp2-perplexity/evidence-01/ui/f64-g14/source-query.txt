@@ -1,0 +1,1 @@
+Row: 0 _id=645, _display_name=f64-g14.png, relative_path=Pictures/26-10-27-exp2/

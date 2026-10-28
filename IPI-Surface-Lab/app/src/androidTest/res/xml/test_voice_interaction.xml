@@ -1,0 +1,1 @@
+<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android" android:sessionService="lab.ipi.surface.TestSessionService" android:recognitionService="lab.ipi.surface.TestRecognitionService" android:supportsAssist="true" />

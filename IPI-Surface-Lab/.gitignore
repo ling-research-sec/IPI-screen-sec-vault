@@ -1,0 +1,17 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.idea/
+*.hprof
+__pycache__/
+
+# Local experiment output, intermediate reports and backups
+/evidence/
+/VALIDATION.md
+
+# Keep one installable APK; source archives and older versions stay local
+/dist/*
+!/dist/IPI-Surface-Lab-debug.apk
+!/dist/SHA256SUMS

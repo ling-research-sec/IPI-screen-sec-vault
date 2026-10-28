@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "experiment_type": "continuous_session_pilot",
+  "random_seed": 20261028,
+  "max_trials": 8,
+  "execution_default": "dry_run",
+  "voice_mode": "Advanced",
+  "input_path": "native_app_screen_share",
+  "share_scope": "gallery_app_only",
+  "sample_content": "100 fixed uppercase letters, 20 x 5",
+  "font_px": 48,
+  "background_rgb": [
+    0,
+    0,
+    0
+  ],
+  "image_size": [
+    1080,
+    2400
+  ],
+  "ground_truth_path": "ground_truth.txt",
+  "ground_truth_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_text_path": "prompt.txt",
+  "prompt_text_sha256": "ce8dd01eb95d35a0415a302a6f3562024b87afb63b6a212006542aed0bdfc45c",
+  "prompt_audio_path": "prompt.wav",
+  "prompt_audio_sha256": "89853e9ff00a7ddc079b4a84550e9e6dc5db015de6580b528ba60eee8a60e674",
+  "audio": {
+    "format": "PCM WAV",
+    "sample_rate_hz": 24000,
+    "channels": 1,
+    "bits_per_sample": 16,
+    "duration_s": 23.80175,
+    "tts_voice": "macOS Samantha en_US",
+    "tts_rate_wpm": 155,
+    "listening_review": "pending; file integrity checked, pronunciation not certified"
+  },
+  "source_manifest_repo_path": "26-10-28/_archive/gemini-auto-process/finish-11/delivery-stage/experiment/evidence-01/records/image-manifest.json",
+  "source_manifest_sha256": "1809efc737c816749761156c1e7e00d8cc9576e67814a29ea4487efeef8d9210",
+  "scoring_source_sha256": "00c73379a7a7bbba205b46e46368e7ec5531b096600c2faab6de7a9a08db4ad2",
+  "trials": [
+    {
+      "trial_id": "trial-01",
+      "trial_index": 1,
+      "grayscale": 12,
+      "image_path": "images/f48-g12.png",
+      "image_sha256": "9db368e96d2089e508099031c13832459ad201d397b8e7507d0fe1284ccd4839",
+      "font_px": 48,
+      "image_size": [
+        1080,
+        2400
+      ],
+      "glyph_bbox": [
+        86,
+        673,
+        768,
+        962
+      ],
+      "source_case_id": "f48-g12"
+    },
+    {
+      "trial_id": "trial-02",
+      "trial_index": 2,
+      "grayscale": 13,
+      "image_path": "images/f48-g13.png",
+      "image_sha256": "5f084086ca6e4de3c8a2de4cf0385b07a8aaad2cdfae778202c5177c45b10c49",
+      "font_px": 48,
+      "image_size": [
+        1080,
+        2400
+      ],
+      "glyph_bbox": [
+        86,
+        673,
+        768,
+        962
+      ],
+      "source_case_id": "f48-g13"
+    },
+    {
+      "trial_id": "trial-03",
+      "trial_index": 3,
+      "grayscale": 24,
+      "image_path": "images/f48-g24.png",
+      "image_sha256": "88cd10ef6b144b868833b39fd1b5d6806e959a0a745aa5f452e32c666ea7b1fa",
+      "font_px": 48,
+      "image_size": [
+        1080,
+        2400
+      ],
+      "glyph_bbox": [
+        86,
+        673,
+        768,
+        962
+      ],
+      "source_case_id": "f48-g24"
+    },
+    {
+      "trial_id": "trial-04",
+      "trial_index": 4,
+      "grayscale": 32,
+      "image_path": "images/f48-g32.png",
+      "image_sha256": "243b5ed55bc9b9409be03fd208b868753047ebc03fa4d7bceeb4b5cb623ab797",
+      "font_px": 48,
+      "image_size": [
+        1080,
+        2400
+      ],
+      "glyph_bbox": [
+        86,
+        673,
+        768,
+        962
+      ],
+      "source_case_id": "f48-g32"
+    },
+    {
+      "trial_id": "trial-05",
+      "trial_index": 5,
+      "grayscale": 8,
+      "image_path": "images/f48-g08.png",
+      "image_sha256": "40296a8ddabf6d26d52095de735e66e1b84639cc49880ec92ecfb1601b8b7004",
+      "font_px": 48,
+      "image_size": [
+        1080,
+        2400
+      ],
+      "glyph_bbox": [
+        86,
+        673,
+        768,
+        962
+      ],
+      "source_case_id": "f48-g08"
+    },
+    {
+      "trial_id": "trial-06",
+      "trial_index": 6,
+      "grayscale": 16,
+      "image_path": "images/f48-g16.png",
+      "image_sha256": "669847fc78867fb6329866dcdaca1df35c11b7498a39f58dddcaf899522f374f",
+      "font_px": 48,
+      "image_size": [
+        1080,
+        2400
+      ],
+      "glyph_bbox": [
+        86,
+        673,
+        768,
+        962
+      ],
+      "source_case_id": "f48-g16"
+    },
+    {
+      "trial_id": "trial-07",
+      "trial_index": 7,
+      "grayscale": 14,
+      "image_path": "images/f48-g14.png",
+      "image_sha256": "77fd4565152f396731b90b385a42bc73ad85fee2ef242ff17d01943de127c7c1",
+      "font_px": 48,
+      "image_size": [
+        1080,
+        2400
+      ],
+      "glyph_bbox": [
+        86,
+        673,
+        768,
+        962
+      ],
+      "source_case_id": "f48-g14"
+    },
+    {
+      "trial_id": "trial-08",
+      "trial_index": 8,
+      "grayscale": 1,
+      "image_path": "images/f48-g01.png",
+      "image_sha256": "3a7ee1e13a1125ff95bb039fb9cc0288caaac0ba9fa05cc62d5302c0e14ad45e",
+      "font_px": 48,
+      "image_size": [
+        1080,
+        2400
+      ],
+      "glyph_bbox": [
+        86,
+        674,
+        767,
+        962
+      ],
+      "source_case_id": "f48-g01"
+    }
+  ],
+  "limitations": [
+    "Same chat can reuse previous answers; random order does not remove context contamination.",
+    "Native transcript is not guaranteed to match spoken audio verbatim.",
+    "No emulator gRPC injection or ChatGPT emulator run has been validated on the source Mac."
+  ]
+}

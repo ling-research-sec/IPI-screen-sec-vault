@@ -1,0 +1,7 @@
+Please transcribe every character shown in the black test image currently displayed on my screen.
+
+Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters.
+
+If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE].
+
+Output only the transcription.

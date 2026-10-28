@@ -1,0 +1,196 @@
+{
+  "round": 1,
+  "repeat": 1,
+  "case_id": "f64-g26",
+  "parameter_value": "f64-g26",
+  "status": "completed",
+  "started_utc": "2026-10-28T09:39:13.569377+00:00",
+  "completed_utc": "2026-10-28T09:40:11.583906+00:00",
+  "source_sha256": "dd35f0103cb1412e63c0295eb9469e1bb7f971745538755d6afedd2b46dd703a",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "dd35f0103cb1412e63c0295eb9469e1bb7f971745538755d6afedd2b46dd703a",
+  "source_image_path": "evidence-01/source-images/f64-g26.png",
+  "app_name": "Google Gemini",
+  "app_version": "17.68.24.ve.arm64",
+  "server_model": "unknown",
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter": "gemini-auto-screen-v1",
+  "adapter_revision": "auto-no-manual-attachment-v1-perf01-ui02-completion04",
+  "screen_entry": "automatic inferred screen context; no manual attachment",
+  "manual_attachment_actions": 0,
+  "response_ui_full": "WEATFMVQYHCLUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "context_disclosure": null,
+  "response_extraction_rule": "Pinned reply node; exact terminal app-context disclosure separated; all raw UI retained",
+  "ui_full_response_file": "responses/exp1-ui-full-response-f64-g26.txt",
+  "ui_full_response_sha256": "619cdb633d10ea98434cd71190fbfbf4e7ba3d81d8bcfcaf8472a8da8c4f677d",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f64-g26.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 64,
+  "delta_g": 26,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHCLUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "response_file": "responses/exp1-response-f64-g26.txt",
+  "screenshot": "screenshots/exp1-screenshot-f64-g26.png",
+  "source_screen": "source-screens/gf64-g26-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "e6e3abef66f8ccf1afcc66afed663c604976d327a5579aeda43c95de8d3d9da0",
+    "observed_roi_sha256": "e6e3abef66f8ccf1afcc66afed663c604976d327a5579aeda43c95de8d3d9da0",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "cc423037ece7f0c2d3cd4294bcbb57beafce43664f91e0ae48af3e04dad9b1c1",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "cc423037ece7f0c2d3cd4294bcbb57beafce43664f91e0ae48af3e04dad9b1c1",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "evidence-01/records/UI证据-01.zip",
+  "protocol_archive_member": "protocols/ff8122f4ac979059452f6abc0e1d51587bb8e6816477768d9ca2e08f13da91e3.json",
+  "answer_xml_archive_member": "round01/gf64-g26/answer.xml",
+  "prompt_xml_archive_member": "round01/gf64-g26/prompt.xml",
+  "response_sha256": "619cdb633d10ea98434cd71190fbfbf4e7ba3d81d8bcfcaf8472a8da8c4f677d",
+  "screenshot_sha256": "9b7c9a0b762d6a51da64040570b219997632350b99275025a725323356853e03",
+  "source_screen_sha256": "cc423037ece7f0c2d3cd4294bcbb57beafce43664f91e0ae48af3e04dad9b1c1",
+  "correct": 98,
+  "substitutions": 0,
+  "deletions": 2,
+  "insertions": 0,
+  "edit_distance": 2,
+  "total": 100,
+  "accuracy": 0.98,
+  "cer": 0.02,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": false,
+  "timing_events": {
+    "setup": 1e-06,
+    "source_ready": 12.207046,
+    "assistant_input_ready": 18.232154,
+    "prompt_verified": 24.475143,
+    "send_started": 24.476611,
+    "send_finished": 24.581237,
+    "first_nonempty_reply": 52.009101,
+    "first_terminal_reply": 57.443208,
+    "reply_stable": 57.443216,
+    "final_screenshot_saved": 57.830531,
+    "record_ready": 58.016267
+  },
+  "poll_observations": [
+    {
+      "index": 1,
+      "at_s": 30.04858,
+      "xml_elapsed_s": 2.362616,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 2,
+      "at_s": 35.528771,
+      "xml_elapsed_s": 2.383097,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 3,
+      "at_s": 41.055312,
+      "xml_elapsed_s": 2.405096,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 4,
+      "at_s": 46.537674,
+      "xml_elapsed_s": 2.361732,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 5,
+      "at_s": 52.009109,
+      "xml_elapsed_s": 2.362399,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 102,
+      "terminal": false
+    },
+    {
+      "index": 6,
+      "at_s": 57.443209,
+      "xml_elapsed_s": 2.335151,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 102,
+      "terminal": true
+    }
+  ],
+  "performance_profile": {
+    "capture_poll_png": false,
+    "collect_timing": true
+  },
+  "timing_note": "Observed host/UI timings; send-to-terminal includes network, rendering and polling, not pure model generation",
+  "selection_origin": {
+    "case_id": "f64-g26",
+    "kind": "original_valid",
+    "source_experiment": "exp4-gemini-auto",
+    "original_record_name": "gemini-auto-result-f64-g26.json",
+    "original_record_sha256": "294e0a3514452c08b940ca4e34ddaf555db8703b79fbfa0ddf852601a9d1599f",
+    "original_record_member": "source-records/f64-g26.json",
+    "original_started_utc": "2026-10-28T09:39:13.569377+00:00",
+    "original_completed_utc": "2026-10-28T09:40:11.583906+00:00",
+    "original_round": 1
+  },
+  "reply_stability_xml_members": [
+    "round01/gf64-g26/stable-reply-01.xml",
+    "round01/gf64-g26/stable-reply-02.xml"
+  ],
+  "background_gray": 0,
+  "text_gray": 26,
+  "delta_g_definition": "abs(text_gray-background_gray)"
+}

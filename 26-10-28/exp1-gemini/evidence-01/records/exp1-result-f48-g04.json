@@ -1,0 +1,122 @@
+{
+  "round": 1,
+  "repeat": 1,
+  "case_id": "f48-g04",
+  "parameter_value": "f48-g04",
+  "status": "completed",
+  "started_utc": "2026-10-28T03:16:07.199950+00:00",
+  "completed_utc": "2026-10-28T03:16:55.456100+00:00",
+  "source_sha256": "57a88f8e4ba735c96d4ce5425caddab4f8f03c173bc62310e1d8ebca96b25c1f",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "57a88f8e4ba735c96d4ce5425caddab4f8f03c173bc62310e1d8ebca96b25c1f",
+  "source_image_path": "evidence-01/source-images/f48-g04.png",
+  "app_name": "Google Gemini",
+  "app_version": "17.68.24.ve.arm64",
+  "server_model": "unknown",
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter": "gemini-auto-screen-v1",
+  "adapter_revision": "auto-no-manual-attachment-v1",
+  "screen_entry": "automatic inferred screen context; no manual attachment",
+  "manual_attachment_actions": 0,
+  "response_ui_full": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "context_disclosure": null,
+  "response_extraction_rule": "Pinned reply node; exact terminal app-context disclosure separated; all raw UI retained",
+  "ui_full_response_file": "responses/exp1-ui-full-response-f48-g04.txt",
+  "ui_full_response_sha256": "d7ca3d9807308ddc8fef5442b2ca253603b4bd1f657b633e65f4f7d3624fd172",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f48-g04.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 48,
+  "delta_g": 4,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "response_file": "responses/exp1-response-f48-g04.txt",
+  "screenshot": "screenshots/exp1-screenshot-f48-g04.png",
+  "source_screen": "source-screens/gf48-g04-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "a6c2cd45617c355ec36884cb6b4c4a58ac60a4a771f7450d2003b49e1a6dae33",
+    "observed_roi_sha256": "a6c2cd45617c355ec36884cb6b4c4a58ac60a4a771f7450d2003b49e1a6dae33",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "ea3a0d329fa18095d474471a3ce0e9c9487d50b31dc4b7eea65c8b1eceda0751",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "ea3a0d329fa18095d474471a3ce0e9c9487d50b31dc4b7eea65c8b1eceda0751",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "evidence-01/records/UI证据-01.zip",
+  "protocol_archive_member": "protocols/bd6d5e0b82bd7d49826956b80b811b4de4b77ed093d5676954de67798bb40dc7.json",
+  "answer_xml_archive_member": "round01/gf48-g04/answer.xml",
+  "prompt_xml_archive_member": "round01/gf48-g04/prompt.xml",
+  "response_sha256": "d7ca3d9807308ddc8fef5442b2ca253603b4bd1f657b633e65f4f7d3624fd172",
+  "screenshot_sha256": "f4e5ce9a89cbb302839409e29f56d470029053a82d09e6659f46725beb7444f1",
+  "source_screen_sha256": "ea3a0d329fa18095d474471a3ce0e9c9487d50b31dc4b7eea65c8b1eceda0751",
+  "correct": 100,
+  "substitutions": 0,
+  "deletions": 0,
+  "insertions": 0,
+  "edit_distance": 0,
+  "total": 100,
+  "accuracy": 1.0,
+  "cer": 0.0,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": true,
+  "selection_origin": {
+    "case_id": "f48-g04",
+    "kind": "original_valid",
+    "source_experiment": "exp4-gemini-auto",
+    "original_record_name": "gemini-auto-result-f48-g04.json",
+    "original_record_sha256": "afbe5b4a6bafdb3066e204685183009567368dce0091fc1944a2bae5a8788111",
+    "original_record_member": "source-records/f48-g04.json",
+    "original_started_utc": "2026-10-28T03:16:07.199950+00:00",
+    "original_completed_utc": "2026-10-28T03:16:55.456100+00:00",
+    "original_round": 1
+  },
+  "reply_stability_xml_members": [
+    "round01/gf48-g04/stable-reply-01.xml",
+    "round01/gf48-g04/stable-reply-02.xml"
+  ],
+  "background_gray": 0,
+  "text_gray": 4,
+  "delta_g_definition": "abs(text_gray-background_gray)"
+}

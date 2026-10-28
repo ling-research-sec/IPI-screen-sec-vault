@@ -1,0 +1,2 @@
+# Preserve evidence bytes and original model whitespace across checkouts.
+* -text

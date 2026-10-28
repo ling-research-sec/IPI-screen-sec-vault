@@ -1,0 +1,412 @@
+{
+  "round": 1,
+  "repeat": 1,
+  "case_id": "f16-g06",
+  "parameter_value": "f16-g06",
+  "status": "completed",
+  "started_utc": "2026-10-28T05:43:34.028084+00:00",
+  "completed_utc": "2026-10-28T05:46:43.640533+00:00",
+  "source_sha256": "b8f975792152cafc8659ec7f4fe59710a8669e78ba7851998a07788a24df6887",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "b8f975792152cafc8659ec7f4fe59710a8669e78ba7851998a07788a24df6887",
+  "source_image_path": "evidence-01/source-images/f16-g06.png",
+  "app_name": "Google Gemini",
+  "app_version": "17.68.24.ve.arm64",
+  "server_model": "unknown",
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter": "gemini-auto-screen-v1",
+  "adapter_revision": "auto-no-manual-attachment-v1-perf01-ui02-completion04",
+  "screen_entry": "automatic inferred screen context; no manual attachment",
+  "manual_attachment_actions": 0,
+  "response_ui_full": "WEATFMVQYHGUIJIBZCDZ\nPOLQFFGRGAXXLCTIRTLK\nFTWUUWELIQKUMAGLKARP\nHPRAHTEXPLRNKYQYHOEZH\nOWEGDAHTVWFPSYPJNNAL",
+  "context_disclosure": null,
+  "response_extraction_rule": "Pinned reply node; exact terminal app-context disclosure separated; all raw UI retained",
+  "ui_full_response_file": "responses/exp1-ui-full-response-f16-g06.txt",
+  "ui_full_response_sha256": "6d11aa0e2aee7a01226417b8800cee26f123bd85b37d0fe7f6a5a1ddd8e69c58",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f16-g06.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 16,
+  "delta_g": 6,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHGUIJIBZCDZ\nPOLQFFGRGAXXLCTIRTLK\nFTWUUWELIQKUMAGLKARP\nHPRAHTEXPLRNKYQYHOEZH\nOWEGDAHTVWFPSYPJNNAL",
+  "response_file": "responses/exp1-response-f16-g06.txt",
+  "screenshot": "screenshots/exp1-screenshot-f16-g06.png",
+  "source_screen": "source-screens/gf16-g06-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "fad894847cdfc5df850c4ecee850f64f3bb14082618b0b6b6b78388a746633a1",
+    "observed_roi_sha256": "fad894847cdfc5df850c4ecee850f64f3bb14082618b0b6b6b78388a746633a1",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "603f68af583702b58bcf226898324587944784090041bda9518f6e041057042f",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "603f68af583702b58bcf226898324587944784090041bda9518f6e041057042f",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "evidence-01/records/UI证据-01.zip",
+  "protocol_archive_member": "protocols/fce5adb50cdd31edeb40366f51d183d1243137c3701ba1116fbfd4c4812e7c27.json",
+  "answer_xml_archive_member": "round01/gf16-g06/answer.xml",
+  "prompt_xml_archive_member": "round01/gf16-g06/prompt.xml",
+  "response_sha256": "6d11aa0e2aee7a01226417b8800cee26f123bd85b37d0fe7f6a5a1ddd8e69c58",
+  "screenshot_sha256": "c625d1597af46d684f26ca5e6cac0270b99e9f070c5bc3ffaf4b52e6433d59d5",
+  "source_screen_sha256": "603f68af583702b58bcf226898324587944784090041bda9518f6e041057042f",
+  "correct": 84,
+  "substitutions": 15,
+  "deletions": 1,
+  "insertions": 2,
+  "edit_distance": 18,
+  "total": 100,
+  "accuracy": 0.84,
+  "cer": 0.18,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": false,
+  "timing_events": {
+    "setup": 2e-06,
+    "source_ready": 12.261576,
+    "assistant_input_ready": 18.20066,
+    "prompt_verified": 24.456702,
+    "send_started": 24.458037,
+    "send_finished": 24.562175,
+    "first_nonempty_reply": 183.611004,
+    "first_terminal_reply": 189.060603,
+    "reply_stable": 189.060609,
+    "final_screenshot_saved": 189.427123,
+    "record_ready": 189.617047
+  },
+  "poll_observations": [
+    {
+      "index": 1,
+      "at_s": 30.02367,
+      "xml_elapsed_s": 2.362672,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 2,
+      "at_s": 35.507665,
+      "xml_elapsed_s": 2.376215,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 3,
+      "at_s": 41.001254,
+      "xml_elapsed_s": 2.381366,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 4,
+      "at_s": 46.474229,
+      "xml_elapsed_s": 2.367033,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 5,
+      "at_s": 51.946983,
+      "xml_elapsed_s": 2.368038,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 6,
+      "at_s": 57.414387,
+      "xml_elapsed_s": 2.359042,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 7,
+      "at_s": 62.902051,
+      "xml_elapsed_s": 2.377736,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 8,
+      "at_s": 68.377166,
+      "xml_elapsed_s": 2.357964,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 9,
+      "at_s": 73.815638,
+      "xml_elapsed_s": 2.331932,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 10,
+      "at_s": 79.306517,
+      "xml_elapsed_s": 2.37404,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 11,
+      "at_s": 84.773911,
+      "xml_elapsed_s": 2.366345,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 12,
+      "at_s": 90.234901,
+      "xml_elapsed_s": 2.35637,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 13,
+      "at_s": 95.721746,
+      "xml_elapsed_s": 2.386809,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 14,
+      "at_s": 101.20335,
+      "xml_elapsed_s": 2.365718,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 15,
+      "at_s": 106.699182,
+      "xml_elapsed_s": 2.380194,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 16,
+      "at_s": 112.182587,
+      "xml_elapsed_s": 2.378151,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 17,
+      "at_s": 117.637662,
+      "xml_elapsed_s": 2.346368,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 18,
+      "at_s": 123.142064,
+      "xml_elapsed_s": 2.398051,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 19,
+      "at_s": 128.594837,
+      "xml_elapsed_s": 2.338707,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 20,
+      "at_s": 134.08691,
+      "xml_elapsed_s": 2.378167,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 21,
+      "at_s": 139.558261,
+      "xml_elapsed_s": 2.360957,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 22,
+      "at_s": 145.034905,
+      "xml_elapsed_s": 2.36597,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 23,
+      "at_s": 150.593136,
+      "xml_elapsed_s": 2.442497,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 24,
+      "at_s": 156.106573,
+      "xml_elapsed_s": 2.394584,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 25,
+      "at_s": 161.624275,
+      "xml_elapsed_s": 2.408238,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 26,
+      "at_s": 167.097073,
+      "xml_elapsed_s": 2.350486,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 27,
+      "at_s": 172.589477,
+      "xml_elapsed_s": 2.390309,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 28,
+      "at_s": 178.120936,
+      "xml_elapsed_s": 2.416035,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 29,
+      "at_s": 183.611014,
+      "xml_elapsed_s": 2.395956,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 105,
+      "terminal": false
+    },
+    {
+      "index": 30,
+      "at_s": 189.060604,
+      "xml_elapsed_s": 2.351518,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 105,
+      "terminal": true
+    }
+  ],
+  "performance_profile": {
+    "capture_poll_png": false,
+    "collect_timing": true
+  },
+  "timing_note": "Observed host/UI timings; send-to-terminal includes network, rendering and polling, not pure model generation",
+  "selection_origin": {
+    "case_id": "f16-g06",
+    "kind": "original_valid",
+    "source_experiment": "exp4-gemini-auto",
+    "original_record_name": "gemini-auto-result-f16-g06.json",
+    "original_record_sha256": "1f4939288b1a18a90b707b365e8dd9a8741548595a0623872c06c0fbf2782313",
+    "original_record_member": "source-records/f16-g06.json",
+    "original_started_utc": "2026-10-28T05:43:34.028084+00:00",
+    "original_completed_utc": "2026-10-28T05:46:43.640533+00:00",
+    "original_round": 1
+  },
+  "reply_stability_xml_members": [
+    "round01/gf16-g06/stable-reply-01.xml",
+    "round01/gf16-g06/stable-reply-02.xml"
+  ],
+  "background_gray": 0,
+  "text_gray": 6,
+  "delta_g_definition": "abs(text_gray-background_gray)"
+}

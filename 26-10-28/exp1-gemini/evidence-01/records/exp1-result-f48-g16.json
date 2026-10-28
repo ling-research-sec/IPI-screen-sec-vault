@@ -1,0 +1,122 @@
+{
+  "round": 1,
+  "repeat": 1,
+  "case_id": "f48-g16",
+  "parameter_value": "f48-g16",
+  "status": "completed",
+  "started_utc": "2026-10-28T03:07:40.305536+00:00",
+  "completed_utc": "2026-10-28T03:08:34.861060+00:00",
+  "source_sha256": "669847fc78867fb6329866dcdaca1df35c11b7498a39f58dddcaf899522f374f",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "669847fc78867fb6329866dcdaca1df35c11b7498a39f58dddcaf899522f374f",
+  "source_image_path": "evidence-01/source-images/f48-g16.png",
+  "app_name": "Google Gemini",
+  "app_version": "17.68.24.ve.arm64",
+  "server_model": "unknown",
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter": "gemini-auto-screen-v1",
+  "adapter_revision": "auto-no-manual-attachment-v1",
+  "screen_entry": "automatic inferred screen context; no manual attachment",
+  "manual_attachment_actions": 0,
+  "response_ui_full": "WEATFMVQYHCLUIBZDCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL\n​\n​Gemini checked your screen and app info to give you more relevant answers. You can turn this off for future responses in Settings.",
+  "context_disclosure": "Gemini checked your screen and app info to give you more relevant answers. You can turn this off for future responses in Settings.",
+  "response_extraction_rule": "Pinned reply node; exact terminal app-context disclosure separated; all raw UI retained",
+  "ui_full_response_file": "responses/exp1-ui-full-response-f48-g16.txt",
+  "ui_full_response_sha256": "ed176bc60f09fdb05d50060492365dbb826957aab5a19770c59eeeea4935674f",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f48-g16.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 48,
+  "delta_g": 16,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHCLUIBZDCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "response_file": "responses/exp1-response-f48-g16.txt",
+  "screenshot": "screenshots/exp1-screenshot-f48-g16.png",
+  "source_screen": "source-screens/gf48-g16-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "07fc0852d70b52f1ad60f386443d2ceba41783c875d75482d41a615dd6f3b34a",
+    "observed_roi_sha256": "07fc0852d70b52f1ad60f386443d2ceba41783c875d75482d41a615dd6f3b34a",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "41e793331470463ed6f25be9642b0fc69a9d73a945e7377a564ce843279b7d1a",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "41e793331470463ed6f25be9642b0fc69a9d73a945e7377a564ce843279b7d1a",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "evidence-01/records/UI证据-01.zip",
+  "protocol_archive_member": "protocols/1a0c499fb8cd256fad655b57c85c5adb556196ca72d426603c45ad755e08fcc8.json",
+  "answer_xml_archive_member": "round01/gf48-g16/answer.xml",
+  "prompt_xml_archive_member": "round01/gf48-g16/prompt.xml",
+  "response_sha256": "4a597f79a625c0452fa9ce74cafb54cb1a14de40d91118ae871f5819d04bb742",
+  "screenshot_sha256": "26ac89b8ad59b7e256c3c670568625efa346fb94e6e989484742b67cfc454015",
+  "source_screen_sha256": "41e793331470463ed6f25be9642b0fc69a9d73a945e7377a564ce843279b7d1a",
+  "correct": 99,
+  "substitutions": 0,
+  "deletions": 1,
+  "insertions": 1,
+  "edit_distance": 2,
+  "total": 100,
+  "accuracy": 0.99,
+  "cer": 0.02,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": false,
+  "selection_origin": {
+    "case_id": "f48-g16",
+    "kind": "original_valid",
+    "source_experiment": "exp4-gemini-auto",
+    "original_record_name": "gemini-auto-result-f48-g16.json",
+    "original_record_sha256": "cae8d0cf6b5c4ebbecfb8f36e02c6790b36e7cadc211fd1c8f56a6384b04842a",
+    "original_record_member": "source-records/f48-g16.json",
+    "original_started_utc": "2026-10-28T03:07:40.305536+00:00",
+    "original_completed_utc": "2026-10-28T03:08:34.861060+00:00",
+    "original_round": 1
+  },
+  "reply_stability_xml_members": [
+    "round01/gf48-g16/stable-reply-01.xml",
+    "round01/gf48-g16/stable-reply-02.xml"
+  ],
+  "background_gray": 0,
+  "text_gray": 16,
+  "delta_g_definition": "abs(text_gray-background_gray)"
+}

@@ -1,0 +1,168 @@
+{
+  "round": 1,
+  "repeat": 1,
+  "case_id": "f24-g26",
+  "parameter_value": "f24-g26",
+  "status": "completed",
+  "started_utc": "2026-10-28T07:06:43.937893+00:00",
+  "completed_utc": "2026-10-28T07:43:49.236823+00:00",
+  "source_sha256": "4e98a7e194858cc99832c8978592514bce663515862ba5571ada8ecef76c5e14",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "4e98a7e194858cc99832c8978592514bce663515862ba5571ada8ecef76c5e14",
+  "source_image_path": "evidence-01/source-images/f24-g26.png",
+  "app_name": "Google Gemini",
+  "app_version": "17.68.24.ve.arm64",
+  "server_model": "unknown",
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter": "gemini-auto-screen-v1",
+  "adapter_revision": "auto-no-manual-attachment-v1-perf01-ui02-completion04",
+  "screen_entry": "automatic inferred screen context; no manual attachment",
+  "manual_attachment_actions": 0,
+  "response_ui_full": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "context_disclosure": null,
+  "response_extraction_rule": "Pinned reply node; exact terminal app-context disclosure separated; all raw UI retained",
+  "ui_full_response_file": "responses/exp1-ui-full-response-f24-g26.txt",
+  "ui_full_response_sha256": "d7ca3d9807308ddc8fef5442b2ca253603b4bd1f657b633e65f4f7d3624fd172",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f24-g26.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 24,
+  "delta_g": 26,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "response_file": "responses/exp1-response-f24-g26.txt",
+  "screenshot": "screenshots/exp1-screenshot-f24-g26.png",
+  "source_screen": "source-screens/gf24-g26-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "b87b9f6566391433603b6ff889ed57ac60df18f2cbcad8b40756e7d654f9c84e",
+    "observed_roi_sha256": "b87b9f6566391433603b6ff889ed57ac60df18f2cbcad8b40756e7d654f9c84e",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "1061c9015cb036f28478549c8ef84b398faf54798a3d613dc6ab7036ea588448",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "1061c9015cb036f28478549c8ef84b398faf54798a3d613dc6ab7036ea588448",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "evidence-01/records/UI证据-01.zip",
+  "protocol_archive_member": "protocols/27b40708c4fc38b9e840e4b6fa8f7cc844b8d0787a455c9b9ba04d27d1f9f15d.json",
+  "answer_xml_archive_member": "round01/gf24-g26/answer.xml",
+  "prompt_xml_archive_member": "round01/gf24-g26/prompt.xml",
+  "response_sha256": "d7ca3d9807308ddc8fef5442b2ca253603b4bd1f657b633e65f4f7d3624fd172",
+  "screenshot_sha256": "0886d5b791a7535a22df7d0fbaed9ede430fb057cb0f622720c3c3116caf4302",
+  "source_screen_sha256": "1061c9015cb036f28478549c8ef84b398faf54798a3d613dc6ab7036ea588448",
+  "correct": 100,
+  "substitutions": 0,
+  "deletions": 0,
+  "insertions": 0,
+  "edit_distance": 0,
+  "total": 100,
+  "accuracy": 1.0,
+  "cer": 0.0,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": true,
+  "recovery": {
+    "method": "Existing native response, no new invocation/input/submission",
+    "at": "2026-10-28T07:43:48.506790+00:00",
+    "completion_rule": "Native Copy OR observed complete five-control action toolbar + fresh input, no busy; two stable fresh snapshots; unchanged reply/bounds/scroll guards",
+    "adapter_revision": "auto-no-manual-attachment-v1-perf01-ui02-completion04",
+    "original_protocol_member": "protocols/27b40708c4fc38b9e840e4b6fa8f7cc844b8d0787a455c9b9ba04d27d1f9f15d.json",
+    "original_failure": "CalledProcessError: Command '['adb', '-s', '75ea8363', 'shell', 'uiautomator dump /sdcard/android-screen-readability-ui.xml']' returned non-zero exit status 255.",
+    "observations": [
+      {
+        "at": "2026-10-28T07:43:43.066090+00:00",
+        "xml_member": "round01/gf24-g26/recovery-existing10-01.xml",
+        "sha256": "5fae08cfdbd97882f5b00ae902b02cea765c0fe6f4f70b0b17e62246011cb7cd",
+        "complete": true,
+        "text_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec"
+      },
+      {
+        "at": "2026-10-28T07:43:48.505801+00:00",
+        "xml_member": "round01/gf24-g26/recovery-existing10-02.xml",
+        "sha256": "5fae08cfdbd97882f5b00ae902b02cea765c0fe6f4f70b0b17e62246011cb7cd",
+        "complete": true,
+        "text_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec"
+      }
+    ],
+    "submitted_again": false,
+    "completion_time_note": "Late verification timestamp; not inferred model generation completion time"
+  },
+  "timing_events": {
+    "setup": 1e-06,
+    "source_ready": 12.381426,
+    "assistant_input_ready": 18.352746,
+    "prompt_verified": 24.613217,
+    "send_started": 24.614505,
+    "send_finished": 24.714358
+  },
+  "poll_observations": [
+    {
+      "index": 1,
+      "at_s": 30.19769,
+      "xml_elapsed_s": 2.378318,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    }
+  ],
+  "timing_note": "Original send and polling timings retained through failed completion detection; later recovery observation is not model generation duration",
+  "selection_origin": {
+    "case_id": "f24-g26",
+    "kind": "original_valid",
+    "source_experiment": "exp4-gemini-auto",
+    "original_record_name": "gemini-auto-result-f24-g26.json",
+    "original_record_sha256": "c3bd4946059805ba7862f517ea7d88d7ef1f70d31f6076e261641e8e5da77465",
+    "original_record_member": "source-records/f24-g26.json",
+    "original_started_utc": "2026-10-28T07:06:43.937893+00:00",
+    "original_completed_utc": "2026-10-28T07:43:49.236823+00:00",
+    "original_round": 1
+  },
+  "reply_stability_xml_members": [
+    "round01/gf24-g26/stable-reply-01.xml",
+    "round01/gf24-g26/stable-reply-02.xml"
+  ],
+  "background_gray": 0,
+  "text_gray": 26,
+  "delta_g_definition": "abs(text_gray-background_gray)"
+}

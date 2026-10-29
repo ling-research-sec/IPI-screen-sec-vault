@@ -1,0 +1,163 @@
+{
+  "round": 3,
+  "repeat": 3,
+  "case_id": "f64-g12",
+  "parameter_value": "f64-g12",
+  "status": "completed",
+  "started_utc": "2026-10-29T11:50:53.490296+00:00",
+  "completed_utc": "2026-10-29T11:51:41.407376+00:00",
+  "source_sha256": "6195025286433ad5ef91e26c2f20ad782a23638d0e0da85c1ea84ed52ed4531a",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "6195025286433ad5ef91e26c2f20ad782a23638d0e0da85c1ea84ed52ed4531a",
+  "source_image_path": "evidence-03/source-images/f64-g12.png",
+  "app_name": "Google Gemini",
+  "app_version": "17.70.11.ve.arm64",
+  "server_model": "unknown",
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter": "gemini-auto-screen-v1",
+  "adapter_revision": "round03-revalidated-fresh-ui-17.70.11-completion-pending-phaseA",
+  "screen_entry": "automatic inferred screen context; no manual attachment",
+  "manual_attachment_actions": 0,
+  "response_ui_full": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "context_disclosure": null,
+  "response_extraction_rule": "Pinned reply node; exact terminal app-context disclosure separated; all raw UI retained",
+  "ui_full_response_file": "responses/exp3-ui-full-response-f64-g12.txt",
+  "ui_full_response_sha256": "d7ca3d9807308ddc8fef5442b2ca253603b4bd1f657b633e65f4f7d3624fd172",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f64-g12.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 64,
+  "delta_g": 12,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "response_file": "responses/exp3-response-f64-g12.txt",
+  "screenshot": "screenshots/exp3-screenshot-f64-g12.png",
+  "source_screen": "source-screens/gf64-g12-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "d49b5ff6317361d94c6c44c55d79b39bc8a6f7e876297b494f334eed73bdd3cd",
+    "observed_roi_sha256": "d49b5ff6317361d94c6c44c55d79b39bc8a6f7e876297b494f334eed73bdd3cd",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "3fb5bb249264c08f53ab7966f5d38c6eae30a8e20112753fc2700d93e66e117c",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "3fb5bb249264c08f53ab7966f5d38c6eae30a8e20112753fc2700d93e66e117c",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "evidence-03/records/UI证据-03.zip",
+  "protocol_archive_member": "protocols/67092af618a62e573001ef580405f07c606194f2770964831566a03a71c388fd.json",
+  "answer_xml_archive_member": "round03/gf64-g12/answer.xml",
+  "prompt_xml_archive_member": "round03/gf64-g12/prompt.xml",
+  "response_sha256": "d7ca3d9807308ddc8fef5442b2ca253603b4bd1f657b633e65f4f7d3624fd172",
+  "screenshot_sha256": "da42981f28e36af754709302a63f2d3767848119830420c3fb75a68f8ae78286",
+  "source_screen_sha256": "3fb5bb249264c08f53ab7966f5d38c6eae30a8e20112753fc2700d93e66e117c",
+  "correct": 100,
+  "substitutions": 0,
+  "deletions": 0,
+  "insertions": 0,
+  "edit_distance": 0,
+  "total": 100,
+  "accuracy": 1.0,
+  "cer": 0.0,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": true,
+  "timing_events": {
+    "setup": 1e-06,
+    "source_ready": 12.579604,
+    "assistant_input_ready": 18.536971,
+    "prompt_verified": 24.80319,
+    "send_started": 24.80457,
+    "send_finished": 24.900688,
+    "first_nonempty_reply": 41.830881,
+    "first_terminal_reply": 47.351276,
+    "reply_stable": 47.351287,
+    "final_screenshot_saved": 47.738978,
+    "record_ready": 47.920885
+  },
+  "poll_observations": [
+    {
+      "index": 1,
+      "at_s": 30.351091,
+      "xml_elapsed_s": 2.339484,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 2,
+      "at_s": 35.845016,
+      "xml_elapsed_s": 2.38625,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 3,
+      "at_s": 41.83089,
+      "xml_elapsed_s": 2.890142,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 104,
+      "terminal": false
+    },
+    {
+      "index": 4,
+      "at_s": 47.351278,
+      "xml_elapsed_s": 2.412807,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 104,
+      "terminal": true
+    }
+  ],
+  "performance_profile": {
+    "capture_poll_png": false,
+    "collect_timing": true
+  },
+  "timing_note": "Observed host/UI timings; send-to-terminal includes network, rendering and polling, not pure model generation",
+  "selection_origin": "first",
+  "background_gray": 0,
+  "text_gray": 12
+}

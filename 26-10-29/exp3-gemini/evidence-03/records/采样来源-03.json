@@ -1,0 +1,1730 @@
+[
+  {
+    "case_id": "f48-g01",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g01.json",
+    "original_record_sha256": "f0b24786c973a7f0f51a8549e568060cac605b102da7e5ac1d596c7bc1d4a2ea",
+    "started_utc": "2026-10-29T08:25:31.536065+00:00",
+    "completed_utc": "2026-10-29T08:26:45.883199+00:00"
+  },
+  {
+    "case_id": "f48-g02",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g02.json",
+    "original_record_sha256": "076f0e1195335f95bea2eb98b3eba606766f1fda2f9eddcf61b829202e8b2a5d",
+    "started_utc": "2026-10-29T08:26:45.913771+00:00",
+    "completed_utc": "2026-10-29T08:27:50.469134+00:00"
+  },
+  {
+    "case_id": "f48-g03",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g03.json",
+    "original_record_sha256": "7b774ec04c465cafee1514bae4fa852c56b5ab3d42f7f298553518c0d07acd60",
+    "started_utc": "2026-10-29T08:27:50.504299+00:00",
+    "completed_utc": "2026-10-29T08:28:59.717781+00:00"
+  },
+  {
+    "case_id": "f48-g04",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g04.json",
+    "original_record_sha256": "fd6661185b9a4c8cf3f510d830e81bf1aa271262f470f26f79723aa35660835b",
+    "started_utc": "2026-10-29T08:28:59.754466+00:00",
+    "completed_utc": "2026-10-29T08:29:47.092269+00:00"
+  },
+  {
+    "case_id": "f48-g05",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g05.json",
+    "original_record_sha256": "9b704d1c482768fe68e5d0e0017b08868a50d2942a5f55e8ee38a1220b5c4561",
+    "started_utc": "2026-10-29T08:29:47.128449+00:00",
+    "completed_utc": "2026-10-29T08:30:31.119069+00:00"
+  },
+  {
+    "case_id": "f48-g06",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g06.json",
+    "original_record_sha256": "9f16c430c64faebcbdb9c015c8140508ad80bd512781977225b67c3b8979171e",
+    "started_utc": "2026-10-29T08:30:31.154354+00:00",
+    "completed_utc": "2026-10-29T08:31:24.502594+00:00"
+  },
+  {
+    "case_id": "f48-g07",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g07.json",
+    "original_record_sha256": "8b8176114f94b07e798eacd13462d2c3a885f27277b7ae94fd5ad0c4996f8f5a",
+    "started_utc": "2026-10-29T08:31:24.536628+00:00",
+    "completed_utc": "2026-10-29T08:32:12.462744+00:00"
+  },
+  {
+    "case_id": "f48-g08",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g08.json",
+    "original_record_sha256": "009b8c3a4760598d331b9153714c99d0776c82a4382e1e21ed21271769926788",
+    "started_utc": "2026-10-29T08:21:19.986809+00:00",
+    "completed_utc": "2026-10-29T08:22:14.391478+00:00"
+  },
+  {
+    "case_id": "f48-g09",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g09.json",
+    "original_record_sha256": "9911bd2cc27eb9905e06105f1f970beec4efb129acdbbc6f717000746f169314",
+    "started_utc": "2026-10-29T08:32:12.503097+00:00",
+    "completed_utc": "2026-10-29T08:33:05.750944+00:00"
+  },
+  {
+    "case_id": "f48-g10",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g10.json",
+    "original_record_sha256": "19c3d156e1c2574225605554fda99fb1d9cfbb18a62ea6210f0b91ca94194ea3",
+    "started_utc": "2026-10-29T08:33:05.789922+00:00",
+    "completed_utc": "2026-10-29T08:33:54.547569+00:00"
+  },
+  {
+    "case_id": "f48-g11",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g11.json",
+    "original_record_sha256": "bae5c006002bf53568a03385c6d3764c74cc3ef160835589f8451c0ccb6305d5",
+    "started_utc": "2026-10-29T08:33:54.584799+00:00",
+    "completed_utc": "2026-10-29T08:34:47.314892+00:00"
+  },
+  {
+    "case_id": "f48-g12",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g12.json",
+    "original_record_sha256": "8a90086619225fe3a561846601f6bafe7c1874cd3b579b11da3684d4a0cbfd2c",
+    "started_utc": "2026-10-29T08:34:47.353842+00:00",
+    "completed_utc": "2026-10-29T08:35:40.118058+00:00"
+  },
+  {
+    "case_id": "f48-g13",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f48-g13.json",
+    "original_record_sha256": "a5cc8c0e3c13f87904e579474c6842e1020985db8d8b13220d0ff13a41c3abc9",
+    "started_utc": "2026-10-29T12:23:01.982330+00:00",
+    "completed_utc": "2026-10-29T12:23:55.301164+00:00"
+  },
+  {
+    "case_id": "f48-g14",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g14.json",
+    "original_record_sha256": "efa8c63ed59c3519a4229c03467f2379c3e8c904dd71f72b57103d53f3840f27",
+    "started_utc": "2026-10-29T08:41:11.824897+00:00",
+    "completed_utc": "2026-10-29T08:41:59.244424+00:00"
+  },
+  {
+    "case_id": "f48-g15",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g15.json",
+    "original_record_sha256": "72314a881bd4dd2fec26b111b35900f00e8bc0fbc3c9bf3d1f613f244d58b084",
+    "started_utc": "2026-10-29T08:41:59.284718+00:00",
+    "completed_utc": "2026-10-29T08:42:48.760508+00:00"
+  },
+  {
+    "case_id": "f48-g16",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g16.json",
+    "original_record_sha256": "efe160d3452bc8adbc4e268e9ccc1f892f60440fc633ee948a25e04f398d349f",
+    "started_utc": "2026-10-29T08:22:14.431162+00:00",
+    "completed_utc": "2026-10-29T08:23:07.109401+00:00"
+  },
+  {
+    "case_id": "f48-g17",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f48-g17.json",
+    "original_record_sha256": "2c386631ca9ec93495fc44d6e36042678b1d43a7d4ad56113aba8435aaf44ebb",
+    "started_utc": "2026-10-29T12:23:55.326207+00:00",
+    "completed_utc": "2026-10-29T12:24:43.284041+00:00"
+  },
+  {
+    "case_id": "f48-g18",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g18.json",
+    "original_record_sha256": "4eca89cc29ca9838082e475e8db41ffab4dfd0f84e64ae1f739045ea50552144",
+    "started_utc": "2026-10-29T08:48:20.582465+00:00",
+    "completed_utc": "2026-10-29T08:49:08.398225+00:00"
+  },
+  {
+    "case_id": "f48-g19",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f48-g19.json",
+    "original_record_sha256": "0a95dcbbe2383c3bf2212144236938c5fe643b2bcd4295c680e24971a8597635",
+    "started_utc": "2026-10-29T12:24:43.314638+00:00",
+    "completed_utc": "2026-10-29T12:25:31.153004+00:00"
+  },
+  {
+    "case_id": "f48-g20",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g20.json",
+    "original_record_sha256": "5a265ae13f094391039c740bbb69cb00c6add834b9d8d3e12a26bc7eb0d83d4c",
+    "started_utc": "2026-10-29T08:54:41.467216+00:00",
+    "completed_utc": "2026-10-29T08:55:34.598543+00:00"
+  },
+  {
+    "case_id": "f48-g21",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g21.json",
+    "original_record_sha256": "bf9e8e1b81f336930f992d2b05f185cb55902cb522dc97e21a15e5fe54d9e11c",
+    "started_utc": "2026-10-29T08:55:34.640398+00:00",
+    "completed_utc": "2026-10-29T08:56:28.191744+00:00"
+  },
+  {
+    "case_id": "f48-g22",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g22.json",
+    "original_record_sha256": "c5a341873a956eb7c8590a86613d7d2dc3a8be0a0db4a2ee80261ba8a5f50b23",
+    "started_utc": "2026-10-29T08:56:28.238142+00:00",
+    "completed_utc": "2026-10-29T08:57:20.941549+00:00"
+  },
+  {
+    "case_id": "f48-g23",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g23.json",
+    "original_record_sha256": "11ecbb263083ec83f70e5df46e80918ff061b9d3629d1c49c455462e5b6a29d7",
+    "started_utc": "2026-10-29T08:57:20.981051+00:00",
+    "completed_utc": "2026-10-29T08:58:10.287186+00:00"
+  },
+  {
+    "case_id": "f48-g24",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g24.json",
+    "original_record_sha256": "6d2261239be82d18fa3c664b4b73bec14029b6134f8a0025a5103b0201b16c54",
+    "started_utc": "2026-10-29T08:58:10.327904+00:00",
+    "completed_utc": "2026-10-29T08:59:14.413087+00:00"
+  },
+  {
+    "case_id": "f48-g25",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g25.json",
+    "original_record_sha256": "506b733a4689327ccdb3598ad100cc19bd6f8174209936265ef3e8ca765d76e1",
+    "started_utc": "2026-10-29T08:59:14.454468+00:00",
+    "completed_utc": "2026-10-29T09:00:07.325831+00:00"
+  },
+  {
+    "case_id": "f48-g26",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g26.json",
+    "original_record_sha256": "ceffbfe7cf92f854dfead1b40287e305de5c335104004252c15584ac1a0f714f",
+    "started_utc": "2026-10-29T09:00:07.371396+00:00",
+    "completed_utc": "2026-10-29T09:00:54.817700+00:00"
+  },
+  {
+    "case_id": "f48-g27",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g27.json",
+    "original_record_sha256": "1c6d0074319ed240a7f55cfc9cb713e70eaaac24162b3b12050b9f1fa317d8f7",
+    "started_utc": "2026-10-29T09:00:54.860511+00:00",
+    "completed_utc": "2026-10-29T09:01:53.438151+00:00"
+  },
+  {
+    "case_id": "f48-g28",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g28.json",
+    "original_record_sha256": "d824db51c182ada4dbf36e0cede2379679c3304bb3e8ec4a4385856c7d4b9efa",
+    "started_utc": "2026-10-29T08:23:07.147878+00:00",
+    "completed_utc": "2026-10-29T08:23:54.546182+00:00"
+  },
+  {
+    "case_id": "f48-g29",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g29.json",
+    "original_record_sha256": "beb9701c86c7295c2a81a758093b20e9f83ccb054f821da6ac6ef75c9f6960bb",
+    "started_utc": "2026-10-29T09:01:53.489822+00:00",
+    "completed_utc": "2026-10-29T09:02:47.502622+00:00"
+  },
+  {
+    "case_id": "f48-g30",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g30.json",
+    "original_record_sha256": "cfbbdfb1bf410853400e86efc85de0e6531b6462f112825f2081d71f321724b7",
+    "started_utc": "2026-10-29T09:02:47.546198+00:00",
+    "completed_utc": "2026-10-29T09:03:36.729623+00:00"
+  },
+  {
+    "case_id": "f48-g31",
+    "origin": "last",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f48-g31.json",
+    "original_record_sha256": "910bdea83d2c9de53beaaa8492aaafe7e9a09b715e645f2d034c684e957c0a40",
+    "started_utc": "2026-10-29T12:53:57.548180+00:00",
+    "completed_utc": "2026-10-29T12:54:49.986377+00:00"
+  },
+  {
+    "case_id": "f48-g32",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f48-g32.json",
+    "original_record_sha256": "07406ddd089393feed02441615d8c01f44b0251d720e9eddec7bb31886d54aea",
+    "started_utc": "2026-10-29T09:09:10.095462+00:00",
+    "completed_utc": "2026-10-29T09:09:57.277571+00:00"
+  },
+  {
+    "case_id": "f16-g01",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g01.json",
+    "original_record_sha256": "bedaf1ccb4e252c99d9124862c10fee8a84012733311a2cfd3a93d810414eb46",
+    "started_utc": "2026-10-29T09:09:57.327855+00:00",
+    "completed_utc": "2026-10-29T09:10:45.964780+00:00"
+  },
+  {
+    "case_id": "f16-g02",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g02.json",
+    "original_record_sha256": "7b3bc2e304430b90d207a17e0c6afd91636af37e4f173925d9dc52cabd1fb2a6",
+    "started_utc": "2026-10-29T09:10:45.997010+00:00",
+    "completed_utc": "2026-10-29T09:11:56.106782+00:00"
+  },
+  {
+    "case_id": "f16-g03",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g03.json",
+    "original_record_sha256": "1db9322c0d49e9a6eeecc19a1e061ac2451216e60fe8edf46cde13147e6cff4f",
+    "started_utc": "2026-10-29T09:11:56.135806+00:00",
+    "completed_utc": "2026-10-29T09:13:17.409086+00:00"
+  },
+  {
+    "case_id": "f16-g04",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f16-g04.json",
+    "original_record_sha256": "9db60c96ae0516db12c34a9fee463acb4e1c9616d8c4ecfbfde18ed9a784270c",
+    "started_utc": "2026-10-29T12:31:02.729274+00:00",
+    "completed_utc": "2026-10-29T12:32:18.524005+00:00"
+  },
+  {
+    "case_id": "f16-g05",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g05.json",
+    "original_record_sha256": "6957b5ac83a388c23c34538104186a1ca2f5f85b4d78ce328c870c31cce2f1ed",
+    "started_utc": "2026-10-29T09:18:52.166734+00:00",
+    "completed_utc": "2026-10-29T09:19:36.177852+00:00"
+  },
+  {
+    "case_id": "f16-g06",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g06.json",
+    "original_record_sha256": "f3df0da7e94cd04393a15d621f6c8fb867df864ff9626da462c0b87e0cad828b",
+    "started_utc": "2026-10-29T09:19:36.219344+00:00",
+    "completed_utc": "2026-10-29T09:21:29.536728+00:00"
+  },
+  {
+    "case_id": "f16-g07",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g07.json",
+    "original_record_sha256": "db72b3411568642aa1b4abd28f0dd2842b497803c76a9ddb33b841e920012cec",
+    "started_utc": "2026-10-29T09:21:29.578942+00:00",
+    "completed_utc": "2026-10-29T09:23:00.697275+00:00"
+  },
+  {
+    "case_id": "f16-g08",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g08.json",
+    "original_record_sha256": "e37c60f651ebc492374f2da35cb7137b9fb40fb9d76f468f0f15d1f2ec23cc03",
+    "started_utc": "2026-10-29T09:23:00.732607+00:00",
+    "completed_utc": "2026-10-29T09:23:54.879663+00:00"
+  },
+  {
+    "case_id": "f16-g09",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g09.json",
+    "original_record_sha256": "02b400f78d725ad188e49f58d90c61dad6fcedd36ae09c50f057daea2acf0f24",
+    "started_utc": "2026-10-29T09:23:54.911558+00:00",
+    "completed_utc": "2026-10-29T09:25:03.898616+00:00"
+  },
+  {
+    "case_id": "f16-g10",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g10.json",
+    "original_record_sha256": "daad2f96ac40d1a75fbb9583aeecea9ce4b078b3f75483ace61cb300753243ed",
+    "started_utc": "2026-10-29T09:25:03.933787+00:00",
+    "completed_utc": "2026-10-29T09:25:57.519891+00:00"
+  },
+  {
+    "case_id": "f16-g11",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g11.json",
+    "original_record_sha256": "1c4785c938fabf0e0e34ebcc7cb0ddb04bfdc2cc03ad2d294e8ec3971dca6033",
+    "started_utc": "2026-10-29T09:25:57.563408+00:00",
+    "completed_utc": "2026-10-29T09:26:45.211150+00:00"
+  },
+  {
+    "case_id": "f16-g12",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g12.json",
+    "original_record_sha256": "a6075c4391d70cf44a7efbcef4f2eace9127d24b8b19f638d071620b665a9e43",
+    "started_utc": "2026-10-29T09:26:45.248632+00:00",
+    "completed_utc": "2026-10-29T09:27:39.533121+00:00"
+  },
+  {
+    "case_id": "f16-g13",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g13.json",
+    "original_record_sha256": "9af515ce68c02352396a94e0ad4c13bc25be57317e87e6863679245ef1e50779",
+    "started_utc": "2026-10-29T09:27:39.569791+00:00",
+    "completed_utc": "2026-10-29T09:28:48.602417+00:00"
+  },
+  {
+    "case_id": "f16-g14",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g14.json",
+    "original_record_sha256": "0811e938346180ea32eb19bf54de405e080f9f677018e69d4757b968ec60f5db",
+    "started_utc": "2026-10-29T09:28:48.640866+00:00",
+    "completed_utc": "2026-10-29T09:29:46.657540+00:00"
+  },
+  {
+    "case_id": "f16-g15",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g15.json",
+    "original_record_sha256": "5d677a002cd27b103b6de4c62beec542681415a3979276fddc770fe5c00dcb88",
+    "started_utc": "2026-10-29T09:29:46.694026+00:00",
+    "completed_utc": "2026-10-29T09:30:40.270885+00:00"
+  },
+  {
+    "case_id": "f16-g16",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g16.json",
+    "original_record_sha256": "520fdcd8d8e0560e8e08f96025c26f76e6a1fb9bc01690383bfd0d26660bc36b",
+    "started_utc": "2026-10-29T09:30:40.305693+00:00",
+    "completed_utc": "2026-10-29T09:31:28.812107+00:00"
+  },
+  {
+    "case_id": "f16-g17",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g17.json",
+    "original_record_sha256": "53d7e5189c46c3452e7b82628d957a56e1dd685176ebc74fbd2c02a84a951bc9",
+    "started_utc": "2026-10-29T09:31:28.850189+00:00",
+    "completed_utc": "2026-10-29T09:32:21.537702+00:00"
+  },
+  {
+    "case_id": "f16-g18",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g18.json",
+    "original_record_sha256": "20b4070a4a683372f16982414c696af922eb1b29f998a9a997df79e092188685",
+    "started_utc": "2026-10-29T09:32:21.563062+00:00",
+    "completed_utc": "2026-10-29T09:33:14.070383+00:00"
+  },
+  {
+    "case_id": "f16-g19",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g19.json",
+    "original_record_sha256": "db88cd78f123aeed08a8ec8babfe03ca88358222b4dd68bcf9a3e332bce08f8f",
+    "started_utc": "2026-10-29T09:33:14.104431+00:00",
+    "completed_utc": "2026-10-29T09:34:08.588629+00:00"
+  },
+  {
+    "case_id": "f16-g20",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g20.json",
+    "original_record_sha256": "cfcc0224253f8794d2779f9cb3141cc4088a09b5e79a518472855bf767a1277a",
+    "started_utc": "2026-10-29T09:34:08.626968+00:00",
+    "completed_utc": "2026-10-29T09:34:57.500883+00:00"
+  },
+  {
+    "case_id": "f16-g21",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g21.json",
+    "original_record_sha256": "1239c6af88c45292cade5019edda5cdf08e36c458cf7466393c4746cf371ff97",
+    "started_utc": "2026-10-29T09:34:57.538821+00:00",
+    "completed_utc": "2026-10-29T09:35:51.295533+00:00"
+  },
+  {
+    "case_id": "f16-g22",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g22.json",
+    "original_record_sha256": "4dce8d07897ef9b4f199c794d9f9264607659728b8223256167c31049f7be161",
+    "started_utc": "2026-10-29T09:35:51.332517+00:00",
+    "completed_utc": "2026-10-29T09:37:24.045087+00:00"
+  },
+  {
+    "case_id": "f16-g23",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g23.json",
+    "original_record_sha256": "65ff982c68c2908b526f1d634e16163b7454e4e0c97ecbc025f3053ca567d6a7",
+    "started_utc": "2026-10-29T09:37:24.081946+00:00",
+    "completed_utc": "2026-10-29T09:38:18.131850+00:00"
+  },
+  {
+    "case_id": "f16-g24",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g24.json",
+    "original_record_sha256": "7d1213bc5d75bc13e914cc16e2ffe2e9e90cc767e06865ac5e4082988f04ef69",
+    "started_utc": "2026-10-29T09:38:18.167174+00:00",
+    "completed_utc": "2026-10-29T09:39:05.376318+00:00"
+  },
+  {
+    "case_id": "f16-g25",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g25.json",
+    "original_record_sha256": "acc7cad48bdf5ce0d510d6ca726b8f91d20d8dc6de7353990408efadaf08eba9",
+    "started_utc": "2026-10-29T09:39:05.411783+00:00",
+    "completed_utc": "2026-10-29T09:39:58.923557+00:00"
+  },
+  {
+    "case_id": "f16-g26",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g26.json",
+    "original_record_sha256": "d319b26516eed5d9ea5b9e375651a6ddb044f843ca28d06c99f35b35bdec6bf1",
+    "started_utc": "2026-10-29T09:39:58.946183+00:00",
+    "completed_utc": "2026-10-29T09:40:51.540478+00:00"
+  },
+  {
+    "case_id": "f16-g27",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g27.json",
+    "original_record_sha256": "863566679f84e727794399eb3b91b1bd9251ff8ab34502baf7c9eb4f1330721b",
+    "started_utc": "2026-10-29T09:40:51.565502+00:00",
+    "completed_utc": "2026-10-29T09:41:40.039951+00:00"
+  },
+  {
+    "case_id": "f16-g28",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g28.json",
+    "original_record_sha256": "ac3ae69b6174c3d68790ee718b36032cdf208606cf8eb8a6e85416b70b55d6ed",
+    "started_utc": "2026-10-29T09:41:40.071736+00:00",
+    "completed_utc": "2026-10-29T09:42:27.599343+00:00"
+  },
+  {
+    "case_id": "f16-g29",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g29.json",
+    "original_record_sha256": "35b1754ca7de25306dd881c6b73f3da47974eb2afa10bc2fe9c3c903db477f82",
+    "started_utc": "2026-10-29T09:42:27.636803+00:00",
+    "completed_utc": "2026-10-29T09:43:20.511863+00:00"
+  },
+  {
+    "case_id": "f16-g30",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g30.json",
+    "original_record_sha256": "6ed375059a02deaeaefa85bacd23227d7d90c75cb6f5f5f27e789e623cff4f15",
+    "started_utc": "2026-10-29T09:43:20.549565+00:00",
+    "completed_utc": "2026-10-29T09:44:13.197214+00:00"
+  },
+  {
+    "case_id": "f16-g31",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g31.json",
+    "original_record_sha256": "83d8b88ff88412aa39c0c3e06a46b484640bf617fd4f77659b662390176512e1",
+    "started_utc": "2026-10-29T09:44:13.221044+00:00",
+    "completed_utc": "2026-10-29T09:45:06.509062+00:00"
+  },
+  {
+    "case_id": "f16-g32",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f16-g32.json",
+    "original_record_sha256": "71c1ed1ef9c6d51cd1280278956f5b23f8db51fc76ff0220b4639283f75e587a",
+    "started_utc": "2026-10-29T09:45:06.532942+00:00",
+    "completed_utc": "2026-10-29T09:45:58.511923+00:00"
+  },
+  {
+    "case_id": "f24-g01",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g01.json",
+    "original_record_sha256": "39661eb0ad26106669e83370cc24d70e911d038ff63bf68e74f96d7883d11371",
+    "started_utc": "2026-10-29T09:45:58.552445+00:00",
+    "completed_utc": "2026-10-29T09:46:45.319316+00:00"
+  },
+  {
+    "case_id": "f24-g02",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g02.json",
+    "original_record_sha256": "2ea113d81dfbc6c1a548a0093459bc5fddaedef99875980e06be2ff902e0ced0",
+    "started_utc": "2026-10-29T09:46:45.338174+00:00",
+    "completed_utc": "2026-10-29T09:47:32.030818+00:00"
+  },
+  {
+    "case_id": "f24-g03",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g03.json",
+    "original_record_sha256": "b3aaa53d9fd8435bb68c2c4d31df9faf5fc9aa3ad45e58f8ae8628c70875f321",
+    "started_utc": "2026-10-29T09:47:32.053650+00:00",
+    "completed_utc": "2026-10-29T09:48:51.173178+00:00"
+  },
+  {
+    "case_id": "f24-g04",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g04.json",
+    "original_record_sha256": "841e35a12a77a10902b2bd59c7fdefcd35cd50437755886b00815b5ab5598a90",
+    "started_utc": "2026-10-29T09:48:51.211547+00:00",
+    "completed_utc": "2026-10-29T09:50:22.480159+00:00"
+  },
+  {
+    "case_id": "f24-g05",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g05.json",
+    "original_record_sha256": "150cbf6980db7951eca81380a7c2f839426dc9f3e356af1cf1bb2d096a780278",
+    "started_utc": "2026-10-29T09:50:22.515000+00:00",
+    "completed_utc": "2026-10-29T09:51:15.289751+00:00"
+  },
+  {
+    "case_id": "f24-g06",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g06.json",
+    "original_record_sha256": "3547f2bbcb08e4f42d91efa65227a0b257295ab0aa55734d2ac72ac606366202",
+    "started_utc": "2026-10-29T09:51:15.315690+00:00",
+    "completed_utc": "2026-10-29T09:52:02.234540+00:00"
+  },
+  {
+    "case_id": "f24-g07",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g07.json",
+    "original_record_sha256": "f9bd6af5bf3f38a64e3233270d41a102b53ed51488a642e702aa6f694c0ed302",
+    "started_utc": "2026-10-29T09:52:02.263221+00:00",
+    "completed_utc": "2026-10-29T09:53:06.111795+00:00"
+  },
+  {
+    "case_id": "f24-g08",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g08.json",
+    "original_record_sha256": "89afc86d441e61f2a63c185b6d560237062f88b2b5491ab0057b7ce311b8257d",
+    "started_utc": "2026-10-29T09:53:06.140733+00:00",
+    "completed_utc": "2026-10-29T09:54:00.710320+00:00"
+  },
+  {
+    "case_id": "f24-g09",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g09.json",
+    "original_record_sha256": "18b480a5634ba6938e11de3023d135ebb9659dfa2f5511383bece3b980f4af8e",
+    "started_utc": "2026-10-29T09:54:00.744882+00:00",
+    "completed_utc": "2026-10-29T09:54:53.389221+00:00"
+  },
+  {
+    "case_id": "f24-g10",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g10.json",
+    "original_record_sha256": "1e354cf3465b7d5b827f190ecbc04e338e865e8e4323d9a60323bc51ab012a52",
+    "started_utc": "2026-10-29T09:54:53.421497+00:00",
+    "completed_utc": "2026-10-29T09:55:41.540027+00:00"
+  },
+  {
+    "case_id": "f24-g11",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g11.json",
+    "original_record_sha256": "b02ddf6517ba993b80c703afec2b45161dba3fc22764a738af616bcb62f0abe3",
+    "started_utc": "2026-10-29T09:55:41.567817+00:00",
+    "completed_utc": "2026-10-29T09:56:28.994695+00:00"
+  },
+  {
+    "case_id": "f24-g12",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g12.json",
+    "original_record_sha256": "7482d6251b421bccde660e650fed5e35d9bdc0023c391e39db23121aab06ac97",
+    "started_utc": "2026-10-29T09:56:29.032614+00:00",
+    "completed_utc": "2026-10-29T09:57:16.200131+00:00"
+  },
+  {
+    "case_id": "f24-g13",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g13.json",
+    "original_record_sha256": "ac8d7bbb678559b5abfe35880915f8f14621c3599ebb752e6442a494eb37e2b6",
+    "started_utc": "2026-10-29T09:57:16.232901+00:00",
+    "completed_utc": "2026-10-29T09:58:05.121687+00:00"
+  },
+  {
+    "case_id": "f24-g14",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g14.json",
+    "original_record_sha256": "6866bbc71670d53f3552941019e64d2a3de0b88b401e8f3e7136488ad8d23f00",
+    "started_utc": "2026-10-29T09:58:05.152758+00:00",
+    "completed_utc": "2026-10-29T09:58:53.995619+00:00"
+  },
+  {
+    "case_id": "f24-g15",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g15.json",
+    "original_record_sha256": "30b004da22d3f515029ea0f786dcc608215b0b97999603ec7e6353d9c3192dc2",
+    "started_utc": "2026-10-29T09:58:54.029400+00:00",
+    "completed_utc": "2026-10-29T09:59:47.761629+00:00"
+  },
+  {
+    "case_id": "f24-g16",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g16.json",
+    "original_record_sha256": "9e641f5b26c6d767707a0ee05367c14c5c5a590db4e0c5fa3b409230a9dc4ffe",
+    "started_utc": "2026-10-29T09:59:47.795818+00:00",
+    "completed_utc": "2026-10-29T10:00:41.093942+00:00"
+  },
+  {
+    "case_id": "f24-g17",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g17.json",
+    "original_record_sha256": "5b8fb86d3a304ff8530ad9a1f2592080941b74655a45b7c7d3fdf3307cf1de78",
+    "started_utc": "2026-10-29T10:00:41.128509+00:00",
+    "completed_utc": "2026-10-29T10:01:28.689384+00:00"
+  },
+  {
+    "case_id": "f24-g18",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g18.json",
+    "original_record_sha256": "e31f65406eb8d915b4cafbd8300cc9f6fbbaf56e69b8d167bec94f289ea51db0",
+    "started_utc": "2026-10-29T10:01:28.714738+00:00",
+    "completed_utc": "2026-10-29T10:02:20.917462+00:00"
+  },
+  {
+    "case_id": "f24-g19",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g19.json",
+    "original_record_sha256": "cbfd0e3ed120cc794ccc56f2e6e4cf4d664f158e8858081eed5aab8dfc070604",
+    "started_utc": "2026-10-29T10:02:20.948949+00:00",
+    "completed_utc": "2026-10-29T10:03:13.709017+00:00"
+  },
+  {
+    "case_id": "f24-g20",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g20.json",
+    "original_record_sha256": "5aae64d93b36e9bee0c1b071a4ce98ac072ea5b7171bc3f87e021d26d1790c16",
+    "started_utc": "2026-10-29T10:03:13.737728+00:00",
+    "completed_utc": "2026-10-29T10:04:22.749049+00:00"
+  },
+  {
+    "case_id": "f24-g21",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g21.json",
+    "original_record_sha256": "001cceb89f975215b51509fad87552ca96e1e7f2be344dc493207cc1420f1720",
+    "started_utc": "2026-10-29T10:04:22.774123+00:00",
+    "completed_utc": "2026-10-29T10:05:33.508958+00:00"
+  },
+  {
+    "case_id": "f24-g22",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g22.json",
+    "original_record_sha256": "705688fb2f9650b96d5461aca43816bf8708a1ed07469c00bcdbf63360025a10",
+    "started_utc": "2026-10-29T10:05:33.541268+00:00",
+    "completed_utc": "2026-10-29T10:06:26.945426+00:00"
+  },
+  {
+    "case_id": "f24-g23",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g23.json",
+    "original_record_sha256": "6604db877c555d9785a341312930b5f0e2f2b2adaab3c09d6ac8120e61396f39",
+    "started_utc": "2026-10-29T10:06:26.982328+00:00",
+    "completed_utc": "2026-10-29T10:07:14.279735+00:00"
+  },
+  {
+    "case_id": "f24-g24",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g24.json",
+    "original_record_sha256": "a5bb2036b991770c34d2269899705cfe657bebd0137c9076eca56465ed3d006c",
+    "started_utc": "2026-10-29T10:07:14.312460+00:00",
+    "completed_utc": "2026-10-29T10:08:03.864992+00:00"
+  },
+  {
+    "case_id": "f24-g25",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g25.json",
+    "original_record_sha256": "54ae40c137410e9f7734c14ad89e30d1506a7109217b8a2f97cbeb901e193b2f",
+    "started_utc": "2026-10-29T10:08:03.897508+00:00",
+    "completed_utc": "2026-10-29T10:08:51.542881+00:00"
+  },
+  {
+    "case_id": "f24-g26",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g26.json",
+    "original_record_sha256": "d1b09256f921ecf2850b75d9d4c0a1633f49702fbe089b8d596d04d58f29b0b0",
+    "started_utc": "2026-10-29T10:08:51.574276+00:00",
+    "completed_utc": "2026-10-29T10:09:44.294794+00:00"
+  },
+  {
+    "case_id": "f24-g27",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g27.json",
+    "original_record_sha256": "ee0561a540e7a06f10f5bc382d7cfa6088e04c8066c4bbbccd1959cbc731bf1a",
+    "started_utc": "2026-10-29T10:09:44.324331+00:00",
+    "completed_utc": "2026-10-29T10:10:37.637406+00:00"
+  },
+  {
+    "case_id": "f24-g28",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g28.json",
+    "original_record_sha256": "78a4064c6b502668272d4aeb228cdd75380eab84d4dfbbf875b7719d5cca7c52",
+    "started_utc": "2026-10-29T10:10:37.667624+00:00",
+    "completed_utc": "2026-10-29T10:11:24.968389+00:00"
+  },
+  {
+    "case_id": "f24-g29",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g29.json",
+    "original_record_sha256": "dc0a50200beb31d941ce35deaa0564695149cff9d12defd3dc0a863d34060f83",
+    "started_utc": "2026-10-29T10:11:25.000200+00:00",
+    "completed_utc": "2026-10-29T10:12:13.205039+00:00"
+  },
+  {
+    "case_id": "f24-g30",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g30.json",
+    "original_record_sha256": "23fbf4828173fffdcd4d3c14709ad6f2b424bd79cdc24c1f19aba31b254469dd",
+    "started_utc": "2026-10-29T10:12:13.235606+00:00",
+    "completed_utc": "2026-10-29T10:13:07.111746+00:00"
+  },
+  {
+    "case_id": "f24-g31",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g31.json",
+    "original_record_sha256": "2c95ddaef49a51d1dc66960a1fee1c6ca8fe139329b50f4a28fc28e65d195871",
+    "started_utc": "2026-10-29T10:13:07.144179+00:00",
+    "completed_utc": "2026-10-29T10:13:56.883729+00:00"
+  },
+  {
+    "case_id": "f24-g32",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f24-g32.json",
+    "original_record_sha256": "16fcbcf14a573458cf4ffcdbf50fc2bc04eaacd636d31ff7ec1f56b0c40078a9",
+    "started_utc": "2026-10-29T10:13:56.919618+00:00",
+    "completed_utc": "2026-10-29T10:14:45.353135+00:00"
+  },
+  {
+    "case_id": "f32-g01",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g01.json",
+    "original_record_sha256": "cdae3fa218c1cc79bca9f394809409c54e27b837d07e05a76094489d780dd38d",
+    "started_utc": "2026-10-29T10:14:45.384335+00:00",
+    "completed_utc": "2026-10-29T10:15:33.671845+00:00"
+  },
+  {
+    "case_id": "f32-g02",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g02.json",
+    "original_record_sha256": "7210ebbe47c0ed56e8ead4e73f6d1fea34c3835447a73145bff371d10db5513e",
+    "started_utc": "2026-10-29T10:15:33.697093+00:00",
+    "completed_utc": "2026-10-29T10:16:59.377750+00:00"
+  },
+  {
+    "case_id": "f32-g03",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g03.json",
+    "original_record_sha256": "c940b176cd07f96c54ca3ca7f255653ec822d2b5507c342dba0cd5e0180feafb",
+    "started_utc": "2026-10-29T10:16:59.408756+00:00",
+    "completed_utc": "2026-10-29T10:18:48.553316+00:00"
+  },
+  {
+    "case_id": "f32-g04",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g04.json",
+    "original_record_sha256": "01e59cda370cded42642651eaa35721a7b8ecdae4d62f73b134a79e0a0b42792",
+    "started_utc": "2026-10-29T10:18:48.585964+00:00",
+    "completed_utc": "2026-10-29T10:19:52.517462+00:00"
+  },
+  {
+    "case_id": "f32-g05",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g05.json",
+    "original_record_sha256": "6b13a78f67c176056bda284faa63ec1714e33de980966f40b313a67fc71e1088",
+    "started_utc": "2026-10-29T10:19:52.550904+00:00",
+    "completed_utc": "2026-10-29T10:20:47.016172+00:00"
+  },
+  {
+    "case_id": "f32-g06",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g06.json",
+    "original_record_sha256": "47dadc4764a53e67fb34d9bcad0def564ba383d2ffcfecaa0812236b39eec4ca",
+    "started_utc": "2026-10-29T10:20:47.049753+00:00",
+    "completed_utc": "2026-10-29T10:21:35.938212+00:00"
+  },
+  {
+    "case_id": "f32-g07",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g07.json",
+    "original_record_sha256": "60e8043db743069a9b19598c1af56ddccb70065eb296bdb7f117737b93c921d6",
+    "started_utc": "2026-10-29T10:21:35.971291+00:00",
+    "completed_utc": "2026-10-29T10:22:24.820739+00:00"
+  },
+  {
+    "case_id": "f32-g08",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g08.json",
+    "original_record_sha256": "86d144d681fa546392a229a38271adb2cfd99a9ad2d9dcc6fb96057b55ba2544",
+    "started_utc": "2026-10-29T10:22:24.851253+00:00",
+    "completed_utc": "2026-10-29T10:23:13.005496+00:00"
+  },
+  {
+    "case_id": "f32-g09",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g09.json",
+    "original_record_sha256": "b4472ec1f892b64565265d5c9b5856213f8470caaf4c372d571becb865fdce33",
+    "started_utc": "2026-10-29T10:23:13.042914+00:00",
+    "completed_utc": "2026-10-29T10:24:11.290700+00:00"
+  },
+  {
+    "case_id": "f32-g10",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g10.json",
+    "original_record_sha256": "f556c34d2fe1dfccf9a96a53641ebb4b56a6db5966a6ec2c52189b818cfd0517",
+    "started_utc": "2026-10-29T10:24:11.323259+00:00",
+    "completed_utc": "2026-10-29T10:25:04.262545+00:00"
+  },
+  {
+    "case_id": "f32-g11",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g11.json",
+    "original_record_sha256": "ba5b57c00867d2121bf181384bf07d95544512a5b3503887ebbecf8ac268b837",
+    "started_utc": "2026-10-29T10:25:04.294036+00:00",
+    "completed_utc": "2026-10-29T10:25:51.673956+00:00"
+  },
+  {
+    "case_id": "f32-g12",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g12.json",
+    "original_record_sha256": "8d4977db179bbdb6e44ecccfae39bcdf0ca8092ccb3c8c0d7c157ab7946f51d5",
+    "started_utc": "2026-10-29T10:25:51.706570+00:00",
+    "completed_utc": "2026-10-29T10:26:44.408854+00:00"
+  },
+  {
+    "case_id": "f32-g13",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g13.json",
+    "original_record_sha256": "e02c1ef3d44b871b4353c746e173f3715f47657d01ef600a2e8989920657f588",
+    "started_utc": "2026-10-29T10:26:44.437691+00:00",
+    "completed_utc": "2026-10-29T10:27:33.021997+00:00"
+  },
+  {
+    "case_id": "f32-g14",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g14.json",
+    "original_record_sha256": "c5f7abc8b95091df0e94f1c6a2dc18d7411f4d9710c376646048f1066e487bc9",
+    "started_utc": "2026-10-29T10:27:33.053504+00:00",
+    "completed_utc": "2026-10-29T10:28:31.883213+00:00"
+  },
+  {
+    "case_id": "f32-g15",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g15.json",
+    "original_record_sha256": "48f563949336a64fc9c5bc3ee566190bdfd10a1b7bc9721b36fd5a6b26ba22e4",
+    "started_utc": "2026-10-29T10:28:31.914788+00:00",
+    "completed_utc": "2026-10-29T10:29:24.741163+00:00"
+  },
+  {
+    "case_id": "f32-g16",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g16.json",
+    "original_record_sha256": "a5697b3e23eb75cb2271703a60850238d0ed2572d340c46314735cb11cfb8a2c",
+    "started_utc": "2026-10-29T10:29:24.770917+00:00",
+    "completed_utc": "2026-10-29T10:30:12.003993+00:00"
+  },
+  {
+    "case_id": "f32-g17",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g17.json",
+    "original_record_sha256": "3cea73fccc2aae5edbfaa13c2816b9ff368db11dde8b69d2ea2a06705f134781",
+    "started_utc": "2026-10-29T10:30:12.037133+00:00",
+    "completed_utc": "2026-10-29T10:30:59.945612+00:00"
+  },
+  {
+    "case_id": "f32-g18",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g18.json",
+    "original_record_sha256": "c194ac0d12ceb1951805f26d875f527880bec81b0e101d14e407b09fe508a2eb",
+    "started_utc": "2026-10-29T10:30:59.980966+00:00",
+    "completed_utc": "2026-10-29T10:31:47.325802+00:00"
+  },
+  {
+    "case_id": "f32-g19",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g19.json",
+    "original_record_sha256": "21e8507b10eac7f1047abc794b7db3163834cb79721acd57727d277500a28613",
+    "started_utc": "2026-10-29T10:31:47.360047+00:00",
+    "completed_utc": "2026-10-29T10:32:34.576256+00:00"
+  },
+  {
+    "case_id": "f32-g20",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g20.json",
+    "original_record_sha256": "4a455630706aaf30e44d341ff8ba13c0a7a31ea29ea0129ef15e2e10358c4bd2",
+    "started_utc": "2026-10-29T10:32:34.609524+00:00",
+    "completed_utc": "2026-10-29T10:33:44.079046+00:00"
+  },
+  {
+    "case_id": "f32-g21",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g21.json",
+    "original_record_sha256": "503eed4462bd93bb184fd56f32a86d61b96f2f841c0b5a25656a76501620c67a",
+    "started_utc": "2026-10-29T10:33:44.108391+00:00",
+    "completed_utc": "2026-10-29T10:34:36.909488+00:00"
+  },
+  {
+    "case_id": "f32-g22",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g22.json",
+    "original_record_sha256": "0e74734197848d9ec831eb6227df30b8037edb4fa08a31a2d6471a0155ea33c3",
+    "started_utc": "2026-10-29T10:34:36.942995+00:00",
+    "completed_utc": "2026-10-29T10:36:08.239671+00:00"
+  },
+  {
+    "case_id": "f32-g23",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g23.json",
+    "original_record_sha256": "555ebb8e911d2e9e45186ee1abd0521c97cca5e372562245136200621b0477dd",
+    "started_utc": "2026-10-29T10:36:08.271381+00:00",
+    "completed_utc": "2026-10-29T10:37:01.118422+00:00"
+  },
+  {
+    "case_id": "f32-g24",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g24.json",
+    "original_record_sha256": "898e72273ea2b3090013979e1b62257df491d77a17c0eb061d2e65b26291fd63",
+    "started_utc": "2026-10-29T10:37:01.150475+00:00",
+    "completed_utc": "2026-10-29T10:37:53.822283+00:00"
+  },
+  {
+    "case_id": "f32-g25",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g25.json",
+    "original_record_sha256": "07f6a9c8f8339c061d400c64bdb0a07d29104ff37753f76e7d4fc6e9effc3d7f",
+    "started_utc": "2026-10-29T10:37:53.854563+00:00",
+    "completed_utc": "2026-10-29T10:38:43.126069+00:00"
+  },
+  {
+    "case_id": "f32-g26",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g26.json",
+    "original_record_sha256": "66aed2f309d49656e12faad03588dfacec218fdbe35bef48b86e9b2fb3dd6ce8",
+    "started_utc": "2026-10-29T10:38:43.151531+00:00",
+    "completed_utc": "2026-10-29T10:39:31.859150+00:00"
+  },
+  {
+    "case_id": "f32-g27",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g27.json",
+    "original_record_sha256": "e92534fc1260a9bbf99376454dbeccd77034451057ec18686fe953639d16a526",
+    "started_utc": "2026-10-29T10:39:31.893804+00:00",
+    "completed_utc": "2026-10-29T10:40:25.823450+00:00"
+  },
+  {
+    "case_id": "f32-g28",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g28.json",
+    "original_record_sha256": "c4d1c1299d700b41d7613c8de8a2d8513bed9ae1207cc55524572f722120142b",
+    "started_utc": "2026-10-29T10:40:25.858275+00:00",
+    "completed_utc": "2026-10-29T10:41:19.100153+00:00"
+  },
+  {
+    "case_id": "f32-g29",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g29.json",
+    "original_record_sha256": "965894f0bfe33b1d0996ab4cda22501be605bd8fba1c7add40820aee0991015d",
+    "started_utc": "2026-10-29T10:41:19.130054+00:00",
+    "completed_utc": "2026-10-29T10:42:12.784359+00:00"
+  },
+  {
+    "case_id": "f32-g30",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g30.json",
+    "original_record_sha256": "3ea7074a2be69c1d00124e1935f6f2f8fd77cfc3e6bc78c65a8fb6338504da54",
+    "started_utc": "2026-10-29T10:42:12.817629+00:00",
+    "completed_utc": "2026-10-29T10:43:06.600216+00:00"
+  },
+  {
+    "case_id": "f32-g31",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f32-g31.json",
+    "original_record_sha256": "27d532350c8293dd81298b45278117fe239f582ac8f3ca81a9899f26c9eb864e",
+    "started_utc": "2026-10-29T12:32:18.549456+00:00",
+    "completed_utc": "2026-10-29T12:33:07.754019+00:00"
+  },
+  {
+    "case_id": "f32-g32",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f32-g32.json",
+    "original_record_sha256": "866d8ca8e9f808605fa4666dd7b764547d8cb858b065d5a962207660cb9345d4",
+    "started_utc": "2026-10-29T10:48:38.202494+00:00",
+    "completed_utc": "2026-10-29T10:49:25.710312+00:00"
+  },
+  {
+    "case_id": "f40-g01",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g01.json",
+    "original_record_sha256": "bfd331ec0d688a5d2413956aa1840fec264dec930215785efcd56caa5ee5df27",
+    "started_utc": "2026-10-29T10:49:25.744240+00:00",
+    "completed_utc": "2026-10-29T10:50:14.114928+00:00"
+  },
+  {
+    "case_id": "f40-g02",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g02.json",
+    "original_record_sha256": "f9131761a649b3ac7c14c7f20e208741d01c3c7d10789b4ed0492758bf345649",
+    "started_utc": "2026-10-29T10:50:14.142730+00:00",
+    "completed_utc": "2026-10-29T10:51:07.280357+00:00"
+  },
+  {
+    "case_id": "f40-g03",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g03.json",
+    "original_record_sha256": "afae7b2068cb01c8acdb622a34e48aabd93d8642f2505cd8a3f1a7bc244495a4",
+    "started_utc": "2026-10-29T10:51:07.313704+00:00",
+    "completed_utc": "2026-10-29T10:53:01.121261+00:00"
+  },
+  {
+    "case_id": "f40-g04",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g04.json",
+    "original_record_sha256": "e167c5d1e8ebe80787352b18a9264a72fe7b0d12709a895fd4fdd44d45ca188c",
+    "started_utc": "2026-10-29T10:53:01.151935+00:00",
+    "completed_utc": "2026-10-29T10:53:53.971415+00:00"
+  },
+  {
+    "case_id": "f40-g05",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g05.json",
+    "original_record_sha256": "bb9b29ea41d9509e32e5f94a9650426345d8639e2d0c18fee73501fb4d503c39",
+    "started_utc": "2026-10-29T10:53:54.006626+00:00",
+    "completed_utc": "2026-10-29T10:54:46.882858+00:00"
+  },
+  {
+    "case_id": "f40-g06",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g06.json",
+    "original_record_sha256": "e56dccac37bb5aaeb8540b5ded06e290cec9b420815d605fd4a867d067b5c72e",
+    "started_utc": "2026-10-29T10:54:46.912789+00:00",
+    "completed_utc": "2026-10-29T10:55:35.694559+00:00"
+  },
+  {
+    "case_id": "f40-g07",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f40-g07.json",
+    "original_record_sha256": "1f46fa7645b7c2be45ef7bf92f354fe66951e199a1faa6a54ee42e89732028a6",
+    "started_utc": "2026-10-29T12:33:07.780415+00:00",
+    "completed_utc": "2026-10-29T12:34:01.449817+00:00"
+  },
+  {
+    "case_id": "f40-g08",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f40-g08.json",
+    "original_record_sha256": "b4a8e87cb37c033ae7724a48a7507af1a49fc41c8f17a2bf190ae7eb68e9a209",
+    "started_utc": "2026-10-29T12:34:01.483847+00:00",
+    "completed_utc": "2026-10-29T12:34:48.725470+00:00"
+  },
+  {
+    "case_id": "f40-g09",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f40-g09.json",
+    "original_record_sha256": "62b095ae37faeeea5391b30b964eeb2de727ce8590172a8bf101dee4c2e85cd7",
+    "started_utc": "2026-10-29T12:34:48.756703+00:00",
+    "completed_utc": "2026-10-29T12:35:37.132528+00:00"
+  },
+  {
+    "case_id": "f40-g10",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f40-g10.json",
+    "original_record_sha256": "6193db6816b66467a4f716c1d2f31cd235dfec96ae1039f33317d374a307ea44",
+    "started_utc": "2026-10-29T12:35:37.161430+00:00",
+    "completed_utc": "2026-10-29T12:36:30.383543+00:00"
+  },
+  {
+    "case_id": "f40-g11",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g11.json",
+    "original_record_sha256": "3d2f08c71553e2e64fb92c014630db5be412a0abaf1f75c5b079006dd4a9cd6a",
+    "started_utc": "2026-10-29T11:17:45.548900+00:00",
+    "completed_utc": "2026-10-29T11:18:45.971260+00:00"
+  },
+  {
+    "case_id": "f40-g12",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g12.json",
+    "original_record_sha256": "2202d6376123193a923b7df85b6d65acdb4b8275849373c27b669cacb91b0f4a",
+    "started_utc": "2026-10-29T11:18:46.001084+00:00",
+    "completed_utc": "2026-10-29T11:19:39.760614+00:00"
+  },
+  {
+    "case_id": "f40-g13",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g13.json",
+    "original_record_sha256": "d5fc292a75cb25660dbd40f46899d7ac9ef5ac10198207e21ad2aa3175883449",
+    "started_utc": "2026-10-29T11:19:39.794611+00:00",
+    "completed_utc": "2026-10-29T11:20:38.086823+00:00"
+  },
+  {
+    "case_id": "f40-g14",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g14.json",
+    "original_record_sha256": "fe55c9278774118ff7b00fba6f41157e3cf1fb1c2f03f9cd3e9c83ac2b23dac7",
+    "started_utc": "2026-10-29T11:20:38.119948+00:00",
+    "completed_utc": "2026-10-29T11:21:32.044708+00:00"
+  },
+  {
+    "case_id": "f40-g15",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g15.json",
+    "original_record_sha256": "e3145f799c6f2eb1ce174a63d31d7900e6a15b40d82ca06c895b1393f0bdb2bb",
+    "started_utc": "2026-10-29T11:21:32.078772+00:00",
+    "completed_utc": "2026-10-29T11:22:19.899171+00:00"
+  },
+  {
+    "case_id": "f40-g16",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f40-g16.json",
+    "original_record_sha256": "1bdc416868caaae5b44aa3eb40c2f46a862232c8244f1de4c0f9860015e3911f",
+    "started_utc": "2026-10-29T12:36:30.417233+00:00",
+    "completed_utc": "2026-10-29T12:37:18.324888+00:00"
+  },
+  {
+    "case_id": "f40-g17",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g17.json",
+    "original_record_sha256": "cbc3e303db58ecaeb82f83ab3946b937c478485c99f3bf598eadc77e1f17ddb0",
+    "started_utc": "2026-10-29T11:27:52.341407+00:00",
+    "completed_utc": "2026-10-29T11:28:46.104993+00:00"
+  },
+  {
+    "case_id": "f40-g18",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g18.json",
+    "original_record_sha256": "db5a7956533830920206f41d9138ba35c647e1218c66720063a851ef6a370279",
+    "started_utc": "2026-10-29T11:28:46.137979+00:00",
+    "completed_utc": "2026-10-29T11:29:33.753491+00:00"
+  },
+  {
+    "case_id": "f40-g19",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g19.json",
+    "original_record_sha256": "fd7c60198e6516e93a9c9a69b799e05d1c29fc87d314ccc2e5526d793db8acc4",
+    "started_utc": "2026-10-29T11:29:33.780227+00:00",
+    "completed_utc": "2026-10-29T11:30:26.499943+00:00"
+  },
+  {
+    "case_id": "f40-g20",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g20.json",
+    "original_record_sha256": "0bd0ff532db6d115ec27665aa808037f801c6160f6080f07d6db437f3771a7d4",
+    "started_utc": "2026-10-29T11:30:26.528464+00:00",
+    "completed_utc": "2026-10-29T11:31:15.169917+00:00"
+  },
+  {
+    "case_id": "f40-g21",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g21.json",
+    "original_record_sha256": "b855ab98691370aabc82dc176f332af306c8ca28bf16ae23ff27c420e140d544",
+    "started_utc": "2026-10-29T11:31:15.196777+00:00",
+    "completed_utc": "2026-10-29T11:32:09.369376+00:00"
+  },
+  {
+    "case_id": "f40-g22",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g22.json",
+    "original_record_sha256": "1a8473fc48cb58283ef9e83481d7abd2033567ea47562add248609451b066e09",
+    "started_utc": "2026-10-29T11:32:09.402347+00:00",
+    "completed_utc": "2026-10-29T11:32:58.323221+00:00"
+  },
+  {
+    "case_id": "f40-g23",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g23.json",
+    "original_record_sha256": "1f7e6e6b30df2ed2c20dc17a91576349242a64ed42e1bb9937e71cb59db11ff9",
+    "started_utc": "2026-10-29T11:32:58.352647+00:00",
+    "completed_utc": "2026-10-29T11:33:47.946872+00:00"
+  },
+  {
+    "case_id": "f40-g24",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g24.json",
+    "original_record_sha256": "0a27b1146c0586f8224a8105442272fcbc3bf0fcf0669341ea1a9bf50bd47da9",
+    "started_utc": "2026-10-29T11:33:47.981202+00:00",
+    "completed_utc": "2026-10-29T11:34:40.832161+00:00"
+  },
+  {
+    "case_id": "f40-g25",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g25.json",
+    "original_record_sha256": "f2c64273c2c823a850cb11d55916c1d95d9b5d73b129d17e179db59c597fa9a4",
+    "started_utc": "2026-10-29T11:34:40.859242+00:00",
+    "completed_utc": "2026-10-29T11:35:29.494936+00:00"
+  },
+  {
+    "case_id": "f40-g26",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g26.json",
+    "original_record_sha256": "b304ebd7180eab8a2b5ca998ba3963a2125aea4494cc542abc5e8d1326154cd9",
+    "started_utc": "2026-10-29T11:35:29.524358+00:00",
+    "completed_utc": "2026-10-29T11:36:18.710152+00:00"
+  },
+  {
+    "case_id": "f40-g27",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g27.json",
+    "original_record_sha256": "86d7ec5e35b13e6fd75406b599c9697c65ab2a9d1474d5b99e54472f41d3517b",
+    "started_utc": "2026-10-29T11:36:18.745855+00:00",
+    "completed_utc": "2026-10-29T11:37:06.288241+00:00"
+  },
+  {
+    "case_id": "f40-g28",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g28.json",
+    "original_record_sha256": "5df1fc794109cf05bc6bd240abdf542f42a7126242c0f75e65f60f4a59b13939",
+    "started_utc": "2026-10-29T11:37:06.315948+00:00",
+    "completed_utc": "2026-10-29T11:37:55.527861+00:00"
+  },
+  {
+    "case_id": "f40-g29",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g29.json",
+    "original_record_sha256": "d810e63fb407532756cf628c37506b83f410b6b1f06867afc2487fb956196050",
+    "started_utc": "2026-10-29T11:37:55.561616+00:00",
+    "completed_utc": "2026-10-29T11:38:45.114648+00:00"
+  },
+  {
+    "case_id": "f40-g30",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g30.json",
+    "original_record_sha256": "1666d3d633545f4caecf89e1630cc1ab006f06249f0b522b99a808a6748cbdfe",
+    "started_utc": "2026-10-29T11:38:45.149792+00:00",
+    "completed_utc": "2026-10-29T11:39:32.668904+00:00"
+  },
+  {
+    "case_id": "f40-g31",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g31.json",
+    "original_record_sha256": "3d7be39247e962f64afd22da0452048e560192ac1f05f81c434ac1fab2775be3",
+    "started_utc": "2026-10-29T11:39:32.700178+00:00",
+    "completed_utc": "2026-10-29T11:40:37.733765+00:00"
+  },
+  {
+    "case_id": "f40-g32",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f40-g32.json",
+    "original_record_sha256": "5879ae7093a7087a94e5564b1934aed37d15d93c3e5e1b03228ece6a85ef80cf",
+    "started_utc": "2026-10-29T11:40:37.765322+00:00",
+    "completed_utc": "2026-10-29T11:41:26.549405+00:00"
+  },
+  {
+    "case_id": "f64-g01",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g01.json",
+    "original_record_sha256": "63a0e6ff824710705e1cc00789cd59683f51b106d91e5d77d205d08fdd2547f6",
+    "started_utc": "2026-10-29T11:41:26.579239+00:00",
+    "completed_utc": "2026-10-29T11:42:14.012012+00:00"
+  },
+  {
+    "case_id": "f64-g02",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g02.json",
+    "original_record_sha256": "a1d0cb0a3f6860f8a9f0ec8cb582ee77b63f963ac9d5fad428efd6ab4af241d6",
+    "started_utc": "2026-10-29T11:42:14.035601+00:00",
+    "completed_utc": "2026-10-29T11:43:06.774245+00:00"
+  },
+  {
+    "case_id": "f64-g03",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g03.json",
+    "original_record_sha256": "e343abbad4fe0522782dcfe307aa64d1f162ec449a4ccb11601a8b07ce3a4d19",
+    "started_utc": "2026-10-29T11:43:06.806922+00:00",
+    "completed_utc": "2026-10-29T11:44:00.500831+00:00"
+  },
+  {
+    "case_id": "f64-g04",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g04.json",
+    "original_record_sha256": "0ed6e611fc20a7441e15c234f7cf41df7160841f51c022ebac182e71c81b5d67",
+    "started_utc": "2026-10-29T11:44:00.530107+00:00",
+    "completed_utc": "2026-10-29T11:44:54.022815+00:00"
+  },
+  {
+    "case_id": "f64-g05",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g05.json",
+    "original_record_sha256": "43154eac8de8cd383333fe4a4d1e219a350275113ee50a5896cc0c0e8d0c00fd",
+    "started_utc": "2026-10-29T11:44:54.057060+00:00",
+    "completed_utc": "2026-10-29T11:45:42.173178+00:00"
+  },
+  {
+    "case_id": "f64-g06",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g06.json",
+    "original_record_sha256": "6edc6d847ee4f5aa773fb94420b77e5277340aa116611ef94041f6a9520952a9",
+    "started_utc": "2026-10-29T11:45:42.204219+00:00",
+    "completed_utc": "2026-10-29T11:46:30.654064+00:00"
+  },
+  {
+    "case_id": "f64-g07",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g07.json",
+    "original_record_sha256": "d1b6d717e06459707801a3e124e9c5f8455e23f30fc9e65ef062e25dfc5f0c62",
+    "started_utc": "2026-10-29T11:46:30.685440+00:00",
+    "completed_utc": "2026-10-29T11:47:19.174624+00:00"
+  },
+  {
+    "case_id": "f64-g08",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g08.json",
+    "original_record_sha256": "f30456589a08d2ffda79b90f20d3f175a52dcc13e2a8c40c889506284e12e7d0",
+    "started_utc": "2026-10-29T11:47:19.208368+00:00",
+    "completed_utc": "2026-10-29T11:48:12.220638+00:00"
+  },
+  {
+    "case_id": "f64-g09",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g09.json",
+    "original_record_sha256": "ae1866242dccf2a4925973116b52035a3eebeb8ad36e481bbc827dc14ce2964b",
+    "started_utc": "2026-10-29T11:48:12.253896+00:00",
+    "completed_utc": "2026-10-29T11:49:06.413170+00:00"
+  },
+  {
+    "case_id": "f64-g10",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g10.json",
+    "original_record_sha256": "36d139f535ead6eea5934ee3a4ddf9f9ad629c574c06c275772bed19df85aa56",
+    "started_utc": "2026-10-29T11:49:06.442504+00:00",
+    "completed_utc": "2026-10-29T11:50:00.352882+00:00"
+  },
+  {
+    "case_id": "f64-g11",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g11.json",
+    "original_record_sha256": "aa28c26a0e93edfff445f9e96d1712eed193b5c96c5e4707738dfbd42b223ad1",
+    "started_utc": "2026-10-29T11:50:00.385789+00:00",
+    "completed_utc": "2026-10-29T11:50:53.455852+00:00"
+  },
+  {
+    "case_id": "f64-g12",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g12.json",
+    "original_record_sha256": "dc1a58a4fffa493af5f169b34b1d057ae1557d9dd405f67ee5bfa25e48158bf4",
+    "started_utc": "2026-10-29T11:50:53.490296+00:00",
+    "completed_utc": "2026-10-29T11:51:41.407376+00:00"
+  },
+  {
+    "case_id": "f64-g13",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g13.json",
+    "original_record_sha256": "6adc44b1c322d044bb2f581e412cf25a529d3e8532bc1721b26cb77bb611ba3c",
+    "started_utc": "2026-10-29T11:51:41.436026+00:00",
+    "completed_utc": "2026-10-29T11:52:35.775522+00:00"
+  },
+  {
+    "case_id": "f64-g14",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g14.json",
+    "original_record_sha256": "0e0920dce3458153b414062fd2305ea8e8ac21c37e736e95d30d5d0efe8c923f",
+    "started_utc": "2026-10-29T11:52:35.810398+00:00",
+    "completed_utc": "2026-10-29T11:53:28.785040+00:00"
+  },
+  {
+    "case_id": "f64-g15",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g15.json",
+    "original_record_sha256": "0b40e57e15055bbff14700b895564ca3c3d3b7bf6b5d7043ea34b80fe984225c",
+    "started_utc": "2026-10-29T11:53:28.817108+00:00",
+    "completed_utc": "2026-10-29T11:54:17.506725+00:00"
+  },
+  {
+    "case_id": "f64-g16",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g16.json",
+    "original_record_sha256": "9cb9cea290af5c653887c652b1f74e965dcc01c8c356594a28d0a997344c1908",
+    "started_utc": "2026-10-29T11:54:17.538388+00:00",
+    "completed_utc": "2026-10-29T11:55:06.488863+00:00"
+  },
+  {
+    "case_id": "f64-g17",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g17.json",
+    "original_record_sha256": "7b267964538574565b34f0e8d4b5b6a16b7600416aecf01bce969022cf11056b",
+    "started_utc": "2026-10-29T11:55:06.520204+00:00",
+    "completed_utc": "2026-10-29T11:55:54.351806+00:00"
+  },
+  {
+    "case_id": "f64-g18",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g18.json",
+    "original_record_sha256": "3103e29da3564487639b2bf47b312d0d55f25b3f6e86657c6bc2e4625fc4cd8c",
+    "started_utc": "2026-10-29T11:55:54.383341+00:00",
+    "completed_utc": "2026-10-29T11:56:49.355782+00:00"
+  },
+  {
+    "case_id": "f64-g19",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g19.json",
+    "original_record_sha256": "a1ee53d781e9e2dbc23b4df02f75f0167bab3679f60e03e9c3f854f335c78785",
+    "started_utc": "2026-10-29T11:56:49.386840+00:00",
+    "completed_utc": "2026-10-29T11:57:38.709402+00:00"
+  },
+  {
+    "case_id": "f64-g20",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g20.json",
+    "original_record_sha256": "ab0a84d4228c8bed049c7d8847efa887b8ab18bcfb5471a914a55b40662d5ba3",
+    "started_utc": "2026-10-29T11:57:38.741844+00:00",
+    "completed_utc": "2026-10-29T11:58:27.657072+00:00"
+  },
+  {
+    "case_id": "f64-g21",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g21.json",
+    "original_record_sha256": "9b82de4ba69748e4c597ce5a70f073bbc18abb7852c65b99382d6e4f0d88c1d0",
+    "started_utc": "2026-10-29T11:58:27.688893+00:00",
+    "completed_utc": "2026-10-29T11:59:16.031385+00:00"
+  },
+  {
+    "case_id": "f64-g22",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g22.json",
+    "original_record_sha256": "d077a9706eef4aa6b0fe35bce3787de432b1fd82ace8778b344eb1d009fcc365",
+    "started_utc": "2026-10-29T11:59:16.067106+00:00",
+    "completed_utc": "2026-10-29T12:00:04.383224+00:00"
+  },
+  {
+    "case_id": "f64-g23",
+    "origin": "supplement",
+    "kind": "authorized_retest_fill",
+    "original_record_member": "source-records/f64-g23.json",
+    "original_record_sha256": "2b896639e986adbc9a928a87e54fddc1ba890d17453931742dd457c8db3a2d8c",
+    "started_utc": "2026-10-29T12:37:18.355121+00:00",
+    "completed_utc": "2026-10-29T12:38:12.037685+00:00"
+  },
+  {
+    "case_id": "f64-g24",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g24.json",
+    "original_record_sha256": "bbff784e3b5c613f3d4653ffcb3cfbfb16848ee6915e42fe76b0259d0d06be69",
+    "started_utc": "2026-10-29T12:05:38.069417+00:00",
+    "completed_utc": "2026-10-29T12:06:32.254789+00:00"
+  },
+  {
+    "case_id": "f64-g25",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g25.json",
+    "original_record_sha256": "71f09643f0a2d7b1ab2938e7fd548d8f0da61de1c46be1c47acfad494fca9918",
+    "started_utc": "2026-10-29T12:06:32.285835+00:00",
+    "completed_utc": "2026-10-29T12:07:19.630912+00:00"
+  },
+  {
+    "case_id": "f64-g26",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g26.json",
+    "original_record_sha256": "35ee043dcdc0cac3dc327a012de33a0bd5807acb0e20d3dcac348e8a94945065",
+    "started_utc": "2026-10-29T12:07:19.666444+00:00",
+    "completed_utc": "2026-10-29T12:08:13.471998+00:00"
+  },
+  {
+    "case_id": "f64-g27",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g27.json",
+    "original_record_sha256": "a1d3413b39470063796a350cf9897ef5af3aa1d9381adc68b207f6018b67d92e",
+    "started_utc": "2026-10-29T12:08:13.503188+00:00",
+    "completed_utc": "2026-10-29T12:09:02.910702+00:00"
+  },
+  {
+    "case_id": "f64-g28",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g28.json",
+    "original_record_sha256": "9976f3b066073fbbeebfe168ec2d4e4732582f13ec7d2cba326b845a7bd21b0d",
+    "started_utc": "2026-10-29T12:09:02.944817+00:00",
+    "completed_utc": "2026-10-29T12:09:55.908262+00:00"
+  },
+  {
+    "case_id": "f64-g29",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g29.json",
+    "original_record_sha256": "2dbe1dfe30f07944e0ab45e63bb4defe8f0a148840bc272f10a4f759de3bcc5e",
+    "started_utc": "2026-10-29T12:09:55.944049+00:00",
+    "completed_utc": "2026-10-29T12:10:44.034549+00:00"
+  },
+  {
+    "case_id": "f64-g30",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g30.json",
+    "original_record_sha256": "79a2b0270f9d264939a0cbbe6d9dda6d8cf6f57af9804fef0120c4f0c01a7a0f",
+    "started_utc": "2026-10-29T12:10:44.067564+00:00",
+    "completed_utc": "2026-10-29T12:11:33.047440+00:00"
+  },
+  {
+    "case_id": "f64-g31",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g31.json",
+    "original_record_sha256": "98d05dff4fb061d010ab80764ab3c5d9425b4abbf1f0378df3ec3d8451deb8e8",
+    "started_utc": "2026-10-29T12:11:33.078217+00:00",
+    "completed_utc": "2026-10-29T12:12:26.629101+00:00"
+  },
+  {
+    "case_id": "f64-g32",
+    "origin": "first",
+    "kind": "original_valid",
+    "original_record_member": "source-records/f64-g32.json",
+    "original_record_sha256": "37ca4e276c2c5cb909188422a0544b6426902949a1c06e6262a667b629330cf5",
+    "started_utc": "2026-10-29T12:12:26.664288+00:00",
+    "completed_utc": "2026-10-29T12:13:14.259861+00:00"
+  }
+]

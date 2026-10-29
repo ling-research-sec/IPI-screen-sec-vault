@@ -1,0 +1,50 @@
+[
+  {
+    "font_px": 16,
+    "n": 32,
+    "mean_accuracy": 0.8690625,
+    "mean_cer": 0.175,
+    "strict_perfect": 10,
+    "supplemental": 1
+  },
+  {
+    "font_px": 24,
+    "n": 32,
+    "mean_accuracy": 0.91625,
+    "mean_cer": 0.08562499999999999,
+    "strict_perfect": 12,
+    "supplemental": 0
+  },
+  {
+    "font_px": 32,
+    "n": 32,
+    "mean_accuracy": 0.941875,
+    "mean_cer": 0.0709375,
+    "strict_perfect": 12,
+    "supplemental": 1
+  },
+  {
+    "font_px": 40,
+    "n": 32,
+    "mean_accuracy": 0.95,
+    "mean_cer": 0.089375,
+    "strict_perfect": 13,
+    "supplemental": 5
+  },
+  {
+    "font_px": 48,
+    "n": 32,
+    "mean_accuracy": 0.9584375,
+    "mean_cer": 0.0434375,
+    "strict_perfect": 24,
+    "supplemental": 4
+  },
+  {
+    "font_px": 64,
+    "n": 32,
+    "mean_accuracy": 0.958125,
+    "mean_cer": 0.0703125,
+    "strict_perfect": 13,
+    "supplemental": 1
+  }
+]

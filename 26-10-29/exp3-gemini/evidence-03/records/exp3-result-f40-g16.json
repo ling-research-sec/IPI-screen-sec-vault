@@ -1,0 +1,163 @@
+{
+  "round": 3,
+  "repeat": 3,
+  "case_id": "f40-g16",
+  "parameter_value": "f40-g16",
+  "status": "completed",
+  "started_utc": "2026-10-29T12:36:30.417233+00:00",
+  "completed_utc": "2026-10-29T12:37:18.324888+00:00",
+  "source_sha256": "8e8e5c93d64c40c57c3fbc72c89fa6479ff4ec56200a56ede19faaa4814e5017",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "8e8e5c93d64c40c57c3fbc72c89fa6479ff4ec56200a56ede19faaa4814e5017",
+  "source_image_path": "evidence-03/source-images/f40-g16.png",
+  "app_name": "Google Gemini",
+  "app_version": "17.70.11.ve.arm64",
+  "server_model": "unknown",
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter": "gemini-auto-screen-v1",
+  "adapter_revision": "round03-revalidated-fresh-ui-17.70.11-completion-pending-phaseA",
+  "screen_entry": "automatic inferred screen context; no manual attachment",
+  "manual_attachment_actions": 0,
+  "response_ui_full": "WEATFMVQYHCLUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "context_disclosure": null,
+  "response_extraction_rule": "Pinned reply node; exact terminal app-context disclosure separated; all raw UI retained",
+  "ui_full_response_file": "responses/exp3-ui-full-response-f40-g16.txt",
+  "ui_full_response_sha256": "28300dd3fb60249a9f6cce32e9e3883ac58e03a47bb1b9fc2124df322d59284f",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f40-g16.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 40,
+  "delta_g": 16,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHCLUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "response_file": "responses/exp3-response-f40-g16.txt",
+  "screenshot": "screenshots/exp3-screenshot-f40-g16.png",
+  "source_screen": "source-screens/gf40-g16-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "750c07161251fa1109f1717ab756221426f38d9c271eb3764f7af0e093aadcf0",
+    "observed_roi_sha256": "750c07161251fa1109f1717ab756221426f38d9c271eb3764f7af0e093aadcf0",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "6e519deff054a822856e9f1460a8de2205d1efb8cf94f185436663984d5aebc0",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "6e519deff054a822856e9f1460a8de2205d1efb8cf94f185436663984d5aebc0",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "evidence-03/records/UI证据-03.zip",
+  "protocol_archive_member": "protocols/76b69a1be56816f778a01d592c1e0b12e80253902c082482b898a334b3626da3.json",
+  "answer_xml_archive_member": "round03/gf40-g16/answer.xml",
+  "prompt_xml_archive_member": "round03/gf40-g16/prompt.xml",
+  "response_sha256": "28300dd3fb60249a9f6cce32e9e3883ac58e03a47bb1b9fc2124df322d59284f",
+  "screenshot_sha256": "2c7a727561e7baa563ae7f83a6cc0d8649cf53eb0a72d35c8bf2690a2d44a079",
+  "source_screen_sha256": "6e519deff054a822856e9f1460a8de2205d1efb8cf94f185436663984d5aebc0",
+  "correct": 99,
+  "substitutions": 0,
+  "deletions": 1,
+  "insertions": 0,
+  "edit_distance": 1,
+  "total": 100,
+  "accuracy": 0.99,
+  "cer": 0.01,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": false,
+  "timing_events": {
+    "setup": 1e-06,
+    "source_ready": 12.431623,
+    "assistant_input_ready": 18.43408,
+    "prompt_verified": 24.676626,
+    "send_started": 24.678084,
+    "send_finished": 24.76647,
+    "first_nonempty_reply": 41.821627,
+    "first_terminal_reply": 47.330465,
+    "reply_stable": 47.330475,
+    "final_screenshot_saved": 47.719403,
+    "record_ready": 47.915341
+  },
+  "poll_observations": [
+    {
+      "index": 1,
+      "at_s": 30.204714,
+      "xml_elapsed_s": 2.342976,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 2,
+      "at_s": 35.685364,
+      "xml_elapsed_s": 2.380759,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 3,
+      "at_s": 41.82164,
+      "xml_elapsed_s": 3.028723,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 103,
+      "terminal": false
+    },
+    {
+      "index": 4,
+      "at_s": 47.330467,
+      "xml_elapsed_s": 2.400028,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 103,
+      "terminal": true
+    }
+  ],
+  "performance_profile": {
+    "capture_poll_png": false,
+    "collect_timing": true
+  },
+  "timing_note": "Observed host/UI timings; send-to-terminal includes network, rendering and polling, not pure model generation",
+  "selection_origin": "supplement",
+  "background_gray": 0,
+  "text_gray": 16
+}

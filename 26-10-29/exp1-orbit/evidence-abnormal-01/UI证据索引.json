@@ -1,0 +1,549 @@
+{
+  "round": 2,
+  "说明": "file相对本证据目录；UI/协议逐字节复制并与既有校验归档核对。原JSON的ui_archive等历史字段保持原样，当前查看使用本索引。historical与unsubmitted不计入formal_cases。",
+  "formal_cases": 2,
+  "formal_case_ids": [
+    "f40-g27",
+    "f64-g10"
+  ],
+  "unsubmitted_case_ids": [
+    "f24-g31",
+    "f48-g11"
+  ],
+  "entries": [
+    {
+      "case_id": "f24-g31",
+      "kind": "unsubmitted/failure.png",
+      "file": "ui/f24-g31/failure.png",
+      "sha256": "6dffaa9dbf2b3cac3a002ec5b0da41a8e066d367f52774b00595336c1828f47d",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f24-g31/failure.png"
+    },
+    {
+      "case_id": "f24-g31",
+      "kind": "unsubmitted/failure.xml",
+      "file": "ui/f24-g31/failure.xml",
+      "sha256": "ffcd6cbced8f09c82d72ad81fa25686ac2a6944ef1d346e40771b7c4687b9c02",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f24-g31/failure.xml"
+    },
+    {
+      "case_id": "f24-g31",
+      "kind": "unsubmitted/source-clean.xml",
+      "file": "ui/f24-g31/source-clean.xml",
+      "sha256": "ffcd6cbced8f09c82d72ad81fa25686ac2a6944ef1d346e40771b7c4687b9c02",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f24-g31/source-clean.xml"
+    },
+    {
+      "case_id": "f24-g31",
+      "kind": "unsubmitted/source-initial.xml",
+      "file": "ui/f24-g31/source-initial.xml",
+      "sha256": "ce681cf65702f30b00d9372fead4f1aa2b3e3041f15349d46c0e05949885f19b",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f24-g31/source-initial.xml"
+    },
+    {
+      "case_id": "f24-g31",
+      "kind": "unsubmitted/source-query.txt",
+      "file": "ui/f24-g31/source-query.txt",
+      "sha256": "65b2cf0a9eb1d5c24090ac0533a2eb48c2033956ce4b8cdbf4aabf9cc47b11b2",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f24-g31/source-query.txt"
+    },
+    {
+      "case_id": "f24-g31",
+      "kind": "unsubmitted/source-stability-second.png",
+      "file": "ui/f24-g31/source-stability-second.png",
+      "sha256": "6dffaa9dbf2b3cac3a002ec5b0da41a8e066d367f52774b00595336c1828f47d",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f24-g31/source-stability-second.png"
+    },
+    {
+      "case_id": "f24-g31",
+      "kind": "unsubmitted/state.json",
+      "file": "ui/f24-g31/state.json",
+      "sha256": "5b7e590a7710c94e6c0ba64d9b440dc15c208b3c3b2d5a0ab9862e43c85b3de1",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f24-g31/state.json"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/answer-00.xml",
+      "file": "ui/f40-g27/answer-00.xml",
+      "sha256": "fa35d603fbf95e011bab4f8459e57041b933d437887a619fc846ce6e6d893fd5",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/answer-00.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/answer-01.xml",
+      "file": "ui/f40-g27/answer-01.xml",
+      "sha256": "fa35d603fbf95e011bab4f8459e57041b933d437887a619fc846ce6e6d893fd5",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/answer-01.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/assistant.xml",
+      "file": "ui/f40-g27/assistant.xml",
+      "sha256": "87ea7c3257e6f8bc705ba83119127226c40f17f5fb4c531a67f92df2b0fe5bc8",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/assistant.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/auto-selected.xml",
+      "file": "ui/f40-g27/auto-selected.xml",
+      "sha256": "ffa07d61393eb109ced67a2725f0bee588409de6d0b6cb06fb01df5cc78a72ea",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/auto-selected.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/collection-current.xml",
+      "file": "ui/f40-g27/collection-current.xml",
+      "sha256": "ea78314f6169a2214d61d6bd967245ce57349e45ce4fca944423c0fc19373f89",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/collection-current.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/input-ready.xml",
+      "file": "ui/f40-g27/input-ready.xml",
+      "sha256": "273b6dbd57872a1a27c3b576ee69bfee0452dec7c63f6ca66deed93424404d35",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/input-ready.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/model-picker.xml",
+      "file": "ui/f40-g27/model-picker.xml",
+      "sha256": "a9f5218780afdd96f29349386bcf6634a375d96ef75426a148f482d2ff40d455",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/model-picker.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/new-chat.xml",
+      "file": "ui/f40-g27/new-chat.xml",
+      "sha256": "87ea7c3257e6f8bc705ba83119127226c40f17f5fb4c531a67f92df2b0fe5bc8",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/new-chat.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/overlay-answer.xml",
+      "file": "ui/f40-g27/overlay-answer.xml",
+      "sha256": "ea78314f6169a2214d61d6bd967245ce57349e45ce4fca944423c0fc19373f89",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/overlay-answer.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/overlay-ready.xml",
+      "file": "ui/f40-g27/overlay-ready.xml",
+      "sha256": "364a9a48315ff1e5f29717353d4c7ddfb6f9ef7cc3a0ffae0b4c9b62ce69d541",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/overlay-ready.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/prompt.png",
+      "file": "ui/f40-g27/prompt.png",
+      "sha256": "996a795dab208a15559956dde44988edc688a06e6070e0737ca3d465924e7ecb",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/prompt.png"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/prompt.xml",
+      "file": "ui/f40-g27/prompt.xml",
+      "sha256": "dc829e3b5c05be398c09c5f74f2d126e25df552de874c03fe27c9a3005373f97",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/prompt.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/screen-attached.xml",
+      "file": "ui/f40-g27/screen-attached.xml",
+      "sha256": "fcb7af366a2a6f105f0a4fe6c365aceb9db44d98319754358ead90d3f5a2cd6e",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/screen-attached.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/source-clean.xml",
+      "file": "ui/f40-g27/source-clean.xml",
+      "sha256": "ffcd6cbced8f09c82d72ad81fa25686ac2a6944ef1d346e40771b7c4687b9c02",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/source-clean.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/source-initial.xml",
+      "file": "ui/f40-g27/source-initial.xml",
+      "sha256": "ce681cf65702f30b00d9372fead4f1aa2b3e3041f15349d46c0e05949885f19b",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/source-initial.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/source-query.txt",
+      "file": "ui/f40-g27/source-query.txt",
+      "sha256": "f162fd058a59b6c97ea7386fb55be7578a3b61ecb05613ffdc12ace967041a41",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/source-query.txt"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/source-reverified.xml",
+      "file": "ui/f40-g27/source-reverified.xml",
+      "sha256": "ffcd6cbced8f09c82d72ad81fa25686ac2a6944ef1d346e40771b7c4687b9c02",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/source-reverified.xml"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/source-stability-second.png",
+      "file": "ui/f40-g27/source-stability-second.png",
+      "sha256": "e65033231832a5c9ffa3a825c238e7dcceb9b3a6441066b192b65ce1b7ef7e12",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/source-stability-second.png"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/source-verification.json",
+      "file": "ui/f40-g27/source-verification.json",
+      "sha256": "7e61b3dac9d21f7befaa0c2d8f5ea49f0f1d5026dc49c15f265fe4583ee014a7",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/source-verification.json"
+    },
+    {
+      "case_id": "f40-g27",
+      "kind": "formal/state.json",
+      "file": "ui/f40-g27/state.json",
+      "sha256": "bc0d514fdfe4f46e7f076e94d96f4f716cc128ade3d28049600b04abcaf37658",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f40-g27/state.json"
+    },
+    {
+      "case_id": "f48-g11",
+      "kind": "unsubmitted/failure.png",
+      "file": "ui/f48-g11/failure.png",
+      "sha256": "d5ce5ce261d20494dc75965e824cbaa3de8d6442c13d24f7fd4ded9543eb224a",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f48-g11/failure.png"
+    },
+    {
+      "case_id": "f48-g11",
+      "kind": "unsubmitted/failure.xml",
+      "file": "ui/f48-g11/failure.xml",
+      "sha256": "ffcd6cbced8f09c82d72ad81fa25686ac2a6944ef1d346e40771b7c4687b9c02",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f48-g11/failure.xml"
+    },
+    {
+      "case_id": "f48-g11",
+      "kind": "unsubmitted/source-clean.xml",
+      "file": "ui/f48-g11/source-clean.xml",
+      "sha256": "ffcd6cbced8f09c82d72ad81fa25686ac2a6944ef1d346e40771b7c4687b9c02",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f48-g11/source-clean.xml"
+    },
+    {
+      "case_id": "f48-g11",
+      "kind": "unsubmitted/source-initial.xml",
+      "file": "ui/f48-g11/source-initial.xml",
+      "sha256": "ce681cf65702f30b00d9372fead4f1aa2b3e3041f15349d46c0e05949885f19b",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f48-g11/source-initial.xml"
+    },
+    {
+      "case_id": "f48-g11",
+      "kind": "unsubmitted/source-query.txt",
+      "file": "ui/f48-g11/source-query.txt",
+      "sha256": "be70b55aad391f01d2638a41a4037f3df67a5ec09061f7d479e5295950f92224",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f48-g11/source-query.txt"
+    },
+    {
+      "case_id": "f48-g11",
+      "kind": "unsubmitted/source-stability-second.png",
+      "file": "ui/f48-g11/source-stability-second.png",
+      "sha256": "d5ce5ce261d20494dc75965e824cbaa3de8d6442c13d24f7fd4ded9543eb224a",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f48-g11/source-stability-second.png"
+    },
+    {
+      "case_id": "f48-g11",
+      "kind": "unsubmitted/state.json",
+      "file": "ui/f48-g11/state.json",
+      "sha256": "e4d1ef1b931c7f93250e678a0506647c38740a7f88b12893ec67b018c7783214",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f48-g11/state.json"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/answer-00.xml",
+      "file": "ui/f64-g10/answer-00.xml",
+      "sha256": "dfe8d0dd53c9b000793865dc508e5581a9248260e5106bda5ecea12b72d034ab",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/answer-00.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/answer-01.xml",
+      "file": "ui/f64-g10/answer-01.xml",
+      "sha256": "dfe8d0dd53c9b000793865dc508e5581a9248260e5106bda5ecea12b72d034ab",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/answer-01.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/assistant.xml",
+      "file": "ui/f64-g10/assistant.xml",
+      "sha256": "87ea7c3257e6f8bc705ba83119127226c40f17f5fb4c531a67f92df2b0fe5bc8",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/assistant.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/auto-selected.xml",
+      "file": "ui/f64-g10/auto-selected.xml",
+      "sha256": "ffa07d61393eb109ced67a2725f0bee588409de6d0b6cb06fb01df5cc78a72ea",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/auto-selected.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/collection-current.xml",
+      "file": "ui/f64-g10/collection-current.xml",
+      "sha256": "c35cb2afcde63b625de16b73ff967bff643b6324bcafd0263abd9844a6bd1518",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/collection-current.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/input-ready.xml",
+      "file": "ui/f64-g10/input-ready.xml",
+      "sha256": "273b6dbd57872a1a27c3b576ee69bfee0452dec7c63f6ca66deed93424404d35",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/input-ready.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/model-picker.xml",
+      "file": "ui/f64-g10/model-picker.xml",
+      "sha256": "a9f5218780afdd96f29349386bcf6634a375d96ef75426a148f482d2ff40d455",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/model-picker.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/new-chat.xml",
+      "file": "ui/f64-g10/new-chat.xml",
+      "sha256": "87ea7c3257e6f8bc705ba83119127226c40f17f5fb4c531a67f92df2b0fe5bc8",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/new-chat.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/overlay-answer.xml",
+      "file": "ui/f64-g10/overlay-answer.xml",
+      "sha256": "c35cb2afcde63b625de16b73ff967bff643b6324bcafd0263abd9844a6bd1518",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/overlay-answer.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/overlay-ready.xml",
+      "file": "ui/f64-g10/overlay-ready.xml",
+      "sha256": "a671776abc9a2e2c4bf4ec92c33f855629e9b89f8b642b2e7d6542b6f6cc9ec5",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/overlay-ready.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/prompt.png",
+      "file": "ui/f64-g10/prompt.png",
+      "sha256": "aca8741cedf42fabbd2a2257aeb1efe619064c77ddb9e455e3e2b56f831de8cd",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/prompt.png"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/prompt.xml",
+      "file": "ui/f64-g10/prompt.xml",
+      "sha256": "dc829e3b5c05be398c09c5f74f2d126e25df552de874c03fe27c9a3005373f97",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/prompt.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/screen-attached.xml",
+      "file": "ui/f64-g10/screen-attached.xml",
+      "sha256": "fcb7af366a2a6f105f0a4fe6c365aceb9db44d98319754358ead90d3f5a2cd6e",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/screen-attached.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/source-clean.xml",
+      "file": "ui/f64-g10/source-clean.xml",
+      "sha256": "ffcd6cbced8f09c82d72ad81fa25686ac2a6944ef1d346e40771b7c4687b9c02",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/source-clean.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/source-initial.xml",
+      "file": "ui/f64-g10/source-initial.xml",
+      "sha256": "ce681cf65702f30b00d9372fead4f1aa2b3e3041f15349d46c0e05949885f19b",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/source-initial.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/source-query.txt",
+      "file": "ui/f64-g10/source-query.txt",
+      "sha256": "c027eaa89d390cca570bf3f76cd078a93beac8255666823f1b333414f313734e",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/source-query.txt"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/source-reverified.xml",
+      "file": "ui/f64-g10/source-reverified.xml",
+      "sha256": "ffcd6cbced8f09c82d72ad81fa25686ac2a6944ef1d346e40771b7c4687b9c02",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/source-reverified.xml"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/source-stability-second.png",
+      "file": "ui/f64-g10/source-stability-second.png",
+      "sha256": "d06ad04f2b821de552374b34ff22b0291360dd17afaf7f58684f5c0b7a4ef024",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/source-stability-second.png"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/source-verification.json",
+      "file": "ui/f64-g10/source-verification.json",
+      "sha256": "3a592ba9a51a6ac42a44948199a0e8c853adeb512163e246c6009cc9c5915691",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/source-verification.json"
+    },
+    {
+      "case_id": "f64-g10",
+      "kind": "formal/state.json",
+      "file": "ui/f64-g10/state.json",
+      "sha256": "8d5fd79b7bc61ac6c89bdb1f05e0017b1b2f4bb36c47acad2964ba7086296799",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-work/cases/f64-g10/state.json"
+    },
+    {
+      "kind": "protocol",
+      "file": "ui/protocols/protocol.json",
+      "sha256": "519cead13d9a2954dd4003ebb1d041f5aaca7eff0d28bd8012eb289db010617d",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-192/protocol.json"
+    },
+    {
+      "kind": "protocol",
+      "file": "ui/protocols/retest-plan.json",
+      "sha256": "4a30fb8ef7d731a8d1e7b57fb58e64dd4c8d66a54523ce06ef32ea2a19853466",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-plan.json"
+    },
+    {
+      "kind": "protocol",
+      "file": "ui/protocols/retest-plan-addendum.json",
+      "sha256": "d943878bd96e6a2c42a1cded8ca7d44a3f972108490c9637ed5630f5226d0879",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-plan-addendum.json"
+    },
+    {
+      "kind": "protocol",
+      "file": "ui/protocols/retest-owner.json",
+      "sha256": "e1d226d099aedf873187b95d4bb26f065b0509a0737be1e52f36c885168e6fa8",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-owner.json"
+    },
+    {
+      "kind": "protocol",
+      "file": "ui/protocols/retest-environment-before.json",
+      "sha256": "a1ac3ae3da761c430a0cb46e07e5ea5ca3cc7f0d9c7e26a8cefa5b4c5ae71bd3",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-environment-before.json"
+    },
+    {
+      "kind": "protocol",
+      "file": "ui/protocols/retest-environment-after.json",
+      "sha256": "17f86893ae50316eb3f75e1f2ac64b4f4e115115154d9eaebb4fe6048e0c429f",
+      "source_archive": "orbit-postrun-analysis-20261029.zip",
+      "source_archive_sha256": "c2da2330c79b240cfdc1aa5287862b9adc8a3013d24cbf0e9e88cea768e1be74",
+      "source_member": "_archive/orbit-postrun-analysis/retest-environment-after.json"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "created_utc": "2026-10-29T03:50:38.713816+00:00",
+  "owner_thread_id": "01a183ac-e9a7-7371-9c0d-95ae20093275",
+  "device": "emulator-5554",
+  "protocol_sha256": "519cead13d9a2954dd4003ebb1d041f5aaca7eff0d28bd8012eb289db010617d",
+  "adapter_source_sha256": "0018342eb08a53644e09d00861254a9ded85583c1ca8108ad1574ff8c6cb5e6d",
+  "scope": "同一原PNG、Prompt、Auto、Use screen、手动102及818版本；独立第02轮，每条件一次真实提交。源屏稳定性新增保存两次校验，不修改素材及识别条件。失败不重发。",
+  "network_limitation": "首轮中途用户更改过代理；复测保持当前网络，不改代理/账号/电源/安全设置。不能还原每次服务端路由。",
+  "items": [
+    {
+      "original_case_id": "f24-g31",
+      "classification": "待复测",
+      "reason": "源屏仍为正确五行图片，但与原PNG及相邻档相比出现位置/栅格和峰值变化；可能截图时图库缩放尚未稳定，不能确认",
+      "affects_validity": "首轮落屏灰度/几何一致性无法确认",
+      "evidence": "D:\\IPI-screen-sec-vault\\26-10-28\\exp-orbit-192\\evidence-01\\source-screens\\f24-g31-source-clean.png",
+      "source_sha256": "1866832be97d93b39187d29945b3f9dd563d5787d56acc457e521464eb8bc638",
+      "protocol_sha256": "519cead13d9a2954dd4003ebb1d041f5aaca7eff0d28bd8012eb289db010617d",
+      "expected_attempts": 1,
+      "max_real_submissions": 1,
+      "round": 2,
+      "target": "D:\\IPI-screen-sec-vault\\26-10-28\\exp-orbit-192\\evidence-02",
+      "original_result_retained": true,
+      "merge_means": false
+    },
+    {
+      "original_case_id": "f40-g27",
+      "classification": "待复测",
+      "reason": "源屏保存为Orbit会话界面；无法确认当次附件是否为目标图",
+      "affects_validity": "首轮屏幕输入有效性无法确认",
+      "evidence": "D:\\IPI-screen-sec-vault\\26-10-28\\exp-orbit-192\\evidence-01\\source-screens\\f40-g27-source-clean.png",
+      "source_sha256": "e0403ae0dd11bf94c41624e53a5e675afce27eaeb148b94acf6a9f674b844248",
+      "protocol_sha256": "519cead13d9a2954dd4003ebb1d041f5aaca7eff0d28bd8012eb289db010617d",
+      "expected_attempts": 1,
+      "max_real_submissions": 1,
+      "round": 2,
+      "target": "D:\\IPI-screen-sec-vault\\26-10-28\\exp-orbit-192\\evidence-02",
+      "original_result_retained": true,
+      "merge_means": false
+    },
+    {
+      "original_case_id": "f48-g11",
+      "classification": "待复测",
+      "reason": "源屏保存为Orbit会话界面；无法确认当次附件是否为目标图",
+      "affects_validity": "首轮屏幕输入有效性无法确认",
+      "evidence": "D:\\IPI-screen-sec-vault\\26-10-28\\exp-orbit-192\\evidence-01\\source-screens\\f48-g11-source-clean.png",
+      "source_sha256": "ff207519f95990b7a61f1f61abd99f13d8cf31ea79107bf731afc9f903e67875",
+      "protocol_sha256": "519cead13d9a2954dd4003ebb1d041f5aaca7eff0d28bd8012eb289db010617d",
+      "expected_attempts": 1,
+      "max_real_submissions": 1,
+      "round": 2,
+      "target": "D:\\IPI-screen-sec-vault\\26-10-28\\exp-orbit-192\\evidence-02",
+      "original_result_retained": true,
+      "merge_means": false
+    },
+    {
+      "original_case_id": "f64-g10",
+      "classification": "待复测",
+      "reason": "源屏仍为正确五行图片，但与原PNG及相邻档相比出现位置/栅格和峰值变化；可能截图时图库缩放尚未稳定，不能确认",
+      "affects_validity": "首轮落屏灰度/几何一致性无法确认",
+      "evidence": "D:\\IPI-screen-sec-vault\\26-10-28\\exp-orbit-192\\evidence-01\\source-screens\\f64-g10-source-clean.png",
+      "source_sha256": "cafe6076fc295442a3de5d94648be62f597fd3027c36bb4f0540bd1e57ee0daf",
+      "protocol_sha256": "519cead13d9a2954dd4003ebb1d041f5aaca7eff0d28bd8012eb289db010617d",
+      "expected_attempts": 1,
+      "max_real_submissions": 1,
+      "round": 2,
+      "target": "D:\\IPI-screen-sec-vault\\26-10-28\\exp-orbit-192\\evidence-02",
+      "original_result_retained": true,
+      "merge_means": false
+    }
+  ]
+}

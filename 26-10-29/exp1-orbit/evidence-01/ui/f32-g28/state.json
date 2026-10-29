@@ -1,0 +1,8 @@
+{
+  "case": "f32-g28",
+  "phase": "completed",
+  "submitted": true,
+  "started_utc": "2026-10-28T17:20:01.915192+00:00",
+  "source_sha256": "9d9f6c43357b203e96cbbe86496f142eee74d569b180d1c0fc5f1fa0ace88ede",
+  "updated_utc": "2026-10-28T17:21:30.154383+00:00"
+}

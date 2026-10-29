@@ -1,0 +1,10 @@
+{
+  "case": "f16-g01",
+  "phase": "failed",
+  "submitted": false,
+  "started_utc": "2026-10-28T13:34:39.435265+00:00",
+  "source_sha256": "8473f10207394b3658c62c11b78af3bbe211253ff88bd057ac22cc2c59a8264f",
+  "updated_utc": "2026-10-28T13:34:58.117975+00:00",
+  "error": "AssertionError(('New chat', 0))",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 59, in trial\n    tap(find(n,'New chat'));time.sleep(1);n=dump(d/'new-chat.xml')\n        ~~~~^^^^^^^^^^^^^^\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 22, in find\n    a=[n for n in nodes if n.get('content-desc')==desc];assert len(a)==1,(desc,len(a));return a[0]\n                                                               ^^^^^^^^^\nAssertionError: ('New chat', 0)\n"
+}

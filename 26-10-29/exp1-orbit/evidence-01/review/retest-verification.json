@@ -1,0 +1,16 @@
+[
+  {
+    "case_id": "f40-g27",
+    "status": "PASS",
+    "raw_and_hashes": "PASS",
+    "independent_normal_and_strict_scores": "PASS",
+    "two_stable_UI": "PASS"
+  },
+  {
+    "case_id": "f64-g10",
+    "status": "PASS",
+    "raw_and_hashes": "PASS",
+    "independent_normal_and_strict_scores": "PASS",
+    "two_stable_UI": "PASS"
+  }
+]

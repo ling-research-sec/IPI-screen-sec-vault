@@ -1,0 +1,33 @@
+{
+  "case_id": "f64-g10",
+  "original_bbox": [
+    86,
+    674,
+    995,
+    1058
+  ],
+  "screen_bbox": [
+    87,
+    670,
+    1001,
+    1062
+  ],
+  "palette": [
+    [
+      0,
+      13
+    ],
+    [
+      0,
+      13
+    ],
+    [
+      0,
+      13
+    ]
+  ],
+  "stable_samples": 2,
+  "source_sha256": "cafe6076fc295442a3de5d94648be62f597fd3027c36bb4f0540bd1e57ee0daf",
+  "source_screen_sha256": "d06ad04f2b821de552374b34ff22b0291360dd17afaf7f58684f5c0b7a4ef024",
+  "second_screen_sha256": "d06ad04f2b821de552374b34ff22b0291360dd17afaf7f58684f5c0b7a4ef024"
+}

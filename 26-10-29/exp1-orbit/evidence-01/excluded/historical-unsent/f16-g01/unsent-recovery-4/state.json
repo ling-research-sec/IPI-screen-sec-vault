@@ -1,0 +1,10 @@
+{
+  "case": "f16-g01",
+  "phase": "failed",
+  "submitted": false,
+  "started_utc": "2026-10-28T13:34:39.435265+00:00",
+  "source_sha256": "8473f10207394b3658c62c11b78af3bbe211253ff88bd057ac22cc2c59a8264f",
+  "updated_utc": "2026-10-28T13:51:07.062744+00:00",
+  "error": "AssertionError('ERROR: null root node returned by UiTestAutomationBridge.\\r\\n')",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 63, in trial\n    tap(find(n,'Close Orbit'));time.sleep(1);n=dump(d/'source-overlay-dismissed.xml')\n                                               ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 17, in dump\n    out=shell('uiautomator','dump','/sdcard/orbit192-ui.xml');assert 'dumped to' in out,out\n                                                                     ^^^^^^^^^^^^^^^^^^\nAssertionError: ERROR: null root node returned by UiTestAutomationBridge.\r\n\n"
+}

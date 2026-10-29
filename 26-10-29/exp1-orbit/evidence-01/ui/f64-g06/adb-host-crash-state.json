@@ -1,0 +1,10 @@
+{
+  "case": "f64-g06",
+  "phase": "failed",
+  "submitted": false,
+  "started_utc": "2026-10-29T01:46:02.520743+00:00",
+  "source_sha256": "5c9d7e08a99a7f8a05e82e0bebb841a59517f2ada52404e0fbcde00903b9fe24",
+  "error": "CalledProcessError(3221226505, ['D:\\\\tools\\\\Andorid\\\\platform-tools\\\\adb.exe', '-s', 'emulator-5554', 'shell', 'am force-stop com.google.android.apps.photos'])",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 66, in trial\n    shell('am','force-stop','com.google.android.apps.photos')\n    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 16, in shell\n    def shell(*args):return adb('shell',' '.join(shlex.quote(str(x)) for x in args)).decode('utf-8')\n                            ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 15, in adb\n    def adb(*args):return subprocess.check_output([ADB,'-s',SERIAL,*map(str,args)],stderr=subprocess.STDOUT,timeout=45,creationflags=subprocess.CREATE_NO_WINDOW)\n                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Python314\\Lib\\subprocess.py\", line 472, in check_output\n    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,\n           ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n               **kwargs).stdout\n               ^^^^^^^^^\n  File \"C:\\Python314\\Lib\\subprocess.py\", line 577, in run\n    raise CalledProcessError(retcode, process.args,\n                             output=stdout, stderr=stderr)\nsubprocess.CalledProcessError: Command '['D:\\\\tools\\\\Andorid\\\\platform-tools\\\\adb.exe', '-s', 'emulator-5554', 'shell', 'am force-stop com.google.android.apps.photos']' returned non-zero exit status 3221226505.\n",
+  "updated_utc": "2026-10-29T01:46:12.477730+00:00"
+}

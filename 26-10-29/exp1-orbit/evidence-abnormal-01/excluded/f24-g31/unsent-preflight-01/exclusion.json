@@ -1,0 +1,6 @@
+{
+  "case_id": "f24-g31",
+  "submitted": false,
+  "reason": "新加的严格PNG像素校验不属于原协议；图库正常重采样可产生边缘扩散和峰值变化。四个现场已确认未发送、黑底五行目标图，排除为预检实现错误，保留全部证据后仅允许一次有界准备恢复。真实提交上限仍为1。",
+  "working_evidence": "D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-postrun-analysis\\retest-work\\preflight-attempt-01\\cases\\f24-g31"
+}

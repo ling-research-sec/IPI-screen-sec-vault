@@ -1,0 +1,10 @@
+{
+  "case": "f48-g11",
+  "phase": "failed",
+  "submitted": false,
+  "started_utc": "2026-10-29T03:54:59.778893+00:00",
+  "source_sha256": "ff207519f95990b7a61f1f61abd99f13d8cf31ea79107bf731afc9f903e67875",
+  "error": "AssertionError(('Expected five text lines', 7))",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-postrun-analysis\\orbit_retest_adapter.py\", line 78, in trial\n    source=EV/'source-screens'/f'{case}-source-clean.png';shot(source);verify_source(case,source,d);phase('source-ready')\n                                                                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-postrun-analysis\\orbit_retest_adapter.py\", line 191, in verify_source\n    bands=sum(on and (i==0 or not active[i-1]) for i,on in enumerate(active));assert bands==5,('Expected five text lines',bands)\n                                                                                     ^^^^^^^^\nAssertionError: ('Expected five text lines', 7)\n",
+  "updated_utc": "2026-10-29T03:55:13.512411+00:00"
+}

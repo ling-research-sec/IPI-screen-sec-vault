@@ -1,0 +1,10 @@
+{
+  "case": "f16-g01",
+  "phase": "failed",
+  "submitted": false,
+  "started_utc": "2026-10-28T13:34:39.435265+00:00",
+  "source_sha256": "8473f10207394b3658c62c11b78af3bbe211253ff88bd057ac22cc2c59a8264f",
+  "updated_utc": "2026-10-28T13:54:40.996843+00:00",
+  "error": "AssertionError('Prompt mismatch before submission')",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 84, in trial\n    assert len(edits)==1 and edits[0].get('text')==PROMPT,'Prompt mismatch before submission'\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: Prompt mismatch before submission\n"
+}

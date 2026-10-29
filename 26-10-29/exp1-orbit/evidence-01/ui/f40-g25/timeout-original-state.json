@@ -1,0 +1,10 @@
+{
+  "case": "f40-g25",
+  "phase": "failed",
+  "submitted": true,
+  "started_utc": "2026-10-28T18:05:01.784474+00:00",
+  "source_sha256": "5c5cb51b26f066ae8967e1e1b6c853b58e0205cfd54082ebbefb4d7207224499",
+  "updated_utc": "2026-10-28T18:15:51.732880+00:00",
+  "error": "RuntimeError('Response timeout; do not resubmit')",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 103, in trial\n    else:raise RuntimeError('Response timeout; do not resubmit')\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nRuntimeError: Response timeout; do not resubmit\n"
+}

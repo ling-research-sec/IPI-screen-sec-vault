@@ -1,0 +1,12 @@
+{
+  "case": "f64-g10",
+  "phase": "failed",
+  "submitted": false,
+  "started_utc": "2026-10-29T01:54:04.790623+00:00",
+  "source_sha256": "cafe6076fc295442a3de5d94648be62f597fd3027c36bb4f0540bd1e57ee0daf",
+  "error": "AssertionError('Gallery controls visible')",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 77, in trial\n    n=dump(d/'source-clean.xml');assert not any(x.get('text') for x in n),'Gallery controls visible'\n                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: Gallery controls visible\n",
+  "updated_utc": "2026-10-29T02:27:35.490740+00:00",
+  "reviewed_unsent_setup_failure": true,
+  "recovery_reason": "Repeated System UI ANR; Android guest reboot before submission"
+}

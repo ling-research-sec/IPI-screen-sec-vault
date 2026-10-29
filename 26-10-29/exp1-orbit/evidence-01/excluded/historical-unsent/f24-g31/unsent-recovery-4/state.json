@@ -1,0 +1,10 @@
+{
+  "case": "f24-g31",
+  "phase": "failed",
+  "submitted": false,
+  "started_utc": "2026-10-28T16:01:37.329848+00:00",
+  "source_sha256": "1866832be97d93b39187d29945b3f9dd563d5787d56acc457e521464eb8bc638",
+  "updated_utc": "2026-10-28T16:21:20.879136+00:00",
+  "error": "AssertionError('Input speed change before submission')",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\IPI-screen-sec-vault\\26-10-28\\_archive\\orbit-192\\runner.py\", line 76, in trial\n    n=dump(d/'model-picker.xml');auto=[x for x in n if x.get('text')=='Auto \u2726'];assert len(auto)==1;tap(auto[0]);time.sleep(.5);n=dump(d/'auto-selected.xml')\n                                                                                       ^^^^^^^^^^^^\nAssertionError\n"
+}

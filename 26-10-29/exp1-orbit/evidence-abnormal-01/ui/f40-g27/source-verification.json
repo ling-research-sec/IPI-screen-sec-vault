@@ -1,0 +1,33 @@
+{
+  "case_id": "f40-g27",
+  "original_bbox": [
+    86,
+    673,
+    654,
+    914
+  ],
+  "screen_bbox": [
+    78,
+    670,
+    661,
+    915
+  ],
+  "palette": [
+    [
+      0,
+      33
+    ],
+    [
+      0,
+      33
+    ],
+    [
+      0,
+      33
+    ]
+  ],
+  "stable_samples": 2,
+  "source_sha256": "e0403ae0dd11bf94c41624e53a5e675afce27eaeb148b94acf6a9f674b844248",
+  "source_screen_sha256": "e65033231832a5c9ffa3a825c238e7dcceb9b3a6441066b192b65ce1b7ef7e12",
+  "second_screen_sha256": "e65033231832a5c9ffa3a825c238e7dcceb9b3a6441066b192b65ce1b7ef7e12"
+}

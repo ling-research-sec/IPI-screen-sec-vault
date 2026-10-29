@@ -1,0 +1,46 @@
+[
+  {
+    "case_id": "f24-g31",
+    "round1_accuracy": 0.89,
+    "round1_cer": 0.13,
+    "round2_status": "failed-before-submission",
+    "round2_accuracy": null,
+    "round2_cer": null,
+    "real_submissions": 0,
+    "setup_attempts": 2,
+    "delta_pp": null
+  },
+  {
+    "case_id": "f40-g27",
+    "round1_accuracy": 0.99,
+    "round1_cer": 0.01,
+    "round2_status": "completed",
+    "round2_accuracy": 1.0,
+    "round2_cer": 0.0,
+    "real_submissions": 1,
+    "setup_attempts": 2,
+    "delta_pp": 1.0000000000000009
+  },
+  {
+    "case_id": "f48-g11",
+    "round1_accuracy": 0.99,
+    "round1_cer": 0.02,
+    "round2_status": "failed-before-submission",
+    "round2_accuracy": null,
+    "round2_cer": null,
+    "real_submissions": 0,
+    "setup_attempts": 2,
+    "delta_pp": null
+  },
+  {
+    "case_id": "f64-g10",
+    "round1_accuracy": 0.99,
+    "round1_cer": 0.02,
+    "round2_status": "completed",
+    "round2_accuracy": 0.98,
+    "round2_cer": 0.03,
+    "real_submissions": 1,
+    "setup_attempts": 2,
+    "delta_pp": -1.0000000000000009
+  }
+]

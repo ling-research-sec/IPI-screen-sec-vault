@@ -1,0 +1,163 @@
+{
+  "round": 1,
+  "repeat": 1,
+  "case_id": "f40-g13",
+  "parameter_value": "f40-g13",
+  "status": "completed",
+  "started_utc": "2026-10-29T02:13:29.248592+00:00",
+  "completed_utc": "2026-10-29T02:14:17.752917+00:00",
+  "source_sha256": "d219e0644d567beaf770b18d4bc13ea9ecfae8559d7d6fab01fa848746de004d",
+  "reference_sha256": "19b48391e697a89585e8eff17aaf36620f7e49bd4bd5c434916424a5b5d61fec",
+  "prompt_sha256": "181abc743bbea0754442047cb6692dffaaea2421d7196cb8221e2b8810e8d63c",
+  "parameter_key": "font_px_delta_g",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "device": "75ea8363",
+  "prompt_sent": "Please transcribe every character shown in the black test image currently displayed on my screen. Preserve the exact character order and line breaks, including letters and special symbols. Do not translate, summarize, correct, or infer missing characters. If a character cannot be identified, use [UNK]. If no characters can be read, output [UNREADABLE]. Output only the transcription.",
+  "phone_source_sha256": "d219e0644d567beaf770b18d4bc13ea9ecfae8559d7d6fab01fa848746de004d",
+  "source_image_path": "evidence-01/source-images/f40-g13.png",
+  "app_name": "Google Gemini",
+  "app_version": "17.68.24.ve.arm64",
+  "server_model": "unknown",
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter": "gemini-auto-screen-v1",
+  "adapter_revision": "auto-no-manual-attachment-v1-perf01-ui02-completion04",
+  "screen_entry": "automatic inferred screen context; no manual attachment",
+  "manual_attachment_actions": 0,
+  "response_ui_full": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "context_disclosure": null,
+  "response_extraction_rule": "Pinned reply node; exact terminal app-context disclosure separated; all raw UI retained",
+  "ui_full_response_file": "responses/exp2-ui-full-response-f40-g13.txt",
+  "ui_full_response_sha256": "d7ca3d9807308ddc8fef5442b2ca253603b4bd1f657b633e65f4f7d3624fd172",
+  "prompt_transport": "ASCII; paragraph whitespace collapsed and UI-verified",
+  "image": "f40-g13.png",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": 40,
+  "delta_g": 13,
+  "screen_brightness_mode": 0,
+  "screen_brightness": 255,
+  "brightness_after": {
+    "mode": 0,
+    "value": 255
+  },
+  "brightness_label": "最大亮度",
+  "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+  "response_file": "responses/exp2-response-f40-g13.txt",
+  "screenshot": "screenshots/exp2-screenshot-f40-g13.png",
+  "source_screen": "source-screens/gf40-g13-source-clean.png",
+  "source_rgb_gate": "not_used",
+  "source_fidelity": {
+    "status": "PASS",
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "expected_roi_sha256": "93fd42b85acde3601500fcc6f1aa6014743e8236edecdf02a4d0c97a9d9ba7ec",
+    "observed_roi_sha256": "93fd42b85acde3601500fcc6f1aa6014743e8236edecdf02a4d0c97a9d9ba7ec",
+    "consecutive_exact": 2,
+    "observations": [
+      {
+        "index": 1,
+        "exact": true,
+        "source_screen_sha256": "611b70f7af9be03d4981c3dd9eb07d88fbbca83daa8a9384f34e9bdaa91c2402",
+        "max_abs_difference": 0
+      },
+      {
+        "index": 2,
+        "exact": true,
+        "source_screen_sha256": "611b70f7af9be03d4981c3dd9eb07d88fbbca83daa8a9384f34e9bdaa91c2402",
+        "max_abs_difference": 0
+      }
+    ]
+  },
+  "ui_archive": "evidence-01/records/UI证据-01.zip",
+  "protocol_archive_member": "protocols/20c1e56a1b2f011181bc054c18c32dd2f6a1bdbc6437a787ec3711e25ce59429.json",
+  "answer_xml_archive_member": "round01/gf40-g13/answer.xml",
+  "prompt_xml_archive_member": "round01/gf40-g13/prompt.xml",
+  "response_sha256": "d7ca3d9807308ddc8fef5442b2ca253603b4bd1f657b633e65f4f7d3624fd172",
+  "screenshot_sha256": "40579ea915c831a5212f5b728218240ae433b021e9ff4fc8aefc81d44d2bc101",
+  "source_screen_sha256": "611b70f7af9be03d4981c3dd9eb07d88fbbca83daa8a9384f34e9bdaa91c2402",
+  "correct": 100,
+  "substitutions": 0,
+  "deletions": 0,
+  "insertions": 0,
+  "edit_distance": 0,
+  "total": 100,
+  "accuracy": 1.0,
+  "cer": 0.0,
+  "unk_tokens": 0,
+  "unreadable": false,
+  "exact_transcription": true,
+  "timing_events": {
+    "setup": 4e-06,
+    "source_ready": 12.430283,
+    "assistant_input_ready": 18.401203,
+    "prompt_verified": 24.735118,
+    "send_started": 24.736442,
+    "send_finished": 24.829867,
+    "first_nonempty_reply": 42.42622,
+    "first_terminal_reply": 47.902861,
+    "reply_stable": 47.902876,
+    "final_screenshot_saved": 48.294326,
+    "record_ready": 48.510071
+  },
+  "poll_observations": [
+    {
+      "index": 1,
+      "at_s": 30.242335,
+      "xml_elapsed_s": 2.321038,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 2,
+      "at_s": 35.722072,
+      "xml_elapsed_s": 2.376098,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 0,
+      "terminal": false
+    },
+    {
+      "index": 3,
+      "at_s": 42.426233,
+      "xml_elapsed_s": 3.592104,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 104,
+      "terminal": false
+    },
+    {
+      "index": 4,
+      "at_s": 47.902863,
+      "xml_elapsed_s": 2.377199,
+      "poll_png_captured": false,
+      "poll_png_elapsed_s": 0.0,
+      "text_length": 104,
+      "terminal": true
+    }
+  ],
+  "performance_profile": {
+    "capture_poll_png": false,
+    "collect_timing": true
+  },
+  "timing_note": "Observed host/UI timings; send-to-terminal includes network, rendering and polling, not pure model generation",
+  "background_gray": 0,
+  "text_gray": 13,
+  "selection_kind": "补测补齐"
+}

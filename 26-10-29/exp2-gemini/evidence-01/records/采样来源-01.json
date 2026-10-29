@@ -1,0 +1,1538 @@
+[
+  {
+    "case_id": "f48-g01",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g01.json",
+    "original_record_sha256": "5f805ce71aa94502b2bdcbe6c86ea43cc7637d0b0bf865ab55fa752d5e909a55",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:36:23.951212+00:00"
+  },
+  {
+    "case_id": "f48-g02",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g02.json",
+    "original_record_sha256": "e3c703d5b5fae330639ed411eb7ffe5973c97ceb122c64dae8c1fb782746f196",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:37:12.188549+00:00"
+  },
+  {
+    "case_id": "f48-g03",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g03.json",
+    "original_record_sha256": "f81d4919f1fb87d363088867c0162793cc563aa41d2133333448196326037c88",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:39:23.220080+00:00"
+  },
+  {
+    "case_id": "f48-g04",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g04.json",
+    "original_record_sha256": "03d6a2d813eccde74e43abec6baeb7bc82963a959195e2fe2c7488b8fd69a5f1",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:40:22.687378+00:00"
+  },
+  {
+    "case_id": "f48-g05",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g05.json",
+    "original_record_sha256": "24e5c5c1a922c83eead60956983448d11d00d88f6b9215ac114b829ba8221604",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:41:21.665446+00:00"
+  },
+  {
+    "case_id": "f48-g06",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g06.json",
+    "original_record_sha256": "5d73266769f39bfce933c7b3802bc82a04a894f9f7f631eb0d48d06afcc1cd55",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:42:14.433502+00:00"
+  },
+  {
+    "case_id": "f48-g07",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g07.json",
+    "original_record_sha256": "52a28692c6009d7d9e95bdfa6e6fa5b5b0e091f6073db801286975231b688df9",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:43:07.846626+00:00"
+  },
+  {
+    "case_id": "f48-g08",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g08.json",
+    "original_record_sha256": "435190a6cd46e7f7a7e6e767a17d7055450c7d25499082f87826e2885c250457",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:30:06.329058+00:00"
+  },
+  {
+    "case_id": "f48-g09",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g09.json",
+    "original_record_sha256": "7f99561670e4918150b7532503d07e9befd3623786ce2029c4ed9c0c58e9e7d6",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:44:02.066351+00:00"
+  },
+  {
+    "case_id": "f48-g10",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g10.json",
+    "original_record_sha256": "5685297df5488e14e3a7ccdd4282035f2e9cc12cb24703a70cd3bb1a5e5bad33",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:44:54.830638+00:00"
+  },
+  {
+    "case_id": "f48-g11",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g11.json",
+    "original_record_sha256": "2252dd1ece3c004be663b8921c6d505404fcd7cef06fc65d62ee789ad1fee96a",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:45:44.267449+00:00"
+  },
+  {
+    "case_id": "f48-g12",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g12.json",
+    "original_record_sha256": "3960d8574c7f068c841e591f51d8d66cb130e52f6516a3db4f978d8da5b562f3",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:46:38.496692+00:00"
+  },
+  {
+    "case_id": "f48-g13",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g13.json",
+    "original_record_sha256": "08c8f18bc4f0853a2601b34176d60eca375af66ce5cb1eb3cdbd48969274aa8f",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:47:37.325987+00:00"
+  },
+  {
+    "case_id": "f48-g14",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g14.json",
+    "original_record_sha256": "b9c2e046fcb26faaf5bac4c44135515e3b3034bb9f75640ade495092e2ea2cf0",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:48:26.404162+00:00"
+  },
+  {
+    "case_id": "f48-g15",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f48-g15.json",
+    "original_record_sha256": "4802a1dc6cdd478a51ce5903ca416e12a8ed0767c766dabb63173eb136af8916",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:47:28.022604+00:00"
+  },
+  {
+    "case_id": "f48-g16",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g16.json",
+    "original_record_sha256": "aa11f988792112a78f34ee9bc05a8d5cba2870320780921268ffac60e1336ab5",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:30:59.061297+00:00"
+  },
+  {
+    "case_id": "f48-g17",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g17.json",
+    "original_record_sha256": "c1457ef225dc8e25bbdd1182fc97bbb0c2e1029996f1d5d20500a72ad469c1e8",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:55:44.159078+00:00"
+  },
+  {
+    "case_id": "f48-g18",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g18.json",
+    "original_record_sha256": "11cd8b17e8298630ffd2b9d9d230c1bf0baeeb9898b11da34a16adc90349d4dc",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:56:32.653938+00:00"
+  },
+  {
+    "case_id": "f48-g19",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f48-g19.json",
+    "original_record_sha256": "4eb6f95f38ac0e341eb094517516f89bcf3a0c12672a5d428a421f1774a58a49",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:48:15.489792+00:00"
+  },
+  {
+    "case_id": "f48-g20",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g20.json",
+    "original_record_sha256": "59ee0f01333eac1fe4b2569ce52297a463d9ec44992a7296db1656095c95713a",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:02:50.943276+00:00"
+  },
+  {
+    "case_id": "f48-g21",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g21.json",
+    "original_record_sha256": "b2d6bc013f7ac68efe3e2acd18e06a8b0e98762d807f9432d4f80a35f7fc8fa1",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:03:43.697601+00:00"
+  },
+  {
+    "case_id": "f48-g22",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g22.json",
+    "original_record_sha256": "0f8945d424edd28f5d392c20d034e38b9cdd9f49c398c81c36849031a28a43ae",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:04:32.129334+00:00"
+  },
+  {
+    "case_id": "f48-g23",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g23.json",
+    "original_record_sha256": "10ca668c8294b2f8c4985cf820a0d8c72ab97f7cc599fb6e5859d30959242ea9",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:05:20.600323+00:00"
+  },
+  {
+    "case_id": "f48-g24",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g24.json",
+    "original_record_sha256": "3a55356e83377b35bf1d03f1d37445abfbe265028807be10e214e934d8e0d1fa",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:06:13.731094+00:00"
+  },
+  {
+    "case_id": "f48-g25",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g25.json",
+    "original_record_sha256": "4bfd5b47336c55949aba6b6d45c327f688415bbef480b297c8cfb978d698198f",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:07:01.968793+00:00"
+  },
+  {
+    "case_id": "f48-g26",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g26.json",
+    "original_record_sha256": "a6556b38cf3721b25967cf559c7983457d3d8e70edc9bc67f4b595aff1e78ba8",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:07:55.393343+00:00"
+  },
+  {
+    "case_id": "f48-g27",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g27.json",
+    "original_record_sha256": "f0756824015e09aa8ae488a519e7d275133c8c1b0f5121ad2b1d4d0cc67840b7",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:08:44.013905+00:00"
+  },
+  {
+    "case_id": "f48-g28",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g28.json",
+    "original_record_sha256": "ce69de249cc50ed36c3ca1f6e329a56588c07e36931edc0a12917a4ccbfee80d",
+    "origin": "original",
+    "started_utc": "2026-10-28T16:31:51.980189+00:00"
+  },
+  {
+    "case_id": "f48-g29",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g29.json",
+    "original_record_sha256": "29bc595742cf1d679a94f48f52f1b85268b29cdd252d69dbe7be6c4c8eff85a8",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:09:37.157554+00:00"
+  },
+  {
+    "case_id": "f48-g30",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g30.json",
+    "original_record_sha256": "8faedc6946328d0d5e6984f9a73b1b33bfade910d88740d6369f9475b09d01e6",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:10:26.358323+00:00"
+  },
+  {
+    "case_id": "f48-g31",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f48-g31.json",
+    "original_record_sha256": "3ecf23b96c03a10575126464f78e063cf91d84917735ccd49c07bb034e62aabe",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:49:02.467931+00:00"
+  },
+  {
+    "case_id": "f48-g32",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f48-g32.json",
+    "original_record_sha256": "f2558d8fb780ba246daf5af2e4f0276ac4dd25a38ff8f5b5164a497c316a0476",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:15:58.034584+00:00"
+  },
+  {
+    "case_id": "f16-g01",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g01.json",
+    "original_record_sha256": "89bb1cf55bae92420d5a413b37cde92b1eb50fe4abc5018ad29196a1ba654f7d",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:16:45.864109+00:00"
+  },
+  {
+    "case_id": "f16-g02",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g02.json",
+    "original_record_sha256": "110f4f1d1456cf75e8a3da9598f785c01e3cb98275f70201543dbaccc4417ca2",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:17:33.232374+00:00"
+  },
+  {
+    "case_id": "f16-g03",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g03.json",
+    "original_record_sha256": "c3b31e747e4ffe647e9ebd1af8650d72bdcfee8c4a82f8e0c104e57c630af417",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:18:27.252792+00:00"
+  },
+  {
+    "case_id": "f16-g04",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g04.json",
+    "original_record_sha256": "59689cdc2ee57162bb28f094028254aab2631ecf32a174d784721273dfa447cf",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:20:25.955546+00:00"
+  },
+  {
+    "case_id": "f16-g05",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g05.json",
+    "original_record_sha256": "19a83147eb67172b08d7b04d253265870a9d97967a8a9f47bfdee05effe07197",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:21:31.302234+00:00"
+  },
+  {
+    "case_id": "f16-g06",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g06.json",
+    "original_record_sha256": "bd910822c96bc4734f5f52d2f0893afbdc5b89cff4f5f08f502c9b68495d71e3",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:22:23.899918+00:00"
+  },
+  {
+    "case_id": "f16-g07",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g07.json",
+    "original_record_sha256": "5753f085a2a099cc5380ded1e69b4af7925a9bd110d70836e144e77401828e59",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:24:22.584224+00:00"
+  },
+  {
+    "case_id": "f16-g08",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g08.json",
+    "original_record_sha256": "a6382b07d57e187a827bb3f814da7952fb7589fe38c85041e573639fe81930a2",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:25:09.915648+00:00"
+  },
+  {
+    "case_id": "f16-g09",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g09.json",
+    "original_record_sha256": "e85da6be15842c7ad93beca3b5fdf33a18686e1eb0c028ef5ae450cd882b3851",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:26:14.870990+00:00"
+  },
+  {
+    "case_id": "f16-g10",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g10.json",
+    "original_record_sha256": "3055cc91c8105cd37108cc55577ab85d076cba80dd57aff9f1df500d497acdec",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:27:13.258764+00:00"
+  },
+  {
+    "case_id": "f16-g11",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g11.json",
+    "original_record_sha256": "e589bc1f902653d3d0fc2c726c37e7ff43b9a90ea389e8f380c3d33ffa098077",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:28:00.592322+00:00"
+  },
+  {
+    "case_id": "f16-g12",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g12.json",
+    "original_record_sha256": "a4bc1fcc4248fef8b64c2e3b8457ab71ba0f6987c3e4fbccba680e6059629694",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:28:59.946255+00:00"
+  },
+  {
+    "case_id": "f16-g13",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g13.json",
+    "original_record_sha256": "3cad838047b08f27cdec006f001b9d314f0700e25feef6d28e3cefc2d5908f3b",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:30:03.654661+00:00"
+  },
+  {
+    "case_id": "f16-g14",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g14.json",
+    "original_record_sha256": "4104c6076d540d9d396a6065bdedc7b1bd8c82b31ceb2ecf7496f2c1f65d3b44",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:30:51.056947+00:00"
+  },
+  {
+    "case_id": "f16-g15",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g15.json",
+    "original_record_sha256": "c3c6ce81b4eacdc02c9995b7dc4a0db833cce271a2029b8250d841b95675c913",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:31:45.582487+00:00"
+  },
+  {
+    "case_id": "f16-g16",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g16.json",
+    "original_record_sha256": "0099caf14d359b3d43346630ebafa5841607c102972c4dda00f05c9511cf39ca",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:32:50.102268+00:00"
+  },
+  {
+    "case_id": "f16-g17",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g17.json",
+    "original_record_sha256": "126c1dbf1a2c28c30fc25beef5df1d444e9658fc73b85248ac9e4aa1cbc0e2c5",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:33:53.779658+00:00"
+  },
+  {
+    "case_id": "f16-g18",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g18.json",
+    "original_record_sha256": "d535838f719f0f44b1e974103b4d85b3c25deff78869f1d0822e4ca11aefa2ab",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:34:46.606694+00:00"
+  },
+  {
+    "case_id": "f16-g19",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g19.json",
+    "original_record_sha256": "6ca9dfcbf9fee2a1eac653444f351bd5910d9f5c77a51d8b1dd696b765b20e8b",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:35:35.365936+00:00"
+  },
+  {
+    "case_id": "f16-g20",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g20.json",
+    "original_record_sha256": "84eb9739f8874e79a45b2b3954eeb65d9d8441d09d410d70e3506b7db4e13848",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:36:28.311723+00:00"
+  },
+  {
+    "case_id": "f16-g21",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g21.json",
+    "original_record_sha256": "c00c65c7ea14361263c76761876e90de4d55fb7b98a0a426309af23156247cfe",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:37:21.432618+00:00"
+  },
+  {
+    "case_id": "f16-g22",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g22.json",
+    "original_record_sha256": "8c555564aa15099a14c9c475af45551948be3b9402419418e5aae5d7ee8d561c",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:38:10.278279+00:00"
+  },
+  {
+    "case_id": "f16-g23",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g23.json",
+    "original_record_sha256": "6275676a2412dfbd5f20c51fdc7de8a53ad33c6df0919e6900d1b5e23b5d949a",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:39:04.470937+00:00"
+  },
+  {
+    "case_id": "f16-g24",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g24.json",
+    "original_record_sha256": "e9ed5988515001b789d6585dd59db135fe6d6c1be4b664b207322f33314381bc",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:39:57.336164+00:00"
+  },
+  {
+    "case_id": "f16-g25",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g25.json",
+    "original_record_sha256": "e3f1252ea67427fc7c0d3d5f90a8f6ca2c4087fa1849bf7e6aafa15316c7371e",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:40:45.624541+00:00"
+  },
+  {
+    "case_id": "f16-g26",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g26.json",
+    "original_record_sha256": "03a90aeb15fe3daf3044b2a0382109f7a97eabc47173923df7d965fc19c8b877",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:41:33.701006+00:00"
+  },
+  {
+    "case_id": "f16-g27",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g27.json",
+    "original_record_sha256": "66aa6c79c33378b10e0125590c5db4423bfd858bcb12d6a2738bb70d6346239e",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:42:22.233804+00:00"
+  },
+  {
+    "case_id": "f16-g28",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g28.json",
+    "original_record_sha256": "dc798f0f891f68dfef242e1ef386fe3d6f30614b1b6c5d7ec0dcb732ed1cb012",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:43:10.045427+00:00"
+  },
+  {
+    "case_id": "f16-g29",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g29.json",
+    "original_record_sha256": "c7f121b811b473c4e105055f7cea7754092ee8a96a98a8144ff8bf4f5d883c30",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:44:16.148707+00:00"
+  },
+  {
+    "case_id": "f16-g30",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g30.json",
+    "original_record_sha256": "787ea91d4fbccde716249ae7e163407e8f43516e462246147749da55acef679c",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:45:04.320503+00:00"
+  },
+  {
+    "case_id": "f16-g31",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g31.json",
+    "original_record_sha256": "f6e2ed30a230abfd8a53587193c5143297d41cd7113f49e44ea57a1bee8a6472",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:45:58.744710+00:00"
+  },
+  {
+    "case_id": "f16-g32",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f16-g32.json",
+    "original_record_sha256": "469554ea313a9eb5465998161f4c9a8a63edb4a0e9656527e893ccb3f598946c",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:46:52.488672+00:00"
+  },
+  {
+    "case_id": "f24-g01",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g01.json",
+    "original_record_sha256": "37505cf1646e9bd6698b3e85cda43cfed1db96a79c1168c97c8a445ff36fb248",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:47:46.038625+00:00"
+  },
+  {
+    "case_id": "f24-g02",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g02.json",
+    "original_record_sha256": "7ff02285ad845c9e85d4f8bc5c775b31011466c83e285c0fe7a43e881c81c66d",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:48:33.152296+00:00"
+  },
+  {
+    "case_id": "f24-g03",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g03.json",
+    "original_record_sha256": "e6255fe9f7d237f76fd79360913d0a55261de0a9d6ef4de341122b5ac03f14ac",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:49:25.981965+00:00"
+  },
+  {
+    "case_id": "f24-g04",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g04.json",
+    "original_record_sha256": "9e41d7980b6c768e0b97e38e43bf9dfef392f964dec2b7c9d3e8e34cb284d8f6",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:50:18.671107+00:00"
+  },
+  {
+    "case_id": "f24-g05",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g05.json",
+    "original_record_sha256": "40bf312b63389d10ac16e9c8938f8f6460b66889291a9eab768a16d80028f1a1",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:51:44.504846+00:00"
+  },
+  {
+    "case_id": "f24-g06",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g06.json",
+    "original_record_sha256": "46a61b2cd6b0876fc420ca488d8162adc5fd179cf5d290282874fa76ca2fed95",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:52:43.189645+00:00"
+  },
+  {
+    "case_id": "f24-g07",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g07.json",
+    "original_record_sha256": "ef2e3efd06fe1e203cad504ab084b497a6045650984a80740eb1890ceb3fc2a2",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:53:37.978653+00:00"
+  },
+  {
+    "case_id": "f24-g08",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g08.json",
+    "original_record_sha256": "a21ef3023e81144ee688b707738eba3178174daf7d121dd7f2f9e1db300dfd76",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:54:26.311974+00:00"
+  },
+  {
+    "case_id": "f24-g09",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g09.json",
+    "original_record_sha256": "35556e62fa8aab49576fde0a8aced21c573901e974bd967ea67c25d46cfec0b7",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:55:13.634069+00:00"
+  },
+  {
+    "case_id": "f24-g10",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g10.json",
+    "original_record_sha256": "1c3e052346338dfc65f2dd10c627563af579bab2c9fd8620723413e865842cbc",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:56:06.751004+00:00"
+  },
+  {
+    "case_id": "f24-g11",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g11.json",
+    "original_record_sha256": "da312dfbbc14f5ab7904198a14a4be94852c78d7c7ac57e863a4fdbcb734f148",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:56:59.748952+00:00"
+  },
+  {
+    "case_id": "f24-g12",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g12.json",
+    "original_record_sha256": "61425fa2c0a3bc99df1b7308ed0353789f7c08a2de54a2571c002460f9ae176d",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:57:53.500297+00:00"
+  },
+  {
+    "case_id": "f24-g13",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g13.json",
+    "original_record_sha256": "a977b6160e8bbfa34455c2601f95b7d276a6b74da3b369aef5dbff9f78dd3e85",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:58:47.434160+00:00"
+  },
+  {
+    "case_id": "f24-g14",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g14.json",
+    "original_record_sha256": "2e8c12065b1b7a3021cd246536f57ae21c051bad98f6906eb621b3e0ef69f9b0",
+    "origin": "original",
+    "started_utc": "2026-10-28T17:59:35.994154+00:00"
+  },
+  {
+    "case_id": "f24-g15",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g15.json",
+    "original_record_sha256": "40c310a2b7226dc5d2b7253cc4cd969741f6e44b2bb4b4c1460f6302a7f13b70",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:00:24.501502+00:00"
+  },
+  {
+    "case_id": "f24-g16",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g16.json",
+    "original_record_sha256": "c6869eed084ba42151cc6fc5489e9434043fda9f66a5f39cf1b3930977d1cd9d",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:01:12.602641+00:00"
+  },
+  {
+    "case_id": "f24-g17",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g17.json",
+    "original_record_sha256": "adb185eaeb1ed7f69bb5c0a1d668ce20d887eb4b4119594df040cd8a96bfd90a",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:02:05.385696+00:00"
+  },
+  {
+    "case_id": "f24-g18",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g18.json",
+    "original_record_sha256": "77f3bffb9fe3a51b768d4159ab8769cbdcb82b61cbeebab985689192abd19a4c",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:02:52.677482+00:00"
+  },
+  {
+    "case_id": "f24-g19",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g19.json",
+    "original_record_sha256": "94607e3c1dce7fbe38c940810b33e64d280231b7b6ede885114319dc8f90dd84",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:03:40.033608+00:00"
+  },
+  {
+    "case_id": "f24-g20",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g20.json",
+    "original_record_sha256": "092c993406fe38a6b029976651ab548182df787b701b4bdcfc231bef6fefca65",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:04:32.779090+00:00"
+  },
+  {
+    "case_id": "f24-g21",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g21.json",
+    "original_record_sha256": "d0b420e0ba6e74a0e11d9deff3a31a0807ad505d7358b455697cddcac64e2a97",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:05:25.610625+00:00"
+  },
+  {
+    "case_id": "f24-g22",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g22.json",
+    "original_record_sha256": "efd265c65cadae50948b9543edd8980de5fa7a39450ef673d769b2c2fd1e6787",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:06:15.161848+00:00"
+  },
+  {
+    "case_id": "f24-g23",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g23.json",
+    "original_record_sha256": "d317e76ac1d6bf63e660c0eb9f0f0a152308cf1aa0ef82dd74f7bb3b1df7b68f",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:07:07.929098+00:00"
+  },
+  {
+    "case_id": "f24-g24",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g24.json",
+    "original_record_sha256": "589acfe57d4c654b51eb84d46c96e24ba77d5b339479d08bdda550ef8693affa",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:07:55.177726+00:00"
+  },
+  {
+    "case_id": "f24-g25",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g25.json",
+    "original_record_sha256": "1793c3655a283e8b639ac3cd14a769b227684fef9f4e1107a3782adfe6a7dec9",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:08:42.452356+00:00"
+  },
+  {
+    "case_id": "f24-g26",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g26.json",
+    "original_record_sha256": "927fb650d3cc0a5384aafa04a4b01c7a014e9cc000c129cc284e4a31879f54b2",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:09:35.382912+00:00"
+  },
+  {
+    "case_id": "f24-g27",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g27.json",
+    "original_record_sha256": "218c42a4daed26ef734eccf41b43a7be73fd6c9a7937d4dd9fe5ce0657d598db",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:10:24.262847+00:00"
+  },
+  {
+    "case_id": "f24-g28",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g28.json",
+    "original_record_sha256": "35936c0cc640d1cfd355f294e5a0fddf3234227a32122066d7ede3dc56e83865",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:11:17.893844+00:00"
+  },
+  {
+    "case_id": "f24-g29",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g29.json",
+    "original_record_sha256": "50f9fdaadb3b36d3260a6dc643220e53ab1e379d6513f19fe852a8c00f03112f",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:12:10.783830+00:00"
+  },
+  {
+    "case_id": "f24-g30",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g30.json",
+    "original_record_sha256": "6196007fda353a554b6fd7c5c2bd230d6f2acabcf92b009c808e96c9e58d9b14",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:12:59.699544+00:00"
+  },
+  {
+    "case_id": "f24-g31",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g31.json",
+    "original_record_sha256": "f408bd8a5923c05f576bb2a670e8f3e708e41aded2f5a1db87f3b28f70c6db95",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:13:53.096146+00:00"
+  },
+  {
+    "case_id": "f24-g32",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f24-g32.json",
+    "original_record_sha256": "5dc8232b3e5673998259688eb7a2c0f75f42bc1b03514418307d756cb33a4681",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:14:35.408122+00:00"
+  },
+  {
+    "case_id": "f32-g01",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g01.json",
+    "original_record_sha256": "6dc0e739644562fd4407e9be5b16f0578252a950eafcce794609c70a7871f5d5",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:15:30.046904+00:00"
+  },
+  {
+    "case_id": "f32-g02",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g02.json",
+    "original_record_sha256": "0d0a49a40efaa34c49bbb7963bffd792a217fdb6d0f289caa3c6d74e045fa681",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:16:23.301181+00:00"
+  },
+  {
+    "case_id": "f32-g03",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g03.json",
+    "original_record_sha256": "6c5e7096f79a4affa4be0972e373958497ae90c330cb3e0386469e3b72fb0f7f",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:17:17.182563+00:00"
+  },
+  {
+    "case_id": "f32-g04",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g04.json",
+    "original_record_sha256": "3d50c59865e2ab2e17af437bb19acaa82638062dc332298187f76f0e4bfdf6e7",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:20:10.952497+00:00"
+  },
+  {
+    "case_id": "f32-g05",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g05.json",
+    "original_record_sha256": "15dbf70177febca4037bb6366fd67fb8512ec14ebbaf99ccd7016326939cbbc0",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:21:03.758280+00:00"
+  },
+  {
+    "case_id": "f32-g06",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g06.json",
+    "original_record_sha256": "56ca606fb22100abb85354b26c300d71a7076201c4e63ad22408fb996ff3727c",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:22:02.369417+00:00"
+  },
+  {
+    "case_id": "f32-g07",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g07.json",
+    "original_record_sha256": "d38b23085df4cca69f5fb19e2b576ce09426fc78d73a9f7d6aa79c3a506f04ae",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:22:49.456244+00:00"
+  },
+  {
+    "case_id": "f32-g08",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g08.json",
+    "original_record_sha256": "4ecfbac6003390be848c70717adf5503ae4fb32957cb3dce8d54fc508033610e",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:23:38.546323+00:00"
+  },
+  {
+    "case_id": "f32-g09",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g09.json",
+    "original_record_sha256": "1220689595d9b77424e4560d646355bfbcbc679154301bf4f04960fd8740f961",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:24:32.510232+00:00"
+  },
+  {
+    "case_id": "f32-g10",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g10.json",
+    "original_record_sha256": "00b09eb3fb4e31c2912a8895a55be2570c74b40d753e2389e2de5379705abff9",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:25:21.388029+00:00"
+  },
+  {
+    "case_id": "f32-g11",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g11.json",
+    "original_record_sha256": "5ce29acf1caf68c73ae021c96049ef7efbdfc844af5948879ded7384e5d5ad12",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:26:09.335985+00:00"
+  },
+  {
+    "case_id": "f32-g12",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g12.json",
+    "original_record_sha256": "b01aee6c633f6a4abee83ee07e9ccc3a5777bb0cc24bfe91b280d73dd2f165fb",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:26:58.313790+00:00"
+  },
+  {
+    "case_id": "f32-g13",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f32-g13.json",
+    "original_record_sha256": "dc0b4b61815a74771a5943bf3e9c3f12a9264d4aab7fe25d35f4a64efe637723",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:49:51.031292+00:00"
+  },
+  {
+    "case_id": "f32-g14",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g14.json",
+    "original_record_sha256": "a24f073bdd7195e5ed9a27feafc3073796e683e9ff61ef7e1d4fadd9bc6ea1bd",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:34:25.990929+00:00"
+  },
+  {
+    "case_id": "f32-g15",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g15.json",
+    "original_record_sha256": "d7916dd2a62724f5ef541322fb756adf1197c16b2284d32e218b13c36138f90b",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:35:35.284012+00:00"
+  },
+  {
+    "case_id": "f32-g16",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g16.json",
+    "original_record_sha256": "3c77db8487759af856a0f58b90657e4b21199df8bf2f150c6a2091de393504a4",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:36:33.671087+00:00"
+  },
+  {
+    "case_id": "f32-g17",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g17.json",
+    "original_record_sha256": "80bf7b95dac33442d59410fa85b2d4a75f96c09cb66c64f458d665e4548f3c1f",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:37:27.500906+00:00"
+  },
+  {
+    "case_id": "f32-g18",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g18.json",
+    "original_record_sha256": "d197a710515f51aac07b091778ca0b453a741c850a96cb5decdfa508d5caac44",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:38:15.354855+00:00"
+  },
+  {
+    "case_id": "f32-g19",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g19.json",
+    "original_record_sha256": "97a4f06a902d014d272937f5077446773f9375433eff32901238a08f4b289f73",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:39:03.847705+00:00"
+  },
+  {
+    "case_id": "f32-g20",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g20.json",
+    "original_record_sha256": "c0a7bfa6fe1ba79fefa263d51441766e478ab0ae9bcb42fb05928a1a7e0da14e",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:39:56.381750+00:00"
+  },
+  {
+    "case_id": "f32-g21",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g21.json",
+    "original_record_sha256": "58fbb489b23344723c8800a666ef449dcee6adaa598fb6936a48a2d0a90f8979",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:40:43.615522+00:00"
+  },
+  {
+    "case_id": "f32-g22",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g22.json",
+    "original_record_sha256": "8ac6131f4540dcc875450532dc31aa884b460ee0ea6d5181933dba47b3099f3e",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:41:42.816174+00:00"
+  },
+  {
+    "case_id": "f32-g23",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g23.json",
+    "original_record_sha256": "1c71933aadda01edcded8a6fe38bd47e9c0c8a30d0ef79a57ac23f1a7b80f344",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:42:30.286454+00:00"
+  },
+  {
+    "case_id": "f32-g24",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g24.json",
+    "original_record_sha256": "a77e560568540f2cbf4127a4febbd3096dcdb1dc0be52c476c66e47fedfbd81a",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:43:18.405528+00:00"
+  },
+  {
+    "case_id": "f32-g25",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g25.json",
+    "original_record_sha256": "8ca6ca18cbd64d878000cd8841f59922740fb02980141d117921469933a455b3",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:44:12.003636+00:00"
+  },
+  {
+    "case_id": "f32-g26",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g26.json",
+    "original_record_sha256": "aff1f0eee6bbe8ce60edfb3a83bdf53daa2c7787f038f4a0e775b6fe3a18ab1b",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:45:00.352779+00:00"
+  },
+  {
+    "case_id": "f32-g27",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g27.json",
+    "original_record_sha256": "cef9f634584c601532c8ec6eca7fd93124b929581bb3b57dc484b4eadf093dd7",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:45:48.160151+00:00"
+  },
+  {
+    "case_id": "f32-g28",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f32-g28.json",
+    "original_record_sha256": "28c0f46c707fcaa88002b38744feea777660926de265f04991fc5b24f8b7f361",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:50:43.925130+00:00"
+  },
+  {
+    "case_id": "f32-g29",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g29.json",
+    "original_record_sha256": "4dd4b4a93702a680ac19743c99a52bf3f4142e91937e795dcef90474fb655f0f",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:52:08.020026+00:00"
+  },
+  {
+    "case_id": "f32-g30",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g30.json",
+    "original_record_sha256": "20edf27549aa3279481451720fb3b06a70d29197f8ade3811592e693b11c5f3d",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:52:55.572877+00:00"
+  },
+  {
+    "case_id": "f32-g31",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g31.json",
+    "original_record_sha256": "f7f2537227c6622855505e8f7b50e3bbd47d172db07e5959db5aeed2046a95db",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:53:48.453529+00:00"
+  },
+  {
+    "case_id": "f32-g32",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f32-g32.json",
+    "original_record_sha256": "fc53a62c5d19b5ed50929c66cf636cb43788a0db68e9506e40aa2c9da844b272",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:54:36.003812+00:00"
+  },
+  {
+    "case_id": "f40-g01",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g01.json",
+    "original_record_sha256": "a2e9314d644a91c6d47be0712410d5f111ed95b91f9a4780deb2edba9701f509",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:55:24.628548+00:00"
+  },
+  {
+    "case_id": "f40-g02",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g02.json",
+    "original_record_sha256": "9131db1b1eaa89e2bc71112866defd2f9a4f4789993893f2839bb9c221bc86ef",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:56:11.886102+00:00"
+  },
+  {
+    "case_id": "f40-g03",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g03.json",
+    "original_record_sha256": "8ad6bdc62fbdf64cddc6f473ca27370cbccdd9948f5c892be7b1438b6f86eee2",
+    "origin": "original",
+    "started_utc": "2026-10-28T18:58:22.240682+00:00"
+  },
+  {
+    "case_id": "f40-g04",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g04.json",
+    "original_record_sha256": "3c281900913544127c8e150b4567e1f5a9b08de4273b524a9ce6786bdb89a0fd",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:00:31.960176+00:00"
+  },
+  {
+    "case_id": "f40-g05",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g05.json",
+    "original_record_sha256": "e27e955b72ad9362a4bd4c80e982da463df7389656f71126e6c2a02ce08d894b",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:01:19.275131+00:00"
+  },
+  {
+    "case_id": "f40-g06",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g06.json",
+    "original_record_sha256": "24711152b45f45679f4548ecc85798a2afdd62d7c638c3a82553a809ca3baa52",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:02:12.152702+00:00"
+  },
+  {
+    "case_id": "f40-g07",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g07.json",
+    "original_record_sha256": "0fe9dba90e5ee3103d1453abeeb2000e9cd31e94e69d25d7adac5fd30b260d7c",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:03:05.288084+00:00"
+  },
+  {
+    "case_id": "f40-g08",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f40-g08.json",
+    "original_record_sha256": "9810dcc675113f65b024821008875fa52b3b12731c5ad24c2909205fe0667c16",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:51:32.589889+00:00"
+  },
+  {
+    "case_id": "f40-g09",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g09.json",
+    "original_record_sha256": "5955ac777ba25e23a23412262681ab5d8ac891789df4d53ad68ed85611aa9022",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:09:30.785150+00:00"
+  },
+  {
+    "case_id": "f40-g10",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g10.json",
+    "original_record_sha256": "03480d6c6bec534ebd9363104370b61a06192aeddcbb9c3656230ad345d9553b",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:10:23.647700+00:00"
+  },
+  {
+    "case_id": "f40-g11",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g11.json",
+    "original_record_sha256": "52a63135c95cca8ba637ec95accf12e90c98cde0147bd0b40abb677b65ed1df1",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:11:12.275133+00:00"
+  },
+  {
+    "case_id": "f40-g12",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g12.json",
+    "original_record_sha256": "ba4239813f6b33c07fc5849c3b02a8d749af69d16d42df83e2c5d84b1af00920",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:12:01.246476+00:00"
+  },
+  {
+    "case_id": "f40-g13",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f40-g13.json",
+    "original_record_sha256": "3178328be4b13d07ce8336cd5c5428916e4378a9e95dbb6df1be1e31984607f3",
+    "origin": "retest-last",
+    "started_utc": "2026-10-29T02:13:29.248592+00:00"
+  },
+  {
+    "case_id": "f40-g14",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g14.json",
+    "original_record_sha256": "fe3fe4c77e21677c910ec7d8cfc6eec7c8b0d5200f716a4fc554cf044fca08bf",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:18:22.927441+00:00"
+  },
+  {
+    "case_id": "f40-g15",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g15.json",
+    "original_record_sha256": "4e4cb0946981393d9aaad28e48e03416444801c73c071b0e09596d789aea9a73",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:19:16.843399+00:00"
+  },
+  {
+    "case_id": "f40-g16",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g16.json",
+    "original_record_sha256": "6ef12e93173e38eb751711cfc0a7d2bd1b5b1269094f8a545a5606880c3b6ebc",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:20:04.607132+00:00"
+  },
+  {
+    "case_id": "f40-g17",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g17.json",
+    "original_record_sha256": "634fda5b0e9f5620a57f17097e9ab0064ef08e4d922fb64eca208c4f821cf33b",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:20:52.113647+00:00"
+  },
+  {
+    "case_id": "f40-g18",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g18.json",
+    "original_record_sha256": "e538170adc56dd82cd6cc2cc0865d68f9cd148f29c40b5ba84d0589824e3d62d",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:21:40.004971+00:00"
+  },
+  {
+    "case_id": "f40-g19",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g19.json",
+    "original_record_sha256": "7e9e5f10bf339ea5aa4fb40c2e36f450d09ae0b599402ee048b19a93147d85d7",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:22:32.722554+00:00"
+  },
+  {
+    "case_id": "f40-g20",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g20.json",
+    "original_record_sha256": "7b4becaef7ea71bffa07dcf9abe95313c06ed5a93cb4a5f5b7d2052f5e4b86e9",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:23:21.437317+00:00"
+  },
+  {
+    "case_id": "f40-g21",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g21.json",
+    "original_record_sha256": "cc7abe5335c39d1695c650d83ecb9f9115f34434c4a92b018fb978fed6bac1f3",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:24:15.843994+00:00"
+  },
+  {
+    "case_id": "f40-g22",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g22.json",
+    "original_record_sha256": "ae159acd1166ac61782e04e334e64205a0e8d403f2bc43dac7a5e5b518594847",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:25:15.374828+00:00"
+  },
+  {
+    "case_id": "f40-g23",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g23.json",
+    "original_record_sha256": "d2d425b995d3636c4dd27f53ad2dbb6274385fc283d81a47d7c0d968319d42fd",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:26:03.175014+00:00"
+  },
+  {
+    "case_id": "f40-g24",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g24.json",
+    "original_record_sha256": "64b3a11dfd9443ccdb27e832229b65edecb226d4fd57adb42bda4b5ccb3cbc69",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:26:52.701792+00:00"
+  },
+  {
+    "case_id": "f40-g25",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g25.json",
+    "original_record_sha256": "c103d046d504c5a14074a7a92e799f7a798cddb8f67cd238301ce18592b1c10e",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:27:41.251117+00:00"
+  },
+  {
+    "case_id": "f40-g26",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g26.json",
+    "original_record_sha256": "0e7b4e9aca4a3a4cff1dd28aa1bf5047d3b07f07cc2af4f43811dfdfce5b23a5",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:28:30.479340+00:00"
+  },
+  {
+    "case_id": "f40-g27",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g27.json",
+    "original_record_sha256": "b0f3395078491f63944c092bf09213eb42374002cef30dbe3224177bf6d4a1c2",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:29:28.716467+00:00"
+  },
+  {
+    "case_id": "f40-g28",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g28.json",
+    "original_record_sha256": "a10b141825a934ed30cd5ace0aaca0c55881335e781cdf083d8e1820b8efd0d3",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:30:17.984422+00:00"
+  },
+  {
+    "case_id": "f40-g29",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f40-g29.json",
+    "original_record_sha256": "0f8df332537b5d4c241aac5b4230a8be3ff6ba1002e1f650b74b278fa8d6873e",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:58:01.390547+00:00"
+  },
+  {
+    "case_id": "f40-g30",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g30.json",
+    "original_record_sha256": "de77411a67706e751c559224c3453c848e389be75b2800865760bae7387b1699",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:36:39.623721+00:00"
+  },
+  {
+    "case_id": "f40-g31",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g31.json",
+    "original_record_sha256": "ddee38535d2995ef73e3a28acf0c0ef372c4b22ce20e6964d83afde881df4336",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:37:27.399077+00:00"
+  },
+  {
+    "case_id": "f40-g32",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f40-g32.json",
+    "original_record_sha256": "f6683e327c78ce759b015eea41c9870b463cdeef5aa8a91cfec884786ef86d62",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:38:15.441597+00:00"
+  },
+  {
+    "case_id": "f64-g01",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g01.json",
+    "original_record_sha256": "5d9a4f73878efcb3792030d24d78b5f57ed6e4e5bb7e5b0800d2380dbe1fad32",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:39:03.525666+00:00"
+  },
+  {
+    "case_id": "f64-g02",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g02.json",
+    "original_record_sha256": "e1917e7c89b939dbc295adf74b94020af370100c6e0c8a66d60c308fda6f327c",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:39:51.086429+00:00"
+  },
+  {
+    "case_id": "f64-g03",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g03.json",
+    "original_record_sha256": "dccfa835ab6e83ed892a15d9d384e37a8d2cc9fc48f89bd3cd22956dd013b8d9",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:41:05.644983+00:00"
+  },
+  {
+    "case_id": "f64-g04",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g04.json",
+    "original_record_sha256": "6ed756bfd26445e995c784c638c048008a7efe47a79e37aafe5bf8594b868d17",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:41:58.405918+00:00"
+  },
+  {
+    "case_id": "f64-g05",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g05.json",
+    "original_record_sha256": "48bfa1f923cdaf61456ca3161399fabfbd2a8cab04185637e01be8a049a39ba7",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:42:51.358294+00:00"
+  },
+  {
+    "case_id": "f64-g06",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g06.json",
+    "original_record_sha256": "e948e3edb928859f3dcb01fa46b3c973b3d2a631457cd0bbdf7b72101d5ee419",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:43:39.174053+00:00"
+  },
+  {
+    "case_id": "f64-g07",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f64-g07.json",
+    "original_record_sha256": "cc5d86663a6f470cb20e8429ffa1ea6f42bd5db2978afde6815336258e7fdb4e",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:58:54.094219+00:00"
+  },
+  {
+    "case_id": "f64-g08",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g08.json",
+    "original_record_sha256": "3fd5613a115dd9a89b12cdf3c5002b363e2265f14f6c00cdf3e1f3dc37c0446d",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:50:06.390105+00:00"
+  },
+  {
+    "case_id": "f64-g09",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g09.json",
+    "original_record_sha256": "2ecad3f0806b9f7eff55b1a94e9a3a667e4fddccea88bcbe50c7d23212f139e3",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:50:53.572797+00:00"
+  },
+  {
+    "case_id": "f64-g10",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g10.json",
+    "original_record_sha256": "11cffd6a4f7c3fb7725dbb10c76ba53bdb016633f3051eb1496807c3f55f062b",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:51:46.968633+00:00"
+  },
+  {
+    "case_id": "f64-g11",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g11.json",
+    "original_record_sha256": "e281873bc22e5598dac66be39c280afad2e209bda0106be02226c88df00dfe92",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:52:35.421468+00:00"
+  },
+  {
+    "case_id": "f64-g12",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g12.json",
+    "original_record_sha256": "43a1058aac9b4f07b75f2251ead95a9d2088bf4a41660806364e6b92d549ad31",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:53:22.865503+00:00"
+  },
+  {
+    "case_id": "f64-g13",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g13.json",
+    "original_record_sha256": "069b18832bc005ac42e85c20e268f152cb4ae2473684bd7854e434e9f00eecb1",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:54:12.949100+00:00"
+  },
+  {
+    "case_id": "f64-g14",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g14.json",
+    "original_record_sha256": "6ea75f4d7830a250e6b752f2b9d726607619c361f6a8bf82a052fb13f94ca6ea",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:55:06.009985+00:00"
+  },
+  {
+    "case_id": "f64-g15",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g15.json",
+    "original_record_sha256": "59d11e6389ccb24f061d911042ff215cb401bfcd572185b473f4fe6f6bf5f748",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:55:55.141087+00:00"
+  },
+  {
+    "case_id": "f64-g16",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g16.json",
+    "original_record_sha256": "37ae86086c5ca0bf10edcf010bf352ba9f31bba61a4a6a7f4500878e192d5bbd",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:56:43.568182+00:00"
+  },
+  {
+    "case_id": "f64-g17",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g17.json",
+    "original_record_sha256": "60d6fd75d7d53ec9074e3f5db8bf2940fa5c8d3e3e762082a5bb4099518f9769",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:57:33.022628+00:00"
+  },
+  {
+    "case_id": "f64-g18",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g18.json",
+    "original_record_sha256": "53d37d265f73676ebe6888b8c9a48bb717bcc7fb166f1c2cc7c28706eab95b06",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:58:36.860575+00:00"
+  },
+  {
+    "case_id": "f64-g19",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g19.json",
+    "original_record_sha256": "c6983e47b150f1bf7b7770e7bb95ce275d1e9e81c55b996c68aa5fb30e30a4f2",
+    "origin": "original",
+    "started_utc": "2026-10-28T19:59:25.473061+00:00"
+  },
+  {
+    "case_id": "f64-g20",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g20.json",
+    "original_record_sha256": "58b016081a2493bdfb669ee3564d20c93d2e92481464770a4d1336d26aed81f6",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:00:18.681518+00:00"
+  },
+  {
+    "case_id": "f64-g21",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g21.json",
+    "original_record_sha256": "12d00f2b27594e16c7ea228b4690deb27ba29463ee7761c2a12004e0823db664",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:01:07.430272+00:00"
+  },
+  {
+    "case_id": "f64-g22",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g22.json",
+    "original_record_sha256": "071dfa2b06cc1b056a972fc96857ddb51dc33297d1e7426f2cf3e07cd15d0eaa",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:02:01.660174+00:00"
+  },
+  {
+    "case_id": "f64-g23",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f64-g23.json",
+    "original_record_sha256": "a9fa58174de94e87587470bde2dee1d2bd64b7795bb059940ca93cba6e4f5e1b",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T01:59:43.137314+00:00"
+  },
+  {
+    "case_id": "f64-g24",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g24.json",
+    "original_record_sha256": "d8131cd7d7a0b815493f25d85bd054a6322c69fafc75e60de4882265482e5bc0",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:08:25.090219+00:00"
+  },
+  {
+    "case_id": "f64-g25",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g25.json",
+    "original_record_sha256": "71d22331dc688e6f1d1a5182c1ba8adb905af5a99cc7b57b616871052cd7140c",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:09:12.825568+00:00"
+  },
+  {
+    "case_id": "f64-g26",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g26.json",
+    "original_record_sha256": "fcc8c877d3a52750b2a95a942ebb81787227016fa6d2ef39789d7db09999e901",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:10:01.547007+00:00"
+  },
+  {
+    "case_id": "f64-g27",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g27.json",
+    "original_record_sha256": "1ef1233b6345b8ebc7db0cdbc177f1e14efbeab40eba4d1ec647b592dae97a66",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:10:49.812911+00:00"
+  },
+  {
+    "case_id": "f64-g28",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g28.json",
+    "original_record_sha256": "f314b71d8dc76df8d2084c9cf3c22056e71db30c0929182e42016037f086fdc9",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:11:37.037126+00:00"
+  },
+  {
+    "case_id": "f64-g29",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g29.json",
+    "original_record_sha256": "d9c70e939375130d1cb87bcc44b32e20b72015b107a324306090f95f887e1b92",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:12:26.094909+00:00"
+  },
+  {
+    "case_id": "f64-g30",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g30.json",
+    "original_record_sha256": "bbda2001ccd7dff46fd8de2e87ba09a3381588a96255bb90794aa654837995ea",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:13:18.885075+00:00"
+  },
+  {
+    "case_id": "f64-g31",
+    "kind": "补测补齐",
+    "original_record_member": "source-records/f64-g31.json",
+    "original_record_sha256": "ccb403c298fab8c8928a1c78a279ff26c370fc12e3826fb222ddea8553f73a26",
+    "origin": "retest11",
+    "started_utc": "2026-10-29T02:00:30.524304+00:00"
+  },
+  {
+    "case_id": "f64-g32",
+    "kind": "首次有效",
+    "original_record_member": "source-records/f64-g32.json",
+    "original_record_sha256": "62ed26b048fff0681938052977cadfff159eb8be2ff5cdd7653fa6617fd97ad9",
+    "origin": "original",
+    "started_utc": "2026-10-28T20:19:39.495758+00:00"
+  }
+]

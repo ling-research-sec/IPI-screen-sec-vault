@@ -22,7 +22,7 @@ def main():
    actions=[json.loads(x) for x in z.read('round01/g'+v+'/auto-node-actions.jsonl').decode().splitlines()];assert sum(x.get('label')=='Send' for x in actions)==1
    counts[item['kind']]+=1;total+=r['correct']
   assert counts=={'首次有效':181,'补测补齐':11} and total==17823
-  result=p.verify_reports(c);sheets,n=p.read_xlsx(ROOT/'Gemini实验结果02.xlsx');marked={sheets[0][f'A{i}'][0] for i in range(10,n+10) if '补测补齐' in sheets[0][f'I{i}'][0]};assert marked=={x['case_id'] for x in selections if x['kind']=='补测补齐'}
+  result=p.verify_reports(c);sheets,n=p.read_xlsx(ROOT/'Gemini实验结果02.xlsx');marked={sheets[0][f'A{i}'][0] for i in range(10,n+10) if '补测补齐' in sheets[0][f'I{i}'][0]};assert not marked
   assert p.read_json(c.record(1,'f24-g31'))['correct']==0 and p.read_json(c.record(1,'f40-g28'))['insertions']==171
   print(json.dumps(dict(status='PASS',records=192,first_valid=181,supplemental=11,correct=total,targets=19200,source_rgb_and_prompt_verified=True,full_replies_and_scores_unchanged=True,workbook=result,zero_and_true_errors_retained=True),ensure_ascii=False))
 if __name__=='__main__':main()

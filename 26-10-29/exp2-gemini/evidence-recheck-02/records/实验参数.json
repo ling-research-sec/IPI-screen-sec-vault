@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "title": "Gemini高灰度离群条件独立复测",
+  "date": "2026-10-29",
+  "experiment_dir": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-29/gemini-outlier-recheck",
+  "reference_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-29/gemini-outlier-recheck/evidence-01/records/参考字符.txt",
+  "prompt_file": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-29/gemini-outlier-recheck/evidence-01/records/Prompt.txt",
+  "image_pattern": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-10-29/gemini-outlier-recheck/evidence-01/source-images/{value}.png",
+  "phone_image_pattern": "/sdcard/Pictures/gemini-outlier-recheck-20261029/{value}.png",
+  "artifact_stem": "outlier",
+  "parameter_key": "font_px_delta_g",
+  "parameter_label": "条件ID",
+  "values": [
+    "f24-g31",
+    "f40-g31"
+  ],
+  "rounds": [
+    1
+  ],
+  "serial": "75ea8363",
+  "adapter": "gemini-auto-screen-v1",
+  "assistant_package": "com.google.android.googlequicksearchbox",
+  "app_name": "Google Gemini",
+  "app_version": "17.68.24.ve.arm64",
+  "gemini_app_version": "1.0.995038376",
+  "gallery_component": "org.lineageos.glimpse/.ViewActivity",
+  "image_size": [
+    1080,
+    2400
+  ],
+  "font_px": null,
+  "brightness": {
+    "action": "manual",
+    "value": 255
+  },
+  "whitespace": "ignore",
+  "response_timeout_s": 300,
+  "poll_s": 3,
+  "report_context": "181条首次有效＋11条补测；六字号×32灰度，每条件选用一条完整有效结果。",
+  "condition_note": "补测行明确标注；真实低分/0分/插入均保留。单轮无重复测量SD。",
+  "conditions": {
+    "f24-g31": {
+      "font_px": 24,
+      "delta_g": 31
+    },
+    "f40-g31": {
+      "font_px": 40,
+      "delta_g": 31
+    }
+  },
+  "ui": {
+    "screen_size": [
+      1080,
+      2400
+    ],
+    "validated_version_code": 301824354,
+    "assistant_activity": "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.ui.floaty.activity.FloatyActivity",
+    "gallery_tap": [
+      540,
+      1200
+    ],
+    "keyboard_tap": [
+      400,
+      2050
+    ],
+    "assistant_settle_s": 3,
+    "send_desc": "Send",
+    "copy_desc": "Copy text",
+    "thinking_contains": [
+      "Thinking",
+      "Stop generating"
+    ]
+  },
+  "source_fidelity_gate": {
+    "roi": [
+      65,
+      650,
+      1030,
+      1120
+    ],
+    "required_consecutive": 2,
+    "max_checks": 16,
+    "poll_s": 2
+  },
+  "device_environment": {
+    "android": "16",
+    "screen": [
+      1080,
+      2400
+    ],
+    "server_model": "unknown",
+    "input_method": "com.android.inputmethod.latin/.LatinIME",
+    "account_tier_source": "user stated switched to Pro before this experiment"
+  },
+  "adapter_revision": "auto-no-manual-attachment-v1-perf01-ui02-completion04",
+  "adapter_source_sha256": "6ed2a41b834704a91b2dd5aa5edbb0db69fb552fb05a16e14bb28fb6a5b79ed2",
+  "protocol_route": "automatic_screen_context_no_manual_attachment",
+  "account_tier": "Pro (user stated; server model unknown)",
+  "performance": {
+    "capture_poll_png": false,
+    "collect_timing": true
+  },
+  "runtime_source_sha256": "9f1bec9001ed8cb5ff71a6fce94e11b5d79ffcc7003fc633f2dd1a4354d83215",
+  "ui_read": {
+    "attempts": 3,
+    "retry_s": 0.5
+  },
+  "auto_adapter_source_sha256": "d6c47516e5a5d14e2b5c0e730407793c8c3472e224bb02af0eb555784f0ada27",
+  "experiment_id": "gemini-outlier-recheck-20261029",
+  "nightshift": {
+    "planned_conditions": 192,
+    "automatic_retry": false,
+    "anomaly_policy": "preserve_unscored_continue_after_fresh_state",
+    "network_policy": "pause",
+    "allow_interrupt_after_deadline": true,
+    "interruption_basis": "User authorized preserving anomalies and proceeding to remaining conditions; interrupt only after deadline and evidence preservation"
+  }
+}

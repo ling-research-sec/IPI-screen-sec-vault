@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "conditions": 2,
+  "new_submissions": 2,
+  "source_fidelity": "PASS",
+  "prompt_verified": true,
+  "complete_reply_verified": true,
+  "original_score_recomputed": true,
+  "ui_archive_restore": "PASS",
+  "settings_restored": {
+    "ime": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService",
+    "brightness": {
+      "mode": 0,
+      "value": 255
+    }
+  },
+  "not_part_of_experiment03": true
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "case_id": "f24-g31",
+    "correct": 100,
+    "accuracy": 1.0,
+    "cer": 0.0,
+    "response": "WEATFMVQYHCLIUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+    "complete": true
+  },
+  {
+    "case_id": "f40-g31",
+    "correct": 99,
+    "accuracy": 0.99,
+    "cer": 0.01,
+    "response": "WEATFMVQYHCLUIBZCDZ\nPQLCFFGRQAXXLGTIRTGK\nFTWUUWEIJQKUMAOUKARP\nHPAHTEXPURNKYQYHOSZH\nOWECDAHTVWPPSYPQNNAL",
+    "complete": true
+  }
+]

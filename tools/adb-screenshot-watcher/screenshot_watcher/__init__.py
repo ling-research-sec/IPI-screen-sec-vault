@@ -1,0 +1,2 @@
+"""Read-only Android screenshot collection; Python standard library only."""
+__version__ = "0.1.0"

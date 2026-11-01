@@ -1,0 +1,28 @@
+{
+  "serial": "75ea8363",
+  "state": "device",
+  "directories": [
+    "/storage/emulated/0/Pictures/Screenshots",
+    "/storage/emulated/0/DCIM/Screenshots"
+  ],
+  "notes": [
+    "优先目录: /sdcard/Pictures/Screenshots",
+    "监听目录（未建立的目录也会继续检查）: /storage/emulated/0/Pictures/Screenshots, /storage/emulated/0/DCIM/Screenshots"
+  ],
+  "existing_file_count": 18,
+  "sample": {
+    "path": "/storage/emulated/0/Pictures/Screenshots/Screenshot_20261028-233103.jpg",
+    "size": 184730,
+    "mtime": 1793201463,
+    "ctime": 1793201463,
+    "inode": "60904",
+    "mtime_full": "2026-10-28 23:31:03.588136102 +0800",
+    "ctime_full": "2026-10-28 23:31:03.624136102 +0800"
+  },
+  "sample_sha256": "bf3adab4923183867278b4b8a43648a1172d56235821f8f7ba1ce21a508b42d9",
+  "clock": {
+    "device_minus_host_seconds": -0.23919439315795898,
+    "uncertainty_seconds": 0.030093908309936523,
+    "device_date_precision": "fractional"
+  }
+}

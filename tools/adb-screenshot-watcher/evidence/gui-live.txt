@@ -1,0 +1,3 @@
+GUI_LIVE READY: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/.evidence-captures/session_20261031_202221
+GUI_LIVE SAVED: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/.evidence-captures/session_20261031_202221/0002_20261031_202241_524257.png
+GUI_LIVE PASS: saved=1; all workers stopped

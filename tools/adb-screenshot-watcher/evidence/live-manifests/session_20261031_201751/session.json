@@ -1,0 +1,16 @@
+{
+  "device_serial": "75ea8363",
+  "baseline_at": "2026-10-31T12:17:51.746+00:00",
+  "baseline_file_count": 3,
+  "directories": [
+    "/storage/emulated/0/Pictures/Screenshots",
+    "/storage/emulated/0/DCIM/Screenshots"
+  ],
+  "interval_seconds": 0.5,
+  "stable_for_seconds": 0.5,
+  "clock": {
+    "device_minus_host_seconds": -0.7064979076385498,
+    "uncertainty_seconds": 1.0396111011505127
+  },
+  "latency_note": "mtime is not creation time; wall-clock estimate only"
+}

@@ -1,0 +1,87 @@
+{
+  "changed_module": "new screenshot_watcher CLI + GUI; no pre-existing source files edited",
+  "changed_field": "transfer_status: failed -> success only after size/hash verification and atomic publication",
+  "original_baseline_sha256": "ae4bdb1002a3028b384fc26052f3be2fac4acb9a44ea7f48596dfdd2e2b0722a",
+  "artifacts": {
+    "MODIFIED_FILE": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/evidence/adb-screenshot-watcher-0.1.0.zip",
+    "DIFF_FILE": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/evidence/DIFF_FILE.patch",
+    "VERIFICATION": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/evidence/VERIFICATION.txt",
+    "ROLLBACK": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/evidence/ROLLBACK.sh"
+  },
+  "BASELINE": {
+    "cwd": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault",
+    "command": "python3 -m unittest discover -s tools/adb-screenshot-watcher/tests -v",
+    "input": "initial empty test directory, watcher did not exist",
+    "literal_output": "\n----------------------------------------------------------------------\nRan 0 tests in 0.000s\n\nNO TESTS RAN\n",
+    "exit_status": 0
+  },
+  "MODIFIED": {
+    "cwd": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher",
+    "command": "python3 -m unittest discover -s tests -v",
+    "input": "43 synthetic local scenarios; no phone mutation",
+    "literal_output": "test_all_target_commands_use_serial (test_watcher.AdbTests.test_all_target_commands_use_serial) ... ok\ntest_clock_without_nanoseconds (test_watcher.AdbTests.test_clock_without_nanoseconds) ... ok\ntest_custom_directory_skips_mediastore (test_watcher.AdbTests.test_custom_directory_skips_mediastore) ... ok\ntest_devices_include_unauthorized_and_offline (test_watcher.AdbTests.test_devices_include_unauthorized_and_offline) ... ok\ntest_directory_validation (test_watcher.AdbTests.test_directory_validation) ... ok\ntest_incomplete_scan_raises (test_watcher.AdbTests.test_incomplete_scan_raises) ... ok\ntest_mediastore_fallback_and_alias_dedup (test_watcher.AdbTests.test_mediastore_fallback_and_alias_dedup) ... ok\ntest_missing_serial_and_global_command_rejected (test_watcher.AdbTests.test_missing_serial_and_global_command_rejected) ... ok\ntest_precise_clock_and_mtime (test_watcher.AdbTests.test_precise_clock_and_mtime) ... ok\ntest_real_child_cancellation_reaped (test_watcher.AdbTests.test_real_child_cancellation_reaped) ... ok\ntest_real_child_timeout_reaped (test_watcher.AdbTests.test_real_child_timeout_reaped) ... ok\ntest_scan_nul_framing_and_extension_filter (test_watcher.AdbTests.test_scan_nul_framing_and_extension_filter) ... ok\ntest_stat_precise_and_spaces (test_watcher.AdbTests.test_stat_precise_and_spaces) ... ok\ntest_two_devices_route_only_selected_target (test_watcher.AdbTests.test_two_devices_route_only_selected_target) ... ok\ntest_atomic_rename_never_overwrites (test_watcher.WatchTests.test_atomic_rename_never_overwrites) ... ok\ntest_baseline_ctime_only_update_is_not_imported (test_watcher.WatchTests.test_baseline_ctime_only_update_is_not_imported) ... ok\ntest_baseline_never_pulls_history (test_watcher.WatchTests.test_baseline_never_pulls_history) ... ok\ntest_burst_registers_all_candidates_before_transfers (test_watcher.WatchTests.test_burst_registers_all_candidates_before_transfers) ... ok\ntest_disappeared_candidate_is_removed (test_watcher.WatchTests.test_disappeared_candidate_is_removed) ... ok\ntest_disconnect_keeps_baseline_and_collects_gap_file (test_watcher.WatchTests.test_disconnect_keeps_baseline_and_collects_gap_file) ... ok\ntest_failure_does_not_block_other_image (test_watcher.WatchTests.test_failure_does_not_block_other_image) ... ok\ntest_growth_resets_stability (test_watcher.WatchTests.test_growth_resets_stability) ... ok\ntest_hash_mismatch_keeps_no_final_or_temporary (test_watcher.WatchTests.test_hash_mismatch_keeps_no_final_or_temporary) ... ok\ntest_invalid_intervals (test_watcher.WatchTests.test_invalid_intervals) ... ok\ntest_late_ctime_only_update_does_not_duplicate (test_watcher.WatchTests.test_late_ctime_only_update_does_not_duplicate) ... ok\ntest_manifest_failure_rolls_back_own_publication (test_watcher.WatchTests.test_manifest_failure_rolls_back_own_publication) ... ok\ntest_manifest_fsync_failure_leaves_no_false_success (test_watcher.WatchTests.test_manifest_fsync_failure_leaves_no_false_success) ... ok\ntest_new_session_excludes_stopped_period (test_watcher.WatchTests.test_new_session_excludes_stopped_period) ... ok\ntest_pull_failure_retries_and_logs_not_success (test_watcher.WatchTests.test_pull_failure_retries_and_logs_not_success) ... ok\ntest_retry_initialize_after_metadata_write_failure (test_watcher.WatchTests.test_retry_initialize_after_metadata_write_failure) ... ok\ntest_run_survives_disconnect_and_stops (test_watcher.WatchTests.test_run_survives_disconnect_and_stops) ... ok\ntest_same_bytes_different_files_are_not_lost (test_watcher.WatchTests.test_same_bytes_different_files_are_not_lost) ... ok\ntest_same_filename_size_and_second_new_nanoseconds (test_watcher.WatchTests.test_same_filename_size_and_second_new_nanoseconds) ... ok\ntest_same_mtime_size_but_content_and_ctime_changed (test_watcher.WatchTests.test_same_mtime_size_but_content_and_ctime_changed) ... ok\ntest_scan_failure_does_not_replace_baseline (test_watcher.WatchTests.test_scan_failure_does_not_replace_baseline) ... ok\ntest_seen_file_reappears_not_downloaded (test_watcher.WatchTests.test_seen_file_reappears_not_downloaded) ... ok\ntest_session_collision_preserves_existing (test_watcher.WatchTests.test_session_collision_preserves_existing) ... ok\ntest_source_mutation_during_pull_discarded (test_watcher.WatchTests.test_source_mutation_during_pull_discarded) ... ok\ntest_stable_file_original_bytes_and_hash (test_watcher.WatchTests.test_stable_file_original_bytes_and_hash) ... ok\ntest_stop_prevents_collection (test_watcher.WatchTests.test_stop_prevents_collection) ... ok\ntest_ten_images_exactly_once (test_watcher.WatchTests.test_ten_images_exactly_once) ... ok\ntest_unauthorized_offline_not_initialized (test_watcher.WatchTests.test_unauthorized_offline_not_initialized) ... ok\ntest_zero_byte_not_collected (test_watcher.WatchTests.test_zero_byte_not_collected) ... ok\n\n----------------------------------------------------------------------\nRan 43 tests in 0.581s\n\nOK\n",
+    "exit_status": 0
+  },
+  "ROLLBACK": {
+    "command": "bash /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/evidence/ROLLBACK.sh --target /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/evidence/rollback-copy",
+    "input": "separate copy of delivered code plus capture fixture and original baseline record",
+    "literal_output": "ROLLBACK PASS: delivered code removed; captures and evidence preserved\n",
+    "exit_status": 0,
+    "restored_behavior_status": "watcher main file absent; original baseline SHA256 unchanged; captures and evidence retained; real modified project retained"
+  },
+  "gui_smoke_literal_output": "GUI_SMOKE PASS: refresh/start/count/latest/stop/close; no worker leak\n",
+  "package_test_literal_output": "test_all_target_commands_use_serial (test_watcher.AdbTests.test_all_target_commands_use_serial) ... ok\ntest_clock_without_nanoseconds (test_watcher.AdbTests.test_clock_without_nanoseconds) ... ok\ntest_custom_directory_skips_mediastore (test_watcher.AdbTests.test_custom_directory_skips_mediastore) ... ok\ntest_devices_include_unauthorized_and_offline (test_watcher.AdbTests.test_devices_include_unauthorized_and_offline) ... ok\ntest_directory_validation (test_watcher.AdbTests.test_directory_validation) ... ok\ntest_incomplete_scan_raises (test_watcher.AdbTests.test_incomplete_scan_raises) ... ok\ntest_mediastore_fallback_and_alias_dedup (test_watcher.AdbTests.test_mediastore_fallback_and_alias_dedup) ... ok\ntest_missing_serial_and_global_command_rejected (test_watcher.AdbTests.test_missing_serial_and_global_command_rejected) ... ok\ntest_precise_clock_and_mtime (test_watcher.AdbTests.test_precise_clock_and_mtime) ... ok\ntest_real_child_cancellation_reaped (test_watcher.AdbTests.test_real_child_cancellation_reaped) ... ok\ntest_real_child_timeout_reaped (test_watcher.AdbTests.test_real_child_timeout_reaped) ... ok\ntest_scan_nul_framing_and_extension_filter (test_watcher.AdbTests.test_scan_nul_framing_and_extension_filter) ... ok\ntest_stat_precise_and_spaces (test_watcher.AdbTests.test_stat_precise_and_spaces) ... ok\ntest_two_devices_route_only_selected_target (test_watcher.AdbTests.test_two_devices_route_only_selected_target) ... ok\ntest_atomic_rename_never_overwrites (test_watcher.WatchTests.test_atomic_rename_never_overwrites) ... ok\ntest_baseline_ctime_only_update_is_not_imported (test_watcher.WatchTests.test_baseline_ctime_only_update_is_not_imported) ... ok\ntest_baseline_never_pulls_history (test_watcher.WatchTests.test_baseline_never_pulls_history) ... ok\ntest_burst_registers_all_candidates_before_transfers (test_watcher.WatchTests.test_burst_registers_all_candidates_before_transfers) ... ok\ntest_disappeared_candidate_is_removed (test_watcher.WatchTests.test_disappeared_candidate_is_removed) ... ok\ntest_disconnect_keeps_baseline_and_collects_gap_file (test_watcher.WatchTests.test_disconnect_keeps_baseline_and_collects_gap_file) ... ok\ntest_failure_does_not_block_other_image (test_watcher.WatchTests.test_failure_does_not_block_other_image) ... ok\ntest_growth_resets_stability (test_watcher.WatchTests.test_growth_resets_stability) ... ok\ntest_hash_mismatch_keeps_no_final_or_temporary (test_watcher.WatchTests.test_hash_mismatch_keeps_no_final_or_temporary) ... ok\ntest_invalid_intervals (test_watcher.WatchTests.test_invalid_intervals) ... ok\ntest_late_ctime_only_update_does_not_duplicate (test_watcher.WatchTests.test_late_ctime_only_update_does_not_duplicate) ... ok\ntest_manifest_failure_rolls_back_own_publication (test_watcher.WatchTests.test_manifest_failure_rolls_back_own_publication) ... ok\ntest_manifest_fsync_failure_leaves_no_false_success (test_watcher.WatchTests.test_manifest_fsync_failure_leaves_no_false_success) ... ok\ntest_new_session_excludes_stopped_period (test_watcher.WatchTests.test_new_session_excludes_stopped_period) ... ok\ntest_pull_failure_retries_and_logs_not_success (test_watcher.WatchTests.test_pull_failure_retries_and_logs_not_success) ... ok\ntest_retry_initialize_after_metadata_write_failure (test_watcher.WatchTests.test_retry_initialize_after_metadata_write_failure) ... ok\ntest_run_survives_disconnect_and_stops (test_watcher.WatchTests.test_run_survives_disconnect_and_stops) ... ok\ntest_same_bytes_different_files_are_not_lost (test_watcher.WatchTests.test_same_bytes_different_files_are_not_lost) ... ok\ntest_same_filename_size_and_second_new_nanoseconds (test_watcher.WatchTests.test_same_filename_size_and_second_new_nanoseconds) ... ok\ntest_same_mtime_size_but_content_and_ctime_changed (test_watcher.WatchTests.test_same_mtime_size_but_content_and_ctime_changed) ... ok\ntest_scan_failure_does_not_replace_baseline (test_watcher.WatchTests.test_scan_failure_does_not_replace_baseline) ... ok\ntest_seen_file_reappears_not_downloaded (test_watcher.WatchTests.test_seen_file_reappears_not_downloaded) ... ok\ntest_session_collision_preserves_existing (test_watcher.WatchTests.test_session_collision_preserves_existing) ... ok\ntest_source_mutation_during_pull_discarded (test_watcher.WatchTests.test_source_mutation_during_pull_discarded) ... ok\ntest_stable_file_original_bytes_and_hash (test_watcher.WatchTests.test_stable_file_original_bytes_and_hash) ... ok\ntest_stop_prevents_collection (test_watcher.WatchTests.test_stop_prevents_collection) ... ok\ntest_ten_images_exactly_once (test_watcher.WatchTests.test_ten_images_exactly_once) ... ok\ntest_unauthorized_offline_not_initialized (test_watcher.WatchTests.test_unauthorized_offline_not_initialized) ... ok\ntest_zero_byte_not_collected (test_watcher.WatchTests.test_zero_byte_not_collected) ... ok\n\n----------------------------------------------------------------------\nRan 43 tests in 0.607s\n\nOK\n",
+  "package_test_exit_status": 0,
+  "archive_sha256": "17632316bc87fff38ef20c7d78aa1870a52043ce5a00c6de97708b1b43b55ea9",
+  "source_integrity": {
+    "original_files": 3,
+    "unchanged": 3,
+    "current_total": 18,
+    "checked_at": "2026-10-31T12:25:58.691+00:00"
+  },
+  "capture_integrity": {
+    "verified": 14,
+    "failed_attempts_logged": 1,
+    "integrity_errors": [],
+    "sessions": [
+      {
+        "session": "session_20261031_201751",
+        "success": 11,
+        "failed_attempts": 0
+      },
+      {
+        "session": "session_20261031_201930",
+        "success": 2,
+        "failed_attempts": 0
+      },
+      {
+        "session": "session_20261031_202221",
+        "success": 1,
+        "failed_attempts": 1
+      },
+      {
+        "session": "session_20261031_202559",
+        "success": 0,
+        "failed_attempts": 0
+      }
+    ],
+    "result": "PASS"
+  },
+  "remaining": [
+    "Windows 11 real host",
+    "two physical devices",
+    "multi-hour endurance",
+    "exact file creation-to-save timing unavailable; report mtime estimate and detection latency"
+  ],
+  "final_patch_check": {
+    "command": "git apply --check followed by git apply in a clean temporary repository and SHA256 comparison",
+    "literal_result": "PATCH PASS: clean-tree apply and all source hashes verified",
+    "exit_status": 0
+  },
+  "syntax_check": {
+    "input": "Python source AST with feature_version=(3,10)",
+    "literal_result": "PYTHON_3_10_SYNTAX PASS",
+    "exit_status": 0
+  },
+  "process_status": "all test watcher and Tk workers stopped; shared ADB server retained"
+}

@@ -1,0 +1,1 @@
+GUI_SMOKE PASS: refresh/start/count/latest/stop/close; no worker leak

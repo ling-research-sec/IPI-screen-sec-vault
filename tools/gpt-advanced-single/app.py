@@ -83,7 +83,7 @@ class Window:
 
     def open_captures(self):
         folder=HOME/'captures'
-        if self.cat:folder=folder/self.cat.key/(self.f.get().split()[0]+'px')
+        if self.progress:folder=self.progress.capture_dir()/(self.f.get().split()[0]+'px')
         folder.mkdir(parents=True,exist_ok=True)
         subprocess.Popen(['/usr/bin/open',str(folder)])
 
@@ -187,7 +187,7 @@ class Window:
                 try:
                     result=Flow(d,self.cat,f,current,update).run()
                     play_after_success(self.cancel,update)
-                    evidence=capture_answer(d,self.live_wait,HOME/'captures'/self.cat.key/f'{f}px',name,update)
+                    evidence=capture_answer(d,self.live_wait,self.progress.capture_dir()/f'{f}px',name,update)
                     self.progress.completed(f,current,captured=True)
                     audit(event='completed',font=f,gray=current,file=name,verification=result,**evidence)
                 except Exception as e:

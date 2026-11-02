@@ -26,7 +26,7 @@ class History:
             box=self.cells[g]=ttk.Checkbutton(body,text=f'g{g}',variable=v,command=lambda g=g:self.toggle(g))
             box.grid(row=2+i//8,column=i%8,sticky='w',padx=(0,7),pady=4)
         foot=ttk.Frame(body);foot.grid(row=6,column=0,columnspan=8,sticky='ew',pady=(12,0))
-        self.clear_button=ttk.Button(foot,text='清空登记…',command=self.clear)
+        self.clear_button=ttk.Button(foot,text='清空并新开一轮…',command=self.clear)
         self.clear_button.pack(side='left')
         ttk.Button(foot,text='完成',command=self.close).pack(side='right')
         w.protocol('WM_DELETE_WINDOW',self.close)
@@ -36,8 +36,8 @@ class History:
     def refresh(self):
         f=int(self.font.get().split()[0]);marks=self.progress.registered()
         for g,v in self.variables.items():v.set((f,g) in marks)
-        self.count.set(f'本字号 {sum(ff==f for ff,_ in marks)} / 32   ·   共 {len(marks)} / 192')
-        self.clear_button.configure(state='normal' if marks else 'disabled')
+        self.count.set(f'第 {self.progress.capture_round} 轮 · 本字号 {sum(ff==f for ff,_ in marks)} / 32   ·   共 {len(marks)} / 192')
+        self.clear_button.configure(state='normal')
     def toggle(self,g):
         f=int(self.font.get().split()[0])
         try:self.progress.set_registered(f,g,self.variables[g].get())
@@ -45,8 +45,7 @@ class History:
         self.refresh();self.on_change()
     def clear(self):
         n=len(self.progress.registered())
-        if not n:return
-        ok=messagebox.askyesno('清空登记',f'清空当前设备和素材目录下 6 个字号的全部 {n} 个勾选？\n已执行记录、下次档位和运行日志都会保留。',
+        ok=messagebox.askyesno('清空登记',f'清空当前设备和素材目录下 6 个字号的全部 {n} 个勾选，并为新轮次建立独立截图目录？\n已执行记录、下次档位和运行日志都会保留。',
                                parent=self.window,default='no',icon='warning')
         if not ok:return
         try:self.progress.clear_history()

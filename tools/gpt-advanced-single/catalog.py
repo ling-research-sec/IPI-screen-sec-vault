@@ -103,8 +103,30 @@ class Progress:
         else:marks.discard((f,g))
         self._replace_state({**self.state,'registered':[list(p) for p in sorted(marks)]})
 
+    @property
+    def capture_round(self):
+        n=self.state.get('capture_round',1)
+        if type(n) is not int or n<1:raise Problem('截图轮次异常。')
+        return n
+
+    def capture_dir(self):
+        base=self.path.parent/'captures'/self.key
+        return base if self.capture_round==1 else base/f'第{self.capture_round:03d}轮'
+
     def clear_history(self):
-        self._replace_state({**self.state,'registered':[]})
+        base=self.path.parent/'captures'/self.key
+        base.mkdir(parents=True,exist_ok=True)
+        n=self.capture_round
+        while True:
+            n+=1
+            folder=base/f'第{n:03d}轮'
+            try:folder.mkdir()
+            except FileExistsError:continue
+            break
+        try:self._replace_state({**self.state,'registered':[],'capture_round':n})
+        except Exception:
+            folder.rmdir()
+            raise
 
     def save(self, data=None):
         self.path.parent.mkdir(exist_ok=True,parents=True)

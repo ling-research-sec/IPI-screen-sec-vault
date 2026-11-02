@@ -41,5 +41,17 @@ class RegistrationTest(unittest.TestCase):
         for f,g in ((16,6),(64,32)):self.p.set_registered(f,g,True)
         self.p.clear_history()
         self.assertEqual(Progress(self.path,'a').registered(),set())
-        self.assertEqual({k:v for k,v in self.p.state.items() if k!='registered'},self.legacy)
+        self.assertEqual({k:v for k,v in self.p.state.items() if k not in ('registered','capture_round')},self.legacy)
         self.assertEqual(Progress(self.path,'b').registered(),{(24,1)})
+
+    def test_new_directories_persist_even_when_marks_empty(self):
+        legacy=self.p.capture_dir();legacy.mkdir(parents=True)
+        old=legacy/'old.png';old.write_bytes(b'original')
+        self.p.clear_history()
+        second=self.p.capture_dir();self.assertTrue(second.is_dir())
+        self.assertEqual(second.name,'第002轮')
+        self.assertEqual(Progress(self.path,'a').capture_dir(),second)
+        self.p.clear_history()
+        self.assertEqual(self.p.capture_dir().name,'第003轮')
+        self.assertEqual(old.read_bytes(),b'original')
+        self.assertEqual(Progress(self.path,'b').capture_round,1)

@@ -149,7 +149,7 @@ class WindowTest(unittest.TestCase):
             h.clear_button.invoke()
         self.assertEqual(p.registered(),set())
         self.assertEqual(p.next(16),2);self.assertEqual(p.state['done'],[[16,1]])
-        self.assertEqual(str(h.clear_button['state']),'disabled')
+        self.assertEqual(str(h.clear_button['state']),'normal')
         h.close();self.assertNotIn('✓',' '.join(w.boxes[1]['values']))
         self.flow.assert_not_called()
 

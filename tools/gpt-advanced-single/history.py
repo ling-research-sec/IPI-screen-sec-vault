@@ -18,7 +18,7 @@ class History:
         self.sizes.pack(side='left',padx=(5,14))
         self.sizes.bind('<<ComboboxSelected>>',lambda _:self.refresh())
         ttk.Label(header,textvariable=self.count).pack(side='right')
-        ttk.Label(body,text='只勾选你已经登记结果的档位。勾选即保存，不启动手机。').grid(
+        ttk.Label(body,text='截图保存成功后自动打勾；也可手动补勾或取消。').grid(
             row=1,column=0,columnspan=8,sticky='w',pady=(10,6))
         self.variables={};self.cells={}
         for i,g in enumerate(GRAYS):

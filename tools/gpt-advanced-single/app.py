@@ -6,10 +6,14 @@ from pathlib import Path
 import os
 import queue
 import threading
+import subprocess
 from time import monotonic
 from android import connect, Device, Problem, Stopped
 from catalog import SIZES, GRAYS, Progress
 from round_flow import Flow
+from live_wait import LiveWait
+from capture import capture_answer,seconds
+from playback import play_after_success
 
 HOME=Path(os.environ.get('GPT_SINGLE_HOME',Path.home()/'Library'/'Application Support'/'GPT-Advanced-Single'))
 
@@ -23,6 +27,11 @@ def summary(cat):
     return {'folder':cat.folder,'device':cat.serial,'images':len(cat.files),
             'sizes_px':list(SIZES),'gray_count_per_size':len(GRAYS),
             'first':cat.files[SIZES[0],1],'last':cat.files[SIZES[-1],32]}
+
+def round_plan(font,gray,loop,full):
+    sizes=SIZES[SIZES.index(font):] if full else (font,)
+    return [(f,g) for f in sizes for g in
+            range(gray if f==font else 1,33 if (loop or full) else gray+1)]
 
 class Window:
     def __init__(self,root):
@@ -53,9 +62,30 @@ class Window:
         self.btn=ttk.Button(panel,text='预检中…',command=self.click,state='disabled')
         self.btn.grid(row=3,column=0,columnspan=2,sticky='ew')
         ttk.Label(panel,textvariable=self.message,wraplength=335).grid(row=4,column=0,columnspan=2,sticky='w',pady=(10,0))
+        self.loop=tk.BooleanVar(value=False);self.wait_seconds=tk.StringVar(value='12')
+        options=ttk.Frame(panel);options.grid(row=5,column=0,columnspan=2,sticky='ew',pady=(9,0))
+        ttk.Label(options,text='播完后等（秒）').pack(side='left')
+        self.wait_box=ttk.Entry(options,width=6,textvariable=self.wait_seconds)
+        self.wait_box.pack(side='left',padx=4)
+        self.live_wait=LiveWait(12)
+        ttk.Label(options,text='↵ 应用').pack(side='left')
+        self.wait_box.bind('<Return>',self.apply_wait)
+        self.wait_box.bind('<FocusOut>',self.apply_wait)
+        self.loop_box=ttk.Checkbutton(options,text='循环至 g32',variable=self.loop)
+        self.loop_box.pack(side='right')
+        self.full=tk.BooleanVar(value=False)
+        self.full_box=ttk.Checkbutton(options,text='全循环',variable=self.full,command=self.sync_modes)
+        self.full_box.pack(side='right')
+        ttk.Button(panel,text='打开截图目录',command=self.open_captures).grid(row=6,columnspan=2,sticky='ew',pady=(8,0))
         self.r.protocol('WM_DELETE_WINDOW',self.close)
         self.r.after(70,self.pump)
         self.preflight()
+
+    def open_captures(self):
+        folder=HOME/'captures'
+        if self.cat:folder=folder/self.cat.key/(self.f.get().split()[0]+'px')
+        folder.mkdir(parents=True,exist_ok=True)
+        subprocess.Popen(['/usr/bin/open',str(folder)])
 
     def launch(self,fn):
         def work():
@@ -104,7 +134,20 @@ class Window:
         if self.progress.state.get('pending')==[f,g]:
             self.message.set('上次此张未确认完成；请核实手机后再手工执行。')
             return
-        self.message.set('此张已执行到共享终点；再次点击会重做本张。' if done else '就绪 · 每次只执行一张')
+        self.message.set('此张已执行到共享终点；再次点击会重做本张。' if done else '就绪 · 点击执行开始采集')
+
+    def apply_wait(self,event=None):
+        try:value=seconds(self.wait_seconds.get())
+        except Problem as e:
+            self.message.set(f'{e} 仍使用 {self.live_wait.value:g} 秒。')
+            return False
+        self.live_wait.set(value)
+        self.message.set(f'播完后等待：{value:g} 秒')
+        return True
+
+    def sync_modes(self):
+        if self.full.get():self.loop.set(True)
+        self.loop_box.configure(state='disabled' if self.full.get() else 'normal')
 
     def click(self):
         if self.history is not None or self.closing:return
@@ -117,35 +160,52 @@ class Window:
                 self.btn.configure(text='正在停止…',state='disabled')
             return
         if self.mode!='idle' or monotonic()<self.armed:return
+        if not self.apply_wait():return
+        looping=self.loop.get();full=self.full.get()
+        self.full_box.configure(state='disabled')
+        self.loop_box.configure(state='disabled')
         # Ignore an immediate double click, but allow Stop during the 0.5 s countdown.
         self.mode='running';self.cancel.clear();self.armed=monotonic()+.20
         f=int(self.f.get().split()[0]);g=int(self.g.get().split()[0][1:])
         for b in self.boxes:b.configure(state='disabled')
         self.history_btn.configure(state='disabled')
         self.btn.configure(text='停止本轮')
+        plan=round_plan(f,g,looping,full)
         def work():
-            step='开始'; name=self.cat.files[f,g]
-            def update(s):
-                nonlocal step
-                step=s
-                audit(event='step',font=f,gray=g,step=s)
-                self.q.put(('step',s))
-            self.progress.started(f,g)
-            audit(event='manual_start',font=f,gray=g,file=name)
-            try:
-                result=Flow(Device(self.cat.serial,self.cancel),self.cat,f,g,update).run()
-            except Exception as e:
-                audit(event='not_completed',font=f,gray=g,step=step,error=str(e))
-                raise
-            self.progress.completed(f,g)
-            audit(event='completed',font=f,gray=g,file=name,verification=result)
-            self.q.put(('done',(f,g)))
+            d=Device(self.cat.serial,self.cancel)
+            for i,(f,current) in enumerate(plan):
+                if self.cancel.is_set():raise Stopped('已停止。')
+                step='开始';name=self.cat.files[f,current]
+                self.q.put(('current',(f,current)))
+                def update(s):
+                    nonlocal step
+                    step=s
+                    audit(event='step',font=f,gray=current,step=s)
+                    self.q.put(('step',f'{f} px · g{current}：'+s))
+                self.progress.started(f,current)
+                audit(event='manual_start' if i==0 else 'loop_start',font=f,gray=current,file=name)
+                try:
+                    result=Flow(d,self.cat,f,current,update).run()
+                    play_after_success(self.cancel,update)
+                    evidence=capture_answer(d,self.live_wait,HOME/'captures'/self.cat.key/f'{f}px',name,update)
+                    self.progress.completed(f,current,captured=True)
+                    audit(event='completed',font=f,gray=current,file=name,verification=result,**evidence)
+                except Exception as e:
+                    audit(event='not_completed',font=f,gray=current,step=step,error=str(e))
+                    raise
+                if i+1==len(plan):
+                    self.q.put(('done',(f,current)));return
+                self.q.put(('current',plan[i+1]))
+                update('截图已保存，2 秒后继续')
+                if self.cancel.wait(2):raise Stopped('循环已停止；上一张截图已保存。')
         self.launch(work)
 
     def pump(self):
         while not self.q.empty():
             kind,data=self.q.get()
-            if kind=='step': self.message.set(data+'…')
+            if kind=='current':
+                f,g=data;self.f.set(f'{f} px');self.g.set(f'g{g}');self.file.set(self.cat.files[f,g])
+            elif kind=='step': self.message.set(data+'…')
             elif kind=='ready':
                 self.cat,self.progress=data
                 self.f.set(f"{self.progress.state['font']} px")
@@ -157,6 +217,7 @@ class Window:
                     self.mode='error';self.btn.configure(text='重新预检',state='normal')
                     self.message.set(data)
                     continue
+                self.wait_box.configure(state='normal');self.full_box.configure(state='normal');self.sync_modes()
                 self.mode='idle';self.armed=monotonic()+.65
                 for b in self.boxes:b.configure(state='readonly')
                 if kind=='done':

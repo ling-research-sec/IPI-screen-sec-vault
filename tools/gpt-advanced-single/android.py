@@ -51,10 +51,17 @@ class Device:
         return self.call('shell',shlex.join(words))
 
     def foreground(self):
-        s=self.shell('dumpsys','activity','activities')
-        m=re.search(r'topResumedActivity=ActivityRecord\{[^\n]*?\bu\d+ ([\w.$]+)/([\w.$]+) t(\d+)',s)
-        if not m: raise Problem('未识别手机前台页面。')
-        return m.groups()
+        # Activity transitions briefly expose no resumed activity. Retry fresh
+        # snapshots, never substitute a cached/paused/focused activity.
+        until=time.monotonic()+3
+        while True:
+            self.check()
+            s=self.shell('dumpsys','activity','activities')
+            m=re.search(r'topResumedActivity=ActivityRecord\{[^\n]*?\bu\d+ ([\w.$]+)/([\w.$]+) t(\d+)',s)
+            if m:return m.groups()
+            if time.monotonic()>=until:
+                raise Problem('前台页面在切换后仍未就绪，请确认手机已解锁。')
+            self.delay(.15)
 
     def projection(self):
         s=self.shell('dumpsys','media_projection')

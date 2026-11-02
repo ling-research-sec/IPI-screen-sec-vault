@@ -75,14 +75,15 @@ class Progress:
         self.state['pending'] = [f,g]
         self.save()
 
-    def completed(self, f, g):
-        self.state.pop('pending',None)
-        self.state['font'] = f
-        self.state['next'][str(f)] = min(32,g+1)
-        pair = [f,g]
-        if pair not in self.state['done']:
-            self.state['done'].append(pair)
-        self.save()
+    def completed(self, f, g, *, captured=False):
+        # Commit the progress and screenshot mark in one atomic write.
+        pair=[f,g]
+        state={**self.state,'font':f,'next':{**self.state['next'],str(f):min(32,g+1)},
+               'done':self.state['done'] if pair in self.state['done'] else [*self.state['done'],pair]}
+        state.pop('pending',None)
+        if captured:
+            state['registered']=[list(p) for p in sorted(self.registered() | {(f,g)})]
+        self._replace_state(state)
 
     def registered(self):
         # Legacy done entries mean "reached the sharing endpoint", not "recorded".

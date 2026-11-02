@@ -10,8 +10,8 @@ class ImagePresentation(unittest.TestCase):
 
     def test_fullscreen_image_is_not_tapped_or_opened_in_details(self):
         class Fullscreen(Phone):
-            def shell(self,*args):
-                out=super().shell(*args)
+            def start(self,*args):
+                out=super().start(*args)
                 if self.state=='viewer':self.state='hidden'
                 return out
         d=Fullscreen()

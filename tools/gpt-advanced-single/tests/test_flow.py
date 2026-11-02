@@ -23,6 +23,9 @@ class Phone(Device):
         return pkg,'ViewActivity' if pkg==VIEW else 'main','42' if pkg in (VIEW,FILES) else '33'
     def start(self,*args):
         if FILES+'/.files.FilesActivity' in args:self.state='files'
+        elif VIEW+'/.ViewActivity' in args:
+            assert args[args.index('--task')+1]=='42'
+            self.sent.append(('files',args));self.state='viewer'
         elif self.state=='hidden':self.state='composer'
         else:self.state='chat'
     def tree(self,windows=False):
@@ -55,6 +58,9 @@ class Phone(Device):
             node('文件',i=3)
         return Screen(root)
     def shell(self,*args):
+        if args[:2]==('content','query'):
+            assert self.name in args[-1]
+            return 'Row: 0 _id=123'
         if args==('wm','size'):return 'Physical size: 1080x2400'
         if args[:2]==('dumpsys','activity'):return 'Recent #0: Task{x #33 type=standard A=1:com.openai.chatgpt}\nRecent #1: Task{x #42 type=standard A=2:com.android.documentsui}'
         if args[0]=='input':

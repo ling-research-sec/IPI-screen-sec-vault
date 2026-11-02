@@ -1,2 +1,0 @@
-ROLLBACK PASS: delivered code removed; captures and evidence preserved
-RESTORED PASS: watcher absent; original baseline hash unchanged; capture fixture retained

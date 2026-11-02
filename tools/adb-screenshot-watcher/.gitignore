@@ -2,3 +2,6 @@ __pycache__/
 *.py[cod]
 captures/
 .evidence-captures/
+
+# Local validation evidence and delivery archives
+evidence/

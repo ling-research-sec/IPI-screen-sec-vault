@@ -1,0 +1,4 @@
+# Local captures and validation outputs; keep assets/prompt.mp3 as a runtime dependency
+captures/
+.evidence-captures/
+evidence/

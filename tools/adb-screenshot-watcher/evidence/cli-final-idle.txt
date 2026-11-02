@@ -1,5 +1,0 @@
-{"at": "2026-10-31T12:25:59.265+00:00", "event": "log", "value": "优先目录: /sdcard/Pictures/Screenshots"}
-{"at": "2026-10-31T12:25:59.265+00:00", "event": "log", "value": "监听目录（未建立的目录也会继续检查）: /storage/emulated/0/Pictures/Screenshots, /storage/emulated/0/DCIM/Screenshots"}
-{"at": "2026-10-31T12:26:01.138+00:00", "event": "ready", "value": {"baseline": 18, "session": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/.evidence-captures/session_20261031_202559"}}
-{"at": "2026-10-31T12:26:01.138+00:00", "event": "status", "value": "监听中"}
-{"at": "2026-10-31T12:26:04.025+00:00", "event": "status", "value": "已停止"}

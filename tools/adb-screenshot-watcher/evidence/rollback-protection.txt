@@ -1,2 +1,0 @@
-ROLLBACK STOP: delivery file is missing or changed: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/adb-screenshot-watcher/evidence/rollback-changed-copy/README.md
-PROTECTION PASS: modified copy left intact

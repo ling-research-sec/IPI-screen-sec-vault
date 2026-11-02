@@ -33,6 +33,8 @@ class WindowTest(unittest.TestCase):
             p=patch(*args,**kwargs);v=p.start();self.addCleanup(p.stop);return v
         patcher('app.HOME',Path(self.temp.name))
         patcher('app.connect').return_value.inspect.return_value=self.cat
+        self.capture=patcher('app.capture_answer');self.capture.return_value={'screenshot':'fixture.png'}
+        self.audio=patcher('app.play_after_success')
         self.flow=patcher('app.Flow')
         self.flow.return_value.run.return_value={'projection':'simulated'}
         self.device=patcher('app.Device')
@@ -60,6 +62,8 @@ class WindowTest(unittest.TestCase):
         self.assertEqual(str(w.boxes[1]['state']),'disabled')
         release.set();self.until(lambda:w.mode=='idle')
         self.assertEqual(w.g.get(),'g2')
+        self.audio.assert_called_once()
+        self.assertEqual(self.capture.call_args.args[2],app.HOME/'captures'/w.cat.key/'40px')
         self.assertEqual(self.flow.call_count,1)
         self.assertEqual(self.flow.call_args.args[2:4],(40,1))
     def test_failure_does_not_advance(self):
@@ -67,6 +71,7 @@ class WindowTest(unittest.TestCase):
         w=self.window;w.g.set('g12');w.selection(1);w.btn.invoke()
         self.until(lambda:w.mode=='idle')
         self.assertEqual(w.g.get(),'g12');self.assertIn('未确认',w.message.get())
+        self.audio.assert_not_called()
         self.assertEqual(w.progress.state['done'],[])
     def test_cancel_retains_selected(self):
         w=self.window
@@ -84,7 +89,7 @@ class WindowTest(unittest.TestCase):
     def test_last_never_wraps_or_changes_size(self):
         w=self.window;w.f.set('64 px');w.selection(0);w.g.set('g32');w.selection(1);w.btn.invoke()
         self.until(lambda:w.mode=='idle')
-        self.assertEqual((w.f.get(),w.g.get()),('64 px','g32'))
+        self.assertEqual((w.f.get(),w.g.get()),('64 px','g32 ✓'))
         self.assertIn('末档',w.message.get())
     def test_manual_marks_across_fonts_immediate_persistence_and_recall(self):
         w=self.window;w.progress.completed(16,1);w.selection(0)
@@ -129,7 +134,7 @@ class WindowTest(unittest.TestCase):
         self.assertIsNone(w.history);self.assertEqual(str(w.history_btn['state']),'disabled')
         release.set();self.until(lambda:w.mode=='idle')
         self.assertEqual(str(w.history_btn['state']),'normal')
-        self.assertEqual(w.progress.registered(),set())
+        self.assertEqual(w.progress.registered(),{(16,1)})
 
     def test_clear_confirmation_and_scope(self):
         w=self.window;p=w.progress
@@ -147,3 +152,36 @@ class WindowTest(unittest.TestCase):
         self.assertEqual(str(h.clear_button['state']),'disabled')
         h.close();self.assertNotIn('✓',' '.join(w.boxes[1]['values']))
         self.flow.assert_not_called()
+
+    def test_loop_waits_two_seconds_between_saved_frames_and_stops_at_32(self):
+        w=self.window;w.g.set('g31');w.selection(1);w.loop.set(True);w.wait_seconds.set('3.5')
+        w.btn.invoke();self.until(lambda:w.mode=='idle')
+        self.assertEqual([c.args[3] for c in self.flow.call_args_list],[31,32])
+        self.assertEqual([c.args[1].value for c in self.capture.call_args_list],[3.5,3.5])
+        self.assertEqual(w.progress.next(16),32)
+    def test_capture_failure_does_not_advance_or_continue(self):
+        w=self.window;w.loop.set(True);self.capture.side_effect=app.Problem('截图失败')
+        w.btn.invoke();self.until(lambda:w.mode=='idle')
+        self.flow.assert_called_once();self.assertEqual(w.progress.state['done'],[])
+        self.assertEqual(w.g.get(),'g1')
+    def test_stop_during_two_second_gap(self):
+        w=self.window;w.loop.set(True);w.btn.invoke()
+        self.until(lambda:'2 秒后继续' in w.message.get())
+        w.armed=0;w.btn.invoke();self.until(lambda:w.mode=='idle')
+        self.flow.assert_called_once();self.assertEqual(w.progress.state['done'],[[16,1]])
+        self.assertEqual(w.g.get(),'g2')
+    def test_invalid_wait_never_starts(self):
+        w=self.window;w.wait_seconds.set('nan');w.btn.invoke();self.flow.assert_not_called();self.assertEqual(w.mode,'idle')
+
+    def test_full_loop_crosses_font_boundary(self):
+        w=self.window;w.f.set('48 px');w.selection(0);w.g.set('g32')
+        w.full_box.invoke();self.assertTrue(w.loop.get())
+        self.assertEqual(str(w.loop_box['state']),'disabled')
+        with patch.object(w.cancel,'wait',return_value=False) as gap:
+            w.btn.invoke();self.until(lambda:w.mode=='idle')
+        self.assertEqual([c.args[2:4] for c in self.flow.call_args_list],
+                         [(48,32)]+[(64,g) for g in range(1,33)])
+        self.assertEqual(gap.call_count,32)
+        self.assertEqual(w.f.get(),'64 px')
+        w.full_box.invoke();self.assertEqual(str(w.loop_box['state']),'normal')
+        self.assertTrue(w.loop.get())

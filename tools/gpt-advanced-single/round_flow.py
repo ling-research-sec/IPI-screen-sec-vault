@@ -66,106 +66,29 @@ class Flow:
             'primary:'+str(directory.relative_to('/sdcard')),safe='')
         d.start('-a','android.intent.action.VIEW','-n',FILES+'/.files.FilesActivity',
                 '-d',uri,'-t','vnd.android.document/directory')
-        # DocumentsUI may restore Pictures instead of opening the requested URI.
-        # An item title is not evidence that its directory is already open.
-        def nodes(page, rid, pkg=FILES):
-            return [n for n in page.nodes if n.get('package')==pkg and n.get('resource-id')==rid]
-
-        def inside(page, name):
-            crumbs=nodes(page,FILES+':id/breadcrumb_text')
-            if crumbs:return crumbs[-1].get('text')==name
-            # Scrolling collapses the breadcrumb; the Files header remains visible.
-            labels={name,name+' 中的文件','Files in '+name}
-            return any(n.get('text') in labels for n in nodes(page,FILES+':id/header_title'))
-
-        def bounds(n):
-            return tuple(map(int,re.findall(r'-?\d+',n.get('bounds',''))))
-
-        def listing(page):
-            grids=nodes(page,FILES+':id/dir_list')
-            if len(grids)!=1:return (None,[])
-            grid=grids[0]
-            return grid,[n for n in grid.iter('node') if n.get('package')==FILES
-                         and n.get('resource-id')=='android:id/title']
-
-        def row_point(page,label):
-            grid,rows=listing(page)
-            matches=[n for n in rows if n.get('text')==label]
-            if len(matches)>1:raise Problem('当前目录里有多个同名条目：'+label)
-            if not matches:return None
-            row,extent=bounds(matches[0]),bounds(grid)
-            if len(row)!=4 or len(extent)!=4:return None
-            l,t,r,b=max(row[0],extent[0]),max(row[1],extent[1]),min(row[2],extent[2]),min(row[3],extent[3])
-            for h in nodes(page,FILES+':id/app_bar'):
-                hb=bounds(h)
-                if len(hb)==4:t=max(t,hb[3])
-            if l<r and t<b:return ((l+r)//2,(t+b)//2)
-            return None
-
-        def landing():
-            page=d.page(FILES)
-            if page and (inside(page,directory.name) or
-                (inside(page,directory.parent.name) and row_point(page,directory.name))):
-                return page
-            return None
-        page=d.wait(landing,'文件应用未显示目标目录或 Pictures 中的目标文件夹。')
-        files_task=d.foreground()[2]
-        if not inside(page,directory.name):
-            d.tap(FILES,row_point(page,directory.name))
-            page=d.wait(lambda:(p:=d.page(FILES)) and inside(p,directory.name) and p,
-                        '点击文件夹后，未确认已进入 '+directory.name)
-        self.status('在文件夹内定位 '+self.name)
-        # A bounded, overlapping scan. Only tap an exact filename; never search
-        # storage-wide. Numeric ranks are hints for direction, not for selection.
-        def ready_listing():
-            p=d.page(FILES)
-            if p and not inside(p,directory.name):
-                raise Problem('目录已改变，停止选图。')
-            return p if p and listing(p)[1] else None
-        if not listing(page)[1]:page=d.wait(ready_listing,'图片目录尚未显示文件。')
-        ranks={n:i for i,(_,n) in enumerate(sorted(self.cat.files.items()))}
-        visible=[ranks[n.get('text')] for n in listing(page)[1] if n.get('text') in ranks]
-        direction=1
-        if len(visible)>1:
-            delta=ranks[self.name]-visible[0]
-            if delta*(visible[-1]-visible[0])<0:direction=-1
-        target=None
-        for move in (direction,-direction):
-            seen=set()
-            for _ in range(len(self.cat.files)+1):
-                package,_,task=d.foreground()
-                if (package,task)!=(FILES,files_task):
-                    raise Problem('文件任务已改变，停止选图。')
-                target=row_point(page,self.name)
-                if target:break
-                grid,rows=listing(page)
-                signature=tuple(n.get('text') for n in rows)
-                if signature in seen:break
-                seen.add(signature)
-                extent=bounds(grid) if grid is not None else ()
-                if len(extent)!=4:raise Problem('未找到可浏览的文件列表。')
-                l,t,r,b=extent
-                for h in nodes(page,FILES+':id/app_bar'):
-                    hb=bounds(h)
-                    if len(hb)==4:t=max(t,hb[3])
-                if r<=l or b-t<120:raise Problem('文件列表可见区域不足。')
-                x=(l+r)//2;hi=t+(b-t)*3//4;lo=t+(b-t)//4
-                y1,y2=(hi,lo) if move==1 else (lo,hi)
-                d.checked_input(FILES,'swipe',x,y1,x,y2,650)
-                page=d.wait(ready_listing,'文件列表未就绪。')
-            if target:break
-        if not target:raise Problem('在已确认的文件夹内未找到：'+self.name)
-        d.tap(FILES,target)
-
-        # Identity comes from the exact row inside the confirmed directory.
-        # Inspect the viewer itself, not its overflow menu / details sheet.
+        # The directory launch supplies a Files-owned task, not a scroll position.
+        files_task=d.wait(lambda:(fg:=d.foreground())[0]==FILES and fg[2],
+                          '文件应用未就绪。')
+        rel=str(directory.relative_to('/sdcard'))+'/'
+        sql=lambda value:"'"+value.replace("'","''")+"'"
+        rows=d.shell('content','query','--uri','content://media/external_primary/images/media',
+                     '--projection','_id','--where',
+                     'relative_path='+sql(rel)+' AND _display_name='+sql(self.name))
+        match=re.fullmatch(r'Row: 0 _id=(\d+)',rows.strip())
+        if not match:
+            raise Problem('系统媒体索引中没有唯一匹配的图片：'+self.name)
+        self.status('直接打开 '+self.name)
+        d.start('--task',files_task,'-a','android.intent.action.VIEW','-t','image/png',
+                '-d','content://media/external_primary/images/media/'+match[1],
+                '--grant-read-uri-permission','-n',VIEW+'/.ViewActivity')
         def viewer_ready(*, chrome_hidden=False):
             p=d.page(VIEW)
             if not p:return None
             viewer=d.foreground()
             if viewer[0]!=VIEW or viewer[2]!=files_task:
                 raise Problem('图片未在「文件」的同一个任务中打开，已停止。')
-            boxes={bounds(n) for n in nodes(p,VIEW+':id/imageView',VIEW)}
+            boxes={tuple(map(int,re.findall(r'-?\d+',n.get('bounds','')))) for n in p.nodes
+                   if n.get('package')==VIEW and n.get('resource-id')==VIEW+':id/imageView'}
             visible=[r for r in boxes if len(r)==4 and r[0]>=0 and r[1]>=0 and r[2]>r[0] and r[3]>r[1]]
             if len(visible)!=1:return None
             chrome=p.point(VIEW,MORE,rids=(VIEW+':id/shareButton',))

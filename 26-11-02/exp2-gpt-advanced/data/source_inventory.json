@@ -1,0 +1,1346 @@
+[
+  {
+    "condition_id": "px16-g01",
+    "font_px": 16,
+    "gray": 1,
+    "file": "evidence/screenshots/px16/px16-g01.png",
+    "sha256": "07ca26807e8d2275e3b638a0475cca106eb1f053c507a797fa046f16fcb2f7e8"
+  },
+  {
+    "condition_id": "px16-g02",
+    "font_px": 16,
+    "gray": 2,
+    "file": "evidence/screenshots/px16/px16-g02.png",
+    "sha256": "ae86619f8226cfe8a977245b2a15dadeb55f7c18a1519ceef400af30f2e91369"
+  },
+  {
+    "condition_id": "px16-g03",
+    "font_px": 16,
+    "gray": 3,
+    "file": "evidence/screenshots/px16/px16-g03.png",
+    "sha256": "3a6fcf3a2f6b5db9c891ff1f2d74f3543203da504a5c5fe329a7433322040f1d"
+  },
+  {
+    "condition_id": "px16-g04",
+    "font_px": 16,
+    "gray": 4,
+    "file": "evidence/screenshots/px16/px16-g04.png",
+    "sha256": "b6f39871dbf8d053c9dfdeb4c851d82c01b346fa31e8955386155729b0c39610"
+  },
+  {
+    "condition_id": "px16-g05",
+    "font_px": 16,
+    "gray": 5,
+    "file": "evidence/screenshots/px16/px16-g05.png",
+    "sha256": "19185cbfd8ccf1fcca1ebe5b53bb1cf4638c366c31651563c4d1578d43162404"
+  },
+  {
+    "condition_id": "px16-g06",
+    "font_px": 16,
+    "gray": 6,
+    "file": "evidence/screenshots/px16/px16-g06.png",
+    "sha256": "84e497f44f9c8adbba55180512ad3fb98c238f0facd083df24ca3c085e0a7e70"
+  },
+  {
+    "condition_id": "px16-g07",
+    "font_px": 16,
+    "gray": 7,
+    "file": "evidence/screenshots/px16/px16-g07.png",
+    "sha256": "3607af6415651c595b09010561bbd4e1009cea2ebcf06c121a2e05092367ae9b"
+  },
+  {
+    "condition_id": "px16-g08",
+    "font_px": 16,
+    "gray": 8,
+    "file": "evidence/screenshots/px16/px16-g08.png",
+    "sha256": "fdfe8035fb853558f94383820c2bc16d2174b31e0bf94e7a261e3f190db7874b"
+  },
+  {
+    "condition_id": "px16-g09",
+    "font_px": 16,
+    "gray": 9,
+    "file": "evidence/screenshots/px16/px16-g09.png",
+    "sha256": "4cd032bb5192916e17d3b4604cb963ff780411346799d22491197ba4eae08eb9"
+  },
+  {
+    "condition_id": "px16-g10",
+    "font_px": 16,
+    "gray": 10,
+    "file": "evidence/screenshots/px16/px16-g10.png",
+    "sha256": "b52748f4b615e16bcc165813cc311bf6fe43fe20d35d1d5db90e2d060680edd7"
+  },
+  {
+    "condition_id": "px16-g11",
+    "font_px": 16,
+    "gray": 11,
+    "file": "evidence/screenshots/px16/px16-g11.png",
+    "sha256": "591b8e9f9fa1e8b5bbfe03a641e6b642ef2b439ad6823b2b8664a74ad2b458c5"
+  },
+  {
+    "condition_id": "px16-g12",
+    "font_px": 16,
+    "gray": 12,
+    "file": "evidence/screenshots/px16/px16-g12.png",
+    "sha256": "a24deebdc347b0c0179dcde44226552a89bc0522e0e9902edd9855e28730b3f1"
+  },
+  {
+    "condition_id": "px16-g13",
+    "font_px": 16,
+    "gray": 13,
+    "file": "evidence/screenshots/px16/px16-g13.png",
+    "sha256": "df5f25efd003ccf470050d0a50b1043540bd73663db28138d3cdcc6725fed2cc"
+  },
+  {
+    "condition_id": "px16-g14",
+    "font_px": 16,
+    "gray": 14,
+    "file": "evidence/screenshots/px16/px16-g14.png",
+    "sha256": "b5e3b464bb5074e2256f508cca1aba069ce09c6e06dc75983d1db7d77bb7887e"
+  },
+  {
+    "condition_id": "px16-g15",
+    "font_px": 16,
+    "gray": 15,
+    "file": "evidence/screenshots/px16/px16-g15.png",
+    "sha256": "d615b81df7a9a4ec83e00bef69f8cb757076fe1931d963544ac2030e76dc5530"
+  },
+  {
+    "condition_id": "px16-g16",
+    "font_px": 16,
+    "gray": 16,
+    "file": "evidence/screenshots/px16/px16-g16.png",
+    "sha256": "2ea499e78a5649b84378146ba1e3d6fca661df0d49cbfcf068d5560481213689"
+  },
+  {
+    "condition_id": "px16-g17",
+    "font_px": 16,
+    "gray": 17,
+    "file": "evidence/screenshots/px16/px16-g17.png",
+    "sha256": "da5b38bbd2c62177f68dd62d86ba29eba6db53c7484c8b32c4269a25fb8b5161"
+  },
+  {
+    "condition_id": "px16-g18",
+    "font_px": 16,
+    "gray": 18,
+    "file": "evidence/screenshots/px16/px16-g18.png",
+    "sha256": "a00a19d99800c6d63d0f238b3c7cd0aafe9e192ead3cb6b12a30f05fd71dac30"
+  },
+  {
+    "condition_id": "px16-g19",
+    "font_px": 16,
+    "gray": 19,
+    "file": "evidence/screenshots/px16/px16-g19.png",
+    "sha256": "c7d8d5328c8b8917e2315c2269ebe651fb6307dc2d935b26431d25ecad1a277a"
+  },
+  {
+    "condition_id": "px16-g20",
+    "font_px": 16,
+    "gray": 20,
+    "file": "evidence/screenshots/px16/px16-g20.png",
+    "sha256": "4d3c8b3f39bfce0d7fdde6af66116e8914db267a4aefd20119eb5bfc0b0a00c9"
+  },
+  {
+    "condition_id": "px16-g21",
+    "font_px": 16,
+    "gray": 21,
+    "file": "evidence/screenshots/px16/px16-g21.png",
+    "sha256": "6b37f98546c7238896cb823587315312271ccb22ccc5e75efc4324dc6bf25f0d"
+  },
+  {
+    "condition_id": "px16-g22",
+    "font_px": 16,
+    "gray": 22,
+    "file": "evidence/screenshots/px16/px16-g22.png",
+    "sha256": "9ed13e1500469f0fe2396422b82b5afe9e7467b08ebd5d28307b109ecaf20928"
+  },
+  {
+    "condition_id": "px16-g23",
+    "font_px": 16,
+    "gray": 23,
+    "file": "evidence/screenshots/px16/px16-g23.png",
+    "sha256": "38b7929476faf6dcf91e6c941b5187ccfc6cbd2dd5d0ca74bbe4fc6a2aa5bad4"
+  },
+  {
+    "condition_id": "px16-g24",
+    "font_px": 16,
+    "gray": 24,
+    "file": "evidence/screenshots/px16/px16-g24.png",
+    "sha256": "84d4c24f173361e76ae112a70e4975edf0bd05c1abf1145d835f4db339fb3097"
+  },
+  {
+    "condition_id": "px16-g25",
+    "font_px": 16,
+    "gray": 25,
+    "file": "evidence/screenshots/px16/px16-g25.png",
+    "sha256": "ed9896c88c4d27c3aada97774a2d40a920db5ba720a0fc26f4ca5045afebab47"
+  },
+  {
+    "condition_id": "px16-g26",
+    "font_px": 16,
+    "gray": 26,
+    "file": "evidence/screenshots/px16/px16-g26.png",
+    "sha256": "4c7719f1df96d56666be63fbf9b8cf1b6cc64977ea351d0c5301917c3890a9ea"
+  },
+  {
+    "condition_id": "px16-g27",
+    "font_px": 16,
+    "gray": 27,
+    "file": "evidence/screenshots/px16/px16-g27.png",
+    "sha256": "5add96ad6a072b8487a38da10d023790cbb723679fd225a1edd7133e25816cbf"
+  },
+  {
+    "condition_id": "px16-g28",
+    "font_px": 16,
+    "gray": 28,
+    "file": "evidence/screenshots/px16/px16-g28.png",
+    "sha256": "a88a448e66bad37542f7bdde28620a5e1b20b4f40566d5d53e3290525b1c7d01"
+  },
+  {
+    "condition_id": "px16-g29",
+    "font_px": 16,
+    "gray": 29,
+    "file": "evidence/screenshots/px16/px16-g29.png",
+    "sha256": "b566eecba23ca5fd361de91d852f9c6f0ec584b08c2ee3e776a645633966d344"
+  },
+  {
+    "condition_id": "px16-g30",
+    "font_px": 16,
+    "gray": 30,
+    "file": "evidence/screenshots/px16/px16-g30.png",
+    "sha256": "8f003b94c00bf0eb2a27144cfc773e697dd8b8cdd28fd0ff4c7bdf221b7a0961"
+  },
+  {
+    "condition_id": "px16-g31",
+    "font_px": 16,
+    "gray": 31,
+    "file": "evidence/screenshots/px16/px16-g31.png",
+    "sha256": "c4200163bbf25cab271f0abe6069d1e695c8640265b90b2c1ccf9fd5a8cf468c"
+  },
+  {
+    "condition_id": "px16-g32",
+    "font_px": 16,
+    "gray": 32,
+    "file": "evidence/screenshots/px16/px16-g32.png",
+    "sha256": "ef56f22d064b8d61a9902ba8518a5119bd371ef65341452b98081d3671185c22"
+  },
+  {
+    "condition_id": "px24-g01",
+    "font_px": 24,
+    "gray": 1,
+    "file": "evidence/screenshots/px24/px24-g01.png",
+    "sha256": "70608966ca1cb08b6ab7ae9ba64d1a748a3b64457faa551dc0e5a55fd224d4d8"
+  },
+  {
+    "condition_id": "px24-g02",
+    "font_px": 24,
+    "gray": 2,
+    "file": "evidence/screenshots/px24/px24-g02.png",
+    "sha256": "02010307dbedd332263aa800190e0dbaa9d3e59ab356154d41e2310b84bf6a53"
+  },
+  {
+    "condition_id": "px24-g03",
+    "font_px": 24,
+    "gray": 3,
+    "file": "evidence/screenshots/px24/px24-g03.png",
+    "sha256": "b63020d6328b3b8599b15807e7e7762844bf016de4d11085b2fdd252a156b024"
+  },
+  {
+    "condition_id": "px24-g04",
+    "font_px": 24,
+    "gray": 4,
+    "file": "evidence/screenshots/px24/px24-g04.png",
+    "sha256": "babb883bc9bd0312c82dcda119302f24724a7faa826f89b7a455cd3091f1eab0"
+  },
+  {
+    "condition_id": "px24-g05",
+    "font_px": 24,
+    "gray": 5,
+    "file": "evidence/screenshots/px24/px24-g05.png",
+    "sha256": "193b45d39bab7a1d85dc387f6017370c0df72b2276139a4e90b8b8968aa3380d"
+  },
+  {
+    "condition_id": "px24-g06",
+    "font_px": 24,
+    "gray": 6,
+    "file": "evidence/screenshots/px24/px24-g06.png",
+    "sha256": "08c672c952bb9899c197cca9a5a80eb23e0ebbdb8c0d184edeff3a7e1515935d"
+  },
+  {
+    "condition_id": "px24-g07",
+    "font_px": 24,
+    "gray": 7,
+    "file": "evidence/screenshots/px24/px24-g07.png",
+    "sha256": "45dc5c3223557de6e757a1af6b52610ccfe292ae4f7ba61dba9621669196d1a6"
+  },
+  {
+    "condition_id": "px24-g08",
+    "font_px": 24,
+    "gray": 8,
+    "file": "evidence/screenshots/px24/px24-g08.png",
+    "sha256": "59250df2c975505d206b05b8e87d4d63da37b5ea83684b28e183ac56a5fc7242"
+  },
+  {
+    "condition_id": "px24-g09",
+    "font_px": 24,
+    "gray": 9,
+    "file": "evidence/screenshots/px24/px24-g09.png",
+    "sha256": "0e721dde85ea17db52eaa70e2bffc88af6b7ffbc4f03aae444fec8fa54fef429"
+  },
+  {
+    "condition_id": "px24-g10",
+    "font_px": 24,
+    "gray": 10,
+    "file": "evidence/screenshots/px24/px24-g10.png",
+    "sha256": "df27cf46d3ad4547d87bd67ab4bff85fffdc8ac40511cd6ae9432c549dda4bee"
+  },
+  {
+    "condition_id": "px24-g11",
+    "font_px": 24,
+    "gray": 11,
+    "file": "evidence/screenshots/px24/px24-g11.png",
+    "sha256": "e03e77c8d941d758ed6d4e52fd40719e06863f0cb534cf3e3542d92c3e51119e"
+  },
+  {
+    "condition_id": "px24-g12",
+    "font_px": 24,
+    "gray": 12,
+    "file": "evidence/screenshots/px24/px24-g12.png",
+    "sha256": "fa9f0c2b73a110e506954c609e954c2744dd32ac7440b1a225f87fb5c7343632"
+  },
+  {
+    "condition_id": "px24-g13",
+    "font_px": 24,
+    "gray": 13,
+    "file": "evidence/screenshots/px24/px24-g13.png",
+    "sha256": "2f1f20a36aabf0ef250f84bbafaf94b8687e35c64765f97e4faab7bb701b91ed"
+  },
+  {
+    "condition_id": "px24-g14",
+    "font_px": 24,
+    "gray": 14,
+    "file": "evidence/screenshots/px24/px24-g14.png",
+    "sha256": "5d3c3e57fb1500bc2852419097543af6a75f02b19b907aca3f728ae18d24b602"
+  },
+  {
+    "condition_id": "px24-g15",
+    "font_px": 24,
+    "gray": 15,
+    "file": "evidence/screenshots/px24/px24-g15.png",
+    "sha256": "81b61fb36b3c5face8335fc04b5a3fb6f7c4de8763379550c50e38ca689de964"
+  },
+  {
+    "condition_id": "px24-g16",
+    "font_px": 24,
+    "gray": 16,
+    "file": "evidence/screenshots/px24/px24-g16.png",
+    "sha256": "9040273dafe9878d4d81699e5e52414fc23e50d68d77a5edad5fd16532ede71d"
+  },
+  {
+    "condition_id": "px24-g17",
+    "font_px": 24,
+    "gray": 17,
+    "file": "evidence/screenshots/px24/px24-g17.png",
+    "sha256": "9eec10cefb4b455e8e7d3f40d830fe880acb9d8681529241051adb84b2392a7a"
+  },
+  {
+    "condition_id": "px24-g18",
+    "font_px": 24,
+    "gray": 18,
+    "file": "evidence/screenshots/px24/px24-g18.png",
+    "sha256": "dd95a7201aec51ad11f78d2f5bfe1a93f5e92dc95a2f8bc167a371b80d862de8"
+  },
+  {
+    "condition_id": "px24-g19",
+    "font_px": 24,
+    "gray": 19,
+    "file": "evidence/screenshots/px24/px24-g19.png",
+    "sha256": "7161f6979ad61cdfbd40e19e1fd88015ba65330847194d31ef83b5a3c708c9e0"
+  },
+  {
+    "condition_id": "px24-g20",
+    "font_px": 24,
+    "gray": 20,
+    "file": "evidence/screenshots/px24/px24-g20.png",
+    "sha256": "e3dca3d08e9080a58801d360bee046db03f1b4f99a534dcb1a2ac7c815fc44cc"
+  },
+  {
+    "condition_id": "px24-g21",
+    "font_px": 24,
+    "gray": 21,
+    "file": "evidence/screenshots/px24/px24-g21.png",
+    "sha256": "7eb33c3834aae3c05b4ce35a647223c74011e7617f81aa2644d4e0ac67c00d95"
+  },
+  {
+    "condition_id": "px24-g22",
+    "font_px": 24,
+    "gray": 22,
+    "file": "evidence/screenshots/px24/px24-g22.png",
+    "sha256": "e80c6982a633f150aee448e56790bae67243f3da030c3217a1ea7e3a9d102494"
+  },
+  {
+    "condition_id": "px24-g23",
+    "font_px": 24,
+    "gray": 23,
+    "file": "evidence/screenshots/px24/px24-g23.png",
+    "sha256": "067ffebb07fa1d57fa74872501307a5fb70a05fc5973b42823a4e0846bc2fbfc"
+  },
+  {
+    "condition_id": "px24-g24",
+    "font_px": 24,
+    "gray": 24,
+    "file": "evidence/screenshots/px24/px24-g24.png",
+    "sha256": "24220c50597a87d4b6e84a69d8dbb117c919bbcd5d979782eb51b2d2657b9f9a"
+  },
+  {
+    "condition_id": "px24-g25",
+    "font_px": 24,
+    "gray": 25,
+    "file": "evidence/screenshots/px24/px24-g25.png",
+    "sha256": "62cb57d0a2f79099b0fda9cc922eb1cbaac544c37d6b3620017f973f35b1e8b3"
+  },
+  {
+    "condition_id": "px24-g26",
+    "font_px": 24,
+    "gray": 26,
+    "file": "evidence/screenshots/px24/px24-g26.png",
+    "sha256": "58f4938339716228b76130736e5532d2dc6a015006f953f1c30776352bbedcf0"
+  },
+  {
+    "condition_id": "px24-g27",
+    "font_px": 24,
+    "gray": 27,
+    "file": "evidence/screenshots/px24/px24-g27.png",
+    "sha256": "6165844b8e36fbf6963e4aebbb2d21860b368de4aeb862c5ea63e51261cc297f"
+  },
+  {
+    "condition_id": "px24-g28",
+    "font_px": 24,
+    "gray": 28,
+    "file": "evidence/screenshots/px24/px24-g28.png",
+    "sha256": "648061c9b5f826c75979bc0cc6316f1ca12bbeec4b77c0bddee57aa3f6ff5973"
+  },
+  {
+    "condition_id": "px24-g29",
+    "font_px": 24,
+    "gray": 29,
+    "file": "evidence/screenshots/px24/px24-g29.png",
+    "sha256": "278b4b54a2e24e7429c115c028008bdeae5c0cde205a3fe23e8f2e8af8d88c51"
+  },
+  {
+    "condition_id": "px24-g30",
+    "font_px": 24,
+    "gray": 30,
+    "file": "evidence/screenshots/px24/px24-g30.png",
+    "sha256": "63553ef20b46cea5a8c8d76d7125021ca9c94984bfce710360941a846915dd05"
+  },
+  {
+    "condition_id": "px24-g31",
+    "font_px": 24,
+    "gray": 31,
+    "file": "evidence/screenshots/px24/px24-g31.png",
+    "sha256": "c2615a925473c2d755689f2f2222e1000d1e3c2a12e830e9db1fe6ad7f77ee2e"
+  },
+  {
+    "condition_id": "px24-g32",
+    "font_px": 24,
+    "gray": 32,
+    "file": "evidence/screenshots/px24/px24-g32.png",
+    "sha256": "fbcd3c884bf7db3b37405914f341e9ddbc29cd5038b80cb9c91ce6fc2656f0c2"
+  },
+  {
+    "condition_id": "px32-g01",
+    "font_px": 32,
+    "gray": 1,
+    "file": "evidence/screenshots/px32/px32-g01.png",
+    "sha256": "aecd449c368041b5c7af3304aade90d970f539956fc855299dcf8db1f53ec159"
+  },
+  {
+    "condition_id": "px32-g02",
+    "font_px": 32,
+    "gray": 2,
+    "file": "evidence/screenshots/px32/px32-g02.png",
+    "sha256": "385d8d3f37817831177895f2bebdb165bf138893a1f40dd1c66f28b8d7f57d07"
+  },
+  {
+    "condition_id": "px32-g03",
+    "font_px": 32,
+    "gray": 3,
+    "file": "evidence/screenshots/px32/px32-g03.png",
+    "sha256": "e38e3ba8449ce2874cb17a984560608e3fa37111a87aa840fbbe447fa679c10a"
+  },
+  {
+    "condition_id": "px32-g04",
+    "font_px": 32,
+    "gray": 4,
+    "file": "evidence/screenshots/px32/px32-g04.png",
+    "sha256": "f25ec07c5446c942cfc3d9a68a66299e4b6d13c60f8234f0271d5158b95382b9"
+  },
+  {
+    "condition_id": "px32-g05",
+    "font_px": 32,
+    "gray": 5,
+    "file": "evidence/screenshots/px32/px32-g05.png",
+    "sha256": "9d7d6d936d393321fcb614f9a9d6526f95513667661c4a1c2ee5f5acb13621ef"
+  },
+  {
+    "condition_id": "px32-g06",
+    "font_px": 32,
+    "gray": 6,
+    "file": "evidence/screenshots/px32/px32-g06.png",
+    "sha256": "5bb6fcb0c27deb55ba4c9e9a0e4672032c3784e123d744f0e4fe97ba8f4d2866"
+  },
+  {
+    "condition_id": "px32-g07",
+    "font_px": 32,
+    "gray": 7,
+    "file": "evidence/screenshots/px32/px32-g07.png",
+    "sha256": "12cec2e9ce68721523d34a8d95c0dbc4323cc1ca7b37817e14c042b0b63a5f53"
+  },
+  {
+    "condition_id": "px32-g08",
+    "font_px": 32,
+    "gray": 8,
+    "file": "evidence/screenshots/px32/px32-g08.png",
+    "sha256": "f9210e1d74f2dc58ec114abee8377c47805b3948c6b0c7141f1156aafe28d0b6"
+  },
+  {
+    "condition_id": "px32-g09",
+    "font_px": 32,
+    "gray": 9,
+    "file": "evidence/screenshots/px32/px32-g09.png",
+    "sha256": "0cc0e5796ab414cb962ff8bb6fcd913e0b96a00e66bf94ba22af5633e782e7ce"
+  },
+  {
+    "condition_id": "px32-g10",
+    "font_px": 32,
+    "gray": 10,
+    "file": "evidence/screenshots/px32/px32-g10.png",
+    "sha256": "f8db3c0470d08baaeafdbcf16c876ae67d7479a983e627c4ef339e231bbff946"
+  },
+  {
+    "condition_id": "px32-g11",
+    "font_px": 32,
+    "gray": 11,
+    "file": "evidence/screenshots/px32/px32-g11.png",
+    "sha256": "3eb719a9dadb905c9a4f172d64c3cb1ccd5a167173233e54bcac3239823b5892"
+  },
+  {
+    "condition_id": "px32-g12",
+    "font_px": 32,
+    "gray": 12,
+    "file": "evidence/screenshots/px32/px32-g12.png",
+    "sha256": "8c515347bfbf66dcd42d8cd24103b38a990d306a376d43fcffe60cc0d6594e6e"
+  },
+  {
+    "condition_id": "px32-g13",
+    "font_px": 32,
+    "gray": 13,
+    "file": "evidence/screenshots/px32/px32-g13.png",
+    "sha256": "ccece71dda9278ec2b0703a6188bbac86741bc18caa20a061bd79c790974b723"
+  },
+  {
+    "condition_id": "px32-g14",
+    "font_px": 32,
+    "gray": 14,
+    "file": "evidence/screenshots/px32/px32-g14.png",
+    "sha256": "2a7fb463f23b0bb2eedb6302912a370e0f34dc24c8e06bb7ee8c4db112f87c7d"
+  },
+  {
+    "condition_id": "px32-g15",
+    "font_px": 32,
+    "gray": 15,
+    "file": "evidence/screenshots/px32/px32-g15.png",
+    "sha256": "ac874ac91f43a93d1d90a40d32a697ccfaa878d36eb7d822cea54ae50da2aa27"
+  },
+  {
+    "condition_id": "px32-g16",
+    "font_px": 32,
+    "gray": 16,
+    "file": "evidence/screenshots/px32/px32-g16.png",
+    "sha256": "750861042a6cb6919aba04ab11cc0031b8e0fa067c7caf40fa01410664b5d83a"
+  },
+  {
+    "condition_id": "px32-g17",
+    "font_px": 32,
+    "gray": 17,
+    "file": "evidence/screenshots/px32/px32-g17.png",
+    "sha256": "625db2d4912185f2e4c47d32a84d5708836fad8da500d98793125d5b7cb62d61"
+  },
+  {
+    "condition_id": "px32-g18",
+    "font_px": 32,
+    "gray": 18,
+    "file": "evidence/screenshots/px32/px32-g18.png",
+    "sha256": "784c5a67f54cfd9760ac2fa869184be7f07607a0cbaeea6a027fcb7de5443a69"
+  },
+  {
+    "condition_id": "px32-g19",
+    "font_px": 32,
+    "gray": 19,
+    "file": "evidence/screenshots/px32/px32-g19.png",
+    "sha256": "88903f6bd81ec1eafe354ccdd214e120d08079534732706a54b2ab29d28528c3"
+  },
+  {
+    "condition_id": "px32-g20",
+    "font_px": 32,
+    "gray": 20,
+    "file": "evidence/screenshots/px32/px32-g20.png",
+    "sha256": "3047424cbd7d75aa512d6b1eaa29a67ff5ede45bfa5b0ee0b458ad53e22766b4"
+  },
+  {
+    "condition_id": "px32-g21",
+    "font_px": 32,
+    "gray": 21,
+    "file": "evidence/screenshots/px32/px32-g21.png",
+    "sha256": "52367697f9b4fdb5c91120639ff4babc66827bad7be3a4312c6cc7233ba79f92"
+  },
+  {
+    "condition_id": "px32-g22",
+    "font_px": 32,
+    "gray": 22,
+    "file": "evidence/screenshots/px32/px32-g22.png",
+    "sha256": "d1412dfe72c02afb48f7c72b07de8ae3f259b22ba67709146f89b40b98f4e0e4"
+  },
+  {
+    "condition_id": "px32-g23",
+    "font_px": 32,
+    "gray": 23,
+    "file": "evidence/screenshots/px32/px32-g23.png",
+    "sha256": "645b1e1f21683ff6df2d4a0f8ae80e93ab7817b0a105395e4e67ec3eaa785384"
+  },
+  {
+    "condition_id": "px32-g24",
+    "font_px": 32,
+    "gray": 24,
+    "file": "evidence/screenshots/px32/px32-g24.png",
+    "sha256": "ac2cc9153c69b0130e96aabec4db8ea10b413d76be9e85c1bcd3f750446b49f9"
+  },
+  {
+    "condition_id": "px32-g25",
+    "font_px": 32,
+    "gray": 25,
+    "file": "evidence/screenshots/px32/px32-g25.png",
+    "sha256": "8747c0b30d5da98391f6c5912257dc9b5559a46a5b2cb276fb76b321d5eb6491"
+  },
+  {
+    "condition_id": "px32-g26",
+    "font_px": 32,
+    "gray": 26,
+    "file": "evidence/screenshots/px32/px32-g26.png",
+    "sha256": "ab5fa85d780846248731f71a339fc07bd357901ad852eb238e1c867b52443048"
+  },
+  {
+    "condition_id": "px32-g27",
+    "font_px": 32,
+    "gray": 27,
+    "file": "evidence/screenshots/px32/px32-g27.png",
+    "sha256": "5bd41aa127d6ec983b756af4e41d46bb9ddbfe66f933992225bedb4d4881d91f"
+  },
+  {
+    "condition_id": "px32-g28",
+    "font_px": 32,
+    "gray": 28,
+    "file": "evidence/screenshots/px32/px32-g28.png",
+    "sha256": "55a1b31219cb3025b08558384e92391d998f35ee57c90de5cae672c932883a59"
+  },
+  {
+    "condition_id": "px32-g29",
+    "font_px": 32,
+    "gray": 29,
+    "file": "evidence/screenshots/px32/px32-g29.png",
+    "sha256": "4962366a30bfda30615bd751eaeec52d07d0e6eca9813404cd8fec0033c38a5e"
+  },
+  {
+    "condition_id": "px32-g30",
+    "font_px": 32,
+    "gray": 30,
+    "file": "evidence/screenshots/px32/px32-g30.png",
+    "sha256": "d5d35626819bc667aa4504f88a7a5bc5760238f09e10038cead4908a5b72a49c"
+  },
+  {
+    "condition_id": "px32-g31",
+    "font_px": 32,
+    "gray": 31,
+    "file": "evidence/screenshots/px32/px32-g31.png",
+    "sha256": "d0ba86a965a49bd7c43ceb4c5b68c46a540b347cb1bbbba9a2b9d2c71f0ecd15"
+  },
+  {
+    "condition_id": "px32-g32",
+    "font_px": 32,
+    "gray": 32,
+    "file": "evidence/screenshots/px32/px32-g32.png",
+    "sha256": "8f40f9d05f3e136566029c2cc29642b058c75d2e6f9b828a6226695f9e62c6e5"
+  },
+  {
+    "condition_id": "px40-g01",
+    "font_px": 40,
+    "gray": 1,
+    "file": "evidence/screenshots/px40/px40-g01.png",
+    "sha256": "7d6ee8f2f65a5f1fcd5151b016e70e8c34b2a7c1edf60b9c38d019bd534b7a4c"
+  },
+  {
+    "condition_id": "px40-g02",
+    "font_px": 40,
+    "gray": 2,
+    "file": "evidence/screenshots/px40/px40-g02.png",
+    "sha256": "fda9798cd1cd3546e36ff1040f4a3db497000111ea8ae80f1d49b6393908fbae"
+  },
+  {
+    "condition_id": "px40-g03",
+    "font_px": 40,
+    "gray": 3,
+    "file": "evidence/screenshots/px40/px40-g03.png",
+    "sha256": "b43ecfaca8993cf03054d8c7cf433001c9f37c56e422e7eb747d1bd28ed6e65a"
+  },
+  {
+    "condition_id": "px40-g04",
+    "font_px": 40,
+    "gray": 4,
+    "file": "evidence/screenshots/px40/px40-g04.png",
+    "sha256": "5af5310cf4c83a124c2e6dbc1c98ca2e6e8b69d1a51377b61b6ad688911bd56a"
+  },
+  {
+    "condition_id": "px40-g05",
+    "font_px": 40,
+    "gray": 5,
+    "file": "evidence/screenshots/px40/px40-g05.png",
+    "sha256": "6affef4a6d282187361205c983b37690c7774de83babe6a829cbf4747c9fcc83"
+  },
+  {
+    "condition_id": "px40-g06",
+    "font_px": 40,
+    "gray": 6,
+    "file": "evidence/screenshots/px40/px40-g06.png",
+    "sha256": "657be74c9f48f6cb2f11a381577318b9afa85ccbfe3cb9c0ed17f7507e05663a"
+  },
+  {
+    "condition_id": "px40-g07",
+    "font_px": 40,
+    "gray": 7,
+    "file": "evidence/screenshots/px40/px40-g07.png",
+    "sha256": "a9dbd572e491097c8acba01c216c2c88ad4f68d296cf63b7ff6af684cfe6b36f"
+  },
+  {
+    "condition_id": "px40-g08",
+    "font_px": 40,
+    "gray": 8,
+    "file": "evidence/screenshots/px40/px40-g08.png",
+    "sha256": "3c7f462572d8411a93f7ee70e3db085f02b536c0102a6497c5cc9251b36e8ee6"
+  },
+  {
+    "condition_id": "px40-g09",
+    "font_px": 40,
+    "gray": 9,
+    "file": "evidence/screenshots/px40/px40-g09.png",
+    "sha256": "c09d7e07e0d058b25b8c7153ecd8dc174ee107eab58fe738f3d2e1f5c800b60e"
+  },
+  {
+    "condition_id": "px40-g10",
+    "font_px": 40,
+    "gray": 10,
+    "file": "evidence/screenshots/px40/px40-g10.png",
+    "sha256": "53bd422e0c3b549210862d873834f4708210309aa6bcbd4a783d31eac37d26d1"
+  },
+  {
+    "condition_id": "px40-g11",
+    "font_px": 40,
+    "gray": 11,
+    "file": "evidence/screenshots/px40/px40-g11.png",
+    "sha256": "adb5dd49c380c69dab3d02d2b3307fc59ec800f632df175b1a5201e1bc6a7828"
+  },
+  {
+    "condition_id": "px40-g12",
+    "font_px": 40,
+    "gray": 12,
+    "file": "evidence/screenshots/px40/px40-g12.png",
+    "sha256": "99db82029d68d1b4ce23a283fad58e8c4af13dbb48b5151646e6e4e21f1327c7"
+  },
+  {
+    "condition_id": "px40-g13",
+    "font_px": 40,
+    "gray": 13,
+    "file": "evidence/screenshots/px40/px40-g13.png",
+    "sha256": "226a985de7495e30d8c2c3922dcebff6576fca0f54129ce82438fd910b2462b7"
+  },
+  {
+    "condition_id": "px40-g14",
+    "font_px": 40,
+    "gray": 14,
+    "file": "evidence/screenshots/px40/px40-g14.png",
+    "sha256": "ffa22cb3a958ee979c7fceb18eb1cc48cfb4098221fa73ddf5ab884a5ed25b2b"
+  },
+  {
+    "condition_id": "px40-g15",
+    "font_px": 40,
+    "gray": 15,
+    "file": "evidence/screenshots/px40/px40-g15.png",
+    "sha256": "72eb7448d8fcd101298d6c933ab17181f85ec2b24f86e663e4023230bf5c3c8f"
+  },
+  {
+    "condition_id": "px40-g16",
+    "font_px": 40,
+    "gray": 16,
+    "file": "evidence/screenshots/px40/px40-g16.png",
+    "sha256": "f95ce474cbbd0de12644999e83e17877c435a83a7aa18049ed18f9258b0af3b9"
+  },
+  {
+    "condition_id": "px40-g17",
+    "font_px": 40,
+    "gray": 17,
+    "file": "evidence/screenshots/px40/px40-g17.png",
+    "sha256": "41db31f48690a38b45eed4a33e77b969a6ff40cb7338c0eafdde2e19be2f4559"
+  },
+  {
+    "condition_id": "px40-g18",
+    "font_px": 40,
+    "gray": 18,
+    "file": "evidence/screenshots/px40/px40-g18.png",
+    "sha256": "c3d0ad6428de3d81b114db1beca711a590a9e2fae171e40aefca34aafe0ef89c"
+  },
+  {
+    "condition_id": "px40-g19",
+    "font_px": 40,
+    "gray": 19,
+    "file": "evidence/screenshots/px40/px40-g19.png",
+    "sha256": "cb6d3da4ce554c0d1730aa487678661ff63ad5086070573afaec13e2b5985dfe"
+  },
+  {
+    "condition_id": "px40-g20",
+    "font_px": 40,
+    "gray": 20,
+    "file": "evidence/screenshots/px40/px40-g20.png",
+    "sha256": "08951401f6e451433c889f58c6c80534baa933ba4d4c16b40ac8f44ba6e2c982"
+  },
+  {
+    "condition_id": "px40-g21",
+    "font_px": 40,
+    "gray": 21,
+    "file": "evidence/screenshots/px40/px40-g21.png",
+    "sha256": "d14628ad72f1a3f7941461afec49ab1885921601807a9a9a01a4753e20cfdc7a"
+  },
+  {
+    "condition_id": "px40-g22",
+    "font_px": 40,
+    "gray": 22,
+    "file": "evidence/screenshots/px40/px40-g22.png",
+    "sha256": "ac2f139786f5e49ed45c5d27845d497833433afe8ea5e0ed592dc3ed5244897a"
+  },
+  {
+    "condition_id": "px40-g23",
+    "font_px": 40,
+    "gray": 23,
+    "file": "evidence/screenshots/px40/px40-g23.png",
+    "sha256": "9f3224fb4254c90499eb6f075618aabb5c6b28cb766f99d8858088fa69b577b6"
+  },
+  {
+    "condition_id": "px40-g24",
+    "font_px": 40,
+    "gray": 24,
+    "file": "evidence/screenshots/px40/px40-g24.png",
+    "sha256": "720bf8fde1695d302536aaa0b296188cb5949cc15e103473ba88ebc867ae051c"
+  },
+  {
+    "condition_id": "px40-g25",
+    "font_px": 40,
+    "gray": 25,
+    "file": "evidence/screenshots/px40/px40-g25.png",
+    "sha256": "72b5cbe335f970cb2bbf8dd8e0d4de0f4583bbfadfdf0d6c70c8964f8fe50ed1"
+  },
+  {
+    "condition_id": "px40-g26",
+    "font_px": 40,
+    "gray": 26,
+    "file": "evidence/screenshots/px40/px40-g26.png",
+    "sha256": "07c4115d8be595a8681665e0af1c494bc157ff984200e1972de9579279e437a8"
+  },
+  {
+    "condition_id": "px40-g27",
+    "font_px": 40,
+    "gray": 27,
+    "file": "evidence/screenshots/px40/px40-g27.png",
+    "sha256": "a70530bc6445c9d623a80c2e91c0e1b0fcb534ed2dc0a1dafaf01312e027aabb"
+  },
+  {
+    "condition_id": "px40-g28",
+    "font_px": 40,
+    "gray": 28,
+    "file": "evidence/screenshots/px40/px40-g28.png",
+    "sha256": "782778b1c6a80228d39ab3b7562b2aafa66d7185d2baf2a618e86d6543498c40"
+  },
+  {
+    "condition_id": "px40-g29",
+    "font_px": 40,
+    "gray": 29,
+    "file": "evidence/screenshots/px40/px40-g29.png",
+    "sha256": "3b454b20e2a5c6d23fd8d7f22eefc1e66ca73b80b783501b23b6ce64d621c1c1"
+  },
+  {
+    "condition_id": "px40-g30",
+    "font_px": 40,
+    "gray": 30,
+    "file": "evidence/screenshots/px40/px40-g30.png",
+    "sha256": "993121a3515ad3664a5727a6526f6f912db62232534ae7e9975c17e70ce52a61"
+  },
+  {
+    "condition_id": "px40-g31",
+    "font_px": 40,
+    "gray": 31,
+    "file": "evidence/screenshots/px40/px40-g31.png",
+    "sha256": "557928a6da0f60ec86fca315dda3edef0414264efb859ccadac8ef1f41eb888f"
+  },
+  {
+    "condition_id": "px40-g32",
+    "font_px": 40,
+    "gray": 32,
+    "file": "evidence/screenshots/px40/px40-g32.png",
+    "sha256": "986ec2bb93b2f3d9eee9473f14622aee3340556b75717cb49e11cf03f37294a8"
+  },
+  {
+    "condition_id": "px48-g01",
+    "font_px": 48,
+    "gray": 1,
+    "file": "evidence/screenshots/px48/px48-g01.png",
+    "sha256": "f68ad17bbdb287f0d63c5f588de2cea3565a53d06efdd749ef3834fcad7929ac"
+  },
+  {
+    "condition_id": "px48-g02",
+    "font_px": 48,
+    "gray": 2,
+    "file": "evidence/screenshots/px48/px48-g02.png",
+    "sha256": "80a1b355bcbba7039d34768a11c20f9ca95c8b593a2b6c6907038b902700c9e7"
+  },
+  {
+    "condition_id": "px48-g03",
+    "font_px": 48,
+    "gray": 3,
+    "file": "evidence/screenshots/px48/px48-g03.png",
+    "sha256": "7fb4d1d80f7195c6f218ac9d264a9ce037e175793f8d35a4445e75e70ce2bc32"
+  },
+  {
+    "condition_id": "px48-g04",
+    "font_px": 48,
+    "gray": 4,
+    "file": "evidence/screenshots/px48/px48-g04.png",
+    "sha256": "f15f0522cf6436fe6ec6cb2bfe7f2e6c3156188b935378cc1123022031266213"
+  },
+  {
+    "condition_id": "px48-g05",
+    "font_px": 48,
+    "gray": 5,
+    "file": "evidence/screenshots/px48/px48-g05.png",
+    "sha256": "3c417820dbad11b9ef81d91b9125e55b9853abeeefd185e8ec4c9022334f7cdd"
+  },
+  {
+    "condition_id": "px48-g06",
+    "font_px": 48,
+    "gray": 6,
+    "file": "evidence/screenshots/px48/px48-g06.png",
+    "sha256": "3de32a922ba515aedfddb3b18ea501f68a539703502798895727feaeeb492e50"
+  },
+  {
+    "condition_id": "px48-g07",
+    "font_px": 48,
+    "gray": 7,
+    "file": "evidence/screenshots/px48/px48-g07.png",
+    "sha256": "c6485cdf188304ff4bdb7fd457b18af8307c1249e5477b1e6837af8a8586174f"
+  },
+  {
+    "condition_id": "px48-g08",
+    "font_px": 48,
+    "gray": 8,
+    "file": "evidence/screenshots/px48/px48-g08.png",
+    "sha256": "e729e51199ca44c98ca795713d5df7a7e4a56bfeac1fa86df1fa1f14117e6c47"
+  },
+  {
+    "condition_id": "px48-g09",
+    "font_px": 48,
+    "gray": 9,
+    "file": "evidence/screenshots/px48/px48-g09.png",
+    "sha256": "c67355c874d31ad0af8fde16c2e83e7e496abbc69f6f1d8302c7342a0a15de39"
+  },
+  {
+    "condition_id": "px48-g10",
+    "font_px": 48,
+    "gray": 10,
+    "file": "evidence/screenshots/px48/px48-g10.png",
+    "sha256": "934a329991112017d2565d66e561e4d91c2893332818f876bd35516b55192c16"
+  },
+  {
+    "condition_id": "px48-g11",
+    "font_px": 48,
+    "gray": 11,
+    "file": "evidence/screenshots/px48/px48-g11.png",
+    "sha256": "a74f790f199e8d03cb69c8ae3c1ac14dcda3e4beab4506c82d2c91eb307145e0"
+  },
+  {
+    "condition_id": "px48-g12",
+    "font_px": 48,
+    "gray": 12,
+    "file": "evidence/screenshots/px48/px48-g12.png",
+    "sha256": "7ed7234776bc4f8c2d09d98b62aabb46c875c5ffd3293532aac3711c47f73166"
+  },
+  {
+    "condition_id": "px48-g13",
+    "font_px": 48,
+    "gray": 13,
+    "file": "evidence/screenshots/px48/px48-g13.png",
+    "sha256": "31a984ee8edaa662058c5ea1c0c2ef17af8fcded201aebc11bff5d77b95ef1f3"
+  },
+  {
+    "condition_id": "px48-g14",
+    "font_px": 48,
+    "gray": 14,
+    "file": "evidence/screenshots/px48/px48-g14.png",
+    "sha256": "3c6d7dfcb5ee950821461d5593c201afb5a746438d7cfd22cb00bbcd64eb3851"
+  },
+  {
+    "condition_id": "px48-g15",
+    "font_px": 48,
+    "gray": 15,
+    "file": "evidence/screenshots/px48/px48-g15.png",
+    "sha256": "8a095263389fab3f26d0fafa71ab8e8b080c4497af6e67a2c73cf084729065e4"
+  },
+  {
+    "condition_id": "px48-g16",
+    "font_px": 48,
+    "gray": 16,
+    "file": "evidence/screenshots/px48/px48-g16.png",
+    "sha256": "b4c4614d5083d5c06e76ed97ef71147e1729c2bae18cc93dfaf5906ba185c151"
+  },
+  {
+    "condition_id": "px48-g17",
+    "font_px": 48,
+    "gray": 17,
+    "file": "evidence/screenshots/px48/px48-g17.png",
+    "sha256": "44251bddd1d65eccf93c923f5b79f5594a3e6769bf17d8b430ceec71cb01d3be"
+  },
+  {
+    "condition_id": "px48-g18",
+    "font_px": 48,
+    "gray": 18,
+    "file": "evidence/screenshots/px48/px48-g18.png",
+    "sha256": "967ffd8594d8ff63b506f821321f26420f5c80bc2bc2f7274dc58494cebb1a19"
+  },
+  {
+    "condition_id": "px48-g19",
+    "font_px": 48,
+    "gray": 19,
+    "file": "evidence/screenshots/px48/px48-g19.png",
+    "sha256": "0fbb5738a311421d64e4fcaf2a40b8c75b575d1514d968c2a247b4c719e62f73"
+  },
+  {
+    "condition_id": "px48-g20",
+    "font_px": 48,
+    "gray": 20,
+    "file": "evidence/screenshots/px48/px48-g20.png",
+    "sha256": "5636d32bc586520477d8cf896b3b954f4b9640ebe803ae8eb6e0c60735dc1d52"
+  },
+  {
+    "condition_id": "px48-g21",
+    "font_px": 48,
+    "gray": 21,
+    "file": "evidence/screenshots/px48/px48-g21.png",
+    "sha256": "29fe33f50ad6c7f8a091a531b2bd95f0d3678f7dfe11dd63aa74211242c02230"
+  },
+  {
+    "condition_id": "px48-g22",
+    "font_px": 48,
+    "gray": 22,
+    "file": "evidence/screenshots/px48/px48-g22.png",
+    "sha256": "871607aac79ca3a9d9736d30a932ac86c1c16f5c52f7f2930ea5e850b5f33f9d"
+  },
+  {
+    "condition_id": "px48-g23",
+    "font_px": 48,
+    "gray": 23,
+    "file": "evidence/screenshots/px48/px48-g23.png",
+    "sha256": "62bc4438c62bca949d69681162871de2a7585a45760f74ceb4db923a47360a20"
+  },
+  {
+    "condition_id": "px48-g24",
+    "font_px": 48,
+    "gray": 24,
+    "file": "evidence/screenshots/px48/px48-g24.png",
+    "sha256": "0810b688753f394498b8927a65b748012e5e3f1a65a5188999859e84ae582d32"
+  },
+  {
+    "condition_id": "px48-g25",
+    "font_px": 48,
+    "gray": 25,
+    "file": "evidence/screenshots/px48/px48-g25.png",
+    "sha256": "558411d74fad715e473f9ff19571749a9e408a88f042d8da4d05163af698a98e"
+  },
+  {
+    "condition_id": "px48-g26",
+    "font_px": 48,
+    "gray": 26,
+    "file": "evidence/screenshots/px48/px48-g26.png",
+    "sha256": "a4553dd1e2774c00b3702918e08ee5ce39cbf95a7b4f30cad885ef2d6d171f41"
+  },
+  {
+    "condition_id": "px48-g27",
+    "font_px": 48,
+    "gray": 27,
+    "file": "evidence/screenshots/px48/px48-g27.png",
+    "sha256": "20f2be2f6a6dd49291f820f773cd11e9177640aff8b30f6d79a633041050031f"
+  },
+  {
+    "condition_id": "px48-g28",
+    "font_px": 48,
+    "gray": 28,
+    "file": "evidence/screenshots/px48/px48-g28.png",
+    "sha256": "67d09b84495d1f10db43a3994f7c45ee571331cab0a78d55d0f7ef2f61a223f0"
+  },
+  {
+    "condition_id": "px48-g29",
+    "font_px": 48,
+    "gray": 29,
+    "file": "evidence/screenshots/px48/px48-g29.png",
+    "sha256": "e2b7f5c20a948c28e123ffbd00928920a7bff9644bcf3ba126c53c8ee9c5b98d"
+  },
+  {
+    "condition_id": "px48-g30",
+    "font_px": 48,
+    "gray": 30,
+    "file": "evidence/screenshots/px48/px48-g30.png",
+    "sha256": "acac9f25cd4e86a86434da521dceb0ac66ffea52be0cb9144544f63a4f011415"
+  },
+  {
+    "condition_id": "px48-g31",
+    "font_px": 48,
+    "gray": 31,
+    "file": "evidence/screenshots/px48/px48-g31.png",
+    "sha256": "6f0f3833711b7bc934f9646ad850793127853814ba20e6816af034cdec577350"
+  },
+  {
+    "condition_id": "px48-g32",
+    "font_px": 48,
+    "gray": 32,
+    "file": "evidence/screenshots/px48/px48-g32.png",
+    "sha256": "7f87ca05426d0151f7b6f67218284b45a067295c29f2a25a8f936ba6683dadbe"
+  },
+  {
+    "condition_id": "px64-g01",
+    "font_px": 64,
+    "gray": 1,
+    "file": "evidence/screenshots/px64/px64-g01.png",
+    "sha256": "51bbd09e26d3e2ce8628ecde52585e68dbd82638598f46297f8587b2a412e0a5"
+  },
+  {
+    "condition_id": "px64-g02",
+    "font_px": 64,
+    "gray": 2,
+    "file": "evidence/screenshots/px64/px64-g02.png",
+    "sha256": "65c3be34fc170a00d89b0dcb856816aa3317f482a96a113fd2d8415d58bcc98c"
+  },
+  {
+    "condition_id": "px64-g03",
+    "font_px": 64,
+    "gray": 3,
+    "file": "evidence/screenshots/px64/px64-g03.png",
+    "sha256": "66f4905d68fcf0cdea033ed7b6910a0f43d38ae4169f4ee0722955213b4cd456"
+  },
+  {
+    "condition_id": "px64-g04",
+    "font_px": 64,
+    "gray": 4,
+    "file": "evidence/screenshots/px64/px64-g04.png",
+    "sha256": "ef14aca01b5e74f7814b87bc204357f4401fd1aace940735e2251fb8a4f84c4d"
+  },
+  {
+    "condition_id": "px64-g05",
+    "font_px": 64,
+    "gray": 5,
+    "file": "evidence/screenshots/px64/px64-g05.png",
+    "sha256": "17163cc05bb4e2d26b38e3cb091a1d78aaed6cf31bc4276c596c96d2caa215ec"
+  },
+  {
+    "condition_id": "px64-g06",
+    "font_px": 64,
+    "gray": 6,
+    "file": "evidence/screenshots/px64/px64-g06.png",
+    "sha256": "4dfcec229ac73e0f66d28f21b5ac6a864118caee00411c335543d25ac20829d1"
+  },
+  {
+    "condition_id": "px64-g07",
+    "font_px": 64,
+    "gray": 7,
+    "file": "evidence/screenshots/px64/px64-g07.png",
+    "sha256": "5877cb8e13e67d21de98f7c25a2d11f232d55ed2485877c0798ea54f9c5a2320"
+  },
+  {
+    "condition_id": "px64-g08",
+    "font_px": 64,
+    "gray": 8,
+    "file": "evidence/screenshots/px64/px64-g08.png",
+    "sha256": "23bc8fdf501b6e581171b6d2c0fd45b9ace190f7f36178415c4b856858cf2a14"
+  },
+  {
+    "condition_id": "px64-g09",
+    "font_px": 64,
+    "gray": 9,
+    "file": "evidence/screenshots/px64/px64-g09.png",
+    "sha256": "b0ce4469e7e7ca5c73f9ce9caf5942ebd7bb5b6a08519cae77753ff3e7cfe0a2"
+  },
+  {
+    "condition_id": "px64-g10",
+    "font_px": 64,
+    "gray": 10,
+    "file": "evidence/screenshots/px64/px64-g10.png",
+    "sha256": "abbd7045df53e39a6801b0574bd84eb29c4b064c76cf7f39bd46b24563a33142"
+  },
+  {
+    "condition_id": "px64-g11",
+    "font_px": 64,
+    "gray": 11,
+    "file": "evidence/screenshots/px64/px64-g11.png",
+    "sha256": "59858107102da073012b3a09ae608e7b6032ff970e435746fc9e13bcba864662"
+  },
+  {
+    "condition_id": "px64-g12",
+    "font_px": 64,
+    "gray": 12,
+    "file": "evidence/screenshots/px64/px64-g12.png",
+    "sha256": "db4a505379649de30f7b0128c5d788576fb331ac342e34b9492c10df51da409e"
+  },
+  {
+    "condition_id": "px64-g13",
+    "font_px": 64,
+    "gray": 13,
+    "file": "evidence/screenshots/px64/px64-g13.png",
+    "sha256": "97e25696712f6e3b3caf0baea5f0fa73dea291caa09f9cba422d50b1ed793b39"
+  },
+  {
+    "condition_id": "px64-g14",
+    "font_px": 64,
+    "gray": 14,
+    "file": "evidence/screenshots/px64/px64-g14.png",
+    "sha256": "014be7c23b398cc87d159c4a5c4ac58004a5a6826c62546856f7f812c6f67ae2"
+  },
+  {
+    "condition_id": "px64-g15",
+    "font_px": 64,
+    "gray": 15,
+    "file": "evidence/screenshots/px64/px64-g15.png",
+    "sha256": "9f01fd60c0cf304c23ea565805877ee55abce71c49f137170f06200fb7f8c7ef"
+  },
+  {
+    "condition_id": "px64-g16",
+    "font_px": 64,
+    "gray": 16,
+    "file": "evidence/screenshots/px64/px64-g16.png",
+    "sha256": "d472e3251223ea72a4c985fcbb65be8f93c9743f29a1882c607a316ae1f55e14"
+  },
+  {
+    "condition_id": "px64-g17",
+    "font_px": 64,
+    "gray": 17,
+    "file": "evidence/screenshots/px64/px64-g17.png",
+    "sha256": "17fffef0a4e94bccde4510c1e124816f1dc394f6060049885cba1859a8abd0da"
+  },
+  {
+    "condition_id": "px64-g18",
+    "font_px": 64,
+    "gray": 18,
+    "file": "evidence/screenshots/px64/px64-g18.png",
+    "sha256": "f4e665c6d00e84fa15aa4a6d7f51866710c510f6077c88826d0e692375ce39df"
+  },
+  {
+    "condition_id": "px64-g19",
+    "font_px": 64,
+    "gray": 19,
+    "file": "evidence/screenshots/px64/px64-g19.png",
+    "sha256": "7e4c77ca7263284c237f72eb14288d1d0f61a6bb3e97071313c4f936b0761aef"
+  },
+  {
+    "condition_id": "px64-g20",
+    "font_px": 64,
+    "gray": 20,
+    "file": "evidence/screenshots/px64/px64-g20.png",
+    "sha256": "dc8bacb91f61e33d6c7e4e1543402580b7c56860e63783de1a71b6ea658aedca"
+  },
+  {
+    "condition_id": "px64-g21",
+    "font_px": 64,
+    "gray": 21,
+    "file": "evidence/screenshots/px64/px64-g21.png",
+    "sha256": "6a3257443c6ae1e3f8201f9050468b00c48cc2f70f6b30039a6760f9733810fa"
+  },
+  {
+    "condition_id": "px64-g22",
+    "font_px": 64,
+    "gray": 22,
+    "file": "evidence/screenshots/px64/px64-g22.png",
+    "sha256": "62a6cadc330a6809a6413e16b6155a7f881d1421238f198cd58213a41b357aad"
+  },
+  {
+    "condition_id": "px64-g23",
+    "font_px": 64,
+    "gray": 23,
+    "file": "evidence/screenshots/px64/px64-g23.png",
+    "sha256": "d3b2b0847140af464a5e90007023494f13df96fecef13f91b6ad1f4ce35d28c4"
+  },
+  {
+    "condition_id": "px64-g24",
+    "font_px": 64,
+    "gray": 24,
+    "file": "evidence/screenshots/px64/px64-g24.png",
+    "sha256": "f6f29ca05821e13b829c3bc62f021b711b8ba5080ce7beeff12fe25afb316016"
+  },
+  {
+    "condition_id": "px64-g25",
+    "font_px": 64,
+    "gray": 25,
+    "file": "evidence/screenshots/px64/px64-g25.png",
+    "sha256": "1c6ac3a3eef9fef79643edead98869cc4a9713ff31ae06234baf5c9056d58380"
+  },
+  {
+    "condition_id": "px64-g26",
+    "font_px": 64,
+    "gray": 26,
+    "file": "evidence/screenshots/px64/px64-g26.png",
+    "sha256": "4edf54b89c3f2b2eb3e55553c31baf422ff78c90dfd370e37de8972d2024d44b"
+  },
+  {
+    "condition_id": "px64-g27",
+    "font_px": 64,
+    "gray": 27,
+    "file": "evidence/screenshots/px64/px64-g27.png",
+    "sha256": "baf2a0424d70973d8d0729bcbf9252ac3952e1c499dca518f82cc05c20c512c3"
+  },
+  {
+    "condition_id": "px64-g28",
+    "font_px": 64,
+    "gray": 28,
+    "file": "evidence/screenshots/px64/px64-g28.png",
+    "sha256": "96ec93da347c1fe5528b57e3926d05e3b7442eaf8aeeeb4f2903fef4572fa52f"
+  },
+  {
+    "condition_id": "px64-g29",
+    "font_px": 64,
+    "gray": 29,
+    "file": "evidence/screenshots/px64/px64-g29.png",
+    "sha256": "243207857f570a4f3260584ddc61f9471b8e21e4a1243c8733ef54aa6e887959"
+  },
+  {
+    "condition_id": "px64-g30",
+    "font_px": 64,
+    "gray": 30,
+    "file": "evidence/screenshots/px64/px64-g30.png",
+    "sha256": "dc744d93da658be140a3f0ed8b663dd85cbeb73896eb577639d065fb0e9c5f12"
+  },
+  {
+    "condition_id": "px64-g31",
+    "font_px": 64,
+    "gray": 31,
+    "file": "evidence/screenshots/px64/px64-g31.png",
+    "sha256": "cfe38eaa2960cac272957c55bfa97c21b48bc50829663cec74ff36bb280f67a7"
+  },
+  {
+    "condition_id": "px64-g32",
+    "font_px": 64,
+    "gray": 32,
+    "file": "evidence/screenshots/px64/px64-g32.png",
+    "sha256": "f78b49d43d6c2ed983ed1f569b8aa968e8b48bb1070851c08052e88ba04dd08d"
+  }
+]

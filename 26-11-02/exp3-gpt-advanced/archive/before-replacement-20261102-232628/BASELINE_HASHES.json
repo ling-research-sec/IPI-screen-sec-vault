@@ -1,0 +1,14 @@
+{
+  "实验说明.md": "07239da7b6a2746bdeca445f466063bd031c8a6474ed0923f2a47e26806da137",
+  "GPT_Advanced_实验结果03.xlsx": "34c7d1f65651a4b4a4a5575330e00ab1d3fcd535c121f5770fb2eb6111009caa",
+  "evidence/scored_records.json": "fe91364d8834eb25155cc2415b41317b2424900ad4481d24afe14ed14fe263d2",
+  "evidence/anomalies.json": "aaa8eb35146bf59ffbad9d55ae29a9e0adbb974145a9c1c9b7230aabcb2284fc",
+  "evidence/异常补测清单.md": "b33854719690927ed409b6f410e41034c3b0e962e863c6fca83e9313327aa931",
+  "evidence/inventory.json": "2f5f4c8e1437864664d88125b133796e2db673565e4c7982e080fa0a684a3417",
+  "evidence/verification.json": "c092af0fa4548e96ea3bc5483a91ad1c857eab1509356b47074ee0f503c9d163",
+  "scripts/build.mjs": "a238a7fb99e8b7847f143d95a7d9e2d51a596e21dfca5ed376b903e80b83bfbc",
+  "scripts/verify.py": "84180fb6efc5d54a34fce11b550506965a2db44e64c118b8fd9fd19ffc87d7e0",
+  "scripts/extract.py": "022ae4747ab6be4b77c862c3a9be68c1194c412a52d393b59679e4088ca1a290",
+  "scripts/prepare.py": "f05247cc8ba89467115958e1ba42f1efea1d5f06b7d532b0b1bc45da66e690c0",
+  "scripts/score.py": "52943c921378f8f6b9d18f3606f61aeb63db3e326e001f995d002859daa42a55"
+}

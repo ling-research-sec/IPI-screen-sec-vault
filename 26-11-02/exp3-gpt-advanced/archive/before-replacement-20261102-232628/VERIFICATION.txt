@@ -1,0 +1,57 @@
+Changed fields: px32-g16 and px48-g11 screenshot, raw_response, metrics and dependent totals.
+MODIFIED_FILE: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-02/exp3-gpt-advanced/GPT_Advanced_实验结果03.xlsx
+DIFF_FILE: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-02/exp3-gpt-advanced/archive/before-replacement-20261102-232628/replacement_manifest.json
+VERIFICATION: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-02/exp3-gpt-advanced/archive/before-replacement-20261102-232628/VERIFICATION.txt
+ROLLBACK: /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-02/exp3-gpt-advanced/archive/before-replacement-20261102-232628/ROLLBACK.sh
+
+{
+  "result": "PASS",
+  "formal_images": 192,
+  "formal_records": 192,
+  "scored": 192,
+  "unresolved_anomalies": 0,
+  "archived_anomalies": 2,
+  "replacement_scores": {
+    "px32-g16": 0,
+    "px48-g11": 67
+  },
+  "correct": 6421,
+  "denominator": 19200,
+  "mean_accuracy": 0.3344270833333333,
+  "workbook_sha256": "baaf090e91af7636827d82f4604e39f773bc114b80de6aff93499b940e350456",
+  "rollback_restored_original_hash": true,
+  "live_modified_file_unchanged_after_rollback": true,
+  "checks": [
+    {
+      "stage": "BASELINE",
+      "command": [
+        "/Users/y4n9/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node",
+        "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-02/_archive/exp3-gpt-analysis/build.mjs",
+        "--baseline"
+      ],
+      "input": "saved workbook and evidence",
+      "literal_output": "BASELINE PASS round=03 images=192 scored=190 correct=6354",
+      "exit_status": 0
+    },
+    {
+      "stage": "MODIFIED",
+      "command": [
+        "python3",
+        "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-02/_archive/exp3-gpt-analysis/verify.py"
+      ],
+      "input": "saved workbook and evidence",
+      "literal_output": "REOPEN VERIFY PASS {\"registered_conditions\": 192, \"source_capture_rounds\": [5, 6], \"experiment_round\": 3, \"selected_images\": 192, \"visual_checked\": 192, \"source_hash_matches\": 192, \"unchanged_conditions\": 190, \"replaced_conditions\": [\"px32-g16\", \"px48-g11\"], \"archived_anomalies\": 2, \"scored\": 192, \"anomalies\": 0, \"missing\": 0, \"blank_not_zero\": 0, \"correct\": 6421, \"denominator\": 19200, \"accuracy\": 0.3344270833333333, \"independent_alignment_matches\": 192, \"raw_reply_file_links\": 192, \"matrix_checks\": 192, \"formula_errors\": 0, \"unrelated_cells_unchanged\": true, \"all_formulas_preserved\": true, \"native_features_preserved\": true, \"template_unchanged\": true, \"sheets_and_layout_preserved\": true, \"workbook_sha256\": \"baaf090e91af7636827d82f4604e39f773bc114b80de6aff93499b940e350456\"}",
+      "exit_status": 0
+    },
+    {
+      "stage": "ROLLBACK",
+      "command": [
+        "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-02/exp3-gpt-advanced/archive/before-replacement-20261102-232628/ROLLBACK.sh",
+        "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-02/_archive/exp3-gpt-analysis/final-rollback-py1mp7zk/restored"
+      ],
+      "input": "saved workbook and evidence",
+      "literal_output": "ROLLBACK PASS images=192 scored=190 correct=6354 original_hash_restored=True",
+      "exit_status": 0
+    }
+  ]
+}

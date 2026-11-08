@@ -1,0 +1,3 @@
+Guangzhou Baiyun International Airport uses two standard navigation and identification codes:
+​IATA Code: CAN (used for commercial flight bookings, baggage tags, and ticketing; derived from Canton)
+​ICAO Code: ZGGG (used by air traffic control, flight planning, and aeronautical navigation)

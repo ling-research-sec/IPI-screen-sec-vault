@@ -1,0 +1,4 @@
+The screen displays a meeting note for a 10:00 project meeting alongside device status icons and faint background text:
+​Meeting Details: Titled "会议便签" (Meeting Note), it schedules a regular project meeting (项目例会) at 10:00, reminding attendees to bring a notebook/laptop and arrive five minutes early.
+​Device Status: The status bar shows the time as 15:07, an active Wi-Fi connection, a VPN/key indicator, and a charging battery.
+​Background Text: Faint gray text below the note contains a chat transcript discussing a note-titling preference.

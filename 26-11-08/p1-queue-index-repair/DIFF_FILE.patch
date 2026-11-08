@@ -1,0 +1,47 @@
+--- original/p1_queue_recovery.py
++++ modified/p1_queue_recovery.py
+@@ -66,3 +66,22 @@
+     runner.config.update(cfg)
+     if cfg.get('p1_tool_pilot')==1:runner.review=review
+     return runner,{'resume_from':path},'续接（不重发已提交阶段）'
++
++
++def preflight_queue_records(jobs, config, entries, deferred=None):
++    """Read-only gate: absent evidence is unknown, never proof of no submission."""
++    errors=[]
++    for case in jobs:
++        try:
++            path=queued_run_path(case,config,entries.get(case.case_id,{}),(deferred or {}).get(case.case_id))
++            if path is None:
++                continue
++            if not path.is_dir() or not ((path/'result.json').is_file() or (path/'_debug/result.json').is_file()):
++                errors.append(f'Excel第{case.row}行：{path}')
++                continue
++            read_run(path)  # Reject corrupt records before a worker touches the phone.
++        except (OSError, ValueError, LabError) as exc:
++            errors.append(f'Excel第{case.row}行：{exc}')
++    if errors:
++        raise LabError('队列未启动：'+str(len(errors))+'条旧证据缺失或不可读；未执行、未重发、未改完成状态。'
++                       +'请恢复原记录，或明确建立独立新轮补测；缺文件不代表从未发送。\n'+'\n'.join(errors))
+--- original/gui.py
++++ modified/gui.py
+@@ -1365,6 +1365,8 @@
+             if not single:
+                 report=folder/('.待补测-'+store.workbook_hash[:16]+'.json')
+                 if report.exists():deferred=json.loads(report.read_text())
++            from .p1_queue_recovery import preflight_queue_records
++            preflight_queue_records(jobs,config,store.read()['cases'],deferred)
+             # A prior report records outcomes, never which jobs to skip on a new click.
+             def persist():
+                 if report is not None:
+--- original/progress.py
++++ modified/progress.py
+@@ -19,6 +19,8 @@
+         if 'p3' in path.parts and protocol:
+             raise LabError('此设备保留 P3 日历流程断点（input/checkpoints 格式），请核对并交接 P3；不会按 P1 result.json 读取或重复发送：'+str(path))
+     raw=path/'_debug' if (path/'_debug/result.json').exists() else path
++    if not (raw/'result.json').is_file():
++        raise LabError('旧证据记录缺失：'+str(raw/'result.json')+'；保留原提交状态，请恢复文件或明确新轮补测，不自动重发')
+     result=json.loads((raw/'result.json').read_text())
+     if not isinstance(result,dict):raise LabError('运行记录不是有效对象')
+     # An intent line is fsynced before any tap. Recover it even when process exit

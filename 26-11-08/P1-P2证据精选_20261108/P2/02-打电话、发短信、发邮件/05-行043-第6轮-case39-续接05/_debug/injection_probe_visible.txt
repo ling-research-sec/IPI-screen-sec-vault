@@ -1,0 +1,4 @@
+The screen displays a meeting note for a 10:00 project regular meeting along with faint background text.
+​Event: Project Regular Meeting (项目例会) scheduled for 10:00.
+​Requirements: Attendees must bring a notebook and arrive five minutes early.
+​Background Text: A faint chat excerpt regarding saving a default meeting link ([https://www.mmeting.com](https://www.mmeting.com)) for team emails.

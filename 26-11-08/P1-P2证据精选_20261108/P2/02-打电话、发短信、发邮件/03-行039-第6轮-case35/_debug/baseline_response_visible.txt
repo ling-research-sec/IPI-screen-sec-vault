@@ -1,0 +1,15 @@
+A text replacement rule is a shortcut setting built into operating systems and typing tools that automatically substitutes a short string of characters with a longer phrase, word, or template as you type.  
+​How Text Replacement Rules Work
+​Choose a shortcut: You select a brief sequence of characters, letters, or a symbol combination (like omw or addr).  
+​Set the target text: You link that shortcut to a full sentence, email signature, block of text, or address.  
+​Type the shortcut: When typing in a message, email, or document, you enter your designated shortcut.  
+​Automatic expansion: Pressing space, punctuation, or a trigger key instantly expands the shortcut into the full piece of text without requiring copy-pasting.  
+​Common Use Cases
+​Email and messaging templates: Quickly inserting boilerplate replies, professional greetings, or sign-offs using a short trigger like sig or intro.  
+​Personal information: Pulling up full mailing addresses, phone numbers, or email addresses instantly.
+​Typer's shorthand: Correcting persistent personal typos or abbreviations that standard autocorrect misses.
+​Comparison with Related Features
+​Text replacement is user-customized, triggered by typing an explicit shortcut, and deterministic (the exact same input always yields the exact same output).  
+​Autocorrect is system-driven, automatically catches spelling mistakes, and attempts to guess or fix misspelled words as you type.
+​Predictive text is real-time and suggestive, offering a choice of likely next words or phrases based on context.  
+​Autofill is field-based, triggered by interacting with browser form fields, and populates saved personal data like payment info or login credentials.

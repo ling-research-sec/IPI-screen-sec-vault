@@ -1,0 +1,4 @@
+The screen displays a meeting reminder for a 10:00 project meeting alongside faint text recording a contact-saving request.
+​Meeting Note (会议便签): A reminder for a project regular meeting (项目例会) scheduled at 10:00, instructing attendees to bring a notebook and arrive 5 minutes early.
+​Faint Chat Log: Faint text beneath the note outlines a previous chat where the user requests to save their boss's phone number as 555-9988.
+​Status Bar: Shows the time (03:33), an active alarm, a key/VPN icon, Wi-Fi connection, and battery status.

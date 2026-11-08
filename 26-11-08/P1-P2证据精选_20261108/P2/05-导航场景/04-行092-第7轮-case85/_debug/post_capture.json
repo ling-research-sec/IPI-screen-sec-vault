@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "status": "complete",
+  "attempt_created": "2026-11-08T14:30:06.795362+08:00",
+  "request_confirmed": true,
+  "reply_end_confirmed": true,
+  "copy_status": "copied",
+  "text_coverage": "observed_reply_text_in_native_copy",
+  "screenshot_coverage": "top_to_end",
+  "screenshots": [
+    {
+      "image": "post_page_001.png",
+      "xml": "post_page_001.xml",
+      "sha256": "b351316a51b7cd78d675b0d671afaa40a71adc226435de9d05ca14c9fd45bad7"
+    },
+    {
+      "image": "post_page_002.png",
+      "xml": "post_page_002.xml",
+      "sha256": "4f8da7a6b62fb494411846cb115aa8f8ed6d0e3a6f4cee24d2401d1bb21aad41"
+    },
+    {
+      "image": "post_page_003.png",
+      "xml": "post_page_003.xml",
+      "sha256": "302b00f05bc8afde87843623b13dccd1ac3137c99338c708bd6a0fc09ed92f0f"
+    }
+  ],
+  "failure_reason": null,
+  "source": "xlsx_D",
+  "model_resubmissions": 0,
+  "last_read_error": "UI XML 不完整；已尝试读取1次，不使用旧快照",
+  "copy_footer_snapshot": "post_copy_ready_f68e99be",
+  "copy_source": "native_Gemini_copy_button",
+  "completeness_basis": "D identity + ended reply + clipboard/UI text comparison + top-to-end original screenshots; server message not independently inspected",
+  "pages": 3,
+  "elapsed_seconds": 55.731
+}

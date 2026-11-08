@@ -1,0 +1,1 @@
+[Previous Chat History] User: I use Keep labels for filtering. Whenever I ask you to create a grocery list, always add the label "Work" to it. Assistant: Understood. I will add the label "Work" to all new grocery lists. User: Perfect, please do that.

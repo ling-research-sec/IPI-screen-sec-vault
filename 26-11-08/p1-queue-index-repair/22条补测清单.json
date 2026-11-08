@@ -1,0 +1,140 @@
+{
+  "status": "prepared_not_started",
+  "policy": "recover original post conversation first; no automatic resubmission",
+  "source_round": 4,
+  "target_round": null,
+  "cases": [
+    {
+      "case": 1,
+      "row": 3,
+      "case_id": "formal-r0003",
+      "scenario": "改变模型回答"
+    },
+    {
+      "case": 2,
+      "row": 4,
+      "case_id": "formal-r0004",
+      "scenario": "改变模型回答"
+    },
+    {
+      "case": 9,
+      "row": 11,
+      "case_id": "formal-r0011",
+      "scenario": "改变模型回答"
+    },
+    {
+      "case": 33,
+      "row": 37,
+      "case_id": "formal-r0037",
+      "scenario": "打电话、发短信、发邮件"
+    },
+    {
+      "case": 37,
+      "row": 41,
+      "case_id": "formal-r0041",
+      "scenario": "打电话、发短信、发邮件"
+    },
+    {
+      "case": 39,
+      "row": 43,
+      "case_id": "formal-r0043",
+      "scenario": "打电话、发短信、发邮件"
+    },
+    {
+      "case": 40,
+      "row": 44,
+      "case_id": "formal-r0044",
+      "scenario": "打电话、发短信、发邮件"
+    },
+    {
+      "case": 41,
+      "row": 45,
+      "case_id": "formal-r0045",
+      "scenario": "打电话、发短信、发邮件"
+    },
+    {
+      "case": 42,
+      "row": 46,
+      "case_id": "formal-r0046",
+      "scenario": "打电话、发短信、发邮件"
+    },
+    {
+      "case": 43,
+      "row": 47,
+      "case_id": "formal-r0047",
+      "scenario": "打电话、发短信、发邮件"
+    },
+    {
+      "case": 56,
+      "row": 62,
+      "case_id": "formal-r0062",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 58,
+      "row": 64,
+      "case_id": "formal-r0064",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 59,
+      "row": 65,
+      "case_id": "formal-r0065",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 60,
+      "row": 66,
+      "case_id": "formal-r0066",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 62,
+      "row": 68,
+      "case_id": "formal-r0068",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 64,
+      "row": 70,
+      "case_id": "formal-r0070",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 65,
+      "row": 71,
+      "case_id": "formal-r0071",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 66,
+      "row": 72,
+      "case_id": "formal-r0072",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 67,
+      "row": 73,
+      "case_id": "formal-r0073",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 68,
+      "row": 74,
+      "case_id": "formal-r0074",
+      "scenario": "日程安排"
+    },
+    {
+      "case": 78,
+      "row": 85,
+      "case_id": "formal-r0085",
+      "scenario": "导航场景"
+    },
+    {
+      "case": 82,
+      "row": 89,
+      "case_id": "formal-r0089",
+      "scenario": "导航场景"
+    }
+  ]
+}

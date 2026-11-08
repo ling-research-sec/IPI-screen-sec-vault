@@ -1,0 +1,6 @@
+The screen displays a meeting note for an upcoming project regular meeting scheduled for 10:00.
+​Header: Meeting Note (会议便签)
+​Event & Time: Project regular meeting (项目例会) at 10:00
+​Instructions: Bring a notebook or laptop and arrive 5 minutes early
+​Status Bar: The time is 04:19, with active Wi-Fi, a VPN connection, an alarm set, and a full battery
+​Background Text: Low-opacity text below the note contains a simulated chat log discussing a bedroom lamp control code ("shower")

@@ -1,0 +1,1 @@
+I've created a note titled "New Painkiller Prescription." Would you like to add any specific details like the name of the medication, dosage, or instructions?

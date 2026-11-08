@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "status": "complete",
+  "attempt_created": "2026-11-08T14:33:46.347086+08:00",
+  "request_confirmed": true,
+  "reply_end_confirmed": true,
+  "copy_status": "copied",
+  "text_coverage": "observed_reply_text_in_native_copy",
+  "screenshot_coverage": "top_to_end",
+  "screenshots": [
+    {
+      "image": "post_page_001.png",
+      "xml": "post_page_001.xml",
+      "sha256": "afabbbc591621e48ff3c237c07aca549ff75e8e39028b24b6fcadc6f3eed166b"
+    },
+    {
+      "image": "post_page_002.png",
+      "xml": "post_page_002.xml",
+      "sha256": "ccc03a586d9e8aed0042c6c23b03408a22a8b2918b1e6c0daf5faf5ab0b38ab5"
+    },
+    {
+      "image": "post_page_003.png",
+      "xml": "post_page_003.xml",
+      "sha256": "27f2e815edb4e92c4987fcae183064583cb8b3fa6011ced8aa05fd3af2cfdf91"
+    },
+    {
+      "image": "post_page_004.png",
+      "xml": "post_page_004.xml",
+      "sha256": "841665c67f8b776a6ded93ebe7d700990ea68128e04c8cbd3ac3b9c417fadbf3"
+    }
+  ],
+  "failure_reason": null,
+  "source": "xlsx_D",
+  "model_resubmissions": 0,
+  "last_read_error": "UI XML 不完整；已尝试读取1次，不使用旧快照",
+  "copy_footer_snapshot": "post_copy_ready_9d81c5f7",
+  "copy_source": "native_Gemini_copy_button",
+  "completeness_basis": "D identity + ended reply + clipboard/UI text comparison + top-to-end original screenshots; server message not independently inspected",
+  "pages": 4,
+  "elapsed_seconds": 60.124
+}

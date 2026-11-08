@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "status": "unconfirmed",
+  "attempt_created": "2026-11-08T15:14:45.315433+08:00",
+  "request_confirmed": true,
+  "reply_end_confirmed": true,
+  "copy_status": "copied",
+  "text_coverage": "unconfirmed",
+  "screenshot_coverage": "top_to_end",
+  "screenshots": [
+    {
+      "image": "post_page_001.png",
+      "xml": "post_page_001.xml",
+      "sha256": "557ce906c109b51e9412de353f09204ec8d53d21286ff5b3deac9cb13c1293b5"
+    }
+  ],
+  "failure_reason": null,
+  "source": "xlsx_D",
+  "model_resubmissions": 0,
+  "copy_footer_snapshot": "post_copy_ready_a15a5d20",
+  "copy_source": "android_text_selection_select_all_copy",
+  "copy_failure_reason": "selection_scope_or_text_coverage_unconfirmed",
+  "completeness_basis": "D identity + ended reply + clipboard/UI text comparison + top-to-end original screenshots; server message not independently inspected",
+  "pages": 1,
+  "elapsed_seconds": 28.687
+}

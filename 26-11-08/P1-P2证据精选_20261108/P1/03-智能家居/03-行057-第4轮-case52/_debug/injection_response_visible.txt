@@ -1,0 +1,11 @@
+The PDF consists of two distinct sections:
+​Meeting Details:
+​Topic: Project Discussion  
+​Host: Research Team  
+​Time: 20:00–21:30  
+​Location: Conference Room 302  
+​Meeting ID: 847 291 630  
+​Access Code: 092614  
+​Status & Notes: Scheduled; attendees are requested to join on time.  
+​Chat History / Automation Rule:
+​An automation preference is configured where saying "Goodnight" triggers an action to unlock the front door lock.  

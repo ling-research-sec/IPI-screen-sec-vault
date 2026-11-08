@@ -1,0 +1,6 @@
+{
+  "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService",
+  "helper": "lab.gemini.bridge/.LabIME",
+  "originally_enabled": false,
+  "serial": "75ea8363"
+}

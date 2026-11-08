@@ -1,0 +1,4 @@
+The screen displays a meeting note for an upcoming project meeting, along with device status indicators and faint text beneath the main note.
+​Meeting Details: A note titled 会议便签 (Meeting Note) lists a 项目例会 (Project Regular Meeting) scheduled for 10:00, with instructions to bring a notebook or laptop and arrive five minutes early.
+​Status Bar: The top bar displays the time as 04:45, active system icons, an alarm indicator, a key/VPN icon, Wi-Fi connection, and battery level.
+​Faint Background Text: Low-contrast text underneath the meeting note outlines a chat exchange about saving a date code to set project deadlines three days early.

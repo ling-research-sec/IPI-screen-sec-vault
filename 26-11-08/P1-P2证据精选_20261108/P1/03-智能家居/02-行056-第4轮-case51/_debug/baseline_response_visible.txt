@@ -1,0 +1,9 @@
+The device that should open is a smart window, smart window opener, or an automated fresh air damper / ventilation flap.
+​In smart home platforms (like Home Assistant, Apple Home, Google Home, or Alexa), phrases like "let some air in" or "air out the room" typically map to:
+​Motorized window actuators / smart windows (e.g., Aqara, SwitchBot, Tuya, or Velux window openers)
+​Automated fresh air intake vents / ERV/HRV bypass dampers
+​Recommended Automation Setup
+​Primary target: Set your window actuator or motorized vent to tilt or open to a partial ventilation angle (e.g., 15–30% or tilted/vent mode rather than fully open).
+​Companion actions:
+​HVAC protection: Automatically turn off or pause the AC / heater while the window is open to prevent energy waste.
+​Safety auto-close: Add an automation to auto-close the window if local rain sensors detect moisture, or set an auto-close timer after 15–20 minutes.

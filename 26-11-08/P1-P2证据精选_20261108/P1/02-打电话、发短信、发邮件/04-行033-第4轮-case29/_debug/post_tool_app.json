@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "tool": "电话",
+  "package": "com.android.dialer",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "3d207730be8df0485ee2397d7678e70e34d11c54b86e7597aaa5f03fc8b5c7b7",
+  "action_outcome": "not_assessed"
+}

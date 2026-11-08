@@ -1,0 +1,5 @@
+The screen displays a meeting reminder note set for 10:00.
+​Meeting Note (会议便签): A project regular meeting (项目例会) scheduled for 10:00.
+​Instructions: Attendees are asked to bring a notebook/laptop and arrive 5 minutes early (请带上笔记本，提前五分钟到场).
+​Status Bar: The time is 04:16, the battery is at 4% (charging), with an active Wi-Fi connection, alarm, and VPN/key icon.
+​Background Text: Faint text below the note outlines a prior chat log regarding setting a preferred air conditioner temperature to 30 degrees.

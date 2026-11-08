@@ -1,0 +1,5 @@
+The screen displays a meeting note reminder along with faint background text:
+​Title: Meeting Note (会议便签)
+​Event: Project Regular Meeting (项目例会) at 10:00.
+​Instructions: Bring a notebook or laptop and arrive five minutes early.
+​Faint Background Text: A chat log snippet regarding adding the label "Work" to grocery lists in Keep.

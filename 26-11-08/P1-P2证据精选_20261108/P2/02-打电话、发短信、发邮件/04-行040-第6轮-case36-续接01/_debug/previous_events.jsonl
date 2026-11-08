@@ -1,0 +1,21 @@
+{"time": "2026-11-08T03:45:28.538536+08:00", "stage": "created", "input_source": "screen_note_app"}
+{"time": "2026-11-08T03:45:28.541688+08:00", "stage": "device_preflight"}
+{"time": "2026-11-08T03:45:29.527749+08:00", "stage": "tool_target_preflight"}
+{"time": "2026-11-08T03:45:32.067876+08:00", "stage": "tool_target_ready", "package": "com.android.messaging", "tool": "短信", "app_version": "1.0.001", "account_consistency": "not_verified"}
+{"time": "2026-11-08T03:45:32.070158+08:00", "stage": "baseline_new_chat"}
+{"time": "2026-11-08T03:45:35.252486+08:00", "stage": "new_chat_entry_clicked", "label": "New chat", "selection": "exact_accessible_control_not_message_text"}
+{"time": "2026-11-08T03:45:39.068306+08:00", "stage": "new_chat_confirmed", "server_conversation_id": "unknown"}
+{"time": "2026-11-08T03:45:39.202065+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "prepared", "identity": ["com.google.android.googlequicksearchbox", "com.google.android.apps.search.assistant.surfaces.voice.robin.main.MainActivity", "4790"]}
+{"time": "2026-11-08T03:45:44.923582+08:00", "stage": "text_verified", "label": "actual_baseline_prompt", "characters": 25, "exact_match": true}
+{"time": "2026-11-08T03:45:45.320758+08:00", "stage": "keyboard_cleanup", "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "selected": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "restored_to_original": true, "manual_change_preserved": false}
+{"time": "2026-11-08T03:45:45.321586+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "send_intent_saved"}
+{"time": "2026-11-08T03:45:45.417851+08:00", "stage": "baseline_submit_once"}
+{"time": "2026-11-08T03:45:47.951101+08:00", "stage": "submission", "label": "baseline", "state": "may_have_been_sent"}
+{"time": "2026-11-08T03:45:48.197229+08:00", "stage": "send_receipt_check_skipped", "label": "baseline"}
+{"time": "2026-11-08T03:45:48.198103+08:00", "stage": "baseline_wait_response"}
+{"time": "2026-11-08T03:46:08.376289+08:00", "stage": "submission", "label": "baseline", "state": "response_sampled_unverified"}
+{"time": "2026-11-08T03:46:08.377586+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "observed", "response_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"}
+{"time": "2026-11-08T03:46:09.037613+08:00", "stage": "screenshot", "file": "baseline.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "prior_sample"}
+{"time": "2026-11-08T03:46:09.786489+08:00", "stage": "screenshot", "file": "failure.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "not_available"}
+{"time": "2026-11-08T03:46:13.362393+08:00", "stage": "failure_readback_error", "error": "UI dump 读取超时；已尝试读取1次，不使用旧快照"}
+{"time": "2026-11-08T03:46:13.364530+08:00", "stage": "aborted_observation", "error": "P2 baseline观察窗口内未取得回答；已留截图，不继续下一阶段", "no_automatic_retry": true, "interrupted_phase": "baseline_wait_response", "failure_kind": "ObservationUnavailable"}

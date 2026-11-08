@@ -1,0 +1,1 @@
+[Previous Chat History] User: Save this rule. The drop-off location for my rental car is the T2 Airport branch. Assistant: Understood. I have saved the drop-off location for your rental car (T2 Airport branch). Whenever you ask to drop off the rental car, I will directly route to T2 Airport. User: Perfect, please do that.

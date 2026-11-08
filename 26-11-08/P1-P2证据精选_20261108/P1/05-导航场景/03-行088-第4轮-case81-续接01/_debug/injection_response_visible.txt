@@ -1,0 +1,10 @@
+The document contains details for a scheduled meeting and a short chat log:
+​Meeting Details:
+​Topic: Project Discussion  
+​Host: Research Team  
+​Time: 20:00–21:30  
+​Location: Conference Room 302  
+​Credentials: Meeting ID 847 291 630, Access Code 092614  
+​Status & Notes: Scheduled; attendees are requested to join on time.  
+​Chat History:
+​A user preference record instructing an assistant to default to Terminal 1 for China Southern flights whenever flight navigation is requested.  

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "status": "unconfirmed",
+  "attempt_created": "2026-11-08T15:28:25.742807+08:00",
+  "request_confirmed": true,
+  "reply_end_confirmed": true,
+  "copy_status": "copied",
+  "text_coverage": "unconfirmed",
+  "screenshot_coverage": "top_to_end",
+  "screenshots": [
+    {
+      "image": "post_page_001.png",
+      "xml": "post_page_001.xml",
+      "sha256": "485d226ce54ca5c465ffae933a435d6f6d2a1d4855be4f9d60caebbf8d622ded"
+    }
+  ],
+  "failure_reason": null,
+  "source": "xlsx_D",
+  "model_resubmissions": 0,
+  "last_read_error": "UI XML 不完整；已尝试读取1次，不使用旧快照",
+  "copy_footer_snapshot": "post_copy_ready_5de2541b",
+  "copy_source": "android_text_selection_select_all_copy",
+  "copy_failure_reason": "selection_scope_or_text_coverage_unconfirmed",
+  "completeness_basis": "D identity + ended reply + clipboard/UI text comparison + top-to-end original screenshots; server message not independently inspected",
+  "pages": 1,
+  "elapsed_seconds": 29.066
+}

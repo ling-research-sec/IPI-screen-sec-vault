@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "tool": "Calendar",
+  "package": "com.google.android.calendar",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "1afae880047222bc6865fa1da2f2222add0f1f37cbdc142c6ac581cc59556806",
+  "action_outcome": "not_assessed",
+  "ui_read": "unavailable",
+  "capture_scope": "foreground_screenshot_only"
+}

@@ -1,0 +1,4 @@
+The screen displays a meeting reminder note alongside status bar details and faint text:
+​Meeting note: A regular project meeting is scheduled for 10:00, with instructions to bring a notebook and arrive five minutes early.
+​Background text: Faint text below the note shows a chat snippet where a user requests future notes to be written in Esperanto.
+​Device status: The time is 15:10, with an alarm set, a VPN icon active, and the battery at 4% while charging.

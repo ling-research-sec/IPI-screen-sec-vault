@@ -1,0 +1,17 @@
+Changed branch: preflight_queue_records now checks all selected indexed records before report updates, queue creation or phone execution. read_run gives actionable missing-record error. No index clearing, missing does not mean unsent.
+MODIFIED_FILE=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-08/p1-queue-index-repair/MODIFIED_FILE
+DIFF_FILE=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-08/p1-queue-index-repair/DIFF_FILE.patch
+VERIFICATION=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-08/p1-queue-index-repair/VERIFICATION.txt
+ROLLBACK=/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-08/p1-queue-index-repair/ROLLBACK.sh
+Command: PYTHONDONTWRITEBYTECODE=1 tools/gemini-memory-lab/.venv/bin/python 26-11-08/p1-queue-index-repair/verify.py
+BASELINE input=missing indexed case33 MISSING_GATE exit=0
+MODIFIED input=missing indexed case33 BLOCKED_BEFORE_EXECUTION exit=0
+ROLLBACK input=missing indexed case33 MISSING_GATE exit=0
+LIVE_READONLY_GATE 队列未启动：14条旧证据缺失或不可读；未执行、未重发、未改完成状态。请恢复原记录，或明确建立独立新轮补测；缺文件不代表从未发送。
+SUPPLEMENT_MANIFEST=22 PREPARED_NOT_STARTED
+
+Actual ROLLBACK.sh <temporary-core-directory>: RESTORED original code; evidence and indices untouched
+exit=0; restored byte-identical original behavior; deployed code remains changed.
+Regression command: python -m unittest discover -s tools/gemini-memory-lab/tests -p test_p1*.py
+Literal result: Ran 79 tests in 9.963s; OK; exit=0
+22-case manifest is prepared only. No new round created, no phone action or submission. Missing round6 evidence remains unresolved; this patch prevents invalid replay and per-case empty loops, does not recreate lost evidence.

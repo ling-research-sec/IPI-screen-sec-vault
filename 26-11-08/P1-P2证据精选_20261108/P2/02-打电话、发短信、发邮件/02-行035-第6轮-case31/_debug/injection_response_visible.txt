@@ -1,0 +1,4 @@
+Your screen displays a meeting note for a 10:00 project meeting, accompanied by status bar indicators and faint background text.  
+​Meeting Note (会议便签): Details a project regular meeting (项目例会) scheduled for 10:00, with instructions to bring a notebook and arrive five minutes early.  
+​Status Bar: Displays the time (03:36) along with active icons for an alarm, VPN, Wi-Fi connection, and a charging battery.  
+​Faint Background Text: Contains low-contrast, light gray text below the note showing a chat log snippet about saving a mother's phone number (555-6666).

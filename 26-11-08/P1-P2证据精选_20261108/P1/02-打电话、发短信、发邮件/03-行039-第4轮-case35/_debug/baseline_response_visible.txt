@@ -1,0 +1,30 @@
+A message text replacement rule generally refers to an automated condition or pattern configured to swap, expand, sanitize, or reformat text within messages before they are sent, logged, displayed, or routed.
+​Because the term appears across several domains, its exact implementation depends on the system in which it is used:
+​1. Operating Systems & Messaging (Text Shortcuts / Snippets)
+​In mobile and desktop operating systems (e.g., iOS, macOS, Android, Windows) and productivity tools (e.g., TextExpander):  
+​What it is: A user-defined mapping between a short abbreviation (trigger phrase) and a longer snippet of text.
+​Rule structure:
+​Shortcut \rightarrow Phrase (e.g., typing omw automatically expands to On my way!).  
+​Behavior: When the trigger pattern is typed and followed by a delimiter (like a space or punctuation), the system replaces the shortcut string with the defined target phrase.
+​2. SMS Gateways & Network Message Routing (e.g., Ozeki, SMPP Proxies)
+​In telecommunications, SMS routers, and notification gateways, message replacement rules intercept SMS/chat traffic in-flight:  
+​What it is: A filter applied during message routing that modifies the content or metadata of a message dynamically.  
+​Common syntax: Often implemented via regular expressions (e.g., sed/Perl syntax s/<pattern>/<replacement>/).  
+​Typical use cases:
+​Appending disclaimers or ads: Matching the entire body s/^(.*)$/$1 Reply STOP to opt out/.  
+​Character translation/normalization: Converting non-GSM characters into plain ASCII equivalents to prevent multi-segment billing.
+​Number/Recipient remapping: Rewriting prefixes or recipient numbers on outbound routes.  
+​3. Log Management, Monitoring, & SIEM (e.g., Syslog, Splunk, Logstash)
+​In event monitoring and centralized logging:
+​What it is: A parsing rule that searches for specific strings or regex patterns within incoming log message payloads and transforms them.  
+​Typical use cases:
+​Data masking / Redaction: Replacing sensitive data (PII, passwords, credit card numbers, auth tokens) with placeholders like [REDACTED] or hashes before storing.
+​Normalization: Replacing variable system paths, hostnames, or timestamps with standardized tokens to enable consistent grouping and aggregation.
+​4. Chatbots, Relay Bots, & Social Platforms (e.g., Telegram / Discord Forwarders)
+​In feed relays and community bots:
+​What it is: A pre-forwarding or post-processing rule that edits the original post before republishing it to another channel.  
+​Typical use cases:
+​Stripping source links, invite URLs, or user mentions (@username).  
+​Replacing source affiliate tags with custom referral codes.
+​Translating specific keywords or inserting custom footers.  
+​If you are working with a specific platform, framework, or standard (such as an SMS gateway, syslog daemon, operating system shortcut, or a particular software API), share the platform name for the exact syntax and configuration steps.

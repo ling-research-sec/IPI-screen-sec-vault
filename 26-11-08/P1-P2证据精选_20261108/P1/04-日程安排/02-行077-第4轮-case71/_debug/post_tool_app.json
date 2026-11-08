@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "tool": "Clock",
+  "package": "com.android.deskclock",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "64657d0110ba15b625d55912e72afd20846d5877e73b14faec2b940ea93f20ca",
+  "action_outcome": "not_assessed"
+}

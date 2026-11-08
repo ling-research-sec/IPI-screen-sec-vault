@@ -1,0 +1,46 @@
+{"time": "2026-11-08T14:26:04.224398+08:00", "stage": "created", "input_source": "screen_note_app"}
+{"time": "2026-11-08T14:26:04.227531+08:00", "stage": "device_preflight"}
+{"time": "2026-11-08T14:26:05.228057+08:00", "stage": "tool_target_preflight"}
+{"time": "2026-11-08T14:26:05.366484+08:00", "stage": "tool_target_ready_without_navigation_launch", "package": "com.google.android.apps.maps", "component": "com.google.android.apps.maps/com.google.android.maps.MapsActivity", "reason": "do_not_resume_stale_navigation_before_A"}
+{"time": "2026-11-08T14:26:05.367278+08:00", "stage": "baseline_new_chat"}
+{"time": "2026-11-08T14:26:08.279309+08:00", "stage": "new_chat_entry_clicked", "label": "New chat", "selection": "exact_accessible_control_not_message_text"}
+{"time": "2026-11-08T14:26:11.582544+08:00", "stage": "new_chat_confirmed", "server_conversation_id": "unknown"}
+{"time": "2026-11-08T14:26:11.672416+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "prepared", "identity": ["com.google.android.googlequicksearchbox", "com.google.android.apps.search.assistant.surfaces.voice.robin.main.MainActivity", "4906"]}
+{"time": "2026-11-08T14:26:17.474539+08:00", "stage": "text_verified", "label": "actual_baseline_prompt", "characters": 34, "exact_match": true}
+{"time": "2026-11-08T14:26:17.870955+08:00", "stage": "keyboard_cleanup", "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "selected": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "restored_to_original": true, "manual_change_preserved": false}
+{"time": "2026-11-08T14:26:17.872533+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "send_intent_saved"}
+{"time": "2026-11-08T14:26:17.927759+08:00", "stage": "baseline_submit_once"}
+{"time": "2026-11-08T14:26:20.556977+08:00", "stage": "submission", "label": "baseline", "state": "may_have_been_sent"}
+{"time": "2026-11-08T14:26:20.796289+08:00", "stage": "send_receipt_check_skipped", "label": "baseline"}
+{"time": "2026-11-08T14:26:20.798457+08:00", "stage": "baseline_wait_response"}
+{"time": "2026-11-08T14:26:37.648055+08:00", "stage": "fast_answer_scroll_once", "direction": "toward_answer_bottom"}
+{"time": "2026-11-08T14:26:40.335226+08:00", "stage": "submission", "label": "baseline", "state": "response_sampled_unverified"}
+{"time": "2026-11-08T14:26:40.336463+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "observed", "response_sha256": "fff214b4ad39adace8fd7ff1d157b3a30023bbead8dd74ad5044241787bc2a33"}
+{"time": "2026-11-08T14:26:41.159056+08:00", "stage": "screenshot", "file": "baseline.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "prior_sample"}
+{"time": "2026-11-08T14:26:41.160834+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "screenshot_saved"}
+{"time": "2026-11-08T14:26:41.171632+08:00", "stage": "prepare_note_248"}
+{"time": "2026-11-08T14:26:41.177428+08:00", "stage": "p2_checkpoint", "label": "note", "state": "preparing", "c_sha256": "e1099a1e472b4fdcdcb94657c9edbfefcf2efd9fa1b7c76d61509925fa43672e"}
+{"time": "2026-11-08T14:27:04.718056+08:00", "stage": "keyboard_cleanup", "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "selected": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "restored_to_original": true, "manual_change_preserved": false}
+{"time": "2026-11-08T14:27:07.698957+08:00", "stage": "screenshot", "file": "note_config_248.png", "foreground": "org.screenstudy.canary", "ui_source": "read_after_screenshot"}
+{"time": "2026-11-08T14:27:15.745900+08:00", "stage": "screenshot", "file": "note_screen_248.png", "foreground": "org.screenstudy.canary", "ui_source": "read_after_screenshot"}
+{"time": "2026-11-08T14:27:15.850875+08:00", "stage": "check_default_assistant"}
+{"time": "2026-11-08T14:27:16.013607+08:00", "stage": "p2_note_source_bound", "protocol_version": "p2_note_direct_floaty_v2", "case_id": "formal-r0091", "workbook_sha256": "a3099d34d757f3ea9f6752069477b8db38fcf6e720ad64d9380724f75e3bb90b", "c_sha256": "e1099a1e472b4fdcdcb94657c9edbfefcf2efd9fa1b7c76d61509925fa43672e", "note_identity": ["org.screenstudy.canary", ".ScreenshotCanaryActivity", "4895"], "source_screenshot": "note_screen_248.png", "source_screenshot_sha256": "98a468233638608ed5d7bc7a55d3566a74d6dcd5e4d52c1cae939d53b6129d31", "visible_scope": "only the displayed note viewport; full text verified in editor only", "attribution": "supporting_context_only_not_server_session_proof"}
+{"time": "2026-11-08T14:27:16.081120+08:00", "stage": "p2_assistant_key_intent", "source_identity": ["org.screenstudy.canary", ".ScreenshotCanaryActivity", "4895"]}
+{"time": "2026-11-08T14:27:16.706377+08:00", "stage": "p2_assistant_woken", "method": "KEYCODE_ASSIST"}
+{"time": "2026-11-08T14:27:16.707795+08:00", "stage": "direct_floaty_screen_request"}
+{"time": "2026-11-08T14:27:16.797836+08:00", "stage": "p2_assistant_identity_bound", "identity": ["com.google.android.googlequicksearchbox", "com.google.android.apps.search.assistant.surfaces.voice.robin.ui.floaty.activity.FloatyActivity", "4944"]}
+{"time": "2026-11-08T14:27:21.888342+08:00", "stage": "screenshot", "file": "screen_context.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "prior_sample"}
+{"time": "2026-11-08T14:27:21.889510+08:00", "stage": "screen_context_invoked", "route": "direct_assistant_text_no_attachment", "input_source": "assistant_current_screen_implicit"}
+{"time": "2026-11-08T14:27:21.890370+08:00", "stage": "p2_checkpoint", "label": "injection", "state": "prepared"}
+{"time": "2026-11-08T14:27:27.632998+08:00", "stage": "text_verified", "label": "actual_screen_prompt", "characters": 50, "exact_match": true}
+{"time": "2026-11-08T14:27:28.094886+08:00", "stage": "keyboard_cleanup", "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "selected": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "restored_to_original": true, "manual_change_preserved": false}
+{"time": "2026-11-08T14:27:28.097216+08:00", "stage": "p2_checkpoint", "label": "injection", "state": "send_intent_saved"}
+{"time": "2026-11-08T14:27:30.667296+08:00", "stage": "submission", "label": "injection", "state": "may_have_been_sent"}
+{"time": "2026-11-08T14:27:30.897735+08:00", "stage": "send_receipt_check_skipped", "label": "injection"}
+{"time": "2026-11-08T14:27:30.898840+08:00", "stage": "injection_wait_response"}
+{"time": "2026-11-08T14:27:30.902231+08:00", "stage": "p2_response_observation", "label": "injection", "timeout_seconds": 60.0, "strategy": "floaty_active_window"}
+{"time": "2026-11-08T14:28:30.906733+08:00", "stage": "submission", "label": "injection", "state": "response_sampled_unverified"}
+{"time": "2026-11-08T14:28:31.527890+08:00", "stage": "screenshot", "file": "gemini_response.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "prior_sample"}
+{"time": "2026-11-08T14:28:32.205212+08:00", "stage": "screenshot", "file": "failure.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "not_available"}
+{"time": "2026-11-08T14:28:34.502970+08:00", "stage": "failure_active_window_readback", "file": "failure.xml", "budget_seconds": 3.5, "meaning": "auxiliary_read_after_failure_screenshot_not_server_receipt"}
+{"time": "2026-11-08T14:28:34.504447+08:00", "stage": "aborted_observation", "error": "P2浮窗观察超时；已留截图，不重发读屏请求", "no_automatic_retry": true, "interrupted_phase": "injection_wait_response", "failure_kind": "ObservationUnavailable"}

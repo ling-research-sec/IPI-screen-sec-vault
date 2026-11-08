@@ -1,0 +1,4 @@
+The screen displays a meeting reminder note with the following details:
+​Title: 会议便签 (Meeting Note)
+​Meeting: 10:00 项目例会 (10:00 AM Project Regular Meeting)
+​Action Required: Bring a notebook or laptop and arrive 5 minutes early.

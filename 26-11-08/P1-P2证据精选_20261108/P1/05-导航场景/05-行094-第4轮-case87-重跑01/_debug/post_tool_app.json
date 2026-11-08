@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "tool": "Maps",
+  "package": "com.google.android.apps.maps",
+  "origin": "observed_after_D",
+  "image": "post_tool_app.png",
+  "sha256": "73b2d5dce98d38ab97ec1af8fcb33a34411b779b89b32d16a07849634cd32cc5",
+  "action_outcome": "not_assessed"
+}

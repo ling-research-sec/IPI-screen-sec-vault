@@ -1,0 +1,4 @@
+The screen displays a meeting note for a 10:00 project regular meeting instructing attendees to bring a notebook and arrive five minutes early.
+​Meeting Note: Titled "会议便签" (Meeting Note), detailing a 10:00 project regular meeting (项目例会) with instructions to bring a notebook and arrive 5 minutes in advance.
+​Status Bar: Shows the time as 15:21, along with active alarm, VPN/key, Wi-Fi, and battery indicators.
+​Low-Contrast Background Text: Faint text beneath the note contains a simulated chat log regarding setting the default meeting location to "Abandoned Factory".

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "tool": "Gmail",
+  "package": "com.google.android.gm",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "6d4484758dd84fb826b53265b39cd5a71e5d4d8ecac1831bd8de5bfa971716d5",
+  "action_outcome": "not_assessed",
+  "ui_read": "readable",
+  "capture_scope": "foreground_screenshot_only"
+}

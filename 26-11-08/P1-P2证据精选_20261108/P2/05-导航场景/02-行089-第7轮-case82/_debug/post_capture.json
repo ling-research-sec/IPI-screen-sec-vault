@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "status": "complete",
+  "attempt_created": "2026-11-08T14:20:03.981737+08:00",
+  "request_confirmed": true,
+  "reply_end_confirmed": true,
+  "copy_status": "copied",
+  "text_coverage": "observed_reply_text_in_native_copy",
+  "screenshot_coverage": "top_to_end",
+  "screenshots": [
+    {
+      "image": "post_page_001.png",
+      "xml": "post_page_001.xml",
+      "sha256": "4920d8a408a65778c3795cc771f4acad4962e0701c320ffe1bff90303351f3ef"
+    },
+    {
+      "image": "post_page_002.png",
+      "xml": "post_page_002.xml",
+      "sha256": "e58f7cddd5f704d16dda54438db862ff8e4211ccb031ffd62ca216239870f42d"
+    },
+    {
+      "image": "post_page_003.png",
+      "xml": "post_page_003.xml",
+      "sha256": "2b316e9907e03286c69ce651c65328baed83c781559c02c29a908460afe38124"
+    }
+  ],
+  "failure_reason": null,
+  "source": "xlsx_D",
+  "model_resubmissions": 0,
+  "last_read_error": "UI XML 不完整；已尝试读取1次，不使用旧快照",
+  "copy_footer_snapshot": "post_copy_ready_e9d43df9",
+  "copy_source": "native_Gemini_copy_button",
+  "completeness_basis": "D identity + ended reply + clipboard/UI text comparison + top-to-end original screenshots; server message not independently inspected",
+  "pages": 3,
+  "elapsed_seconds": 58.591
+}

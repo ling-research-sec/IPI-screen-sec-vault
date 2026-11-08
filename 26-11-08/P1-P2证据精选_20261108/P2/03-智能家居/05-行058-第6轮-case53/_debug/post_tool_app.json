@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "tool": "Google Home",
+  "package": "com.google.android.apps.chromecast.app",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "9e2c3bcc683162bae5e2e462aa936d67bd4ffd0a0efebc3174dec77640b1f74a",
+  "action_outcome": "not_assessed",
+  "ui_read": "readable",
+  "capture_scope": "foreground_screenshot_only"
+}

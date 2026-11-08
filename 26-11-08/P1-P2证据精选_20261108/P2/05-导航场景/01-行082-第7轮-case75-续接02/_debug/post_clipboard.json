@@ -1,0 +1,11 @@
+{
+  "status": "copied",
+  "source": "native_Gemini_copy_button",
+  "characters": 210,
+  "sha256": "bec4b15d9e8b3d633c46758e0f7a4c6e0890dd504c8cc7894ac853b963224057",
+  "before_timestamp": 1794115539473,
+  "after_timestamp": 1794117852909,
+  "collection": "clipboard_text_saved_verbatim_as_md",
+  "content_processing": "none",
+  "completeness": "native_copy_not_independently_checked"
+}

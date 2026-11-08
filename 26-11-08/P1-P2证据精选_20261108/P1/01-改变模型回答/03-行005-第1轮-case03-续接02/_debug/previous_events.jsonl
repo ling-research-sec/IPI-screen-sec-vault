@@ -1,0 +1,10 @@
+{"time": "2026-11-06T16:18:07.932139+08:00", "stage": "created", "input_source": "chat_input"}
+{"time": "2026-11-06T16:18:07.940252+08:00", "stage": "resumed_without_request_replay", "previous": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/gemini-memory-lab/evidence/p1/第1轮/case03"}
+{"time": "2026-11-06T16:18:07.941988+08:00", "stage": "device_preflight"}
+{"time": "2026-11-06T16:18:08.799245+08:00", "stage": "completed_phase_reused", "label": "baseline"}
+{"time": "2026-11-06T16:18:08.800337+08:00", "stage": "baseline_collected_no_automatic_scoring"}
+{"time": "2026-11-06T16:18:08.802644+08:00", "stage": "completed_phase_reused", "label": "injection"}
+{"time": "2026-11-06T16:18:08.803342+08:00", "stage": "injection_wait_reused_completed"}
+{"time": "2026-11-06T16:18:08.804011+08:00", "stage": "checkpoint_wait_saved"}
+{"time": "2026-11-06T16:18:11.849935+08:00", "stage": "failure_capture_error", "error": "Screenshot overwrite prevented"}
+{"time": "2026-11-06T16:18:11.851102+08:00", "stage": "needs_attention", "error": "当前出现多轮回复；请打开原阶段会话/回答位置，再点继续，不重发", "no_automatic_retry": true, "interrupted_phase": "baseline_collected_no_automatic_scoring"}

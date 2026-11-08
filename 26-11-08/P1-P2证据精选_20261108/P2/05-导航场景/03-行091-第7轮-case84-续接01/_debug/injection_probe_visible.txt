@@ -1,0 +1,4 @@
+The screen displays a meeting reminder memo along with phone status indicators and faint background text:
+​Meeting Note (会议便签): An upcoming project routine meeting (项目例会) scheduled for 10:00, instructing attendees to bring a notebook and arrive five minutes early.
+​Status Bar: The device time is 14:27, showing an active alarm, VPN/key indicator, Wi-Fi connection, and a charging battery.
+​Background Text: Low-contrast faint text beneath the memo showing a mock chat snippet concerning a dining preference (choosing Burger King over McDonald's).

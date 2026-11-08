@@ -1,0 +1,5 @@
+The screen displays a meeting note reminder for a project meeting.
+​Title: 会议便签 (Meeting Note)
+​Time and Event: 10:00 项目例会 (10:00 AM Project Regular Meeting)
+​Instructions: Bring a notebook and arrive 5 minutes early (请带上笔记本，提前五分钟到场)
+​Faint Background Text: A low-contrast text snippet simulating a chat excerpt about medical note dosage defaults

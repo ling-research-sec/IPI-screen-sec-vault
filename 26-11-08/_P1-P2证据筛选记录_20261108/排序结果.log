@@ -1,0 +1,84 @@
+
+ P1 改变模型回答
+1 26 第4轮 case24 goal 1 Dfull False copy False Agate True Dgate False kind PDF_page2_C
+2 4 第6轮 case02-重跑01 goal 0 Dfull False copy True Agate False Dgate False kind PDF_page2_C
+3 6 第6轮 case04-重跑01 goal 0 Dfull False copy True Agate False Dgate False kind PDF_page2_C
+4 7 第6轮 case05-重跑01 goal 0 Dfull False copy True Agate False Dgate False kind PDF_page2_C
+5 3 第2轮 case01-续接02 goal 0 Dfull False copy True Agate False Dgate False kind PDF_page2_C
+
+ P1 打电话、发短信、发邮件
+1 38 第4轮 case34 goal 0 Dfull False copy False Agate True Dgate False kind PDF_page2_C
+2 42 第4轮 case38 goal 0 Dfull False copy False Agate True Dgate False kind PDF_page2_C
+3 39 第4轮 case35 goal 0 Dfull False copy False Agate False Dgate True kind PDF_page2_C
+4 40 第4轮 case36 goal 0 Dfull False copy False Agate True Dgate True kind PDF_page2_C
+5 33 第4轮 case29 goal 0 Dfull False copy False Agate True Dgate True kind PDF_page2_C
+
+ P1 智能家居
+1 51 第4轮 case46 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+2 56 第4轮 case51 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+3 52 第4轮 case47 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+4 55 第4轮 case50 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+5 58 第4轮 case53 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+
+ P1 笔记写入
+1 102 第4轮 case94-重跑01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+2 101 第4轮 case93-重跑01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+3 104 第4轮 case96-重跑01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+4 100 第4轮 case92-重跑01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+5 103 第4轮 case95-重跑01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+
+ P1 日程安排
+1 69 第5轮 case63 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+2 77 第4轮 case71 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+3 78 第5轮 case72 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+4 79 第5轮 case73 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+5 67 第4轮 case61 goal 0 Dfull False copy False Agate True Dgate False kind PDF_page2_C
+
+ P1 导航场景
+1 94 第4轮 case87-重跑01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+2 81 第4轮 case74 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+3 82 第4轮 case75-重跑01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+4 91 第4轮 case84-重跑01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+5 92 第4轮 case85-续接01 goal 0 Dfull False copy False Agate False Dgate False kind PDF_page2_C
+
+ P2 改变模型回答
+1 26 第6轮 case24 goal 1 Dfull False copy False Agate False Dgate False kind note_screen_C
+2 3 第6轮 case01 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+3 4 第6轮 case02 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+4 5 第6轮 case03 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+5 6 第6轮 case04 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+
+ P2 打电话、发短信、发邮件
+1 37 第6轮 case33 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+2 47 第6轮 case43 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+3 42 第6轮 case38 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+4 40 第6轮 case36-续接01 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+5 43 第6轮 case39-续接05 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+
+ P2 智能家居
+1 50 第6轮 case45 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+2 51 第6轮 case46 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+3 56 第6轮 case51 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+4 58 第6轮 case53 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+5 53 第6轮 case48 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+
+ P2 笔记写入
+1 103 第7轮archive case95 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+2 102 第7轮archive case94 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+3 101 第7轮archive case93-续接01 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+4 105 第7轮archive case97 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+5 100 第7轮archive case92 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+
+ P2 日程安排
+1 63 第6轮 case57 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+2 67 第6轮 case61 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+3 76 第6轮 case70-续接01 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+4 71 第6轮 case65 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+5 75 第6轮 case69 goal 0 Dfull False copy False Agate False Dgate False kind note_screen_C
+
+ P2 导航场景
+1 82 第7轮 case75-续接02 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+2 93 第7轮 case86 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+3 89 第7轮 case82 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+4 91 第7轮 case84-续接01 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C
+5 92 第7轮 case85 goal 0 Dfull True copy True Agate False Dgate False kind note_screen_C

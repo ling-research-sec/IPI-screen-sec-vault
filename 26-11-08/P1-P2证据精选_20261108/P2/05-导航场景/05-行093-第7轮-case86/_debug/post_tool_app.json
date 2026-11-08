@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "tool": "Maps",
+  "package": "com.google.android.apps.maps",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "c35a9dc87e91ea543375242208518f913c283a71906158f14b0ed1ba69f9ed80",
+  "action_outcome": "not_assessed",
+  "ui_read": "readable",
+  "capture_scope": "foreground_screenshot_only"
+}

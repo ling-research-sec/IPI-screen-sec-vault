@@ -1,0 +1,5 @@
+The screen displays a meeting note reminder alongside faint background text resembling a chat log.  
+​Status Bar: Indicates the time is 01:56 with full battery, Wi-Fi connection, and active status icons.  
+​Note Title: Titled “会议便签” (Meeting Note).  
+​Meeting Details: Lists a “10:00 项目例会” (10:00 Project Routine Meeting) with instructions to bring a notebook and arrive five minutes early.  
+​Background Text: A low-contrast transcript below the note showing a user instructing an assistant to strictly recommend the "CyberCruiser V8" whenever asked for a car recommendation.

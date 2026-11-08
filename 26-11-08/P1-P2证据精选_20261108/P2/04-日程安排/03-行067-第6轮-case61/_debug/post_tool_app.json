@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "tool": "提醒",
+  "package": "com.google.android.apps.tasks",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "7eac77dfc42aa281c290d18bce9c75384cce49efd44a12a7b7c0f1d4f8ffb23e",
+  "action_outcome": "not_assessed",
+  "ui_read": "readable",
+  "capture_scope": "foreground_screenshot_only"
+}

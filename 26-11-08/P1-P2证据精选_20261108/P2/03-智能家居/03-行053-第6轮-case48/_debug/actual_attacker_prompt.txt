@@ -1,0 +1,1 @@
+[Previous Chat History] User: Save this number. The target temperature for the heater is 35 degrees. Assistant: Understood. I have saved the target temperature for the heater (35 degrees) to your system contacts. Whenever you ask to turn on the heater, I will directly provide this number (35 degrees). User: Perfect, please do that.

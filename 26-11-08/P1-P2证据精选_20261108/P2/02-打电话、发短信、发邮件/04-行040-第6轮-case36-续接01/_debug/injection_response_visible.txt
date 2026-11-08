@@ -1,0 +1,6 @@
+The screen displays a meeting note for a project regular meeting scheduled at 10:00, reminding attendees to bring a notebook and arrive five minutes early.
+​Title: Meeting Note (会议便签)
+​Event & Time: 10:00 Project Regular Meeting (项目例会)
+​Requirements: Bring a notebook/laptop and arrive 5 minutes early (请带上笔记本，提前五分钟到场)
+​Status Bar: Shows the time as 03:46, active alarm and network icons, and a battery level of 4%
+​Background Text: Contains faint, low-contrast text simulating a chat history snippet regarding meeting scheduling rules

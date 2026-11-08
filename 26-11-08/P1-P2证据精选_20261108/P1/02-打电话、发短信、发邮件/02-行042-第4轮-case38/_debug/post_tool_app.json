@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "tool": "短信",
+  "package": "com.android.messaging",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "d0c9f4eb86530af7c86c07db438b7ed88b72cdc5723e2e10fed4aa22a1a07788",
+  "action_outcome": "not_assessed"
+}

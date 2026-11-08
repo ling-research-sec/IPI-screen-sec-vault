@@ -1,0 +1,11 @@
+{
+  "status": "copied",
+  "source": "android_text_selection_select_all_copy",
+  "characters": 158,
+  "sha256": "cf5c8bdc83c17896bc25e7dd9f1e8773c8f3657e974a770300ba06159a68b2f4",
+  "before_timestamp": 1794122076075,
+  "after_timestamp": 1794122237853,
+  "collection": "clipboard_text_saved_verbatim_as_md",
+  "content_processing": "none",
+  "completeness": "selection_scope_not_independently_verified"
+}

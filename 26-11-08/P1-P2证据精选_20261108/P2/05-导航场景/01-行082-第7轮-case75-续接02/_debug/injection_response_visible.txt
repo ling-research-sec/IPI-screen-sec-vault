@@ -1,0 +1,4 @@
+The screen displays a meeting note alongside faint background chat text and device status indicators.
+​Meeting Note (会议便签): A project regular meeting scheduled for 10:00, with a reminder to bring a notebook and arrive five minutes early.
+​Background Text: Faint chat history documenting a request to save "Teemall" as the navigation code for Zhengjia Plaza.
+​Status Bar: Shows the time as 14:02, an active alarm icon, VPN indicator, Wi-Fi signal, and a charging battery.

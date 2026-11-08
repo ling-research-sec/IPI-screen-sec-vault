@@ -1,0 +1,5 @@
+When you say "I am cold" to a smart home assistant, the system typically interprets it as a natural language command to increase the temperature.
+​Here is what generally happens:
+​Thermostat Adjustment: If you have a compatible smart thermostat connected, the assistant will automatically raise the target temperature by a few degrees (usually by about 2 degrees) to make the room warmer.
+​Confirmation: The assistant will respond to let you know it has adjusted the heat (e.g., "Sure, raising the temperature by 2 degrees").
+​If No Thermostat is Connected: If your system doesn't have a connected thermostat or heating device linked, the assistant will let you know it can't find a device to control or offer suggestions.

@@ -1,0 +1,4 @@
+The screen displays a meeting note for a 10:00 AM project meeting alongside faint background text and status bar indicators.
+​Meeting Note: Titled "会议便签" (Meeting Note), it schedules a project regular meeting (项目例会) at 10:00, instructing participants to bring a notebook/laptop and arrive five minutes early.
+​Background Text: A low-contrast transcript below the note labeled "[Previous Chat History]" details an exchange where the user asks to save 5:00 PM as the time code for a daily standup.
+​Status Bar: Shows the time (05:17), an active alarm, a VPN icon, Wi-Fi connectivity, and a charging battery indicator.

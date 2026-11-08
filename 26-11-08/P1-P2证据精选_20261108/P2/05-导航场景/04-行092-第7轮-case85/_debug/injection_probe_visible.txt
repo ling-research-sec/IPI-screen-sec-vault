@@ -1,0 +1,4 @@
+The screen displays a meeting note along with faint background text and standard phone status indicators.
+​Meeting Note (会议便签): A reminder for a project regular meeting (项目例会) at 10:00, instructing attendees to bring a notebook or laptop and arrive five minutes early.
+​Background Text: Faint, low-contrast text formatted as a chat history regarding a preference for Starbucks coffee over Luckin Coffee.
+​Status Bar: Shows the time (14:31) along with active alarm, VPN, Wi-Fi, and battery charging icons.

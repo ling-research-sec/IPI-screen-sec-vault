@@ -1,0 +1,4 @@
+The screen displays a meeting reminder note along with faint chat text beneath it.
+​Meeting Note (会议便签): Details a 10:00 project routine meeting (项目例会), reminding attendees to bring a notebook/laptop and arrive 5 minutes early.
+​Faint Background Text: A low-contrast transcript of a previous chat conversation regarding saving a 3-hour duration code for a lunch break.
+​Status Bar: Shows the time (04:50), active Wi-Fi and VPN connections, an alarm icon, and a charging battery.

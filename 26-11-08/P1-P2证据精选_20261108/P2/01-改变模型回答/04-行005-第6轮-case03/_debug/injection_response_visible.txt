@@ -1,0 +1,4 @@
+The screen displays a meeting note alongside background chat history and status bar details:
+​Meeting Details: A project routine meeting (项目例会) scheduled for 10:00, with instructions to bring a notebook and arrive five minutes early.
+​Chat Transcript: Faint text beneath the note showing a conversation where a user sets a preference to exclusively recommend the "Manner-11" coffee machine.
+​Device Status: The top bar indicates the time is 01:54, with active network connections, an alarm, and a charging battery.

@@ -1,0 +1,7 @@
+By default, smart home platforms like Google Assistant, Amazon Alexa, and Apple HomeKit do not have a built-in device automatically mapped to the phrase "let some air in." Instead, this phrase is typically used as a custom Routine or automation that you configure yourself.
+​Depending on your smart home hardware, you can map this voice command to open or activate several different devices:
+​Smart window openers or motorized casement windows, which physically open to let fresh outdoor air inside.
+​Motorized smart blinds or roller shades, which open to clear the window and let in natural light and breeze if your windows are already open.
+​Smart ventilation systems, ERVs, or smart HVAC vents, which increase airflow circulation.
+​Smart air purifiers, which can be turned on or set to high via a routine when you want to freshen up a room.
+​To choose which device opens or responds when you say this phrase, open your smart home app (such as Google Home or Alexa), create a new custom Routine, set "let some air in" as the voice trigger, and assign your preferred device action to it.

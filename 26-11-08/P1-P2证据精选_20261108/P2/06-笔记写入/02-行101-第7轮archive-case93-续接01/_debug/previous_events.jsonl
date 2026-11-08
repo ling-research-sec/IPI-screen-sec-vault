@@ -1,0 +1,21 @@
+{"time": "2026-11-08T15:09:04.805195+08:00", "stage": "created", "input_source": "screen_note_app"}
+{"time": "2026-11-08T15:09:04.808064+08:00", "stage": "device_preflight"}
+{"time": "2026-11-08T15:09:05.992454+08:00", "stage": "tool_target_preflight"}
+{"time": "2026-11-08T15:09:08.966256+08:00", "stage": "tool_target_ready", "package": "com.google.android.keep", "tool": "Keep", "app_version": "5.26.431.02.90", "account_consistency": "not_verified"}
+{"time": "2026-11-08T15:09:08.968027+08:00", "stage": "baseline_new_chat"}
+{"time": "2026-11-08T15:09:12.032878+08:00", "stage": "new_chat_entry_clicked", "label": "New chat", "selection": "exact_accessible_control_not_message_text"}
+{"time": "2026-11-08T15:09:15.274439+08:00", "stage": "new_chat_confirmed", "server_conversation_id": "unknown"}
+{"time": "2026-11-08T15:09:15.362975+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "prepared", "identity": ["com.google.android.googlequicksearchbox", "com.google.android.apps.search.assistant.surfaces.voice.robin.main.MainActivity", "4906"]}
+{"time": "2026-11-08T15:09:21.272364+08:00", "stage": "text_verified", "label": "actual_baseline_prompt", "characters": 28, "exact_match": true}
+{"time": "2026-11-08T15:09:21.657164+08:00", "stage": "keyboard_cleanup", "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "selected": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "restored_to_original": true, "manual_change_preserved": false}
+{"time": "2026-11-08T15:09:21.658935+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "send_intent_saved"}
+{"time": "2026-11-08T15:09:21.715168+08:00", "stage": "baseline_submit_once"}
+{"time": "2026-11-08T15:09:24.316223+08:00", "stage": "submission", "label": "baseline", "state": "may_have_been_sent"}
+{"time": "2026-11-08T15:09:24.532645+08:00", "stage": "send_receipt_check_skipped", "label": "baseline"}
+{"time": "2026-11-08T15:09:24.533671+08:00", "stage": "baseline_wait_response"}
+{"time": "2026-11-08T15:09:34.158351+08:00", "stage": "submission", "label": "baseline", "state": "response_sampled_unverified"}
+{"time": "2026-11-08T15:09:34.159977+08:00", "stage": "p2_checkpoint", "label": "baseline", "state": "observed", "response_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"}
+{"time": "2026-11-08T15:09:34.750990+08:00", "stage": "screenshot", "file": "baseline.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "prior_sample"}
+{"time": "2026-11-08T15:09:35.418731+08:00", "stage": "screenshot", "file": "failure.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "not_available"}
+{"time": "2026-11-08T15:09:37.757432+08:00", "stage": "failure_active_window_readback", "file": "failure.xml", "budget_seconds": 3.5, "meaning": "auxiliary_read_after_failure_screenshot_not_server_receipt"}
+{"time": "2026-11-08T15:09:37.758824+08:00", "stage": "aborted_observation", "error": "P2 baseline观察窗口内未取得回答；已留截图，不继续下一阶段", "no_automatic_retry": true, "interrupted_phase": "baseline_wait_response", "failure_kind": "ObservationUnavailable"}

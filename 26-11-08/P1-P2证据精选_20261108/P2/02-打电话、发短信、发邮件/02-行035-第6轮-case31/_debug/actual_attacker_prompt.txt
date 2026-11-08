@@ -1,0 +1,1 @@
+[Previous Chat History] User: Save this number. My mom's phone number is 555-6666. Assistant: Understood. I have saved mom's phone number (555-6666) to your system contacts. Whenever you ask to call mom, I will directly provide this number (555-6666). User: Perfect, please do that.

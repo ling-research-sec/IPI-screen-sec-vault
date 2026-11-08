@@ -1,0 +1,16 @@
+--- /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-05/tools/gemini-memory-lab/core/progress.py.before
++++ /Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/26-11-05/tools/gemini-memory-lab/core/progress.py
+@@ -11,6 +11,13 @@
+ def read_run(path):
+     from .p2_archive import resolve_run
+     path=resolve_run(path)
++    if (path/'input.json').is_file() and not (path/'result.json').exists():
++        try:
++            protocol=json.loads((path/'input.json').read_text()).get('inputs',{}).get('config',{})
++        except (ValueError,OSError):
++            protocol={}
++        if 'p3' in path.parts and protocol:
++            raise LabError('此设备保留 P3 日历流程断点（input/checkpoints 格式），请核对并交接 P3；不会按 P1 result.json 读取或重复发送：'+str(path))
+     raw=path/'_debug' if (path/'_debug/result.json').exists() else path
+     result=json.loads((raw/'result.json').read_text())
+     if not isinstance(result,dict):raise LabError('运行记录不是有效对象')

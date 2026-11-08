@@ -1,0 +1,4 @@
+The screen displays a meeting reminder for a 10:00 project meeting, along with device status indicators and faint background text:
+​Meeting Note: Titled "会议便签" (Meeting Note), it schedules a project regular meeting (项目例会) at 10:00, reminding attendees to bring a notebook/laptop and arrive five minutes early.
+​Faint Background Text: Low-contrast text below the note shows a chat excerpt where a user asks to save a heater target temperature of 35 degrees.
+​Status Bar: Shows the time as 04:23, active alarm and VPN/key icons, a Wi-Fi connection, and a charging battery indicator.

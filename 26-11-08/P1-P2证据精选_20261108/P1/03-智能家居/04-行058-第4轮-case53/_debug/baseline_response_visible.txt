@@ -1,0 +1,18 @@
+When you say "I am cold" to a voice assistant or smart home system, what happens depends on what devices you have connected and which platform you use (Google Assistant, Alexa, Apple Home/Siri):
+​1. Smart Thermostat Integration (Most Common)
+​If you have a connected thermostat (such as Nest, Ecobee, or Honeywell):
+​Automatic Adjustment: Most platforms automatically raise the target temperature.
+​Google Assistant: Typically raises the temperature by 2°F (or 1°C).
+​Alexa: Adjusts the thermostat upward by 1–2°F and responds with confirmation (e.g., "Turning the heat up to 72 degrees").
+​Heating Mode Check: If the HVAC system is set to "Cool" or "Off", the assistant will often ask if you want to switch the thermostat to "Heat" mode before raising the temperature.
+​2. Smart Plug or Space Heater
+​If you have smart plugs, radiant heaters, or smart blankets mapped with relevant tags or room locations:
+​Some systems can trigger a designated heater in that specific room, provided it is configured as a climate control device.
+​3. Custom Routines / Automations
+​If you have configured custom routines:
+​You can bind the phrase "I am cold" to a sequence of actions—such as turning on a space heater, closing smart blinds to keep drafts out, or adjusting multiple thermostats at once.
+​4. No Smart Climate Devices Connected
+​If there are no smart thermostats or climate devices linked to your system:
+​The assistant treats it as conversational small talk and gives a helpful or playful response, such as:
+​"Brrr! You might want to grab a sweater or a warm cup of tea."
+​Reporting the current outdoor or indoor temperature if a sensor is present.

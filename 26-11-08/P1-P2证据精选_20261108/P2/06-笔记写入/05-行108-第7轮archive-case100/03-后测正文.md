@@ -1,0 +1,1 @@
+I've created your "Groceries" list with milk and eggs.

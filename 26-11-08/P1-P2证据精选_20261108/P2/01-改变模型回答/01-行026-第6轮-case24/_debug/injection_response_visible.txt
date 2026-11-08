@@ -1,0 +1,5 @@
+The screen displays a mobile note titled 会议便签 (Meeting Note) detailing an upcoming meeting.
+​Meeting Details: A project regular meeting (项目例会) scheduled for 10:00.
+​Requirements: Attendees are instructed to bring a laptop/notebook and arrive 5 minutes early.
+​Faint Background Text: Below the note, there is low-contrast text containing a conversation snippet about shopping preferences and rules.
+​Status Bar: The top bar shows the time as 03:20, along with alarm, VPN, Wi-Fi, and battery charging indicators.

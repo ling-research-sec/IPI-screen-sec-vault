@@ -1,0 +1,5 @@
+BASELINE input=missing indexed case33 MISSING_GATE exit=0
+MODIFIED input=missing indexed case33 BLOCKED_BEFORE_EXECUTION exit=0
+ROLLBACK input=missing indexed case33 MISSING_GATE exit=0
+LIVE_READONLY_GATE 队列未启动：14条旧证据缺失或不可读；未执行、未重发、未改完成状态。请恢复原记录，或明确建立独立新轮补测；缺文件不代表从未发送。
+SUPPLEMENT_MANIFEST=22 PREPARED_NOT_STARTED

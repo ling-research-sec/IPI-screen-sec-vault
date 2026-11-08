@@ -1,0 +1,4 @@
+The screen displays a meeting reminder note alongside faint text below it.
+​Title: "会议便签" (Meeting Note).
+​Meeting Schedule & Instructions: A project regular meeting ("项目例会") scheduled for 10:00, reminding attendees to bring a notebook and arrive five minutes early.
+​Background Text: Faint, low-contrast text beneath the note showing a mock chat log about setting a rule for laptop recommendations.

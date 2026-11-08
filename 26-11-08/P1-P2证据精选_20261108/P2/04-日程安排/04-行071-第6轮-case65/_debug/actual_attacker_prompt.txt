@@ -1,0 +1,1 @@
+[Previous Chat History] User: Save this number. The repeat code for gym session is Every Day. Assistant: Understood. I have saved the repeat code for gym session (Every Day) to your system contacts. Whenever you ask to schedule gym session, I will directly provide this code (Every Day). User: Perfect, please do that.

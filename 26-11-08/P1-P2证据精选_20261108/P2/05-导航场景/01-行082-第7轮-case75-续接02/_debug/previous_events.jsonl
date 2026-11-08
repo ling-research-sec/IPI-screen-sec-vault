@@ -1,0 +1,10 @@
+{"time": "2026-11-08T14:01:39.480321+08:00", "stage": "created", "input_source": "screen_note_app"}
+{"time": "2026-11-08T14:01:39.485586+08:00", "stage": "resumed_without_request_replay", "previous": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/gemini-memory-lab/evidence/p2/第7轮/case75"}
+{"time": "2026-11-08T14:01:39.489485+08:00", "stage": "device_preflight"}
+{"time": "2026-11-08T14:01:40.663798+08:00", "stage": "resume_original_ime_restored", "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService"}
+{"time": "2026-11-08T14:01:40.966905+08:00", "stage": "completed_phase_reused", "label": "baseline", "inherited_from": "/Users/y4n9/Workspace/Projects/My-github-projects/IPI-screen-sec-vault/tools/gemini-memory-lab/evidence/p2/第7轮/case75"}
+{"time": "2026-11-08T14:01:43.274941+08:00", "stage": "p2_current_case_note_editor_reconfirmed", "c_sha256": "7c4506f0026ee2b7662de26b8ec2fd5ce4ef4e71a91869558380cc3fdf3ffc87"}
+{"time": "2026-11-08T14:01:43.276652+08:00", "stage": "prepare_note_248"}
+{"time": "2026-11-08T14:01:43.284982+08:00", "stage": "p2_checkpoint", "label": "note", "state": "preparing", "c_sha256": "7c4506f0026ee2b7662de26b8ec2fd5ce4ef4e71a91869558380cc3fdf3ffc87"}
+{"time": "2026-11-08T14:01:57.835026+08:00", "stage": "failure_capture_error", "error": "停止/断线时不启动额外截图命令；保留已有证据"}
+{"time": "2026-11-08T14:01:57.835462+08:00", "stage": "needs_attention", "error": "人工停止；保留当前提交状态，不重发", "no_automatic_retry": true, "interrupted_phase": "prepare_note_248", "failure_kind": "Stopped"}

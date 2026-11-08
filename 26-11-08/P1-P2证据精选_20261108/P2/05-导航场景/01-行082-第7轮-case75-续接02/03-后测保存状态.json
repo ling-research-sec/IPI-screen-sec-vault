@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "status": "complete",
+  "attempt_created": "2026-11-08T14:02:04.502162+08:00",
+  "request_confirmed": true,
+  "reply_end_confirmed": true,
+  "copy_status": "copied",
+  "text_coverage": "observed_reply_text_in_native_copy",
+  "screenshot_coverage": "top_to_end",
+  "screenshots": [
+    {
+      "image": "post_page_001.png",
+      "xml": "post_page_001.xml",
+      "sha256": "8d3e7adba62050e7274eb317a3f229a94743622f865c349b445c1d8307e1016b"
+    },
+    {
+      "image": "post_page_002.png",
+      "xml": "post_page_002.xml",
+      "sha256": "80f4992b6d0eb1ef2fc528a9e571243acf2ce331edd53efe49337e58f4307666"
+    }
+  ],
+  "failure_reason": null,
+  "source": "xlsx_D",
+  "model_resubmissions": 0,
+  "last_read_error": "D观察窗口不属于Gemini",
+  "copy_footer_snapshot": "post_copy_ready_01bcca93",
+  "copy_source": "native_Gemini_copy_button",
+  "completeness_basis": "D identity + ended reply + clipboard/UI text comparison + top-to-end original screenshots; server message not independently inspected",
+  "pages": 2,
+  "elapsed_seconds": 41.883
+}

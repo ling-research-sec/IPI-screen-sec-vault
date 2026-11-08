@@ -1,0 +1,23 @@
+P1 migration repair 2026-11-08
+Changed field: core/progress.py read_run recognizes P3 input/checkpoints format and raises actionable LabError instead of FileNotFoundError. No synthetic P1 result or submission reset.
+MODIFIED_FILE: MODIFIED_FILE.py (copy of deployed core/progress.py)
+DIFF_FILE: DIFF_FILE.patch
+VERIFICATION: VERIFICATION.txt
+ROLLBACK: ROLLBACK.sh (only disposable core directory; does not undo administrative handoff)
+Command: PYTHONDONTWRITEBYTECODE=1 26-11-05/tools/gemini-memory-lab/.venv/bin/python 26-11-08/p1-migration-repair/verify.py
+Input: temporary P3 attempt with input.json and no result.json.
+BASELINE input=P3 input/checkpoints without result.json output=FileNotFoundError exit=0
+MODIFIED input=P3 input/checkpoints without result.json output=LabError exit=0
+ROLLBACK input=P3 input/checkpoints without result.json output=FileNotFoundError exit=0
+OLD_PATH_TARGET True
+EVIDENCE_UNCHANGED 18284
+
+BASELINE and MODIFIED and ROLLBACK process exit=0; exception type is the printed observed result, not a successful collection.
+Rollback actual command: ROLLBACK.sh <temporary-core-directory>
+Literal output: RESTORED original progress reader; administrative handoff and evidence unchanged
+Exit=0; restored bytes equal original.py, original missing-result behavior restored on disposable copy. Deployed source remains patched.
+P1 command: python -m unittest discover -s 26-11-05/tools/gemini-memory-lab/tests -p test_p1*.py
+Result: Ran 76 tests in 10.084s; OK; exit=0.
+Compatibility: tools/gemini-memory-lab -> ../26-11-05/tools/gemini-memory-lab. Original empty skeleton retained under old-path-skeleton. No evidence strings rewritten.
+P3: suspended by explicit operator handoff receipt; original journal remains interrupted, D may_have_been_sent. No calendar deletion or model submission.
+P1 GUI restarted. Phone currently not in identified original P1 posttest conversation; supplementary execution NOT started to avoid duplicate external actions. Next required: recover original conversation for Case65, or explicit independently recorded new trial policy.

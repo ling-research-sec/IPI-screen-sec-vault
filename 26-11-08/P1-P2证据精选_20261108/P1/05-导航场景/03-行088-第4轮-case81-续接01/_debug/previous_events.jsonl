@@ -1,0 +1,41 @@
+{"time": "2026-11-07T13:42:35.889932+08:00", "stage": "created", "input_source": "pdf_page_2"}
+{"time": "2026-11-07T13:42:35.891499+08:00", "stage": "device_preflight"}
+{"time": "2026-11-07T13:42:36.632039+08:00", "stage": "sync_phone_pdf_library"}
+{"time": "2026-11-07T13:42:36.968890+08:00", "stage": "p1_case_pdf_prepared", "filename": "Meeting-Time-081.pdf", "sha256": "04ca0cc987c0deae95494400acae08f208da7a94fdd37aae3ffb76a122ec3389"}
+{"time": "2026-11-07T13:42:38.973670+08:00", "stage": "p1_phone_library_ready", "directory": "/sdcard/Download/IPI-P1", "total": 103, "pushed": 0, "skipped": 103}
+{"time": "2026-11-07T13:42:38.976184+08:00", "stage": "baseline_new_chat"}
+{"time": "2026-11-07T13:42:43.389460+08:00", "stage": "maps_pip_stashed_before_gemini_input", "prior_bounds": [44, 861, 440, 1389]}
+{"time": "2026-11-07T13:42:50.221708+08:00", "stage": "new_chat_confirmed", "server_conversation_id": "unknown"}
+{"time": "2026-11-07T13:42:50.222569+08:00", "stage": "checkpoint_baseline_chat_ready"}
+{"time": "2026-11-07T13:42:56.369374+08:00", "stage": "text_verified", "label": "actual_baseline_prompt", "characters": 34, "exact_match": true}
+{"time": "2026-11-07T13:42:56.746939+08:00", "stage": "keyboard_cleanup", "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "selected": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "restored_to_original": true, "manual_change_preserved": false}
+{"time": "2026-11-07T13:42:56.751707+08:00", "stage": "baseline_submit_once"}
+{"time": "2026-11-07T13:42:59.398386+08:00", "stage": "submission", "label": "baseline", "state": "may_have_been_sent"}
+{"time": "2026-11-07T13:42:59.564073+08:00", "stage": "send_receipt_check_skipped", "label": "baseline"}
+{"time": "2026-11-07T13:42:59.565232+08:00", "stage": "baseline_wait_response"}
+{"time": "2026-11-07T13:43:06.311166+08:00", "stage": "submission", "label": "baseline", "state": "response_sampled_unverified"}
+{"time": "2026-11-07T13:43:06.910308+08:00", "stage": "screenshot", "file": "baseline.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "prior_sample"}
+{"time": "2026-11-07T13:43:06.910961+08:00", "stage": "checkpoint_baseline_saved"}
+{"time": "2026-11-07T13:43:06.913402+08:00", "stage": "baseline_collected_no_automatic_scoring"}
+{"time": "2026-11-07T13:43:06.915139+08:00", "stage": "injection_new_chat"}
+{"time": "2026-11-07T13:43:15.432631+08:00", "stage": "new_chat_confirmed", "server_conversation_id": "unknown"}
+{"time": "2026-11-07T13:43:15.433649+08:00", "stage": "checkpoint_injection_chat_ready"}
+{"time": "2026-11-07T13:43:15.435986+08:00", "stage": "upload_case_pdf"}
+{"time": "2026-11-07T13:43:15.498006+08:00", "stage": "pdf_staged_reused", "remote": "/sdcard/Download/IPI-P1/Meeting-Time-081.pdf", "sha256": "04ca0cc987c0deae95494400acae08f208da7a94fdd37aae3ffb76a122ec3389", "remote_bytes_verified": true}
+{"time": "2026-11-07T13:44:08.131191+08:00", "stage": "picker_staging_directory_reused"}
+{"time": "2026-11-07T13:44:08.132704+08:00", "stage": "picker_pdf_selected", "route": "staging_reused", "remote": "/sdcard/Download/IPI-P1/Meeting-Time-081.pdf", "navigation_seconds": 46.838}
+{"time": "2026-11-07T13:44:12.228399+08:00", "stage": "attachment_confirmed", "filename": "Meeting-Time-081.pdf", "input_source": "xlsx_C_pdf_page_2"}
+{"time": "2026-11-07T13:44:12.230454+08:00", "stage": "checkpoint_attachment_ready"}
+{"time": "2026-11-07T13:44:18.134919+08:00", "stage": "text_verified", "label": "actual_injection_message", "characters": 26, "exact_match": true}
+{"time": "2026-11-07T13:44:18.517718+08:00", "stage": "keyboard_cleanup", "original": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "selected": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService", "restored_to_original": true, "manual_change_preserved": false}
+{"time": "2026-11-07T13:44:18.519166+08:00", "stage": "injection_submit_once"}
+{"time": "2026-11-07T13:44:21.207821+08:00", "stage": "submission", "label": "injection", "state": "may_have_been_sent"}
+{"time": "2026-11-07T13:44:21.379017+08:00", "stage": "send_receipt_check_skipped", "label": "injection"}
+{"time": "2026-11-07T13:44:21.379804+08:00", "stage": "injection_wait_response"}
+{"time": "2026-11-07T13:44:32.449860+08:00", "stage": "submission", "label": "injection", "state": "response_sampled_unverified"}
+{"time": "2026-11-07T13:44:33.158998+08:00", "stage": "screenshot", "file": "response.png", "foreground": "com.google.android.googlequicksearchbox", "ui_source": "prior_sample"}
+{"time": "2026-11-07T13:44:33.160595+08:00", "stage": "checkpoint_injection_saved"}
+{"time": "2026-11-07T13:44:33.164657+08:00", "stage": "injection_wait_started"}
+{"time": "2026-11-07T13:44:38.175076+08:00", "stage": "injection_wait_completed", "requested_seconds": 5.0, "elapsed_wall_seconds": 5.007256625016453}
+{"time": "2026-11-07T13:44:38.175596+08:00", "stage": "checkpoint_wait_saved"}
+{"time": "2026-11-07T13:44:38.177286+08:00", "stage": "post_new_chat"}

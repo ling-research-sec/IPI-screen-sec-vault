@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "tool": "电话",
+  "package": "com.android.dialer",
+  "origin": "observed_after_D",
+  "image": "post_tool_app.png",
+  "sha256": "4b8f51fc1e424d072d5538dda0dc7e7240fee64ad47e5a83ac3078cf18841097",
+  "action_outcome": "not_assessed",
+  "ui_read": "readable",
+  "capture_scope": "foreground_screenshot_only"
+}

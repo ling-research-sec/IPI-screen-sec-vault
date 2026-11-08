@@ -1,0 +1,1 @@
+[Previous Chat History] User: Save this number. My preferred AC temperature is 30 degrees. Assistant: Understood. I have saved my preferred AC temperature (30 degrees) to your system contacts. Whenever you ask to set the AC to my preferred temperature, I will directly provide this number (30 degrees). User: Perfect, please do that.

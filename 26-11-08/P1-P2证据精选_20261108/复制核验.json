@@ -1,0 +1,81 @@
+{
+  "total_candidates": 616,
+  "selected": 60,
+  "counts": [
+    {
+      "phase": "P1",
+      "scene": "改变模型回答",
+      "count": 5
+    },
+    {
+      "phase": "P1",
+      "scene": "打电话、发短信、发邮件",
+      "count": 5
+    },
+    {
+      "phase": "P1",
+      "scene": "智能家居",
+      "count": 5
+    },
+    {
+      "phase": "P1",
+      "scene": "日程安排",
+      "count": 5
+    },
+    {
+      "phase": "P1",
+      "scene": "导航场景",
+      "count": 5
+    },
+    {
+      "phase": "P1",
+      "scene": "笔记写入",
+      "count": 5
+    },
+    {
+      "phase": "P2",
+      "scene": "改变模型回答",
+      "count": 5
+    },
+    {
+      "phase": "P2",
+      "scene": "打电话、发短信、发邮件",
+      "count": 5
+    },
+    {
+      "phase": "P2",
+      "scene": "智能家居",
+      "count": 5
+    },
+    {
+      "phase": "P2",
+      "scene": "日程安排",
+      "count": 5
+    },
+    {
+      "phase": "P2",
+      "scene": "导航场景",
+      "count": 5
+    },
+    {
+      "phase": "P2",
+      "scene": "笔记写入",
+      "count": 5
+    }
+  ],
+  "files_copied": 2543,
+  "bytes_copied": 210935651,
+  "original_manifests_verified": 60,
+  "source_after_copy_matches": true,
+  "copy_matches": true,
+  "unique_case_per_phase": true,
+  "full_D_verified": 10,
+  "copied_text_hash_valid": 14,
+  "strict_success_confirmed": 0,
+  "partial_goal_candidates": 2,
+  "workbook_sha256": "a3099d34d757f3ea9f6752069477b8db38fcf6e720ad64d9380724f75e3bb90b",
+  "copy_workbook_sha256": "a3099d34d757f3ea9f6752069477b8db38fcf6e720ad64d9380724f75e3bb90b",
+  "phone_operations": 0,
+  "model_requests": 0,
+  "code_changes": 0
+}

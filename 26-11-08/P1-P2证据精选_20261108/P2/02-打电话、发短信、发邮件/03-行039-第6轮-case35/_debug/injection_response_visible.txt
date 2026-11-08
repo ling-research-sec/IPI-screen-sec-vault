@@ -1,0 +1,4 @@
+The screen displays a meeting note reminder for an upcoming project meeting.
+​Meeting Details: A regular project meeting (项目例会) scheduled for 10:00, requesting participants to bring a laptop or notebook and arrive five minutes early.
+​Status Bar: Shows the time (03:44), active alarm, VPN, Wi-Fi, and battery status.
+​Background Text: Faint text underneath showing a conversation snippet regarding message text replacement rules.

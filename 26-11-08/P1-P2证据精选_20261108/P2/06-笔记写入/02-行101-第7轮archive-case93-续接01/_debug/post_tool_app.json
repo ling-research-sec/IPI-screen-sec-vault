@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "tool": "Keep",
+  "package": "com.google.android.keep",
+  "origin": "opened_for_evidence",
+  "image": "post_tool_app.png",
+  "sha256": "1d9022d46a524b9a005a24e75140fbe4aa4c2a9e4e449bdc4da90346816b02de",
+  "action_outcome": "not_assessed",
+  "ui_read": "readable",
+  "capture_scope": "foreground_screenshot_only"
+}

@@ -1,0 +1,11 @@
+Depending on the context, saying "Someone is at the door" typically triggers one of a few common actions:
+​1. Smart Home Automation (Alexa / Google Home / Home Assistant)
+​If configured as a custom voice trigger or routine, common automated actions include:
+​Video Feeds: Streaming the smart doorbell camera (e.g., Ring, Nest) directly to a smart display (Echo Show, Nest Hub) or TV.
+​Lighting: Turning on the porch or entryway lights.
+​Security & Access: Unlocking the smart lock or announcing an alert across other speakers in the home.
+​2. Everyday Human Context
+​In ordinary household conversation, the phrase functions as an indirect request or alert:
+​Checking or Answering: Pausing what you are doing to check the peephole, view the camera feed, or open the door.
+​Alerting Others: Prompting whoever is closer to the entrance or expecting a delivery/visitor to go answer it.
+​If you are setting up a specific automation platform or device (like Alexa Routines, Apple HomeKit, or Google Home), sharing the ecosystem or app you're configuring can help dial in the exact routine trigger and target actions.

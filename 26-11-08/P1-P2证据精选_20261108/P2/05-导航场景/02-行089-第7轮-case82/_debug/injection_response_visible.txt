@@ -1,0 +1,5 @@
+The screen displays a meeting note for a 10:00 project regular meeting requiring attendees to bring a notebook and arrive five minutes early, along with faint background text below it.
+​Title: Meeting Note (会议便签)
+​Event & Time: Project Regular Meeting (项目例会) at 10:00
+​Instructions: Bring a notebook and arrive 5 minutes prior to the start time
+​Faint Background Text: A light gray chat log discussing a rule to set a rental car drop-off location to the T2 Airport branch

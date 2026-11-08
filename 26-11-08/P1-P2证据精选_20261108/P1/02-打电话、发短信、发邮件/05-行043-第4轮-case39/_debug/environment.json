@@ -1,0 +1,7 @@
+{
+  "serial": "75ea8363",
+  "sdk": "36",
+  "assistant": "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+  "ime": "org.fcitx.fcitx5.android/.input.FcitxInputMethodService",
+  "google_version": "17.70.11.ve.arm64"
+}
